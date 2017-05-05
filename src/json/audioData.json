@@ -1,0 +1,96 @@
+{
+  "brisco": {
+    "brisco-fuckwith": {
+      "tags": ["brisco", "fuck", "impression"]
+    },
+    "brisco-hooked": {
+      "tags": ["brisco", "hooker", "impression"]
+    },
+    "brisco-hooker": {
+      "tags": ["brisco", "hooker", "impression"]
+    }
+  },
+  "bruce": {
+    "bruce-bulldog": {
+      "tags": ["bruce", "bulldog", "impression"]
+    },
+    "bruce-bullshit": {
+      "tags": ["bruce", "bullshit", "shit"]
+    },
+    "bruce-casket": {
+      "tags": ["bruce", "casket", "story"]
+    },
+    "bruce-ihaveneverseen": {
+      "tags": ["bruce", "shit", "story"]
+    },
+    "bruce-meltzerknows": {
+      "tags": ["bruce", "dirt-sheets", "meltzer"]
+    },
+    "bruce-rumors": {
+      "tags": ["bruce", "rumors-and-innuendo"] 
+    },
+    "bruce-rumors2": {
+      "tags": ["bruce", "bullshit", "rumors-and-innuendo", "shit"] 
+    },
+    "bruce-universityyeah": {
+      "tags": ["bruce", "story", "warrior"]
+    }
+  },
+  "conrad": {
+    "conrad-donttrythis": {
+      "tags": ["conrad"]
+    },
+    "conrad-hunter": {
+      "tags": ["conrad", "fuck", "hunter"]
+    },
+    "conrad-imfromhuntsville": {
+      "tags": ["alabama", "conrad"]
+    },
+    "conrad-rib1": {
+      "tags": ["conrad", "rib"]
+    },
+    "conrad-rumors": {
+      "tags": ["conrad", "rumors-and-innuendo"]
+    },
+    "conrad-rumors2": {
+      "tags": ["conrad", "rumors-and-innuendo"]
+    },
+    "conrad-rumors3": {
+      "tags": ["conrad", "rumors-and-innuendo"]
+    },
+    "conrad-rumors4": {
+      "tags": ["conrad", "rumors-and-innuendo"]
+    },
+    "conrad-rumors5": {
+      "tags": ["conrad", "rumors-and-innuendo"]
+    }
+  },
+  "jerry": {
+    "jerry-whocouldhatevince": {
+      "tags": ["impression", "jerry jarret", "vince"]
+    }
+  },
+  "jr": {
+    "jr-drdeath": {
+      "tags": ["doctor death", "impression", "jr"]
+    }
+  },
+  "savage": {
+    "savage-wintheminthering": {
+      "tags": ["impression", "savage"]
+    }
+  },
+  "vince": {
+    "vince-goddamniloveit": {
+      "tags": ["impression", "goddamn", "love", "vince"]
+    },
+    "vince-stopshittinginthebucket": {
+      "tags": ["impression", "shit", "vince"]
+    }
+  },
+  "warrior": {
+    "warrior-dextrucity": {
+      "tags": ["impression", "warriror"]
+    }
+  }
+}
