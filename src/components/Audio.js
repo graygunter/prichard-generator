@@ -10,8 +10,6 @@ class Audio extends Component {
 
     var audioData = this.props.audioData;
 
-    var charactersArray = audioData.characters;
-
     var audioArray = [];
 
 /*    for(var key in keysData)
@@ -30,7 +28,7 @@ class Audio extends Component {
     }
     return keysArray;
 */
-
+/*
     for(var i = 0; i < charactersArray.length; i++) {
 
       var character = charactersArray[i];
@@ -47,6 +45,17 @@ class Audio extends Component {
       }
 
     }
+*/
+
+  for(var character in audioData) {
+
+    for(var soundFile in character) {
+
+      console.log(soundFile);
+
+    }
+
+  }
 
     return audioArray;
 

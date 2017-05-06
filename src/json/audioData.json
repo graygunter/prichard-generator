@@ -1,16 +1,16 @@
 {
   "brisco": {
-    "brisco-fuckwith": {
-      "tags": ["brisco", "fuck", "impression"]
-    },
     "brisco-hooked": {
-      "tags": ["brisco", "hooker", "impression"]
-    },
-    "brisco-hooker": {
       "tags": ["brisco", "hooker", "impression"]
     }
   },
   "bruce": {
+    "brisco-briscofuck": {
+      "tags": ["brisco", "bruce", "fuck", "impression"]
+    },
+    "bruce-briscohooker": {
+      "tags": ["brisco", "bruce", "hooker", "impression", "story"]
+    },
     "bruce-bulldog": {
       "tags": ["bruce", "bulldog", "impression"]
     },
@@ -20,25 +20,40 @@
     "bruce-casket": {
       "tags": ["bruce", "casket", "story"]
     },
+    "bruce-dirtsheets": {
+      "tags": ["bruce", "dirt-sheets", "johnson", "keller", "meltzer"]
+    },
     "bruce-ihaveneverseen": {
       "tags": ["bruce", "shit", "story"]
+    },
+    "bruce-meltzerdisagree": {
+      "tags": ["bruce", "dirt-sheets", "meltzer"]
     },
     "bruce-meltzerknows": {
       "tags": ["bruce", "dirt-sheets", "meltzer"]
     },
+    "bruce-meltzerwebsie": {
+      "tags": ["bruce", "dirt-sheets", "meltzer"]
+    },
+    "bruce-mitchelljackoff": {
+      "tags": ["bruce", "dirt-sheets", "mitchell"]
+    },    
     "bruce-rumors": {
       "tags": ["bruce", "rumors-and-innuendo"] 
     },
     "bruce-rumors2": {
       "tags": ["bruce", "bullshit", "rumors-and-innuendo", "shit"] 
     },
-    "bruce-universityyeah": {
+    "bruce-warrioruniversityyeah": {
       "tags": ["bruce", "story", "warrior"]
     }
   },
   "conrad": {
     "conrad-donttrythis": {
       "tags": ["conrad"]
+    },
+    "conrad-donttrythis": {
+      "tags": ["conrad", "flair"]
     },
     "conrad-hunter": {
       "tags": ["conrad", "fuck", "hunter"]
