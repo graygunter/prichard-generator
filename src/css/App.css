@@ -1,29 +1,19 @@
-kbd {
+.virtual-keyboard .virtual-keyboard-keybutton-row {
   display: block;
-  font-size: 4rem;
-  pointer-events: none;
-}
-
-.key {
-  background: rgba(0,0,0,0.4);
-  border-radius: .5rem;
-  border: .4rem solid black;
-  color: white;
-  font-size: 1.5rem;
-  margin: 1rem;
-  padding: 1rem .5rem;
   text-align: center;
-  text-shadow: 0 0 .5rem black;
-  transition: all .07s ease;
-  width: 10rem;
-}
+  width: 100%; }
+  .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton {
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: .5rem;
+    border: .4rem solid black;
+    color: white;
+    display: inline-block;
+    font-size: 1.5rem;
+    margin: 5px;
+    padding: .5rem;
+    text-align: center;
+    text-shadow: 0 0 .5rem black;
+    transition: all .07s ease;
+    width: 2rem; }
 
-.sound {
-  pointer-events: none;
-}
-
-.playing {
-  border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
-  transform: scale(1.1);
-}
+/*# sourceMappingURL=App.css.map */

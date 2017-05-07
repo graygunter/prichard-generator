@@ -1,0 +1,27 @@
+.virtual-keyboard {
+
+	.virtual-keyboard-keybutton-row {
+
+		display: block;
+		text-align: center;
+		width: 100%;
+
+		.virtual-keyboard-keybutton {
+
+			background: rgba(0,0,0,0.4);
+			border-radius: .5rem;
+			border: .4rem solid black;
+			color: white;
+			display: inline-block;
+			font-size: 1.5rem;
+			margin: 5px;
+			padding: .5rem;
+			text-align: center;
+			text-shadow: 0 0 .5rem black;
+			transition: all .07s ease;
+			width: 2rem;
+		}
+
+	}
+
+}
