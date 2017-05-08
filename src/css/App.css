@@ -16,4 +16,26 @@
     transition: all .07s ease;
     width: 2rem; }
 
+.sound-palette {
+  background: red;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  width: 15%;
+  top: 0; }
+  .sound-palette .sound-tile {
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: .5rem;
+    box-sizing: border-box;
+    border: .4rem solid black;
+    color: white;
+    display: inline-block;
+    font-size: 1.5rem;
+    margin-right: 1%;
+    padding: .5rem;
+    text-align: center;
+    text-shadow: 0 0 .5rem black;
+    transition: all .07s ease;
+    width: 49%; }
+
 /*# sourceMappingURL=App.css.map */

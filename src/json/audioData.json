@@ -1,237 +1,310 @@
 {
-  "brisco": {
+  "brisco": [
+    {
     "brisco-hooked": {
       "tags": ["brisco", "hooker", "impression"]
-    }
-  },
-  "bruce": {
+    }}
+  ],
+  "bruce": [
+    {
     "brisco-briscofuck": {
       "tags": ["brisco", "bruce", "fuck", "impression"]
-    },
+    }},
+    {
     "bruce-briscohooker": {
       "tags": ["brisco", "bruce", "hooker", "impression", "story"]
-    },
+    }},
+    {
     "bruce-bulldog": {
       "tags": ["bruce", "bulldog", "impression"]
-    },
+    }},
+    {
     "bruce-bullshit": {
       "tags": ["bruce", "bullshit", "shit"]
-    },
+    }},
+    {
     "bruce-casket": {
       "tags": ["bruce", "casket", "story"]
-    },
+    }},
+    {
     "bruce-dirtsheets": {
       "tags": ["bruce", "dirt-sheets", "johnson", "keller", "meltzer"]
-    },
+    }},
+    {
     "bruce-idontknow": {
       "tags": ["bruce", "you-know"]
-    },
+    }},
+    {
     "bruce-ihaveneverseen": {
       "tags": ["bruce", "shit", "story"]
-    },
+    }},
+    {
     "bruce-ismokedalotofpot": {
       "tags": ["bruce", "drugs"]
-    },
+    }},
+    {
     "bruce-jerrydontcare": {
       "tags": ["bruce", "jerry"]
-    },
+    }},
+    {
     "bruce-jerryliar": {
       "tags": ["bruce", "jerry"]
-    },
+    }},
+    {
     "bruce-jerrylips": {
       "tags": ["bruce", "jerry"]
-    },
+    }},
+    {
     "bruce-jerryshitting": {
       "tags": ["bruce", "jerry", "shit"]
-    },
+    }},
+    {
     "bruce-kickedinthenuts": {
       "tags": ["bruce"]
-    },
+    }},
+    {
     "bruce-meltzerdisagree": {
       "tags": ["bruce", "dirt-sheets", "meltzer"]
-    },
+    }},
+    {
     "bruce-meltzerknows": {
       "tags": ["bruce", "dirt-sheets", "meltzer"]
-    },
+    }},
+    {
     "bruce-meltzerwebsie": {
       "tags": ["bruce", "dirt-sheets", "meltzer"]
-    },
+    }},
+    {
     "bruce-mitchelljackoff": {
       "tags": ["bruce", "dirt-sheets", "mitchell"]
-    },
+    }},
+    {
     "bruce-oneoftheonlytimes": {
       "tags": ["bruce", "bar"]
-    }, 
+    }},
+    {
     "bruce-onlythingididntdo": {
       "tags": ["bruce", "drugs"]
-    },   
+    }},
+    {   
     "bruce-rumors": {
       "tags": ["bruce", "rumors-and-innuendo"] 
-    },
+    }},
+    {
     "bruce-rumors2": {
       "tags": ["bruce", "bullshit", "rumors-and-innuendo", "shit"] 
-    },
+    }},
+    {
     "bruce-rumors3": {
       "tags": ["bruce", "bullshit", "rumors-and-innuendo", "shit"] 
-    },
+    }},
+    {
     "bruce-shittingsouth": {
       "tags": ["bruce", "shit"]
-    },
+    }},
+    {
     "bruce-stopaskingifiknow": {
       "tags": ["bruce", "you-know"]
-    },
+    }},
+    {
     "bruce-warrioruniversityyeah": {
       "tags": ["bruce", "story", "warrior"]
-    }
-  },
-  "conrad": {
+    }}
+  ],
+  "conrad": [
+    {
     "conrad-awkwardlysilent": {
       "tags": ["conrad"]
-    },
+    }},
+    {
     "conrad-donttrythis": {
       "tags": ["conrad"]
-    },
+    }},
+    {
     "conrad-doyourealize": {
       "tags": ["conrad", "impression"]
-    },
+    }},
+    {
     "conrad-flair": {
       "tags": ["conrad", "flair"]
-    },
+    }},
+    {
     "conrad-hatetweets": {
       "tags": ["conrad", "tweets"]
-    },
+    }},
+    {
     "conrad-hunter": {
       "tags": ["conrad", "fuck", "hunter"]
-    },
+    }},
+    {
     "conrad-imfromhuntsville": {
       "tags": ["alabama", "conrad"]
-    },
+    }},
+    {
     "conrad-isthattheonlydrug": {
       "tags": ["conrad", "drug"]
-    },
+    }},
+    {
     "conrad-jerrywemaynot": {
       "tags": ["conrad", "jerry"]
-    }, 
+    }},
+    {
     "conrad-jerrywhenareweever": {
       "tags": ["conrad", "jerry"]
-    }, 
+    }},
+    {
     "conrad-laughing": {
       "tags": ["conrad", "laughing"]
-    }, 
+    }},
+    {
     "conrad-poll": {
       "tags": ["conrad", "poll"]
-    },
+    }},
+    {
     "conrad-rib1": {
       "tags": ["conrad", "rib"]
-    },
+    }},
+    {
     "conrad-rumors": {
       "tags": ["conrad", "rumors-and-innuendo"]
-    },
+    }},
+    {
     "conrad-rumors2": {
       "tags": ["conrad", "rumors-and-innuendo"]
-    },
+    }},
+    {
     "conrad-rumors3": {
       "tags": ["conrad", "rumors-and-innuendo"]
-    },
+    }},
+    {
     "conrad-rumors4": {
       "tags": ["conrad", "rumors-and-innuendo"]
-    },
+    }},
+    {
     "conrad-rumors5": {
       "tags": ["conrad", "rumors-and-innuendo"]
-    },
+    }},
+    {
     "conrad-rumors6": {
       "tags": ["conrad", "rumors-and-innuendo"]
-    }
-  },
-  "jerry": {
+    }}
+  ],
+  "jerry": [
+    {
     "jerry-chicken": {
       "tags": ["chicken", "chicken-salad", "impression", "jerry"]
-    },
+    }},
+    {
     "jerry-chickensalad": {
       "tags": ["chicken-salad", "impression", "jerry"]
-    },
+    }},
+    {
     "jerry-hello": {
       "tags": ["impression", "jerry"]
-    },
+    }},
+    {
     "jerry-huh": {
       "tags": ["huh", "impression", "jerry"]
-    },
+    }},
+    {
     "jerry-huh2": {
       "tags": ["huh", "impression", "jerry"]
-    },
+    }},
+    {
     "jerry-idontknowanyone": {
       "tags": ["impression", "jerry"]
-    },
+    }},
+    {
     "jerry-mayonaise": {
       "tags": ["chicken-salad", "impression", "jerry", "mayonaise"]
-    },
+    }},
+    {
     "jerry-thisisjerry": {
       "tags": ["impression", "jerry"]
-    },
+    }},
+    {
     "jerry-timeforlunch": {
       "tags": ["impression", "jerry", "lunch"]
-    },
+    }},
+    {
      "jerry-uhhuh": {
       "tags": ["impression", "jerry"]
-    },
+    }},
+    {
     "jerry-walnuts": {
       "tags": ["chicken-salad", "impression", "jerry", "walnuts"]
-    },   
+    }},
+    {   
     "jerry-whocouldhatevince": {
       "tags": ["impression", "jerry", "vince"]
-    },
+    }},
+    {
     "jerry-youknow": {
       "tags": ["impression", "jerry", "you-know"]
-    },
+    }},
+    {
     "jerry-youknow2": {
       "tags": ["impression", "jerry", "you-know"]
-    },
+    }},
+    {
     "jerry-youknow3": {
       "tags": ["impression", "jerry", "you-know"]
-    },
+    }},
+    {
     "jerry-youknow4": {
       "tags": ["impression", "jerry", "you-know"]
-    },
+    }},
+    {
     "jerry-youknow5": {
       "tags": ["impression", "jerry", "you-know"]
-    },
+    }},
+    {
     "jerry-youknow5": {
       "tags": ["chicken-salad", "impression", "jerry", "you-know"]
-    }
-  },
-  "jr": {
+    }}
+  ],
+  "jr": [
+    {
     "jr-drdeath": {
       "tags": ["doctor death", "impression", "jr"]
-    }
-  },
-  "savage": {
+    }}
+  ],
+  "savage": [
+    {
     "savage-wintheminthering": {
       "tags": ["impression", "savage"]
-    }
-  },
-  "vince": {
+    }}
+  ]
+  "vince": [
+    {
     "vince-goddamniloveit": {
       "tags": ["goddamn", "impression", "vince"]
-    },
+    }},
+    {
     "vince-goddamnitwhatareyoulaughing": {
       "tags": ["goddamn", "impression", "vince"]
-    },
+    }},
+    {
     "vince-goddamnyoubruce": {
       "tags": ["goddamn", "impression", "vince"]
-    },
+    }},
+    {
     "vince-ratingsdamnit": {
       "tags": ["impression", "vince"]
-    },
+    }},
+    {
     "vince-stopshittinginthebucket": {
       "tags": ["impression", "shit", "vince"]
-    },
+    }},
+    {
     "vince-washyourhands": {
       "tags": ["impression", "vince"]
-    }
-  },
-  "warrior": {
+    }}
+  ],
+  "warrior": [
+    {
     "warrior-dextrucity": {
       "tags": ["impression", "warriror"]
-    }
-  }
+    }}
+  ]
 }

@@ -13,10 +13,14 @@ class SoundPalette extends Component {
 
     for(var tile in audioData)
     {
+      var tempObj = `${audioData[tile]}`;
+      console.log(tempObj);
 
       var newTile = (<SoundTile 
                                 key={"SoundTile-" + tile}
-                                name={tile}/>);
+                                name={tile}
+                                handleSoundTilePlay={this.props.handleSoundTilePlay}
+                                handleSoundTileRefresh={this.props.handleSoundTileRefresh}/>);
 
       tilesArray.push(newTile);
 
@@ -28,7 +32,7 @@ class SoundPalette extends Component {
 
   render() {
     return (
-      <div>
+      <div className="sound-palette">
         {this.generateSoundTiles()}
       </div>
     );

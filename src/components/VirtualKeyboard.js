@@ -12,7 +12,10 @@ class VirtualKeyboard extends Component {
   }
 
   buildKeybuttons(keybutton, j) {
-    return <Keybutton key={"keybutton" + j} keyValue={keybutton}/>
+    return <Keybutton 
+                      key={"keybutton" + j} 
+                      keybuttonValue={keybutton}
+                      soundFile=""/>
   }
 
   buildKeybuttonRow(keybuttonRow, i) {

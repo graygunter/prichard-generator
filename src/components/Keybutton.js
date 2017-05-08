@@ -5,7 +5,7 @@ class Keybutton extends Component {
   render() {
     return (
       <div className="virtual-keyboard-keybutton">
-        {this.props.keyValue}
+        {this.props.keybuttonValue}
       </div>
     );
   }
