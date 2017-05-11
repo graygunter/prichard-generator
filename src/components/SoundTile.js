@@ -3,24 +3,63 @@ import classNames from 'classnames';
 
 class SoundTile extends Component {
 
+  constructor() {
+
+    super();
+
+    this.getRandomSound = this.getRandomSound.bind(this);
+
+    this.state = {
+
+      file: undefined
+
+    }
+
+  }
+
+  getRandomSound() {
+
+    var randomSound = this.props.soundArray[this.props.randomNumber(this.props.soundArray.length)];
+    for (var soundName in randomSound)
+
+    this.setState({file : soundName});
+
+  }
+
   render() {
+
     return (
+
       <div 
-        className={classNames("sound-tile", this.props.name)}>
+        className={classNames("sound-tile", this.props.name)}
+        draggable="true"
+        onDragStart={() => this.props.handleSoundTileDrag(this.state.file)}
+        onDragEnd={() => this.props.handleSoundTileDragEnd}>
         <button 
                 className="sound-tile-play"
-                onClick={() => this.props.handleSoundTilePlay(this.props.file)}>play</button>
+                onClick={() => this.props.handleSoundTilePlay(this.state.file)}>
+                  <i className="fa fa-play" aria-hidden="true"></i>
+        </button>
         <button 
                 className="sound-tile-refresh"
-                onClick={() => this.props.handleSoundTileRefresh(this.props.name)}>refresh</button>
+                onClick={this.getRandomSound}>
+                  <i className="fa fa-refresh" aria-hidden="true"></i>
+        </button>
         <div className="title">{this.props.name}</div>
         <div className="icon"></div>
-        <div className="file">{this.props.file}</div>
+        <div className="file">{this.state.file}</div>
 
       </div>
     );
 
   }
+
+  componentDidMount() {
+
+    this.getRandomSound();
+
+  }
+
 }
 
 export default SoundTile;

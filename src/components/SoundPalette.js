@@ -5,22 +5,23 @@ class SoundPalette extends Component {
 
   generateSoundTiles() {
 
-    console.log("Generate keys!");
-
     var audioData = this.props.audioData;
 
     var tilesArray = [];
 
     for(var tile in audioData)
     {
-      var tempObj = `${audioData[tile]}`;
-      console.log(tempObj);
+
+      let soundArray = audioData[tile];
 
       var newTile = (<SoundTile 
+                                handleSoundTileDrag={this.props.handleSoundTileDrag}
+                                handleSoundTileDragEnd={this.props.handleSoundTileDragEnd}
+                                handleSoundTilePlay={this.props.handleSoundTilePlay}
                                 key={"SoundTile-" + tile}
                                 name={tile}
-                                handleSoundTilePlay={this.props.handleSoundTilePlay}
-                                handleSoundTileRefresh={this.props.handleSoundTileRefresh}/>);
+                                randomNumber={this.props.randomNumber}
+                                soundArray={soundArray}/>);
 
       tilesArray.push(newTile);
 

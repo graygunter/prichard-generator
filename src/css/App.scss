@@ -1,3 +1,9 @@
+@import 'reset';
+
+@import 'variables';
+
+@import 'mixins';
+
 .virtual-keyboard {
 
 	.virtual-keyboard-keybutton-row {
@@ -14,12 +20,13 @@
 			color: white;
 			display: inline-block;
 			font-size: 1.5rem;
+			height: 3rem;
 			margin: 5px;
 			padding: .5rem;
 			text-align: center;
 			text-shadow: 0 0 .5rem black;
 			transition: all .07s ease;
-			width: 2rem;
+			width: 3rem;
 		}
 
 	}
@@ -29,11 +36,13 @@
 .sound-palette {
 
 	background: red;
-	height: 100%;
+	box-sizing: border-box;
+	bottom: 0;
+	height: 15%;
 	left: 0;
+	padding: 10px;
 	position: absolute;
-	width: 15%;
-	top: 0;
+	width: 100%;
 
 	.sound-tile {
 
@@ -44,12 +53,38 @@
 		color: white;
 		display: inline-block;
 		font-size: 1.5rem;
+		height: 6rem;
 		margin-right: 1%;
-		padding: .5rem;
+		overflow: hidden;
+		padding: 1.5rem .25rem 0;
+		position: relative;
 		text-align: center;
 		text-shadow: 0 0 .5rem black;
 		transition: all .07s ease;
-		width: 49%;
+		width: 6rem;
+
+		.sound-tile-play, .sound-tile-refresh {
+
+			position: absolute;
+			top: 5px;
+
+		}
+
+		.sound-tile-play {
+
+			left: 5px;
+
+		}
+
+		.sound-tile-refresh {
+
+			right: 5px;
+
+		}
+
+		.file {
+			font-size: 10px;
+		}
 
 
 	}

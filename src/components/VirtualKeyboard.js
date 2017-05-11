@@ -8,14 +8,20 @@ class VirtualKeyboard extends Component {
     super();
 
     this.buildKeybuttonRow = this.buildKeybuttonRow.bind(this);
+    this.buildKeybuttons = this.buildKeybuttons.bind(this);
 
   }
 
   buildKeybuttons(keybutton, j) {
+    
     return <Keybutton 
+                      handleDragOver={this.props.handleDragOver}
+                      handleSoundTileDrop={this.props.handleSoundTileDrop}
+                      handleKeybuttonClick={this.props.handleKeybuttonClick}
+                      handleKeybuttonDragOver={this.props.handleKeybuttonDragOver}
                       key={"keybutton" + j} 
-                      keybuttonValue={keybutton}
-                      soundFile=""/>
+                      keybuttonValue={keybutton}/>
+
   }
 
   buildKeybuttonRow(keybuttonRow, i) {
