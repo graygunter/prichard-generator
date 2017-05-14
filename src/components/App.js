@@ -25,6 +25,8 @@ class App extends Component {
 
     this.playSound = this.playSound.bind(this);
 
+    this.playSoundFinish = this.playSoundFinish.bind(this);
+
     this.state = {
 
       url: "http://www.graybearllc.com/audio/",
@@ -36,33 +38,6 @@ class App extends Component {
       fileExtension: ".mp3",
 
       keybuttonAssignments: {
-
-        "A" : undefined,
-        "B" : undefined,
-        "C" : undefined,
-        "D" : undefined,
-        "E" : undefined,
-        "F" : undefined,
-        "G" : undefined,
-        "H" : undefined,
-        "I" : undefined,
-        "J" : undefined,
-        "K" : undefined,
-        "L" : undefined,
-        "M" : undefined,
-        "N" : undefined,
-        "O" : undefined,
-        "P" : undefined,
-        "Q" : undefined,
-        "R" : undefined,
-        "S" : undefined,
-        "T" : undefined,
-        "U" : undefined,
-        "V" : undefined,
-        "W" : undefined,
-        "X" : undefined,
-        "Y" : undefined,
-        "Z" : undefined
 
       }
 
@@ -84,16 +59,29 @@ class App extends Component {
 
   }
 
+  soundFile() {
+
+    return (
+
+      <Sound 
+            url={this.state.url + this.state.soundToPlay + this.state.fileExtension}
+            debugMode="false" 
+            playStatus="PLAYING" 
+            onFinishedPlaying={this.playSoundFinish}/>
+
+    )
+
+  }
+
+  playSoundFinish() {
+
+    console.log("playSoundFinish");
+    this.setState({"soundToPlay" : undefined});
+
+  }
+
   handleKeyboardPress(e) {
-/*
-    console.log("handleKeybuttonClick: " + keybuttonClicked);
 
-    if(this.state.keybuttonAssignments[keybuttonClicked] !== undefined) {
-
-      this.playSound(this.state.keybuttonAssignments[keybuttonClicked])
-
-    }
-*/
   }
 
   handleKeybuttonClick(keybuttonClicked) {
@@ -117,45 +105,42 @@ class App extends Component {
 
   handleSoundTileDrag(soundTileBeingDragged) {
 
-    console.log("handleSoundTileDrag: " + soundTileBeingDragged);
+    console.log("handleSoundTileDrag: " + soundTileBeingDragged.state.file);
 
-    this.setState({"soundTileBeingDragged" : soundTileBeingDragged});
+    this.setState({"soundTileBeingDragged" : soundTileBeingDragged.state.file});
+
+    //soundTileBeingDragged.addEventListener("dragend", this.handleSoundTileDragEnd);
 
   }
 
-  handleSoundTileDragEnd() {
+  handleSoundTileDragEnd(soundTile) {
+
+    console.log("handleSoundTileDragEnd ");
 
     this.setState({"soundTileBeingDragged" : undefined});
+    //this.setState({"soundToPlay" : undefined});
 
   }
 
   handleSoundTileDrop(keybuttonDroppedOn) {
 
-    console.log("handleSoundTileDrop: " + keybuttonDroppedOn);
+    console.log("handleSoundTileDrop: " + keybuttonDroppedOn.props.keybuttonValue);
 
     keybuttonDroppedOn.updateFile(this.state.soundTileBeingDragged);
 
     this.playSound(this.state.soundTileBeingDragged);
 
-    //console.log(this.state.soundTileBeingDragged);
+    let newKeybuttonAssignments = this.state.keybuttonAssignments;
+
+    newKeybuttonAssignments[keybuttonDroppedOn.props.keybuttonValue] = this.state.soundTileBeingDragged;
+
+    this.setState(newKeybuttonAssignments);
 
   } 
 
-  handleSoundTilePlay(e) {
+  handleSoundTilePlay(soundTileToPlay) {
 
-    this.playSound(e);
-
-  }
-
-  soundFile() {
-
-    return (
-
-      <Sound 
-            url={this.state.url + this.state.soundToPlay + this.state.fileExtension} 
-            playStatus="PLAYING" />
-
-    )
+    this.playSound(soundTileToPlay);
 
   }
 
@@ -175,6 +160,7 @@ class App extends Component {
         <SoundPalette 
                       audioData={audioData}
                       handleSoundTileDrag={this.handleSoundTileDrag}
+                      handleSoundTileDragEnd={this.handleSoundTileDragEnd}
                       handleSoundTilePlay={this.handleSoundTilePlay} 
                       handleSoundTileRefresh={this.handleSoundTileRefresh}
                       randomNumber={this.randomNumber}/>

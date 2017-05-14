@@ -33,8 +33,8 @@ class SoundTile extends Component {
       <div 
         className={classNames("sound-tile", this.props.name)}
         draggable="true"
-        onDragStart={() => this.props.handleSoundTileDrag(this.state.file)}
-        onDragEnd={() => this.props.handleSoundTileDragEnd}>
+        onDragStart={() => this.props.handleSoundTileDrag(this)}
+        onDragEnd={() => this.props.handleSoundTileDragEnd(this)}>
         <button 
                 className="sound-tile-play"
                 onClick={() => this.props.handleSoundTilePlay(this.state.file)}>
