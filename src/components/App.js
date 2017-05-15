@@ -13,6 +13,8 @@ class App extends Component {
 
     super();
 
+    this.handleKeyboardPress = this.handleKeyboardPress.bind(this);
+
     this.handleKeybuttonClick = this.handleKeybuttonClick.bind(this);
 
     this.handleSoundTileDrag = this.handleSoundTileDrag.bind(this);
@@ -42,6 +44,8 @@ class App extends Component {
       }
 
     }
+
+    window.addEventListener('keydown', this.handleKeyboardPress);
 
   }
 
@@ -81,6 +85,11 @@ class App extends Component {
   }
 
   handleKeyboardPress(e) {
+
+    let keyPressed = (e.key).toUpperCase();
+
+    if(this.state.keybuttonAssignments[keyPressed] !== undefined)
+      this.playSound(this.state.keybuttonAssignments[keyPressed])
 
   }
 
@@ -128,7 +137,7 @@ class App extends Component {
 
     keybuttonDroppedOn.updateFile(this.state.soundTileBeingDragged);
 
-    this.playSound(this.state.soundTileBeingDragged);
+    //this.playSound(this.state.soundTileBeingDragged);
 
     let newKeybuttonAssignments = this.state.keybuttonAssignments;
 
