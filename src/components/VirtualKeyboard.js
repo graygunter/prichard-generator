@@ -20,6 +20,7 @@ class VirtualKeyboard extends Component {
                       handleKeybuttonClick={this.props.handleKeybuttonClick}
                       handleKeybuttonDragOver={this.props.handleKeybuttonDragOver}
                       key={"keybutton" + j} 
+                      keybuttonFileRemoved={this.props.keybuttonFileRemoved}
                       keybuttonValue={keybutton}/>
 
   }

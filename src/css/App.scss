@@ -32,11 +32,22 @@
 
 				height: 100%;
 				padding-top: 10px;
+				position: relative;
 			
 				&.has-file {
 
 					background: red;
 					font-size: 10px;
+
+					.keybutton-background {
+
+						left: 0;
+						height: 100%;
+						position: absolute;
+						top: 0;
+						width: 100%;
+
+					}
 
 				}
 
@@ -44,6 +55,34 @@
 
 		}
 
+	}
+
+}
+
+.sound-queue {
+
+	background-color: #00fff6;
+	box-sizing: border-box;
+	height: 100%;
+	left: 0;
+	padding: 20px 20px 0;
+	position: absolute;
+	top: 0;
+	width: 300px;
+
+	.title {
+		font-size: 1.5rem;
+
+		span {
+			display: block;
+		}
+
+	}
+
+	button {
+		cursor: pointer;
+		padding: 10px 0;
+		width: 100%;
 	}
 
 }

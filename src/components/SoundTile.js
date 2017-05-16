@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import classNames from 'classnames';
 
-class SoundTile extends Component {
+class SoundPaletteTile extends Component {
 
   constructor() {
 
@@ -20,9 +20,14 @@ class SoundTile extends Component {
   getRandomSound() {
 
     var randomSound = this.props.soundArray[this.props.randomNumber(this.props.soundArray.length)];
-    for (var soundName in randomSound)
 
-    this.setState({file : soundName});
+    for (var soundName in randomSound) {
+
+      //soundName = soundName.substring(soundName.indexOf("-") + 1, soundName.length);
+
+      this.setState({file : soundName});
+    
+    }
 
   }
 
@@ -62,4 +67,4 @@ class SoundTile extends Component {
 
 }
 
-export default SoundTile;
+export default SoundPaletteTile;

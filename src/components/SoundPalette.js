@@ -3,22 +3,22 @@ import SoundTile from './SoundTile';
 
 class SoundPalette extends Component {
 
-  generateSoundTiles() {
+  generateSoundPaletteTiles() {
 
-    var audioData = this.props.audioData;
+    const audioData = this.props.audioData;
 
-    var tilesArray = [];
+    let tilesArray = [];
 
-    for(var tile in audioData)
+    for(let tile in audioData)
     {
 
       let soundArray = audioData[tile];
 
-      var newTile = (<SoundTile 
+      let newTile = (<SoundTile 
                                 handleSoundTileDrag={this.props.handleSoundTileDrag}
                                 handleSoundTileDragEnd={this.props.handleSoundTileDragEnd}
                                 handleSoundTilePlay={this.props.handleSoundTilePlay}
-                                key={"SoundTile-" + tile}
+                                key={"SoundPaletteTile-" + tile}
                                 name={tile}
                                 randomNumber={this.props.randomNumber}
                                 soundArray={soundArray}/>);
@@ -34,7 +34,7 @@ class SoundPalette extends Component {
   render() {
     return (
       <div className="sound-palette">
-        {this.generateSoundTiles()}
+        {this.generateSoundPaletteTiles()}
       </div>
     );
   }

@@ -4,6 +4,7 @@ import audioData from '../json/audioData.json';
 import keyboardData from '../json/keyboardData.json';
 import VirtualKeyboard from './VirtualKeyboard';
 import SoundPalette from './SoundPalette';
+import SoundQueue from './SoundQueue';
 import '../css/App.css';
 import '../css/font-awesome.css';
 
@@ -27,7 +28,11 @@ class App extends Component {
 
     this.playSound = this.playSound.bind(this);
 
+    this.keybuttonFileRemoved = this.keybuttonFileRemoved.bind(this);
+
     this.playSoundFinish = this.playSoundFinish.bind(this);
+
+    this.resetSoundQueue = this.resetSoundQueue.bind(this);
 
     this.state = {
 
@@ -41,7 +46,9 @@ class App extends Component {
 
       keybuttonAssignments: {
 
-      }
+      },
+
+      soundQueuesArray: []
 
     }
 
@@ -52,6 +59,25 @@ class App extends Component {
   randomNumber(max) {
 
     return Math.floor(Math.random()*max)
+
+  }
+
+  playSoundQueue() {
+
+    console.log("playSoundQueue");
+
+    if(this.state.soundQueuesArray !== []) {
+
+
+    }
+
+  }
+
+  resetSoundQueue() {
+
+    console.log("resetSoundQueue");
+
+    this.setState({soundQueuesArray : []});
 
   }
 
@@ -80,7 +106,7 @@ class App extends Component {
   playSoundFinish() {
 
     console.log("playSoundFinish");
-    this.setState({"soundToPlay" : undefined});
+    this.setState({soundToPlay : undefined});
 
   }
 
@@ -88,8 +114,17 @@ class App extends Component {
 
     let keyPressed = (e.key).toUpperCase();
 
-    if(this.state.keybuttonAssignments[keyPressed] !== undefined)
+    if(this.state.keybuttonAssignments[keyPressed] !== undefined) {
+      
+      let newSoundQueue = this.state.soundQueuesArray;
+
+      newSoundQueue.push(this.state.keybuttonAssignments[keyPressed]);
+
+      this.setState(newSoundQueue);
+
       this.playSound(this.state.keybuttonAssignments[keyPressed])
+
+    }
 
   }
 
@@ -105,7 +140,6 @@ class App extends Component {
 
   }
 
-
   handleKeybuttonDragOver(e) {
 
     e.preventDefault();
@@ -116,9 +150,7 @@ class App extends Component {
 
     console.log("handleSoundTileDrag: " + soundTileBeingDragged.state.file);
 
-    this.setState({"soundTileBeingDragged" : soundTileBeingDragged.state.file});
-
-    //soundTileBeingDragged.addEventListener("dragend", this.handleSoundTileDragEnd);
+    this.setState({soundTileBeingDragged : soundTileBeingDragged.state.file});
 
   }
 
@@ -126,30 +158,39 @@ class App extends Component {
 
     console.log("handleSoundTileDragEnd ");
 
-    this.setState({"soundTileBeingDragged" : undefined});
-    //this.setState({"soundToPlay" : undefined});
+    this.setState({soundTileBeingDragged : undefined});
 
   }
 
   handleSoundTileDrop(keybuttonDroppedOn) {
 
-    console.log("handleSoundTileDrop: " + keybuttonDroppedOn.props.keybuttonValue);
+    console.log("handleSoundTileDrop");
 
     keybuttonDroppedOn.updateFile(this.state.soundTileBeingDragged);
 
-    //this.playSound(this.state.soundTileBeingDragged);
-
-    let newKeybuttonAssignments = this.state.keybuttonAssignments;
-
-    newKeybuttonAssignments[keybuttonDroppedOn.props.keybuttonValue] = this.state.soundTileBeingDragged;
-
-    this.setState(newKeybuttonAssignments);
+    this.newKeybuttonAssignment(keybuttonDroppedOn.props.keybuttonValue, this.state.soundTileBeingDragged);
 
   } 
 
   handleSoundTilePlay(soundTileToPlay) {
 
     this.playSound(soundTileToPlay);
+
+  }
+
+  keybuttonFileRemoved(keybutton) {
+
+    this.newKeybuttonAssignment(keybutton.props.keybuttonValue, undefined);
+
+  }
+
+  newKeybuttonAssignment(keybutton, value) {
+
+    let newKeybuttonAssignments = this.state.keybuttonAssignments;
+
+    newKeybuttonAssignments[keybutton] = value;
+
+    this.setState(newKeybuttonAssignments);
 
   }
 
@@ -164,7 +205,14 @@ class App extends Component {
                           handleKeybuttonClick={this.handleKeybuttonClick} 
                           handleKeybuttonDragOver={this.handleKeybuttonDragOver}
                           handleSoundTileDrop={this.handleSoundTileDrop} 
-                          keyboardData={keyboardData["keys"]} />
+                          keyboardData={keyboardData["keys"]}
+                          keybuttonFileRemoved={this.keybuttonFileRemoved}/>
+
+        <SoundQueue
+                  playSoundQueue={this.playSoundQueue}
+                  resetSoundQueue={this.resetSoundQueue}
+                  soundQueuesArray={this.state.soundQueuesArray}/>
+
 
         <SoundPalette 
                       audioData={audioData}
