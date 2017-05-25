@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import SoundQueueTile from './SoundQueueTile';
+import SoundQueueButton from './SoundQueueButton';
 
 class SoundQueue extends Component {
 
@@ -26,23 +27,27 @@ class SoundQueue extends Component {
     return (
       <div className="sound-queue">
 
-        <div className="title">
-        	<span>Something to Generate</span>
-        	<span>Something to Wrestle with</span>
-        	<span>Bruce Prichard</span>
-        </div>
+        <h1 className="title">
+        	Something to Generate
+        	Something to Wrestle with
+        	Bruce Prichard
+        </h1>
 
         <div className="sound-queue-tiles">
         	{this.generateSoundQueueTiles()}
         </div>
 
-        <button onClick={this.props.playSoundQueue}>
-        	Generate
-        </button>
+        <SoundQueueButton
+                        className="generate"  
+                        icon="star"
+                        onClick={this.props.playSoundQueue}
+                        text="Generate" />
 
-        <button onClick={this.props.resetSoundQueue}>
-          Reset
-        </button>
+        <SoundQueueButton
+                        className="reset"  
+                        icon="refresh"
+                        onClick={this.props.resetSoundQueue}
+                        text="Reset" />
 
       </div>
     );

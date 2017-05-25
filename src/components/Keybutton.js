@@ -24,8 +24,6 @@ class Keybutton extends Component {
 
     console.log("updateFile");
 
-    //fileName = fileName.substring(fileName.indexOf("-") + 1, fileName.length);
-
     this.setState({file : fileName});
 
   }

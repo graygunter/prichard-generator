@@ -26,11 +26,15 @@ class App extends Component {
 
     this.handleSoundTilePlay = this.handleSoundTilePlay.bind(this);
 
-    this.playSound = this.playSound.bind(this);
-
     this.keybuttonFileRemoved = this.keybuttonFileRemoved.bind(this);
 
+    this.playSound = this.playSound.bind(this);
+
     this.playSoundFinish = this.playSoundFinish.bind(this);
+
+    this.playSoundQueue = this.playSoundQueue.bind(this);
+
+    this.playSoundQueueFinish = this.playSoundQueueFinish.bind(this);
 
     this.resetSoundQueue = this.resetSoundQueue.bind(this);
 
@@ -48,7 +52,9 @@ class App extends Component {
 
       },
 
-      soundQueuesArray: []
+      soundQueuesArray: [],
+
+      soundQueuesPlayback: false
 
     }
 
@@ -62,17 +68,6 @@ class App extends Component {
 
   }
 
-  playSoundQueue() {
-
-    console.log("playSoundQueue");
-
-    if(this.state.soundQueuesArray !== []) {
-
-
-    }
-
-  }
-
   resetSoundQueue() {
 
     console.log("resetSoundQueue");
@@ -81,7 +76,30 @@ class App extends Component {
 
   }
 
+  playSoundQueue() {
+
+    if(this.state.soundQueuesArray !== []) {
+
+      let tempSoundQuesesArray = this.state.soundQueuesArray;
+
+      this.playSound(tempSoundQuesesArray[0])
+      
+      tempSoundQuesesArray.splice(0,1);
+
+      console.log(tempSoundQuesesArray);
+
+      this.setState({
+        soundQueuesArray : tempSoundQuesesArray,
+        soundQueuesPlayback : true
+      });
+
+    }
+
+  }
+
   playSound(soundToPlay) {
+
+    console.log(soundToPlay);
 
     let folder = soundToPlay.substring(0, soundToPlay.indexOf("-"));
 
@@ -91,15 +109,14 @@ class App extends Component {
 
   soundFile() {
 
-    return (
+      return (
 
-      <Sound 
-            url={this.state.url + this.state.soundToPlay + this.state.fileExtension}
-            debugMode="false" 
-            playStatus="PLAYING" 
-            onFinishedPlaying={this.playSoundFinish}/>
+        <Sound 
+              url={this.state.url + this.state.soundToPlay + this.state.fileExtension}
+              playStatus="PLAYING" 
+              onFinishedPlaying={this.state.soundQueuesPlayback ? this.playSoundQueueFinish : this.playSoundFinish}/>
 
-    )
+      )
 
   }
 
@@ -109,6 +126,27 @@ class App extends Component {
     this.setState({soundToPlay : undefined});
 
   }
+
+  playSoundQueueFinish() {
+
+    if(this.state.soundQueuesArray !== []) {
+
+      this.setState({soundToPlay : undefined});
+
+      this.playSoundQueue();
+
+    }
+    else {
+
+      this.setState({
+        soundQueuesPlayback : false,
+        soundToPlay : undefined
+      });
+
+    }
+
+  }
+
 
   handleKeyboardPress(e) {
 

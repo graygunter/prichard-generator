@@ -4,7 +4,18 @@
 
 @import 'mixins';
 
+body {
+	background: blue;
+	font-family: 'Oswald', sans-serif;
+}
+
 .virtual-keyboard {
+
+	padding-top: 10%;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 80%;
 
 	.virtual-keyboard-keybutton-row {
 
@@ -61,28 +72,46 @@
 
 .sound-queue {
 
-	background-color: #00fff6;
+	background-color: #fff;
+	border-right: 1px solid #ccc;
+	box-shadow: 1px 0px 20px rgba(0,0,0,0.4);
 	box-sizing: border-box;
 	height: 100%;
 	left: 0;
-	padding: 20px 20px 0;
+	padding: 1% 20px 0;
 	position: absolute;
 	top: 0;
-	width: 300px;
+	width: 20%;
 
 	.title {
-		font-size: 1.5rem;
 
-		span {
-			display: block;
-		}
+		@include hide-text;
+		background-image: url("../imgs/logo.jpg");
+		height: 250px;
+		width: 100%;
 
 	}
 
 	button {
+		@include border-radius(10px);
+		border: none;
 		cursor: pointer;
+		margin: .25rem 0;
 		padding: 10px 0;
 		width: 100%;
+
+		.inner-text {
+			-webkit-background-clip: text;
+			-moz-background-clip: text;
+			background-clip: text;
+			color: #fff;
+			font-family: 'Oswald', sans-serif;
+			font-size: 1.5rem;
+			letter-spacing: 2px;
+			text-shadow: 0px 2px 3px rgba(0,0,0,0.5);
+			text-transform: uppercase;
+		}
+
 	}
 
 }

@@ -4,7 +4,7 @@ class SoundQueueTile extends Component {
 
   render() {
     return (
-      <div className="sound-queue-tile">
+      <div className="sound-queue-button">
         {this.props.file}
       </div>
     );

@@ -1,6 +1,22 @@
 // Mixins
 // --------------------------
 
+@mixin hide-text() {
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block;
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+}
+
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+
 @mixin fa-icon() {
   display: inline-block;
   font: normal normal normal #{$fa-font-size-base}/#{$fa-line-height-base} FontAwesome; // shortening font declaration
