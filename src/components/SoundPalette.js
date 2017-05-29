@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import SoundTile from './SoundTile';
+import SoundPaletteTile from './SoundPaletteTile';
 
 class SoundPalette extends Component {
 
@@ -14,7 +14,7 @@ class SoundPalette extends Component {
 
       let soundArray = audioData[tile];
 
-      let newTile = (<SoundTile 
+      let newTile = (<SoundPaletteTile 
                                 handleSoundTileDrag={this.props.handleSoundTileDrag}
                                 handleSoundTileDragEnd={this.props.handleSoundTileDragEnd}
                                 handleSoundTilePlay={this.props.handleSoundTilePlay}

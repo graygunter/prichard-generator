@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
 import Sound from 'react-sound';
 import audioData from '../json/audioData.json';
+import backgroundData from '../json/backgroundData.json';
 import keyboardData from '../json/keyboardData.json';
-import VirtualKeyboard from './VirtualKeyboard';
 import SoundPalette from './SoundPalette';
 import SoundQueue from './SoundQueue';
+import VirtualKeyboard from './VirtualKeyboard';
 import '../css/App.css';
 import '../css/font-awesome.css';
 
@@ -38,6 +39,8 @@ class App extends Component {
 
     this.resetSoundQueue = this.resetSoundQueue.bind(this);
 
+    this.setBackGround = this.setBackGround.bind(this);
+
     this.state = {
 
       url: "http://www.graybearllc.com/audio/",
@@ -60,11 +63,25 @@ class App extends Component {
 
     window.addEventListener('keydown', this.handleKeyboardPress);
 
+    this.setBackGround();
+
   }
 
   randomNumber(max) {
 
     return Math.floor(Math.random()*max)
+
+  }
+
+  setBackGround() {
+
+    let backgrounds = backgroundData.backgrounds;
+
+    let backgroundSelected = backgrounds[this.randomNumber(backgrounds.length)];
+
+    let body = document.getElementsByTagName("body");
+
+    body[0].style.backgroundImage = "url(\"" + require(`../imgs/backgrounds/${backgroundSelected}.jpg`) + "\")";
 
   }
 

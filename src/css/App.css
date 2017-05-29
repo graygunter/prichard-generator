@@ -40,7 +40,10 @@ table {
   border-spacing: 0; }
 
 body {
-  background: blue;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: 'Oswald', sans-serif; }
 
 .virtual-keyboard {
@@ -54,9 +57,10 @@ body {
     text-align: center;
     width: 100%; }
     .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton {
-      background: rgba(0, 0, 0, 0.4);
+      background: rgba(255, 255, 255, 0.4);
       border-radius: .5rem;
-      border: .4rem solid black;
+      border: 1px solid #0070c9;
+      box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
       box-sizing: border-box;
       color: white;
       display: inline-block;
@@ -69,7 +73,7 @@ body {
       width: 4rem; }
       .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton {
         height: 100%;
-        padding-top: 10px;
+        padding-top: 1rem;
         position: relative; }
         .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file {
           background: red;
@@ -108,47 +112,51 @@ body {
     -ms-border-radius: 10px;
     border-radius: 10px;
     border: none;
+    box-shadow: 2px 3px 2px rgba(0, 0, 0, 0.75);
     cursor: pointer;
     margin: .25rem 0;
     padding: 10px 0;
     width: 100%; }
     .sound-queue button .inner-text {
-      -webkit-background-clip: text;
-      -moz-background-clip: text;
-      background-clip: text;
       color: #fff;
       font-family: 'Oswald', sans-serif;
       font-size: 1.5rem;
       letter-spacing: 2px;
-      text-shadow: 0px 2px 3px rgba(0, 0, 0, 0.5);
+      text-shadow: 0 1px 0 black;
       text-transform: uppercase; }
+    .sound-queue button:hover {
+      box-shadow: none; }
+    .sound-queue button.play {
+      background-color: #0d8b00; }
+    .sound-queue button.reset {
+      background-color: #ff0000; }
 
 .sound-palette {
-  background: red;
+  background: #0070c9;
   box-sizing: border-box;
   bottom: 0;
-  height: 15%;
+  height: 20%;
   left: 0;
+  overflow-x: scroll;
   padding: 10px;
   position: absolute;
+  white-space: nowrap;
   width: 100%; }
   .sound-palette .sound-tile {
-    background: rgba(0, 0, 0, 0.4);
+    background-color: white;
     border-radius: .5rem;
     box-sizing: border-box;
-    border: .4rem solid black;
-    color: white;
+    border: .1rem solid black;
+    color: black;
     display: inline-block;
     font-size: 1.5rem;
-    height: 6rem;
+    height: 100%;
     margin-right: 1%;
-    overflow: hidden;
     padding: 1.5rem .25rem 0;
     position: relative;
     text-align: center;
-    text-shadow: 0 0 .5rem black;
     transition: all .07s ease;
-    width: 6rem; }
+    width: 11rem; }
     .sound-palette .sound-tile .sound-tile-play, .sound-palette .sound-tile .sound-tile-refresh {
       position: absolute;
       top: 5px; }
@@ -156,7 +164,21 @@ body {
       left: 5px; }
     .sound-palette .sound-tile .sound-tile-refresh {
       right: 5px; }
+    .sound-palette .sound-tile .icon {
+      background-repeat: no-repeat;
+      background-size: cover;
+      display: block;
+      height: 100px;
+      left: 50%;
+      margin-left: -50px;
+      position: absolute;
+      top: 5px;
+      width: 100px; }
     .sound-palette .sound-tile .file {
-      font-size: 10px; }
+      bottom: 5px;
+      font-size: 10px;
+      position: absolute;
+      text-align: center;
+      width: 100%; }
 
 /*# sourceMappingURL=App.css.map */
