@@ -96,39 +96,53 @@ body {
 
 	}
 
-	button {
-		@include border-radius(10px);
-		border: none;
-		box-shadow: 2px 3px 2px rgba(0,0,0,0.75);
-		cursor: pointer;
-		margin: .25rem 0;
-		padding: 10px 0;
+	.sound-queue-buttons {
+
+		display: block;
 		width: 100%;
 
-		.inner-text {
-			color: #fff;
-			font-family: 'Oswald', sans-serif;
-			font-size: 1.5rem;
-			letter-spacing: 2px;
-			text-shadow: 0 1px 0 rgba(0,0,0,1);
-			text-transform: uppercase;
-		}
+		button {
+			@include border-radius(10px);
+			border: none;
+			box-shadow: 2px 3px 2px rgba(0,0,0,0.75);
+			cursor: pointer;
+			margin: .25rem 0;
+			padding: 10px 0;
+			width: 45%;
 
-		&:hover {
-			
-			box-shadow: none;
+			.inner-text {
+				color: #fff;
+				font-family: 'Oswald', sans-serif;
+				font-size: 1.2rem;
+				letter-spacing: 2px;
+				pointer-events: none;
+				text-align: center;
+				text-shadow: 0 1px 0 rgba(0,0,0,1);
+				text-transform: uppercase;
+				width: 100%;
+			}
 
-		}
+			&:hover {
+				
+				box-shadow: none;
 
-		&.play {
+			}
 
-			background-color: #0d8b00;
+			&:nth-child(1) {
+				margin-right: 10%;
+			}
 
-		}
+			&.play {
 
-		&.reset {
+				background-color: #0d8b00;
 
-			background-color: #ff0000;
+			}
+
+			&.reset {
+
+				background-color: #ff0000;
+
+			}
 
 		}
 
@@ -144,6 +158,7 @@ body {
 	height: 20%;
 	left: 0;
 	overflow-x: scroll;
+	overflow-y: hidden;
 	padding: 10px;
 	position: absolute;
 	white-space: nowrap;

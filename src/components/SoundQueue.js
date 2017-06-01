@@ -37,17 +37,21 @@ class SoundQueue extends Component {
         	{this.generateSoundQueueTiles()}
         </div>
 
-        <SoundQueueButton
-                          className="play"  
-                          icon="star"
-                          onClick={this.props.playSoundQueue}
-                          text="play" />
+        <div className="sound-queue-buttons">
 
-        <SoundQueueButton
-                          className="reset"  
-                          icon="refresh"
-                          onClick={this.props.resetSoundQueue}
-                          text="reset" />
+          <SoundQueueButton
+                            className="play" 
+                            clickFunction={this.props.playSoundQueue} 
+                            icon="star"
+                            text="play" />
+
+          <SoundQueueButton
+                            className="reset"
+                            clickFunction={this.props.resetSoundQueue}  
+                            icon="refresh"
+                            text="reset" />
+
+        </div>
 
       </div>
     );

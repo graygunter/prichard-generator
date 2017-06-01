@@ -6,13 +6,11 @@ class SoundQueueButton extends Component {
     return (
 
 	    <button className={this.props.className}
-	    		onClick={this.props.playSoundQueue}>
+	    		onClick={this.props.clickFunction}>
 	    	<div className="inner-text">
 				<i className={"fa fa-" + this.props.icon} aria-hidden="true"></i>
 				&nbsp;
 				{this.props.text}
-				&nbsp;
-				<i className={"fa fa-" + this.props.icon} aria-hidden="true"></i>
 			</div>
 	    </button>
 

@@ -95,7 +95,11 @@ class App extends Component {
 
   playSoundQueue() {
 
+    console.log("play pressed");
+
     if(this.state.soundQueuesArray !== []) {
+
+      console.log("soundQueuesArray is not empty");
 
       let tempSoundQuesesArray = this.state.soundQueuesArray;
 
@@ -163,7 +167,6 @@ class App extends Component {
     }
 
   }
-
 
   handleKeyboardPress(e) {
 
@@ -264,9 +267,9 @@ class App extends Component {
                           keybuttonFileRemoved={this.keybuttonFileRemoved}/>
 
         <SoundQueue
-                  playSoundQueue={this.playSoundQueue}
-                  resetSoundQueue={this.resetSoundQueue}
-                  soundQueuesArray={this.state.soundQueuesArray}/>
+                    playSoundQueue={this.playSoundQueue}
+                    resetSoundQueue={this.resetSoundQueue}
+                    soundQueuesArray={this.state.soundQueuesArray}/>
 
 
         <SoundPalette 
