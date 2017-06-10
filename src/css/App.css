@@ -47,7 +47,7 @@ body {
   font-family: 'Oswald', sans-serif; }
 
 .virtual-keyboard {
-  padding-top: 10%;
+  padding-top: 5%;
   position: absolute;
   right: 0;
   top: 0;
@@ -65,15 +65,15 @@ body {
       color: white;
       display: inline-block;
       font-size: 1.5rem;
-      height: 4rem;
+      height: 10%;
       margin: 5px;
       text-align: center;
       text-shadow: 0 0 .5rem black;
       transition: all .07s ease;
-      width: 4rem; }
+      width: 7%; }
       .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton {
         height: 100%;
-        padding-top: 1rem;
+        padding: 20% 0;
         position: relative; }
         .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file {
           background: red;
@@ -92,7 +92,7 @@ body {
   box-sizing: border-box;
   height: 100%;
   left: 0;
-  padding: 1% 20px 0;
+  padding: 0 0.5% 0;
   position: absolute;
   top: 0;
   width: 20%; }
@@ -104,27 +104,40 @@ body {
     text-indent: 100%;
     white-space: nowrap;
     background-image: url("../imgs/logo.jpg");
-    height: 250px;
+    background-size: contain;
+    height: 35%;
     width: 100%; }
+  .sound-queue .sound-queue-tiles {
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    border-radius: 2px;
+    border: 1px solid #0070c9;
+    -webkit-box-shadow: inset 1px 1px 4px 0px rgba(0, 0, 0, 0.4);
+    box-shadow: inset 1px 1px 4px 0px rgba(0, 0, 0, 0.4);
+    display: block;
+    height: 30%;
+    margin-bottom: 4%;
+    overflow-y: scroll; }
   .sound-queue .sound-queue-buttons {
     display: block;
     width: 100%; }
     .sound-queue .sound-queue-buttons button {
-      -webkit-border-radius: 10px;
-      -moz-border-radius: 10px;
-      -ms-border-radius: 10px;
-      border-radius: 10px;
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      -ms-border-radius: 5px;
+      border-radius: 5px;
       border: none;
-      box-shadow: 2px 3px 2px rgba(0, 0, 0, 0.75);
+      box-shadow: 1px 2px 1px rgba(0, 0, 0, 0.5);
       cursor: pointer;
       margin: .25rem 0;
-      padding: 10px 0;
+      padding: 5% 0;
       width: 45%; }
       .sound-queue .sound-queue-buttons button .inner-text {
         color: #fff;
         font-family: 'Oswald', sans-serif;
-        font-size: 1.2rem;
-        letter-spacing: 2px;
+        font-size: 0.6rem;
+        letter-spacing: 1px;
         pointer-events: none;
         text-align: center;
         text-shadow: 0 1px 0 black;
@@ -143,11 +156,11 @@ body {
   background: #0070c9;
   box-sizing: border-box;
   bottom: 0;
-  height: 20%;
+  height: 23%;
   left: 0;
   overflow-x: scroll;
   overflow-y: hidden;
-  padding: 10px;
+  padding: 0.75%;
   position: absolute;
   white-space: nowrap;
   width: 100%; }
@@ -161,28 +174,50 @@ body {
     font-size: 1.5rem;
     height: 100%;
     margin-right: 1%;
-    padding: 1.5rem .25rem 0;
+    overflow: hidden;
+    padding: 0;
     position: relative;
     text-align: center;
     transition: all .07s ease;
-    width: 11rem; }
-    .sound-palette .sound-tile .sound-tile-play, .sound-palette .sound-tile .sound-tile-refresh {
+    width: 12%; }
+    .sound-palette .sound-tile .sound-tile-buttons {
+      box-sizing: border-box;
+      height: 100%;
+      left: 0;
+      padding: 2px 0 0 2px;
       position: absolute;
-      top: 5px; }
-    .sound-palette .sound-tile .sound-tile-play {
-      left: 5px; }
-    .sound-palette .sound-tile .sound-tile-refresh {
-      right: 5px; }
+      top: 0; }
+      .sound-palette .sound-tile .sound-tile-buttons button {
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        border-radius: 50%;
+        background: none;
+        border: none;
+        color: #fff;
+        display: block;
+        font-size: .4rem;
+        height: 15px;
+        margin-bottom: 2px;
+        width: 15px;
+        z-index: 2; }
+      .sound-palette .sound-tile .sound-tile-buttons .sound-tile-play {
+        background-color: #0d8b00; }
+        .sound-palette .sound-tile .sound-tile-buttons .sound-tile-play i {
+          margin-left: -0.5px; }
+      .sound-palette .sound-tile .sound-tile-buttons .sound-tile-explore {
+        background-color: #0070c9; }
+        .sound-palette .sound-tile .sound-tile-buttons .sound-tile-explore i {
+          margin-left: -1.5px; }
     .sound-palette .sound-tile .icon {
       background-repeat: no-repeat;
       background-size: cover;
       display: block;
-      height: 100px;
-      left: 50%;
-      margin-left: -50px;
-      position: absolute;
+      height: 50px;
+      margin: 0 auto;
+      position: relative;
       top: 5px;
-      width: 100px; }
+      width: 50px; }
     .sound-palette .sound-tile .file {
       bottom: 5px;
       font-size: 10px;
