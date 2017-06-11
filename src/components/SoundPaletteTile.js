@@ -22,7 +22,7 @@ class SoundPaletteTile extends Component {
     let fileName = String(this.state.file);
     let iconPath = "url(\"" + require(`../imgs/icons/icon_${fileName.substring(0, fileName.indexOf("-"))}.svg`) + "\")";
 
-    console.log(iconPath);
+    console.log("$$$ " + iconPath);
 
     fileName = fileName.substring(fileName.indexOf("-") + 1, fileName.length);
 
@@ -43,9 +43,9 @@ class SoundPaletteTile extends Component {
 
   getRandomSound() {
 
-    var randomSound = this.props.soundArray[this.props.randomNumber(this.props.soundArray.length)];
+    let randomSound = this.props.soundArray[this.props.randomNumber(this.props.soundArray.length)];
 
-    for (var soundName in randomSound) {
+    for (let soundName in randomSound) {
 
       this.setState({file : soundName});
     

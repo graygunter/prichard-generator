@@ -44,7 +44,11 @@ class Keybutton extends Component {
       <div className="inner-keybutton"
         onDragOver={this.props.handleKeybuttonDragOver}
         onDrop={() => this.props.handleSoundTileDrop(this)}>
-        {this.props.keybuttonValue}
+        
+        <span>
+          {this.props.keybuttonValue}
+        </span>
+
       </div>
     );
 
@@ -52,6 +56,9 @@ class Keybutton extends Component {
 
   keybuttonHasFile() {
 
+    let fileName = String(this.state.file);
+    let iconPath = "url(\"" + require(`../imgs/icons/icon_${fileName.substring(0, fileName.indexOf("-"))}.svg`) + "\")";
+    console.log("### " + iconPath);
     return (
       
       <div className="inner-keybutton has-file"
@@ -63,7 +70,15 @@ class Keybutton extends Component {
           <i className="fa fa-times-circle" aria-hidden="true"></i>
         </button>
 
-        {this.state.file}
+        <div 
+            className="icon"
+            style={{backgroundImage: iconPath}}>    
+        </div>
+
+        <span>
+          {this.props.keybuttonValue}
+        </span>
+
       </div>
 
     );

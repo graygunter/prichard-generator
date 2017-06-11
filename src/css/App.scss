@@ -38,6 +38,7 @@ body {
 			font-size: 1.5rem;
 			height: 10%;
 			margin: 5px;
+			overflow: hidden;
 			text-align: center;
 			text-shadow: 0 0 .5rem black;
 			transition: all .07s ease;
@@ -51,16 +52,40 @@ body {
 			
 				&.has-file {
 
-					background: red;
-					font-size: 10px;
+					background: rgba(255,255,255,1);
+					position: relative;
 
-					.keybutton-background {
-
-						left: 0;
-						height: 100%;
+					button {
+						background: none;
+						border: none;
+						color: red;
+						cursor: pointer;
+						left: 2px;
+						padding: 0;
 						position: absolute;
+						text-shadow: 0.25px 0.25px 0px rgba(0,0,0,0.5);
 						top: 0;
-						width: 100%;
+
+						&:hover {
+							text-shadow: none;
+						}
+
+					}
+
+					.icon {
+						background-repeat: no-repeat;
+						background-size: cover;
+						display: block;
+						height: 30px;
+						left: 50%;
+						margin-left: -15px;
+						position: absolute;
+						width: 30px;
+					}
+
+					span {
+						
+						opacity: 0;
 
 					}
 
@@ -229,9 +254,13 @@ body {
 
 			}
 
-			.sound-tile-explore {
+			.sound-tile-explore, .sound-tile-refresh {
 
 				background-color: $blue;
+
+			}
+
+			.sound-tile-explore {
 
 				i {
 					margin-left: -1.5px;
@@ -241,6 +270,9 @@ body {
 
 			.sound-tile-refresh {
 
+				i {
+					margin-left: -1px;
+				}
 
 			}
 
@@ -263,6 +295,10 @@ body {
 			position: absolute;
 			text-align: center;
 			width: 100%;
+
+			&.small {
+				font-size: 6px
+			}
 		}
 
 

@@ -67,6 +67,7 @@ body {
       font-size: 1.5rem;
       height: 10%;
       margin: 5px;
+      overflow: hidden;
       text-align: center;
       text-shadow: 0 0 .5rem black;
       transition: all .07s ease;
@@ -76,14 +77,31 @@ body {
         padding: 20% 0;
         position: relative; }
         .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file {
-          background: red;
-          font-size: 10px; }
-          .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file .keybutton-background {
-            left: 0;
-            height: 100%;
+          background: white;
+          position: relative; }
+          .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file button {
+            background: none;
+            border: none;
+            color: red;
+            cursor: pointer;
+            left: 2px;
+            padding: 0;
             position: absolute;
-            top: 0;
-            width: 100%; }
+            text-shadow: 0.25px 0.25px 0px rgba(0, 0, 0, 0.5);
+            top: 0; }
+            .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file button:hover {
+              text-shadow: none; }
+          .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file .icon {
+            background-repeat: no-repeat;
+            background-size: cover;
+            display: block;
+            height: 30px;
+            left: 50%;
+            margin-left: -15px;
+            position: absolute;
+            width: 30px; }
+          .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file span {
+            opacity: 0; }
 
 .sound-queue {
   background-color: #fff;
@@ -205,10 +223,12 @@ body {
         background-color: #0d8b00; }
         .sound-palette .sound-tile .sound-tile-buttons .sound-tile-play i {
           margin-left: -0.5px; }
-      .sound-palette .sound-tile .sound-tile-buttons .sound-tile-explore {
+      .sound-palette .sound-tile .sound-tile-buttons .sound-tile-explore, .sound-palette .sound-tile .sound-tile-buttons .sound-tile-refresh {
         background-color: #0070c9; }
-        .sound-palette .sound-tile .sound-tile-buttons .sound-tile-explore i {
-          margin-left: -1.5px; }
+      .sound-palette .sound-tile .sound-tile-buttons .sound-tile-explore i {
+        margin-left: -1.5px; }
+      .sound-palette .sound-tile .sound-tile-buttons .sound-tile-refresh i {
+        margin-left: -1px; }
     .sound-palette .sound-tile .icon {
       background-repeat: no-repeat;
       background-size: cover;
@@ -224,5 +244,7 @@ body {
       position: absolute;
       text-align: center;
       width: 100%; }
+      .sound-palette .sound-tile .file.small {
+        font-size: 6px; }
 
 /*# sourceMappingURL=App.css.map */
