@@ -37,6 +37,8 @@ class App extends Component {
 
     this.playSoundQueueFinish = this.playSoundQueueFinish.bind(this);
 
+    this.removeQueueTile = this.removeQueueTile.bind(this);
+
     this.resetSoundQueue = this.resetSoundQueue.bind(this);
 
     this.setBackGround = this.setBackGround.bind(this);
@@ -87,7 +89,7 @@ class App extends Component {
 
   resetSoundQueue() {
 
-    console.log("resetSoundQueue");
+    //console.log("resetSoundQueue");
 
     this.setState({soundQueuesArray : []});
 
@@ -95,11 +97,11 @@ class App extends Component {
 
   playSoundQueue() {
 
-    console.log("play pressed");
+    //console.log("play pressed");
 
     if(this.state.soundQueuesArray !== []) {
 
-      console.log("soundQueuesArray is not empty");
+      //console.log("soundQueuesArray is not empty");
 
       let tempSoundQuesesArray = this.state.soundQueuesArray;
 
@@ -107,7 +109,7 @@ class App extends Component {
       
       tempSoundQuesesArray.splice(0,1);
 
-      console.log(tempSoundQuesesArray);
+      //console.log(tempSoundQuesesArray);
 
       this.setState({
         soundQueuesArray : tempSoundQuesesArray,
@@ -120,7 +122,7 @@ class App extends Component {
 
   playSound(soundToPlay) {
 
-    console.log(soundToPlay);
+    //console.log(soundToPlay);
 
     let folder = soundToPlay.substring(0, soundToPlay.indexOf("-"));
 
@@ -143,7 +145,7 @@ class App extends Component {
 
   playSoundFinish() {
 
-    console.log("playSoundFinish");
+    //console.log("playSoundFinish");
     this.setState({soundToPlay : undefined});
 
   }
@@ -188,7 +190,7 @@ class App extends Component {
 
   handleKeybuttonClick(keybuttonClicked) {
 
-    console.log("handleKeybuttonClick: " + keybuttonClicked);
+    //console.log("handleKeybuttonClick: " + keybuttonClicked);
 
     if(keybuttonClicked.state.file !== undefined) {
 
@@ -206,7 +208,7 @@ class App extends Component {
 
   handleSoundTileDrag(soundTileBeingDragged) {
 
-    console.log("handleSoundTileDrag: " + soundTileBeingDragged.state.file);
+    //console.log("handleSoundTileDrag: " + soundTileBeingDragged.state.file);
 
     this.setState({soundTileBeingDragged : soundTileBeingDragged.state.file});
 
@@ -214,7 +216,7 @@ class App extends Component {
 
   handleSoundTileDragEnd(soundTile) {
 
-    console.log("handleSoundTileDragEnd ");
+    //console.log("handleSoundTileDragEnd ");
 
     this.setState({soundTileBeingDragged : undefined});
 
@@ -222,7 +224,7 @@ class App extends Component {
 
   handleSoundTileDrop(keybuttonDroppedOn) {
 
-    console.log("handleSoundTileDrop");
+    //console.log("handleSoundTileDrop");
 
     keybuttonDroppedOn.updateFile(this.state.soundTileBeingDragged);
 
@@ -252,6 +254,10 @@ class App extends Component {
 
   }
 
+  removeQueueTile(e) {
+    console.log(e);
+  }
+
   render() {
 
     return (
@@ -269,8 +275,8 @@ class App extends Component {
         <SoundQueue
                     playSoundQueue={this.playSoundQueue}
                     resetSoundQueue={this.resetSoundQueue}
+                    removeQueueTile={this.removeQueueTile}
                     soundQueuesArray={this.state.soundQueuesArray}/>
-
 
         <SoundPalette 
                       audioData={audioData}

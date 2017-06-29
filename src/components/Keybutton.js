@@ -58,7 +58,9 @@ class Keybutton extends Component {
 
     let fileName = String(this.state.file);
     let iconPath = "url(\"" + require(`../imgs/icons/icon_${fileName.substring(0, fileName.indexOf("-"))}.svg`) + "\")";
-    console.log("### " + iconPath);
+    
+    //console.log("### " + iconPath);
+    
     return (
       
       <div className="inner-keybutton has-file"
