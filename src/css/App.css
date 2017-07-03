@@ -131,6 +131,7 @@ body {
     text-indent: 100%;
     white-space: nowrap;
     background-image: url("../imgs/logo.jpg");
+    background-position: center;
     background-size: contain;
     height: 35%;
     width: 100%; }

@@ -21,7 +21,7 @@ class SoundQueueTile extends Component {
         	{textName}
         </div>
 
-        <button onClick={() => this.props.removeQueueTile(this)}>
+        <button onClick={() => this.props.removeSoundQueueTile(this.props.id)}>
           <i className="fa fa-times-circle" aria-hidden="true"></i>
         </button>
 

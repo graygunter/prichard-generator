@@ -11,9 +11,10 @@ class SoundQueue extends Component {
     for(let i = 0; i < this.props.soundQueuesArray.length; i++) {
 
       let newTile = (<SoundQueueTile
-                                    file={this.props.soundQueuesArray[i]} 
+                                    file={this.props.soundQueuesArray[i]}
+                                    id={i} 
                                     key={"SoundQueueTile" + i} 
-                                    removeQueueTile={this.props.removeQueueTile}/>
+                                    removeSoundQueueTile={this.props.removeSoundQueueTile}/>
       );
 
       tilesArray.push(newTile);

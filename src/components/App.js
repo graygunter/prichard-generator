@@ -37,7 +37,7 @@ class App extends Component {
 
     this.playSoundQueueFinish = this.playSoundQueueFinish.bind(this);
 
-    this.removeQueueTile = this.removeQueueTile.bind(this);
+    this.removeSoundQueueTile = this.removeSoundQueueTile.bind(this);
 
     this.resetSoundQueue = this.resetSoundQueue.bind(this);
 
@@ -180,8 +180,6 @@ class App extends Component {
 
       newSoundQueue.push(this.state.keybuttonAssignments[keyPressed]);
 
-      this.setState(newSoundQueue);
-
       this.playSound(this.state.keybuttonAssignments[keyPressed])
 
     }
@@ -250,12 +248,18 @@ class App extends Component {
 
     newKeybuttonAssignments[keybutton] = value;
 
-    this.setState(newKeybuttonAssignments);
-
   }
 
-  removeQueueTile(e) {
-    console.log(e);
+  removeSoundQueueTile(queueTileToRemove) {
+
+    console.log(queueTileToRemove);
+
+    let tempSoundQuesesArray = this.state.soundQueuesArray;
+
+    tempSoundQuesesArray.splice(queueTileToRemove, 1);
+
+    this.setState({soundQueuesArray : tempSoundQuesesArray});
+
   }
 
   render() {
@@ -275,7 +279,7 @@ class App extends Component {
         <SoundQueue
                     playSoundQueue={this.playSoundQueue}
                     resetSoundQueue={this.resetSoundQueue}
-                    removeQueueTile={this.removeQueueTile}
+                    removeSoundQueueTile={this.removeSoundQueueTile}
                     soundQueuesArray={this.state.soundQueuesArray}/>
 
         <SoundPalette 
