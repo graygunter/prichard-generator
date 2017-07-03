@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Keybutton from './Keybutton';
+import VirtualKeybutton from './VirtualKeybutton';
 
 class VirtualKeyboard extends Component {
 
@@ -14,7 +14,7 @@ class VirtualKeyboard extends Component {
 
   buildKeybuttons(keybutton, j) {
     
-    return <Keybutton 
+    return <VirtualKeybutton 
                       handleDragOver={this.props.handleDragOver}
                       handleSoundTileDrop={this.props.handleSoundTileDrop}
                       handleKeybuttonClick={this.props.handleKeybuttonClick}

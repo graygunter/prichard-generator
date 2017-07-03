@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Keybutton extends Component {
+class VirtualKeybutton extends Component {
 
   constructor() {
 
@@ -101,4 +101,4 @@ class Keybutton extends Component {
 
 }
 
-export default Keybutton;
+export default VirtualKeybutton;

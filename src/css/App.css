@@ -98,6 +98,8 @@ body {
             position: absolute;
             text-shadow: 0.25px 0.25px 0px rgba(0, 0, 0, 0.5);
             top: 0; }
+            .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file button .fa {
+              pointer-events: none; }
             .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file button:hover {
               text-shadow: none; }
           .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file .icon {
@@ -169,11 +171,12 @@ body {
         background: none;
         border: none;
         color: red;
-        cursor: pointer;
         margin-right: 8px;
         margin-top: 1px;
         padding: 0;
         float: right; }
+        .sound-queue .sound-queue-tiles .sound-queue-tile button .fa {
+          pointer-events: none; }
       .sound-queue .sound-queue-tiles .sound-queue-tile:nth-child(even) {
         background-color: #a7d8ff; }
   .sound-queue .sound-queue-buttons {

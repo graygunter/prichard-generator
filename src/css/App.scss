@@ -77,6 +77,10 @@ body {
 						text-shadow: 0.25px 0.25px 0px rgba(0,0,0,0.5);
 						top: 0;
 
+						.fa {
+							pointer-events: none;
+						}
+
 						&:hover {
 							text-shadow: none;
 						}
@@ -172,11 +176,15 @@ body {
 				background: none;
 				border: none;
 				color: red;
-				cursor: pointer;
 				margin-right: 8px;
 				margin-top: 1px;
 				padding: 0;
 				float: right;
+
+				.fa {
+					pointer-events: none;
+				}
+
 			}
 
 			&:nth-child(even) {
