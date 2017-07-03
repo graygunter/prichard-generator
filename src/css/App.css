@@ -39,6 +39,28 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
+.about-button, .sound-queue .sound-queue-buttons button {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  border-radius: 5px;
+  box-shadow: 1px 2px 1px rgba(0, 0, 0, 0.5);
+  cursor: pointer; }
+  .about-button:hover, .sound-queue .sound-queue-buttons button:hover {
+    box-shadow: none; }
+
+.about-button .inner-text, .sound-queue .sound-queue-buttons button .inner-text {
+  color: #fff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  pointer-events: none;
+  text-align: center;
+  text-shadow: 0 1px 0 black;
+  text-transform: uppercase;
+  width: 100%; }
+
 .sound-queue .sound-queue-tiles .sound-queue-tile:after {
   content: "";
   display: table;
@@ -49,11 +71,54 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  font-family: 'Oswald', sans-serif; }
+  font-family: 'Oswald', sans-serif;
+  font-weight: 200; }
   body button {
+    border: none;
+    color: #fff;
     cursor: pointer; }
+    body button .fa {
+      pointer-events: none; }
     body button:focus {
       outline: 0; }
+  body .inner-container {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 550px; }
+  body .firstcharacter {
+    color: #0070c9;
+    float: left;
+    font-size: 4rem;
+    font-weight: 700;
+    line-height: 3.5rem;
+    padding-top: 3px;
+    padding-right: 8px;
+    padding-left: 3px; }
+  body h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1%; }
+  body p {
+    font-size: .75rem;
+    line-height: 1.25rem;
+    margin-bottom: 1%; }
+
+.about-button {
+  background-color: #0070c9;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  z-index: 10; }
+
+.about-screen {
+  background: url("../imgs/logo-white.jpg") no-repeat center #fff;
+  background-size: 50%;
+  height: 100%;
+  left: 0;
+  padding-top: 5%;
+  position: absolute;
+  top: 0;
+  width: 100%; }
 
 .virtual-keyboard {
   padding-top: 5%;
@@ -66,14 +131,18 @@ body {
     text-align: center;
     width: 100%; }
     .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton {
+      -webkit-border-radius: 0.5rem;
+      -moz-border-radius: 0.5rem;
+      -ms-border-radius: 0.5rem;
+      border-radius: 0.5rem;
       background: rgba(255, 255, 255, 0.4);
-      border-radius: .5rem;
       border: 1px solid #0070c9;
       box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
       box-sizing: border-box;
       color: white;
       display: inline-block;
       font-size: 1.5rem;
+      font-weight: 700;
       height: 10%;
       margin: 5px;
       overflow: hidden;
@@ -90,16 +159,14 @@ body {
           position: relative; }
           .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file button {
             background: none;
-            border: none;
             color: red;
             cursor: pointer;
+            font-weight: 700;
             left: 2px;
             padding: 0;
             position: absolute;
             text-shadow: 0.25px 0.25px 0px rgba(0, 0, 0, 0.5);
             top: 0; }
-            .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file button .fa {
-              pointer-events: none; }
             .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file button:hover {
               text-shadow: none; }
           .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file .icon {
@@ -169,42 +236,21 @@ body {
         line-height: 14px; }
       .sound-queue .sound-queue-tiles .sound-queue-tile button {
         background: none;
-        border: none;
         color: red;
         margin-right: 8px;
         margin-top: 1px;
         padding: 0;
         float: right; }
-        .sound-queue .sound-queue-tiles .sound-queue-tile button .fa {
-          pointer-events: none; }
       .sound-queue .sound-queue-tiles .sound-queue-tile:nth-child(even) {
         background-color: #a7d8ff; }
   .sound-queue .sound-queue-buttons {
     display: block;
     width: 100%; }
     .sound-queue .sound-queue-buttons button {
-      -webkit-border-radius: 5px;
-      -moz-border-radius: 5px;
-      -ms-border-radius: 5px;
-      border-radius: 5px;
-      border: none;
-      box-shadow: 1px 2px 1px rgba(0, 0, 0, 0.5);
       cursor: pointer;
       margin: .25rem 0;
       padding: 3% 0;
       width: 45%; }
-      .sound-queue .sound-queue-buttons button .inner-text {
-        color: #fff;
-        font-family: 'Oswald', sans-serif;
-        font-size: 0.6rem;
-        letter-spacing: 1px;
-        pointer-events: none;
-        text-align: center;
-        text-shadow: 0 1px 0 black;
-        text-transform: uppercase;
-        width: 100%; }
-      .sound-queue .sound-queue-buttons button:hover {
-        box-shadow: none; }
       .sound-queue .sound-queue-buttons button:nth-child(1) {
         margin-right: 10%; }
       .sound-queue .sound-queue-buttons button.play {
@@ -254,8 +300,6 @@ body {
         -ms-border-radius: 50%;
         border-radius: 50%;
         background: none;
-        border: none;
-        color: #fff;
         display: block;
         font-size: .4rem;
         height: 15px;

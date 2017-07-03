@@ -3,6 +3,7 @@ import Sound from 'react-sound';
 import audioData from '../json/audioData.json';
 import backgroundData from '../json/backgroundData.json';
 import keyboardData from '../json/keyboardData.json';
+import AboutScreen from './AboutScreen';
 import SoundPalette from './SoundPalette';
 import SoundQueue from './SoundQueue';
 import VirtualKeyboard from './VirtualKeyboard';
@@ -14,6 +15,8 @@ class App extends Component {
   constructor() {
 
     super();
+
+    this.handleAboutPress = this.handleAboutPress.bind(this);
 
     this.handleKeyboardPress = this.handleKeyboardPress.bind(this);
 
@@ -44,6 +47,8 @@ class App extends Component {
     this.setBackGround = this.setBackGround.bind(this);
 
     this.state = {
+
+      showAboutScreen: true,
 
       url: "http://www.graybearllc.com/audio/",
 
@@ -84,6 +89,14 @@ class App extends Component {
     let body = document.getElementsByTagName("body");
 
     body[0].style.backgroundImage = "url(\"" + require(`../imgs/backgrounds/${backgroundSelected}.jpg`) + "\")";
+
+  }
+
+  handleAboutPress() {
+
+    console.log("hi!");
+
+    this.setState({showAboutScreen : true});
 
   }
 
@@ -262,12 +275,37 @@ class App extends Component {
 
   }
 
-  render() {
+  showAboutScreen() {
 
     return (
+
+      <div>
+
+        <AboutScreen />
+
+      </div>
+
+    );
+
+  }
+
+  showInteractionScreen() {
+
+    return (
+
       <div>
 
         {this.state.soundToPlay ? this.soundFile() : null}
+
+        <button 
+                className="about-button"
+                onClick={this.handleAboutPress}>
+
+                <div className="inner-text">
+                  <i className="fa fa-question-circle" aria-hidden="true"></i> about
+                </div> 
+
+        </button>
 
         <VirtualKeyboard
                           handleKeybuttonClick={this.handleKeybuttonClick} 
@@ -291,6 +329,19 @@ class App extends Component {
                       randomNumber={this.randomNumber}/>
         
       </div>
+
+    );
+
+  }
+
+  render() {
+
+    return (
+
+      <div>
+        {this.state.showAboutScreen ? this.showAboutScreen() : this.showInteractionScreen()}
+      </div>
+
     );
   }
 }
