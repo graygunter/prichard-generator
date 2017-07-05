@@ -39,17 +39,17 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-.about-button, .sound-queue .sound-queue-buttons button {
+.about-button, .about-close, .sound-queue .sound-queue-buttons button {
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
   border-radius: 5px;
   box-shadow: 1px 2px 1px rgba(0, 0, 0, 0.5);
   cursor: pointer; }
-  .about-button:hover, .sound-queue .sound-queue-buttons button:hover {
+  .about-button:hover, .about-close:hover, .sound-queue .sound-queue-buttons button:hover {
     box-shadow: none; }
 
-.about-button .inner-text, .sound-queue .sound-queue-buttons button .inner-text {
+.about-button .inner-text, .about-close .inner-text, .sound-queue .sound-queue-buttons button .inner-text {
   color: #fff;
   font-family: 'Oswald', sans-serif;
   font-size: 0.6rem;
@@ -72,7 +72,11 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   font-family: 'Oswald', sans-serif;
-  font-weight: 200; }
+  font-weight: 300; }
+  body.about-screen {
+    background: url("../imgs/logo-white.jpg") no-repeat center fixed #fff;
+    background-size: 50%;
+    padding-top: 5%; }
   body button {
     border: none;
     color: #fff;
@@ -83,6 +87,8 @@ body {
       outline: 0; }
   body .inner-container {
     margin: 0 auto;
+    padding-bottom: 100px;
+    position: relative;
     width: 100%;
     max-width: 550px; }
   body .firstcharacter {
@@ -99,26 +105,22 @@ body {
     font-weight: 700;
     margin-bottom: 1%; }
   body p {
-    font-size: .75rem;
-    line-height: 1.25rem;
-    margin-bottom: 1%; }
+    font-size: .9rem;
+    line-height: 1.35rem;
+    margin-bottom: 3%; }
+  body a {
+    color: #ff0033; }
+    body a:hover {
+      text-decoration: none; }
+  body strong {
+    font-weight: 500; }
 
-.about-button {
+.about-button, .about-close {
   background-color: #0070c9;
   position: absolute;
   right: 5px;
   top: 5px;
   z-index: 10; }
-
-.about-screen {
-  background: url("../imgs/logo-white.jpg") no-repeat center #fff;
-  background-size: 50%;
-  height: 100%;
-  left: 0;
-  padding-top: 5%;
-  position: absolute;
-  top: 0;
-  width: 100%; }
 
 .virtual-keyboard {
   padding-top: 5%;
@@ -159,7 +161,7 @@ body {
           position: relative; }
           .virtual-keyboard .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file button {
             background: none;
-            color: red;
+            color: #ff0033;
             cursor: pointer;
             font-weight: 700;
             left: 2px;
@@ -236,7 +238,7 @@ body {
         line-height: 14px; }
       .sound-queue .sound-queue-tiles .sound-queue-tile button {
         background: none;
-        color: red;
+        color: #ff0033;
         margin-right: 8px;
         margin-top: 1px;
         padding: 0;

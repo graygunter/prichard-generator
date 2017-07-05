@@ -1,12 +1,15 @@
 import React, { Component } from 'react';
 import Sound from 'react-sound';
+
 import audioData from '../json/audioData.json';
 import backgroundData from '../json/backgroundData.json';
 import keyboardData from '../json/keyboardData.json';
+
 import AboutScreen from './AboutScreen';
 import SoundPalette from './SoundPalette';
 import SoundQueue from './SoundQueue';
 import VirtualKeyboard from './VirtualKeyboard';
+
 import '../css/App.css';
 import '../css/font-awesome.css';
 
@@ -15,6 +18,8 @@ class App extends Component {
   constructor() {
 
     super();
+
+    this.handleAboutClose = this.handleAboutClose.bind(this);
 
     this.handleAboutPress = this.handleAboutPress.bind(this);
 
@@ -48,7 +53,7 @@ class App extends Component {
 
     this.state = {
 
-      showAboutScreen: true,
+      showAboutScreen: false,
 
       url: "http://www.graybearllc.com/audio/",
 
@@ -86,15 +91,28 @@ class App extends Component {
 
     let backgroundSelected = backgrounds[this.randomNumber(backgrounds.length)];
 
-    let body = document.getElementsByTagName("body");
+    let body = document.querySelector("body");
 
-    body[0].style.backgroundImage = "url(\"" + require(`../imgs/backgrounds/${backgroundSelected}.jpg`) + "\")";
+    body.style.backgroundImage = "url(\"" + require(`../imgs/backgrounds/${backgroundSelected}.jpg`) + "\")";
+
+  }
+
+  handleAboutClose() {
+
+    let body = document.querySelector("body");
+    body.className = "";
+
+    this.setBackGround();
+
+    this.setState({showAboutScreen : false});
 
   }
 
   handleAboutPress() {
 
-    console.log("hi!");
+    let body = document.querySelector("body");
+    body.style.backgroundImage = "";    
+    body.className = "about-screen";
 
     this.setState({showAboutScreen : true});
 
@@ -281,7 +299,9 @@ class App extends Component {
 
       <div>
 
-        <AboutScreen />
+        <AboutScreen 
+
+                      handleAboutClose={this.handleAboutClose}/>
 
       </div>
 

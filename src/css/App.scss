@@ -10,7 +10,13 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   font-family: 'Oswald', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
+
+  &.about-screen {
+    background: url("../imgs/logo-white.jpg") no-repeat center fixed #fff;
+    background-size: 50%;
+    padding-top: 5%;
+  }
 
   button {
 
@@ -31,6 +37,8 @@ body {
   .inner-container {
 
     margin: 0 auto;
+    padding-bottom: 100px;
+    position: relative;
     width: 100%;
     max-width: 550px;
 
@@ -57,15 +65,31 @@ body {
 
   p {
 
-    font-size: .75rem;
-    line-height: 1.25rem;
-    margin-bottom: 1%;
+    font-size: .9rem;
+    line-height: 1.35rem;
+    margin-bottom: 3%;
 
+  }
+
+  a {
+
+    color: $red;
+
+    &:hover {
+
+      text-decoration: none;
+
+    }
+
+  }
+
+  strong {
+    font-weight: 500;
   }
 
 }
 
-.about-button {
+.about-button, .about-close {
 
   @extend %standard-button;
   background-color: $blue;
@@ -79,19 +103,6 @@ body {
     @extend %standard-button-text;
 
   }
-
-}
-
-.about-screen {
-
-  background: url("../imgs/logo-white.jpg") no-repeat center #fff;
-  background-size: 50%;
-  height: 100%;
-  left: 0;
-  padding-top: 5%;
-  position: absolute;
-  top: 0;
-  width: 100%;
 
 }
 
@@ -141,7 +152,7 @@ body {
 
           button {
             background: none;
-            color: red;
+            color: $red;
             cursor: pointer;
             font-weight: 700;
             left: 2px;
@@ -243,7 +254,7 @@ body {
 
       button {
         background: none;
-        color: red;
+        color: $red;
         margin-right: 8px;
         margin-top: 1px;
         padding: 0;
