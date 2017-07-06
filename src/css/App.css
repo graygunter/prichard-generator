@@ -67,10 +67,6 @@ table {
   clear: both; }
 
 body {
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   font-family: 'Oswald', sans-serif;
   font-weight: 300; }
   body.about-screen {
@@ -123,6 +119,11 @@ body {
   z-index: 10; }
 
 .virtual-keyboard {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 75%;
   padding-top: 5%;
   position: absolute;
   right: 0;

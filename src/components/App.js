@@ -25,6 +25,8 @@ class App extends Component {
 
     this.handleKeyboardPress = this.handleKeyboardPress.bind(this);
 
+    this.handleKeyboardLoaded = this.handleKeyboardLoaded.bind(this);
+
     this.handleKeybuttonClick = this.handleKeybuttonClick.bind(this);
 
     this.handleSoundTileDrag = this.handleSoundTileDrag.bind(this);
@@ -75,13 +77,17 @@ class App extends Component {
 
     window.addEventListener('keydown', this.handleKeyboardPress);
 
-    this.setBackGround();
-
   }
 
   randomNumber(max) {
 
     return Math.floor(Math.random()*max)
+
+  }
+
+  handleKeyboardLoaded() {
+
+    this.setBackGround();
 
   }
 
@@ -91,9 +97,11 @@ class App extends Component {
 
     let backgroundSelected = backgrounds[this.randomNumber(backgrounds.length)];
 
-    let body = document.querySelector("body");
+    let body = document.getElementsByClassName("virtual-keyboard");
 
-    body.style.backgroundImage = "url(\"" + require(`../imgs/backgrounds/${backgroundSelected}.jpg`) + "\")";
+    if(body[0] !== undefined) {
+      body[0].style.backgroundImage = "url(\"" + require(`../imgs/backgrounds/${backgroundSelected}.jpg`) + "\")";
+    }
 
   }
 
@@ -328,6 +336,7 @@ class App extends Component {
         </button>
 
         <VirtualKeyboard
+                          handleKeyboardLoaded={this.handleKeyboardLoaded}
                           handleKeybuttonClick={this.handleKeybuttonClick} 
                           handleKeybuttonDragOver={this.handleKeybuttonDragOver}
                           handleSoundTileDrop={this.handleSoundTileDrop} 

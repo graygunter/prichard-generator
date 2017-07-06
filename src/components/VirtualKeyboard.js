@@ -46,6 +46,13 @@ class VirtualKeyboard extends Component {
       </div>
     );
   }
+
+  componentDidMount() {
+
+    this.props.handleKeyboardLoaded();
+
+  }
+
 }
 
 export default VirtualKeyboard;
