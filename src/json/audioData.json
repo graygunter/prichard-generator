@@ -1,10 +1,4 @@
 {
-  "brisco": [
-    {
-    "brisco-hooked": {
-      "tags": ["brisco", "hooker", "impression"]
-    }}
-  ],
   "bruce": [
     {
     "brisco-briscofuck": {
@@ -263,6 +257,12 @@
       "tags": ["chicken-salad", "impression", "jerry", "you-know"]
     }}
   ],
+  "brisco": [
+    {
+    "brisco-hooked": {
+      "tags": ["brisco", "hooker", "impression"]
+    }}
+  ],
   "jr": [
     {
     "jr-drdeath": {
@@ -305,6 +305,18 @@
     {
     "warrior-dextrucity": {
       "tags": ["impression", "warriror"]
+    }}
+  ],
+  "ecw": [
+    {
+    "ecw-hooked": {
+      "tags": ["ecw"]
+    }}
+  ],
+  "funk": [
+    {
+    "funk-hooked": {
+      "tags": ["funk"]
     }}
   ]
 }
