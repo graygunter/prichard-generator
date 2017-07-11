@@ -63,6 +63,9 @@ class SoundPaletteTile extends Component {
         onDragStart={() => this.props.handleSoundTileDrag(this)}
         onDragEnd={() => this.props.handleSoundTileDragEnd(this)}>
         
+          
+          {this.state.file !== undefined ? this.createIconAndFile() : null}
+
           <div className="sound-tile-buttons">
             
             <button 
@@ -83,8 +86,6 @@ class SoundPaletteTile extends Component {
             </button>
 
           </div>
-          
-          {this.state.file !== undefined ? this.createIconAndFile() : null}
 
       </div>
     );

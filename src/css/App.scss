@@ -226,7 +226,7 @@ body {
     -webkit-box-shadow:inset 1px 1px 4px 0px rgba(0,0,0,.4);
     box-shadow:inset 1px 1px 4px 0px rgba(0,0,0,.4);
     display: block;
-    height: 30%;
+    height: 53%;
     margin-bottom: 4%;
     overflow-x: hidden;
     overflow-y: scroll;
@@ -318,14 +318,14 @@ body {
   background: $blue;
   box-sizing: border-box;
   bottom: 0;
-  height: 23%;
-  left: 0;
+  height: 28%;
   overflow-x: scroll;
   overflow-y: hidden;
   padding: 0.75%;
   position: absolute;
+  right: 0%;
   white-space: nowrap;
-  width: 100%;
+  width: 80%;
 
   .sound-tile {
 
@@ -346,26 +346,51 @@ body {
     transition: all .07s ease;
     width: 12%;
 
+    .icon {
+
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      display: block;
+      height: 50px;
+      margin-top: 3px;
+      width: 100%;
+
+    }
+
+    .file {
+
+      font-size: 10px;
+      text-align: center;
+      width: 100%;
+
+      &.small {
+        font-size: 6px
+      }
+
+    }
+
+
     .sound-tile-buttons {
 
-      box-sizing: border-box;
-      height: 100%;
-      left: 0;
-      padding: 2px 0 0 2px;
+      @extend %clearfix;
+      background-color: #333;
+      bottom: 0;
+      padding: 5px 0;
       position: absolute;
-      top: 0;
+      width: 100%;
 
       button {
 
         @include border-radius(50%);
         background: none;
         display: block;
+        float: left;
         font-size: .4rem;
         height: 15px;
-        margin-bottom: 2px;
+        margin: 0 5%;
+        position: relative;
         width: 15px;
-        z-index: 2;
-
 
       }
 
@@ -401,29 +426,6 @@ body {
 
       }
 
-    }
-
-    .icon {
-      background-repeat: no-repeat;
-      background-size: cover;
-      display: block;
-      height: 50px;
-      margin: 0 auto;
-      position: relative;
-      top: 5px;
-      width: 50px;
-    }
-
-    .file {
-      bottom: 5px;
-      font-size: 10px;
-      position: absolute;
-      text-align: center;
-      width: 100%;
-
-      &.small {
-        font-size: 6px
-      }
     }
 
 

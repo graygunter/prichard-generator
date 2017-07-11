@@ -318,5 +318,11 @@
     "funk-hooked": {
       "tags": ["funk"]
     }}
+  ],
+  "meltzer": [
+    {
+    "meltzer-hooked": {
+      "tags": ["meltzer"]
+    }}
   ]
 }

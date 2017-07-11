@@ -61,7 +61,7 @@ table {
   text-transform: uppercase;
   width: 100%; }
 
-.sound-queue .sound-queue-tiles .sound-queue-tile:after {
+.sound-queue .sound-queue-tiles .sound-queue-tile:after, .sound-palette .sound-tile .sound-tile-buttons:after {
   content: "";
   display: table;
   clear: both; }
@@ -216,7 +216,7 @@ body {
     -webkit-box-shadow: inset 1px 1px 4px 0px rgba(0, 0, 0, 0.4);
     box-shadow: inset 1px 1px 4px 0px rgba(0, 0, 0, 0.4);
     display: block;
-    height: 30%;
+    height: 53%;
     margin-bottom: 4%;
     overflow-x: hidden;
     overflow-y: scroll;
@@ -265,14 +265,14 @@ body {
   background: #0070c9;
   box-sizing: border-box;
   bottom: 0;
-  height: 23%;
-  left: 0;
+  height: 28%;
   overflow-x: scroll;
   overflow-y: hidden;
   padding: 0.75%;
   position: absolute;
+  right: 0%;
   white-space: nowrap;
-  width: 100%; }
+  width: 80%; }
   .sound-palette .sound-tile {
     background-color: white;
     border-radius: .5rem;
@@ -290,13 +290,26 @@ body {
     text-align: center;
     transition: all .07s ease;
     width: 12%; }
+    .sound-palette .sound-tile .icon {
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      display: block;
+      height: 50px;
+      margin-top: 3px;
+      width: 100%; }
+    .sound-palette .sound-tile .file {
+      font-size: 10px;
+      text-align: center;
+      width: 100%; }
+      .sound-palette .sound-tile .file.small {
+        font-size: 6px; }
     .sound-palette .sound-tile .sound-tile-buttons {
-      box-sizing: border-box;
-      height: 100%;
-      left: 0;
-      padding: 2px 0 0 2px;
+      background-color: #333;
+      bottom: 0;
+      padding: 5px 0;
       position: absolute;
-      top: 0; }
+      width: 100%; }
       .sound-palette .sound-tile .sound-tile-buttons button {
         -webkit-border-radius: 50%;
         -moz-border-radius: 50%;
@@ -304,11 +317,12 @@ body {
         border-radius: 50%;
         background: none;
         display: block;
+        float: left;
         font-size: .4rem;
         height: 15px;
-        margin-bottom: 2px;
-        width: 15px;
-        z-index: 2; }
+        margin: 0 5%;
+        position: relative;
+        width: 15px; }
       .sound-palette .sound-tile .sound-tile-buttons .sound-tile-play {
         background-color: #0d8b00; }
         .sound-palette .sound-tile .sound-tile-buttons .sound-tile-play i {
@@ -319,22 +333,5 @@ body {
         margin-left: -1.5px; }
       .sound-palette .sound-tile .sound-tile-buttons .sound-tile-refresh i {
         margin-left: -1px; }
-    .sound-palette .sound-tile .icon {
-      background-repeat: no-repeat;
-      background-size: cover;
-      display: block;
-      height: 50px;
-      margin: 0 auto;
-      position: relative;
-      top: 5px;
-      width: 50px; }
-    .sound-palette .sound-tile .file {
-      bottom: 5px;
-      font-size: 10px;
-      position: absolute;
-      text-align: center;
-      width: 100%; }
-      .sound-palette .sound-tile .file.small {
-        font-size: 6px; }
 
 /*# sourceMappingURL=App.css.map */
