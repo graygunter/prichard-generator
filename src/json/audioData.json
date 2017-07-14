@@ -324,5 +324,29 @@
     "meltzer-hooked": {
       "tags": ["meltzer"]
     }}
+  ],
+  "pwtorch": [
+    {
+    "pwtorch-hooked": {
+      "tags": ["pwtorch"]
+    }}
+  ],
+  "heyman": [
+    {
+    "heyman-hooked": {
+      "tags": ["heyman"]
+    }}
+  ],
+  "cornette": [
+    {
+    "cornette-hooked": {
+      "tags": ["cornette"]
+    }}
+  ],
+  "andre": [
+    {
+    "andre-hooked": {
+      "tags": ["andre"]
+    }}
   ]
 }
