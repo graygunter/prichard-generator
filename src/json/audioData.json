@@ -348,5 +348,11 @@
     "andre-hooked": {
       "tags": ["andre"]
     }}
+  ],
+  "milmascaras": [
+    {
+    "milmascaras-hooked": {
+      "tags": ["milmascaras"]
+    }}
   ]
 }
