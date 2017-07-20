@@ -354,5 +354,17 @@
     "milmascaras-hooked": {
       "tags": ["milmascaras"]
     }}
+  ],
+  "ribs": [
+    {
+    "ribs-hooked": {
+      "tags": ["ribs"]
+    }}
+  ],
+  "rumors": [
+    {
+    "rumors-hooked": {
+      "tags": ["rumors"]
+    }}
   ]
 }
