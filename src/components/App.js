@@ -93,15 +93,15 @@ class App extends Component {
 
   setBackGround() {
 
-    let backgrounds = backgroundData.backgrounds;
+    let backgroundNumber = this.randomNumber(backgroundData.backgrounds.length);
 
-    let backgroundSelected = backgrounds[this.randomNumber(backgrounds.length)];
+    let backgroundSelected = backgroundData.backgrounds[backgroundNumber];
 
-    let body = document.getElementsByClassName("virtual-keyboard");
+    backgroundData.backgrounds.splice(backgroundNumber, 1);
 
-    if(body[0] !== undefined) {
-      body[0].style.backgroundImage = "url(\"" + require(`../imgs/backgrounds/${backgroundSelected}.jpg`) + "\")";
-    }
+    let body = document.getElementsByClassName("virtual-keyboard-background-1");
+
+    body[0].style.backgroundImage = "url(\"" + require(`../imgs/backgrounds/${backgroundSelected}.jpg`) + "\")";
 
   }
 

@@ -41,8 +41,18 @@ class VirtualKeyboard extends Component {
 
   render() {
     return (
+  
       <div className="virtual-keyboard">
-        {this.props.keyboardData.map(this.buildKeybuttonRow)}
+        
+        <div className="virtual-keyboard-rows">
+          {this.props.keyboardData.map(this.buildKeybuttonRow)}
+        </div>
+        
+        <div className="virtual-keyboard-background">
+          <div className="virtual-keyboard-background-1"></div>
+          <div className="virtual-keyboard-background-2"></div>
+        </div>
+
       </div>
     );
   }

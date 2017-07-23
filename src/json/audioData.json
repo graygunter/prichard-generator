@@ -25,6 +25,10 @@
       "tags": ["bruce", "dirt-sheets", "johnson", "keller", "meltzer"]
     }},
     {
+    "bruce-ididntdo": {
+      "tags": ["bruce", "drugs"]
+    }},
+    {
     "bruce-idontknow": {
       "tags": ["bruce", "you-know"]
     }},
@@ -76,10 +80,6 @@
     "bruce-oneoftheonlytimes": {
       "tags": ["bruce", "bar"]
     }},
-    {
-    "bruce-onlythingididntdo": {
-      "tags": ["bruce", "drugs"]
-    }},
     {   
     "bruce-rumors": {
       "tags": ["bruce", "rumors-and-innuendo"] 
@@ -101,7 +101,7 @@
       "tags": ["bruce", "you-know"]
     }},
     {
-    "bruce-warrioruniversityyeah": {
+    "bruce-warrioru": {
       "tags": ["bruce", "story", "warrior"]
     }}
   ],
@@ -133,10 +133,6 @@
     {
     "conrad-imfromhuntsville": {
       "tags": ["alabama", "conrad"]
-    }},
-    {
-    "conrad-isthattheonlydrug": {
-      "tags": ["conrad", "drug"]
     }},
     {
     "conrad-jerrywemaynot": {
@@ -181,6 +177,10 @@
     {
     "conrad-rumors6": {
       "tags": ["conrad", "rumors-and-innuendo"]
+    }},
+    {
+    "conrad-theonlydrug": {
+      "tags": ["conrad", "drug"]
     }}
   ],
   "jerry": [
@@ -229,7 +229,7 @@
       "tags": ["chicken-salad", "impression", "jerry", "walnuts"]
     }},
     {   
-    "jerry-whocouldhatevince": {
+    "jerry-hatevince": {
       "tags": ["impression", "jerry", "vince"]
     }},
     {
@@ -293,7 +293,7 @@
       "tags": ["impression", "vince"]
     }},
     {
-    "vince-stopshittinginthebucket": {
+    "vince-shitinthebucket": {
       "tags": ["impression", "shit", "vince"]
     }},
     {
