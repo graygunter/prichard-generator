@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import VirtualKeybutton from './VirtualKeybutton';
+import VirtualKeyboardBackground from './VirtualKeyboardBackground';
 
 class VirtualKeyboard extends Component {
 
@@ -48,19 +49,11 @@ class VirtualKeyboard extends Component {
           {this.props.keyboardData.map(this.buildKeybuttonRow)}
         </div>
         
-        <div className="virtual-keyboard-background">
-          <div className="virtual-keyboard-background-1"></div>
-          <div className="virtual-keyboard-background-2"></div>
-        </div>
+        <VirtualKeyboardBackground 
+                                    backgroundData={this.props.backgroundData}/>
 
       </div>
     );
-  }
-
-  componentDidMount() {
-
-    this.props.handleKeyboardLoaded();
-
   }
 
 }
