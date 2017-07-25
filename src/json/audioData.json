@@ -143,6 +143,10 @@
       "tags": ["bruce", "shit"]
     }},
     {
+    "bruce-squash": {
+      "tags": ["bruce", "squash"]
+    }},
+    {
     "bruce-stinkers": {
       "tags": ["bruce", "stinkers"]
     }},
@@ -152,12 +156,16 @@
     }},
     {
     "bruce-usedtobeover": {
-      "tags": ["bruce", "i used to be over"]
+      "tags": ["bruce", "over"]
     }},
     {
     "bruce-warrioru": {
       "tags": ["bruce", "story", "warrior"]
     }},
+    {
+    "bruce-whathappens": {
+      "tags": ["bruce", "what happens"]
+    }},    
     {
     "bruce-whostheasshole": {
       "tags": ["bruce", "asshole"]
@@ -209,6 +217,10 @@
       "tags": ["conrad", "flair"]
     }},
     {
+    "conrad-getover": {
+      "tags": ["conrad", "over"]
+    }}, 
+    {
     "conrad-googlemachine": {
       "tags": ["conrad", "google"]
     }},    
@@ -259,7 +271,11 @@
     {
     "conrad-thankyou": {
       "tags": ["conrad", "thank you"]
-    }},    
+    }},  
+    {
+    "conrad-thatllgetover": {
+      "tags": ["conrad", "over"]
+    }},  
     {
     "conrad-theonlydrug": {
       "tags": ["conrad", "drug"]
