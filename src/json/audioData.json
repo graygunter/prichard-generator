@@ -27,7 +27,11 @@
       "tags": ["bruce", "bulldog", "impression"]
     }},
     {
-    "bruce-bullshit": {
+    "bruce-bullshit1": {
+      "tags": ["bruce", "bullshit", "shit"]
+    }},
+    {
+    "bruce-bullshit2": {
       "tags": ["bruce", "bullshit", "shit"]
     }},
     {
@@ -35,8 +39,16 @@
       "tags": ["bruce", "casket", "story"]
     }},
     {
+    "bruce-didntbeat": {
+      "tags": ["bruce"]
+    }},
+    {
     "bruce-dirtsheets": {
       "tags": ["bruce", "dirt sheets", "johnson", "keller", "meltzer"]
+    }},
+    {
+    "bruce-dirtsheets": {
+      "tags": ["bruce", "i dont care"]
     }},
     {
     "bruce-guilty": {
@@ -55,8 +67,12 @@
       "tags": ["bruce", "drugs"]
     }},
     {
-    "bruce-idontknow": {
-      "tags": ["bruce", "you know"]
+    "bruce-idontknow1": {
+      "tags": ["bruce", "i dont know"]
+    }},
+    {
+    "bruce-idontknow2": {
+      "tags": ["bruce", "i dont know"]
     }},
     {
     "bruce-ihaveneverseen": {
@@ -69,6 +85,10 @@
     {
     "bruce-ismokedalotofpot": {
       "tags": ["bruce", "drugs"]
+    }},
+    {
+    "bruce-iwasntthere": {
+      "tags": ["bruce", "i wasnt there"]
     }},
     {
     "bruce-jerrydontcare": {
@@ -107,6 +127,10 @@
       "tags": ["bruce", "dirt sheets", "mitchell"]
     }},
     {
+    "bruce-murder": {
+      "tags": ["bruce", "murder"]
+    }},
+    {
     "bruce-oneoftheonlytimes": {
       "tags": ["bruce", "bar"]
     }},
@@ -127,12 +151,20 @@
       "tags": ["bruce"]
     }},
     {
+    "bruce-usedtobeover": {
+      "tags": ["bruce", "i used to be over"]
+    }},
+    {
     "bruce-warrioru": {
       "tags": ["bruce", "story", "warrior"]
     }},
     {
     "bruce-whostheasshole": {
       "tags": ["bruce", "asshole"]
+    }},
+    {
+    "bruce-wrasslin": {
+      "tags": ["bruce", "wrasslin"]
     }}
   ],
   "conrad": [
@@ -147,6 +179,22 @@
     {
     "conrad-cheatonme": {
       "tags": ["conrad", "cheat"]
+    }},
+    {
+    "conrad-conman": {
+      "tags": ["conrad", "conman"]
+    }},
+    {
+    "conrad-cya": {
+      "tags": ["conrad", "cover your ass"]
+    }},
+    {
+    "conrad-dead": {
+      "tags": ["conrad", "dead"]
+    }},
+    {
+    "conrad-dodgeball": {
+      "tags": ["conrad", "dodgeball"]
     }},
     {
     "conrad-donttrythis": {
@@ -173,6 +221,10 @@
       "tags": ["conrad", "fuck", "hunter"]
     }},
     {
+    "conrad-idontknowwhen": {
+      "tags": ["conrad", "i dont know when well talk about"]
+    }},
+    {
     "conrad-imfromhuntsville": {
       "tags": ["alabama", "conrad"]
     }},
@@ -187,6 +239,10 @@
     {
     "conrad-laughing": {
       "tags": ["conrad", "laughing"]
+    }},
+    {
+    "conrad-murder": {
+      "tags": ["conrad", "murder"]
     }},
     {
     "conrad-poll": {
@@ -207,6 +263,14 @@
     {
     "conrad-theonlydrug": {
       "tags": ["conrad", "drug"]
+    }},
+    {
+    "conrad-wasteoftime": {
+      "tags": ["conrad", "waste of time"]
+    }},
+    {
+    "conrad-weird": {
+      "tags": ["conrad", "weird"]
     }}
   ],
   "jerry": [
@@ -313,6 +377,10 @@
     {
     "vince-goddamnyoubruce": {
       "tags": ["goddamn", "impression", "vince"]
+    }},
+    {
+    "vince-hessotiny": {
+      "tags": ["tiny", "impression", "vince"]
     }},
     {
     "vince-ratingsdamnit": {
@@ -450,6 +518,10 @@
     }}
   ],
   "gimmicks": [
+    {
+    "gimmicks-tee": {
+      "tags": ["gimmicks", "tee", "prowrestling tees"]
+    }},
     {
     "gimmicks-bruce1": {
       "tags": ["gimmicks", "bruce"]
