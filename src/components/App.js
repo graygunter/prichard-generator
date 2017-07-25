@@ -53,13 +53,9 @@ class App extends Component {
 
       showAboutScreen: false,
 
-      url: "http://www.graybearllc.com/audio/",
-
       soundToPlay: undefined,
 
       soundTileBeingDragged: undefined,
-
-      fileExtension: ".mp3",
 
       keybuttonAssignments: {
 
@@ -148,7 +144,7 @@ class App extends Component {
       return (
 
         <Sound 
-              url={this.state.url + this.state.soundToPlay + this.state.fileExtension}
+              url={require(`../audio/${this.state.soundToPlay}.mp3`)}
               playStatus="PLAYING" 
               onFinishedPlaying={this.state.soundQueuesPlayback ? this.playSoundQueueFinish : this.playSoundFinish}/>
 
