@@ -127,7 +127,7 @@ body {
   z-index: 1; }
   .virtual-keyboard .virtual-keyboard-rows {
     height: 100%;
-    padding-top: 5%;
+    padding-top: 10%;
     position: absolute;
     width: 100%;
     z-index: 2; }
@@ -328,7 +328,6 @@ body {
       .sound-palette .sound-tile .file.small {
         font-size: 6px; }
     .sound-palette .sound-tile .sound-tile-buttons {
-      background-color: #333;
       bottom: 0;
       padding: 5px 0;
       position: absolute;
@@ -339,8 +338,7 @@ body {
         -ms-border-radius: 50%;
         border-radius: 50%;
         background: none;
-        display: block;
-        float: left;
+        display: inline;
         font-size: .4rem;
         height: 15px;
         margin: 0 3px;

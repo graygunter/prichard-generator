@@ -1,4 +1,10 @@
 {
+  "mlw": [
+    {
+    "mlw-hooked": {
+      "tags": ["mlw"]
+    }}
+  ],  
   "bruce": [
     {
     "bruce-briscofuckwith": {
@@ -365,6 +371,12 @@
     {
     "rumors-hooked": {
       "tags": ["rumors"]
+    }}
+  ],
+  "gimmicks": [
+    {
+    "gimmicks-hooked": {
+      "tags": ["gimmicks"]
     }}
   ]
 }
