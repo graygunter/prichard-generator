@@ -11,6 +11,14 @@
       "tags": ["brisco", "asshole"]
     }},  
     {
+    "bruce-autopsy": {
+      "tags": ["brisco", "autopsy", "cocaine", "drugs"]
+    }},  
+    {
+    "bruce-beenthere": {
+      "tags": ["brisco", "been there"]
+    }},  
+    {
     "bruce-blameme": {
       "tags": ["brisco", "blame"]
     }},    
@@ -51,12 +59,20 @@
       "tags": ["bruce", "i dont care"]
     }},
     {
+    "bruce-drugstuff": {
+      "tags": ["bruce", "drugs"]
+    }},
+    {
     "bruce-guilty": {
       "tags": ["bruce", "guilty"]
     }},
     {
     "bruce-hiphiphooray": {
       "tags": ["bruce", "hip hip hooray"]
+    }},
+    {
+    "bruce-hismom": {
+      "tags": ["bruce", "mom"]
     }},
     {
     "bruce-iamanasshole": {
@@ -109,6 +125,10 @@
     {
     "bruce-kickedinthenuts": {
       "tags": ["bruce"]
+    }},
+    {
+    "bruce-meltzerdisagree": {
+      "tags": ["bruce", "mama"]
     }},
     {
     "bruce-meltzerdisagree": {
@@ -165,10 +185,18 @@
     {
     "bruce-whathappens": {
       "tags": ["bruce", "what happens"]
+    }},  
+    {
+    "bruce-whatif": {
+      "tags": ["bruce", "what if"]
     }},    
     {
     "bruce-whostheasshole": {
       "tags": ["bruce", "asshole"]
+    }},
+    {
+    "bruce-willienelson": {
+      "tags": ["bruce", "drugs", "willie nelson", "weed"]
     }},
     {
     "bruce-wrasslin": {
@@ -183,6 +211,10 @@
     {
     "conrad-awkwardlysilent": {
       "tags": ["conrad", "silent"]
+    }},
+    {
+    "conrad-bustballs": {
+      "tags": ["conrad", "balls", "twitter"]
     }},
     {
     "conrad-cheatonme": {
@@ -215,6 +247,10 @@
     {
     "conrad-flair": {
       "tags": ["conrad", "flair"]
+    }},
+    {
+    "conrad-hot1": {
+      "tags": ["conrad", "hot"]
     }},
     {
     "conrad-getover": {
@@ -253,6 +289,10 @@
       "tags": ["conrad", "laughing"]
     }},
     {
+    "conrad-lovetoknow": {
+      "tags": ["conrad", "hashtag", "love to know"]
+    }},
+    {
     "conrad-murder": {
       "tags": ["conrad", "murder"]
     }},
@@ -287,6 +327,10 @@
     {
     "conrad-weird": {
       "tags": ["conrad", "weird"]
+    }},
+    {
+    "conrad-whobooked": {
+      "tags": ["conrad", "booking", "shit"]
     }}
   ],
   "jerry": [
@@ -531,16 +575,46 @@
     {
     "rumors-conrad6": {
       "tags": ["conrad", "rumors and innuendo"]
+    }},
+    {
+    "rumors-conrad7": {
+      "tags": ["conrad", "rumors and innuendo"]
     }}
   ],
   "gimmicks": [
     {
-    "gimmicks-tee": {
-      "tags": ["gimmicks", "tee", "prowrestling tees"]
-    }},
-    {
     "gimmicks-bruce1": {
       "tags": ["gimmicks", "bruce"]
+    }},
+    {
+    "gimmicks-bruce2": {
+      "tags": ["gimmicks", "bruce"]
+    }},
+    {
+    "gimmicks-conrad": {
+      "tags": ["gimmicks", "conrad"]
+    }},
+    {
+    "gimmicks-tee": {
+      "tags": ["gimmicks", "tee", "prowrestling tees"]
+    }}
+  ],
+  "piper": [
+    {
+    "piper-hooked": {
+      "tags": ["piper"]
+    }}
+  ],
+  "dootdootdoot": [
+    {
+    "dootdootdoot-hooked": {
+      "tags": ["doot doot doot", "michael ps hayes", "knaves"]
+    }}
+  ],
+  "hogan": [
+    {
+    "hogan-hooked": {
+      "tags": ["hogan"]
     }}
   ]
 }
