@@ -33,7 +33,7 @@ class SoundPaletteTile extends Component {
                     style={{backgroundImage: iconPath}}>    
               </div>
               <div className={
-                classNames("file", fileName.length > 16 ? "small" : null)}>
+                classNames("file", fileName.length > 12 ? "small" : null)}>
                   {fileName}
               </div>              
             </div>

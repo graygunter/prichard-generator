@@ -52,7 +52,7 @@ table {
 .about-button .inner-text, .about-close .inner-text, .sound-queue .sound-queue-buttons button .inner-text {
   color: #fff;
   font-family: 'Oswald', sans-serif;
-  font-size: 0.6rem;
+  font-size: 1rem;
   font-weight: 700;
   letter-spacing: 1px;
   pointer-events: none;
@@ -86,7 +86,7 @@ body {
     padding-bottom: 100px;
     position: relative;
     width: 100%;
-    max-width: 550px; }
+    max-width: 750px; }
   body .firstcharacter {
     color: #0070c9;
     float: left;
@@ -97,12 +97,12 @@ body {
     padding-right: 8px;
     padding-left: 3px; }
   body h2 {
-    font-size: 2rem;
+    font-size: 4rem;
     font-weight: 700;
     margin-bottom: 1%; }
   body p {
-    font-size: .9rem;
-    line-height: 1.35rem;
+    font-size: 1.75rem;
+    line-height: 2.5rem;
     margin-bottom: 3%; }
   body a {
     color: #ff0033; }
@@ -113,9 +113,10 @@ body {
 
 .about-button, .about-close {
   background-color: #0070c9;
-  position: absolute;
-  right: 5px;
-  top: 5px;
+  padding: 0.5% 1%;
+  position: fixed;
+  right: 10px;
+  top: 10px;
   z-index: 10; }
 
 .virtual-keyboard {
@@ -146,7 +147,7 @@ body {
         box-sizing: border-box;
         color: white;
         display: inline-block;
-        font-size: 1.5rem;
+        font-size: 3rem;
         font-weight: 700;
         height: 10%;
         margin: 5px;
@@ -166,6 +167,7 @@ body {
               background: none;
               color: #ff0033;
               cursor: pointer;
+              font-size: 20px;
               font-weight: 700;
               left: 2px;
               padding: 0;
@@ -178,11 +180,11 @@ body {
               background-repeat: no-repeat;
               background-size: cover;
               display: block;
-              height: 30px;
+              height: 60px;
               left: 50%;
-              margin-left: -15px;
+              margin-left: -30px;
               position: absolute;
-              width: 30px; }
+              width: 60px; }
             .virtual-keyboard .virtual-keyboard-rows .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file span {
               opacity: 0; }
   .virtual-keyboard .virtual-keyboard-background {
@@ -253,19 +255,21 @@ body {
         background-repeat: no-repeat;
         background-size: cover;
         float: left;
-        height: 15px;
-        margin-right: 5px;
-        width: 15px; }
+        height: 60px;
+        margin-right: 10px;
+        width: 60px; }
       .sound-queue .sound-queue-tiles .sound-queue-tile .text {
         float: left;
-        line-height: 14px; }
+        font-size: 1.5rem;
+        line-height: 3rem; }
       .sound-queue .sound-queue-tiles .sound-queue-tile button {
         background: none;
         color: #ff0033;
         margin-right: 8px;
-        margin-top: 1px;
         padding: 0;
-        float: right; }
+        float: right;
+        font-size: 1.5rem;
+        line-height: 3rem; }
       .sound-queue .sound-queue-tiles .sound-queue-tile:nth-child(even) {
         background-color: #a7d8ff; }
   .sound-queue .sound-queue-buttons {
@@ -318,15 +322,15 @@ body {
       background-repeat: no-repeat;
       background-size: contain;
       display: block;
-      height: 50px;
-      margin-top: 3px;
+      height: 100px;
+      margin-top: 10px;
       width: 100%; }
     .sound-palette .sound-tile .file {
-      font-size: 10px;
       text-align: center;
       width: 100%; }
       .sound-palette .sound-tile .file.small {
-        font-size: 6px; }
+        font-size: 0.9rem;
+        margin-top: 5px; }
     .sound-palette .sound-tile .sound-tile-buttons {
       bottom: 0;
       padding: 5px 0;
@@ -339,11 +343,10 @@ body {
         border-radius: 50%;
         background: none;
         display: inline;
-        font-size: .4rem;
-        height: 15px;
+        height: 30px;
         margin: 0 3px;
         position: relative;
-        width: 15px; }
+        width: 30px; }
       .sound-palette .sound-tile .sound-tile-buttons .sound-tile-play {
         background-color: #0d8b00; }
         .sound-palette .sound-tile .sound-tile-buttons .sound-tile-play i {
