@@ -8,27 +8,31 @@
   "bruce": [
     {
     "bruce-again": {
-      "tags": ["brisco", "again"]
+      "tags": ["bruce", "again"]
     }},
     {
     "bruce-amitheasshole": {
-      "tags": ["brisco", "asshole"]
+      "tags": ["bruce", "asshole"]
     }},  
     {
     "bruce-apologize": {
-      "tags": ["brisco", "apologize"]
+      "tags": ["bruce", "apologize"]
+    }}, 
+    {
+    "bruce-asshole": {
+      "tags": ["bruce", "he was an asshole"]
     }}, 
     {
     "bruce-autopsy": {
-      "tags": ["brisco", "autopsy", "cocaine", "drugs"]
+      "tags": ["bruce", "autopsy", "cocaine", "drugs"]
     }}, 
     {
     "bruce-beattheshit": {
-      "tags": ["brisco", "beat", "shit"]
+      "tags": ["bruce", "beat", "shit"]
     }},  
     {
     "bruce-beenthere": {
-      "tags": ["brisco", "been there"]
+      "tags": ["bruce", "been there"]
     }},  
     {
     "bruce-bellrang1": {
@@ -77,6 +81,10 @@
     {
     "bruce-casket": {
       "tags": ["bruce", "casket"]
+    }},
+    {
+    "bruce-clintinhershey": {
+      "tags": ["bruce", "clint", "hershey"]
     }},
     {
     "bruce-cowboytieup1": {
@@ -345,8 +353,16 @@
   ],
   "conrad": [
     {
+    "conrad-already": {
+      "tags": ["conrad", "already pissed off"]
+    }},
+    {
     "conrad-amazing": {
       "tags": ["conrad", "amazing"]
+    }},
+    {
+    "conrad-archives": {
+      "tags": ["conrad", "archives"]
     }},
     {
     "conrad-areyouserious": {
@@ -359,6 +375,14 @@
     {
     "conrad-awkwardlysilent": {
       "tags": ["conrad", "silent"]
+    }},
+    {
+    "conrad-backtoarguing": {
+      "tags": ["conrad", "assholes", "arguing"]
+    }},
+    {
+    "conrad-ballbusting": {
+      "tags": ["conrad", "busting balls"]
     }},
     {
     "conrad-bruceprichard": {
@@ -397,6 +421,10 @@
       "tags": ["conrad", "dodgeball"]
     }},
     {
+    "conrad-dontgethot": {
+      "tags": ["conrad", "hot"]
+    }},
+    {
     "conrad-donttrythis": {
       "tags": ["conrad", "dont try this"]
     }},
@@ -433,6 +461,10 @@
       "tags": ["conrad", "tweets"]
     }},
     {
+    "conrad-highandmighty": {
+      "tags": ["conrad", "high and mighty", "fuck"]
+    }},
+    {
     "conrad-hunter": {
       "tags": ["conrad", "fuck", "hunter"]
     }},
@@ -459,6 +491,10 @@
     {
     "conrad-jerrywhenareweever": {
       "tags": ["conrad", "jerry"]
+    }},
+    {
+    "conrad-katievick": {
+      "tags": ["conrad", "katie vick", "voted for"]
     }},
     {
     "conrad-laughing1": {
@@ -489,8 +525,16 @@
       "tags": ["conrad", "murder"]
     }},
     {
-    "conrad-poll": {
+    "conrad-peeinthering": {
+      "tags": ["conrad", "pee in the ring"]
+    }},
+    {
+    "conrad-poll1": {
       "tags": ["conrad", "poll"]
+    }},
+    {
+    "conrad-poll2": {
+      "tags": ["conrad", "poll", "check out our poll"]
     }},
     {
     "conrad-prop": {
@@ -519,6 +563,10 @@
     {
     "conrad-shitoneverything": {
       "tags": ["conrad", "shit on everything"]
+    }}, 
+    {
+    "conrad-shorter": {
+      "tags": ["conrad", "shorter", "a damn lie"]
     }}, 
     {
     "conrad-splithairs": {
@@ -563,6 +611,10 @@
     {
     "conrad-whobooked": {
       "tags": ["conrad", "booking", "shit"]
+    }},
+    {
+    "conrad-whw": {
+      "tags": ["conrad", "hashtag", "what happened when"]
     }},
     {
     "conrad-yougothot": {
@@ -707,7 +759,15 @@
       "tags": ["ecw"]
     }},
     {
+    "ecw-b14": {
+      "tags": ["ecw"]
+    }},
+    {
     "ecw-i17": {
+      "tags": ["ecw"]
+    }},
+    {
+    "ecw-i62": {
       "tags": ["ecw"]
     }},
     {
@@ -731,6 +791,14 @@
       "tags": ["meltzer", "conrad", "con man"]
     }},
     {
+    "meltzer-doesntknow": {
+      "tags": ["meltzer", "doesnt know", "as usual"]
+    }},
+    {
+    "meltzer-fuckmeltzer1": {
+      "tags": ["meltzer", "bruce", "fuck", "fuck dave meltzer"]
+    }},
+    {
     "meltzer-isntright": {
       "tags": ["meltzer", "conrad"]
     }},
@@ -745,6 +813,10 @@
     {
     "meltzer-notdone": {
       "tags": ["meltzer", "conrad"]
+    }},
+    {
+    "meltzer-rhymes": {
+      "tags": ["meltzer", "rhymes with"]
     }}
   ],
   "pwtorch": [
@@ -812,6 +884,10 @@
     }},    
     {
     "ribs-conrad1": {
+      "tags": ["conrad", "rib"]
+    }},
+    {
+    "ribs-conrad2": {
       "tags": ["conrad", "rib"]
     }},
     {
@@ -883,6 +959,10 @@
     {
     "rumors-conrad10": {
       "tags": ["conrad", "rumors and innuendo"]
+    }},
+    {
+    "rumors-penis": {
+      "tags": ["conrad", "rumors and innuendo", "penis"]
     }}
   ],
   "gimmicks": [

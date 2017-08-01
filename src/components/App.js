@@ -33,6 +33,8 @@ class App extends Component {
 
     this.handleSoundTileDrop = this.handleSoundTileDrop.bind(this);
 
+    this.handleSoundTileDetail = this.handleSoundTileDetail.bind(this);
+
     this.handleSoundTilePlay = this.handleSoundTilePlay.bind(this);
 
     this.keybuttonFileRemoved = this.keybuttonFileRemoved.bind(this);
@@ -52,6 +54,8 @@ class App extends Component {
     this.state = {
 
       showAboutScreen: false,
+
+      showPaletteTileDetail: false,
 
       soundToPlay: undefined,
 
@@ -245,6 +249,10 @@ class App extends Component {
 
   }
 
+  handleSoundTileDetail() {
+    
+  }
+
   keybuttonFileRemoved(keybutton) {
 
     this.newKeybuttonAssignment(keybutton.props.keybuttonValue, undefined);
@@ -278,7 +286,6 @@ class App extends Component {
       <div>
 
         <AboutScreen 
-
                       handleAboutClose={this.handleAboutClose}/>
 
       </div>
@@ -287,7 +294,19 @@ class App extends Component {
 
   }
 
-  showInteractionScreen() {
+  showPaletteTileDetail() {
+
+    return (
+
+      <div>
+        Palette Tile Detail
+      </div>
+
+    );
+
+  }
+
+  showGenerator() {
 
     return (
 
@@ -321,12 +340,24 @@ class App extends Component {
 
         <SoundPalette 
                       audioData={audioData}
+                      handleSoundTileDetail={this.handleSoundTileDetail}
                       handleSoundTileDrag={this.handleSoundTileDrag}
                       handleSoundTileDragEnd={this.handleSoundTileDragEnd}
                       handleSoundTilePlay={this.handleSoundTilePlay} 
-                      handleSoundTileRefresh={this.handleSoundTileRefresh}
                       randomNumber={this.randomNumber}/>
         
+      </div>
+
+    );
+
+  }
+
+  showInteractionScreen() {
+
+    return (
+
+      <div>
+        {this.state.showPaletteTileDetail ? this.showPaletteTileDetail() : this.showGenerator()}
       </div>
 
     );
