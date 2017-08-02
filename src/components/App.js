@@ -8,6 +8,7 @@ import keyboardData from '../json/keyboardData.json';
 import AboutScreen from './AboutScreen';
 import SoundPalette from './SoundPalette';
 import SoundQueue from './SoundQueue';
+import SoundTileExplore from './SoundTileExplore';
 import VirtualKeyboard from './VirtualKeyboard';
 
 import '../css/App.css';
@@ -33,7 +34,7 @@ class App extends Component {
 
     this.handleSoundTileDrop = this.handleSoundTileDrop.bind(this);
 
-    this.handleSoundTileDetail = this.handleSoundTileDetail.bind(this);
+    this.handleSoundTileExplore = this.handleSoundTileExplore.bind(this);
 
     this.handleSoundTilePlay = this.handleSoundTilePlay.bind(this);
 
@@ -55,7 +56,7 @@ class App extends Component {
 
       showAboutScreen: false,
 
-      showPaletteTileDetail: false,
+      soundTileToExplore: null,
 
       soundToPlay: undefined,
 
@@ -249,8 +250,10 @@ class App extends Component {
 
   }
 
-  handleSoundTileDetail() {
-    
+  handleSoundTileExplore(soundTile) {
+
+    this.setState({soundTileToExplore: soundTile});
+
   }
 
   keybuttonFileRemoved(keybutton) {
@@ -294,13 +297,12 @@ class App extends Component {
 
   }
 
-  showPaletteTileDetail() {
+  showSoundTileExplore() {
 
     return (
 
-      <div>
-        Palette Tile Detail
-      </div>
+      <SoundTileExplore 
+                        tileData={audioData[this.state.soundTileToExplore]}/>
 
     );
 
@@ -340,9 +342,9 @@ class App extends Component {
 
         <SoundPalette 
                       audioData={audioData}
-                      handleSoundTileDetail={this.handleSoundTileDetail}
                       handleSoundTileDrag={this.handleSoundTileDrag}
                       handleSoundTileDragEnd={this.handleSoundTileDragEnd}
+                      handleSoundTileExplore={this.handleSoundTileExplore}
                       handleSoundTilePlay={this.handleSoundTilePlay} 
                       randomNumber={this.randomNumber}/>
         
@@ -357,7 +359,7 @@ class App extends Component {
     return (
 
       <div>
-        {this.state.showPaletteTileDetail ? this.showPaletteTileDetail() : this.showGenerator()}
+        {this.state.soundTileToExplore ? this.showSoundTileExplore() : this.showGenerator()}
       </div>
 
     );

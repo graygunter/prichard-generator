@@ -15,9 +15,9 @@ class SoundPalette extends Component {
       let soundArray = audioData[tile];
 
       let newTile = (<SoundPaletteTile 
-                                handleSoundTileDetail={this.props.handleSoundTileDetail}
                                 handleSoundTileDrag={this.props.handleSoundTileDrag}
                                 handleSoundTileDragEnd={this.props.handleSoundTileDragEnd}
+                                handleSoundTileExplore={this.props.handleSoundTileExplore}
                                 handleSoundTilePlay={this.props.handleSoundTilePlay}
                                 key={"SoundPaletteTile-" + tile}
                                 name={tile}
