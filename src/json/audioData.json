@@ -135,6 +135,14 @@
       "tags": ["bruce", "false"]
     }},
     {
+    "bruce-fatsamoan": {
+      "tags": ["bruce", "fat", "samoan"]
+    }},
+    {
+    "bruce-fatwhiteguy": {
+      "tags": ["bruce", "fat", "white guy"]
+    }},
+    {
     "bruce-fuckit": {
       "tags": ["bruce", "fuck", "yeah"]
     }},
@@ -169,6 +177,10 @@
     {
     "bruce-iamanasshole": {
       "tags": ["bruce", "asshole"]
+    }},
+    {
+    "bruce-icantell": {
+      "tags": ["bruce", "i can tell", "hot"]
     }},
     {
     "bruce-idaresay": {
@@ -311,6 +323,10 @@
       "tags": ["bruce", "rubbed wrong"]
     }},
     {
+    "bruce-segueway": {
+      "tags": ["bruce", "segueway"]
+    }},
+    {
     "bruce-simply1": {
       "tags": ["bruce", "simply"]
     }},
@@ -409,6 +425,10 @@
     {
     "bruce-wrasslin": {
       "tags": ["bruce", "wrasslin"]
+    }},
+    {
+    "bruce-yourehot": {
+      "tags": ["bruce", "youre getting hot"]
     }}
   ],
   "conrad": [
@@ -463,6 +483,10 @@
     {
     "conrad-bruceprichard": {
       "tags": ["conrad", "bruce prichard"]
+    }},
+    {
+    "conrad-bullshitanswer": {
+      "tags": ["conrad", "bullshit", "answer"]
     }},
     {
     "conrad-bustballs": {
@@ -575,6 +599,10 @@
     {
     "conrad-imfromhuntsville": {
       "tags": ["alabama", "conrad"]
+    }},
+    {
+    "conrad-imnothot": {
+      "tags": ["conrad", "im not hot"]
     }},
     {
     "conrad-isthisreal": {
@@ -717,6 +745,10 @@
       "tags": ["conrad", "drug"]
     }},
     {
+    "conrad-therealanswer": {
+      "tags": ["conrad", "the real answer"]
+    }},
+    {
     "conrad-thereyougo": {
       "tags": ["conrad", "there you go"]
     }},
@@ -751,6 +783,10 @@
     {
     "conrad-wrotethisshit": {
       "tags": ["conrad", "bruce", "wrotethisshit"]
+    }},
+    {
+    "conrad-wtfumaga": {
+      "tags": ["conrad", "wtf", "umaga"]
     }},
     {
     "conrad-yougothot": {
@@ -1249,6 +1285,12 @@
     {
     "love-itsamiracle": {
       "tags": ["love", "its a miracle"]
+    }}
+  ],
+  "russo": [
+    {
+    "russo-ilike": {
+      "tags": ["russo", "i like vince russo"]
     }}
   ]
 }
