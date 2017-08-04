@@ -287,12 +287,20 @@
       "tags": ["bruce", "bar"]
     }},
     {
+    "bruce-pornconnoisseur": {
+      "tags": ["bruce", "porn", "connoisseur"]
+    }},
+    {
     "bruce-prowrestlingtees": {
       "tags": ["bruce", "prowrestling tees"]
     }},
     {
     "bruce-pullout": {
       "tags": ["bruce", "pull out"]
+    }},
+    {
+    "bruce-respectballs": {
+      "tags": ["bruce", "respect", "balls"]
     }},
     {
     "bruce-rooster": {
@@ -333,6 +341,10 @@
     {
     "bruce-stupidquestions": {
       "tags": ["bruce", "conrad", "stupid quesitons"]
+    }},
+    {
+    "bruce-teeonyourback": {
+      "tags": ["bruce", "snake", "tee on your back"]
     }},
     {
     "bruce-tendertummy": {
@@ -489,6 +501,10 @@
       "tags": ["conrad", "hot"]
     }},
     {
+    "conrad-dontputat": {
+      "tags": ["conrad", "dont put a t"]
+    }},
+    {
     "conrad-donttrythis": {
       "tags": ["conrad", "dont try this"]
     }},
@@ -531,6 +547,10 @@
     {
     "conrad-highandmighty": {
       "tags": ["conrad", "high and mighty", "fuck"]
+    }},
+    {
+    "conrad-hotonthis": {
+      "tags": ["conrad", "hot"]
     }},
     {
     "conrad-hunter": {
@@ -625,6 +645,10 @@
       "tags": ["conrad", "poll", "check out our poll"]
     }},
     {
+    "conrad-pornconnoisseur": {
+      "tags": ["conrad", "porn", "connoisseur"]
+    }},
+    {
     "conrad-prop": {
       "tags": ["conrad", "prop"]
     }},
@@ -632,6 +656,10 @@
     "conrad-retort": {
       "tags": ["conrad", "retort"]
     }},
+    {
+    "conrad-respecttheballs": {
+      "tags": ["conrad", "respect", "balls"]
+    }}, 
     {
     "conrad-ridiculous": {
       "tags": ["conrad", "ridiculous"]
@@ -659,7 +687,11 @@
     {
     "conrad-shorter": {
       "tags": ["conrad", "shorter", "a damn lie"]
-    }}, 
+    }},
+    {
+    "conrad-soold": {
+      "tags": ["conrad", "bruce", "so old"]
+    }},
     {
     "conrad-splithairs": {
       "tags": ["conrad", "split hairs"]
@@ -715,6 +747,10 @@
     {
     "conrad-whw": {
       "tags": ["conrad", "hashtag", "what happened when"]
+    }},
+    {
+    "conrad-wrotethisshit": {
+      "tags": ["conrad", "bruce", "wrotethisshit"]
     }},
     {
     "conrad-yougothot": {
@@ -863,6 +899,10 @@
       "tags": ["tiny", "impression", "vince"]
     }},
     {
+    "vince-hicksoutherner": {
+      "tags": ["vince", "hick", "southerner"]
+    }},
+    {
     "vince-ratingsdamnit": {
       "tags": ["impression", "vince"]
     }},
@@ -953,8 +993,12 @@
   ],
   "pwtorch": [
     {
-    "pwtorch-hooked": {
-      "tags": ["pwtorch"]
+    "pwtorch-bitchboy": {
+      "tags": ["pwtorch", "greensboro", "bitchboy", "jackoff"]
+    }},
+    {
+    "pwtorch-greensborojackoff": {
+      "tags": ["pwtorch", "greensboro", "jackoff"]
     }}
   ],
   "heyman": [
@@ -999,8 +1043,32 @@
   ],
   "andre": [
     {
-    "andre-hooked": {
-      "tags": ["andre"]
+    "andre-bloodymary": {
+      "tags": ["andre", "bloody mary"]
+    }},
+    {
+    "andre-hrmurm": {
+      "tags": ["andre", "hr", "murm"]
+    }},
+    {
+    "andre-newspaper": {
+      "tags": ["andre", "newspaper"]
+    }}, 
+    {
+    "andre-screwdriver": {
+      "tags": ["andre", "screwdriver"]
+    }},
+    {
+    "andre-shit": {
+      "tags": ["andre", "shit"]
+    }},
+    {
+    "andre-urm": {
+      "tags": ["andre", "urm"]
+    }}, 
+    {
+    "andre-whatsthis": {
+      "tags": ["andre", "what this"]
     }}
   ],
   "milmascaras": [
@@ -1025,6 +1093,14 @@
     {
     "ribs-conrad3": {
       "tags": ["ribs", "conrad"]
+    }},
+    {
+    "ribs-everything": {
+      "tags": ["ribs", "everythings a rib"]
+    }},
+    {
+    "ribs-speakingof": {
+      "tags": ["ribs", "speaking of"]
     }},
     {
     "ribs-steroidtrial": {
@@ -1097,6 +1173,10 @@
       "tags": ["conrad", "rumors and innuendo"]
     }},
     {
+    "rumors-dontdeal": {
+      "tags": ["bruce", "rumors and innuendo"]
+    }},
+    {
     "rumors-incorrectly": {
       "tags": ["conrad", "rumors and innuendo", "incorrectly"]
     }},
@@ -1155,6 +1235,20 @@
     {
     "brisco-hooked": {
       "tags": ["brisco", "hooker", "impression"]
+    }}
+  ],
+  "love": [
+    {
+    "love-behealed": {
+      "tags": ["love", "be healed"]
+    }},
+    {
+    "love-healing": {
+      "tags": ["love", "healing if you will"]
+    }},
+    {
+    "love-itsamiracle": {
+      "tags": ["love", "its a miracle"]
     }}
   ]
 }

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import SoundTileExploreItem from './SoundTileExploreItem';
 
 class SoundTileExplore extends Component {
 
@@ -6,9 +7,11 @@ class SoundTileExplore extends Component {
 
     for(let i = 0; i < this.props.tileData.length; i++) {
 
+        for(let file in this.props.tileData[i]) {
 
-        for(let file in this.props.tileData[i])
           console.log(file);
+        
+        }
 
     }
 
@@ -19,7 +22,6 @@ class SoundTileExplore extends Component {
     return (
 
       <div className="sound-tile-explore">
-
 
         {this.generateSoundTileExploreFiles()}
 
