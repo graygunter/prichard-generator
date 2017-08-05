@@ -373,8 +373,10 @@ body {
     text-transform: uppercase; }
   .sound-tile-explore .left-column .explore-info h4 {
     font-size: 2rem; }
-    .sound-tile-explore .left-column .explore-info h4 span {
-      color: #ff0033; }
+  .sound-tile-explore .left-column .explore-info h5 {
+    font-size: 1.25rem; }
+  .sound-tile-explore .left-column .explore-info span {
+    color: #ff0033; }
 .sound-tile-explore .explore-items {
   box-sizing: border-box;
   height: 100%;

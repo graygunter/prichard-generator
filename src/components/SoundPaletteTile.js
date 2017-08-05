@@ -70,19 +70,22 @@ class SoundPaletteTile extends Component {
             
             <button 
                     className="sound-tile-play"
-                    onClick={() => this.props.handleSoundPlay(this.state.file)}>
+                    onClick={() => this.props.handleSoundPlay(this.state.file)}
+                    title="Test Play">
                       <i className="fa fa-play" aria-hidden="true"></i>
             </button>
             
             <button 
                     className="sound-tile-explore"
-                    onClick={() => this.props.handleSoundTileExplore(this.props.name)}>
+                    onClick={() => this.props.handleSoundTileExplore(this.props.name)}
+                    title="Explore Audio Files">
                       <i className="fa fa-search" aria-hidden="true"></i>
             </button>
 
             <button 
                     className="sound-tile-refresh"
-                    onClick={this.getRandomSound}>
+                    onClick={this.getRandomSound}
+                    title="Random Refresh">
                       <i className="fa fa-refresh" aria-hidden="true"></i>
             </button>
 

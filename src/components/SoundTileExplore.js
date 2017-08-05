@@ -67,6 +67,8 @@ class SoundTileExplore extends Component {
 
             <h4><span>{this.props.tileData.length}</span> {audioClipsString}</h4>
 
+            <h5>Clip currently selected: </h5>
+
           </div>
 
         </div>

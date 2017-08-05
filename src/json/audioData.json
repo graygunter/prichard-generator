@@ -609,9 +609,13 @@
       "tags": ["conrad", "go ahead", "twitter"]
     }},
     {
-    "conrad-googlemachine": {
+    "conrad-googlemachine1": {
       "tags": ["conrad", "google"]
-    }},    
+    }}, 
+    {
+    "conrad-googlemachine2": {
+      "tags": ["conrad", "google"]
+    }},  
     {
     "conrad-hatetweets": {
       "tags": ["conrad", "tweets"]
