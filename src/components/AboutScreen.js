@@ -9,8 +9,8 @@ class AboutScreen extends Component {
       <div className="about-screen">
 
         <button 
-                className="about-close"
-                onClick={() => this.props.handleAboutClose()}>
+                className="back-button"
+                onClick={() => this.props.handleBackClick()}>
 
                 <div className="inner-text">
                   <i className="fa fa-chevron-circle-left" aria-hidden="true"></i> back

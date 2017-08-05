@@ -2,11 +2,11 @@
   "mlw": [
     {
     "mlw-neverstops": {
-      "tags": ["mlw"]
+      "tags": ["mlw", "never stops"]
     }},
     {
     "mlw-production": {
-      "tags": ["mlw"]
+      "tags": ["mlw", "production"]
     }}
   ],  
   "bruce": [
@@ -99,6 +99,10 @@
       "tags": ["bruce", "clint", "hershey"]
     }},
     {
+    "bruce-correct": {
+      "tags": ["bruce", "correct"]
+    }},
+    {
     "bruce-cowboytieup1": {
       "tags": ["bruce", "cowboy", "tie up"]
     }},
@@ -112,11 +116,15 @@
     }},
     {
     "bruce-didntbeat": {
-      "tags": ["bruce"]
+      "tags": ["bruce", "beat", "sheet"]
     }},
     {
     "bruce-dirtsheets": {
-      "tags": ["bruce", "dirt sheets", "johnson", "keller", "meltzer"]
+      "tags": ["bruce", "dirt sheets", "keller", "meltzer"]
+    }},
+    {
+    "bruce-dirtyattheend": {
+      "tags": ["bruce", "dirty"]
     }},
     {
     "bruce-dontcare": {
@@ -219,7 +227,11 @@
       "tags": ["bruce", "drugs"]
     }},
     {
-    "bruce-iwasntthere": {
+    "bruce-iwasntthere1": {
+      "tags": ["bruce", "i wasnt there"]
+    }},
+    {
+    "bruce-iwasntthere2": {
       "tags": ["bruce", "i wasnt there"]
     }},
     {
@@ -244,7 +256,7 @@
     }},
     {
     "bruce-kickedinthenuts": {
-      "tags": ["bruce"]
+      "tags": ["bruce", "kick", "nuts"]
     }},
     {
     "bruce-laugh": {
@@ -316,7 +328,7 @@
     }},
     {
     "bruce-rooster": {
-      "tags": ["bruce", "rooster", "cock a doodle doo man", "terry taylor"]
+      "tags": ["bruce", "cock a doodle doo man", "terry taylor"]
     }},
     {
     "bruce-rubbedmewrong": {
@@ -352,7 +364,7 @@
     }},
     {
     "bruce-stopaskingifiknow": {
-      "tags": ["bruce"]
+      "tags": ["bruce", "i know", "i dont"]
     }},
     {
     "bruce-stupidquestions": {
@@ -396,7 +408,7 @@
     }},
     {
     "bruce-washethere": {
-      "tags": ["bruce"]
+      "tags": ["bruce", "was he there"]
     }},
     {
     "bruce-whathappens": {
@@ -481,6 +493,10 @@
       "tags": ["conrad", "beat", "santa"]
     }},
     {
+    "conrad-brookehogan": {
+      "tags": ["conrad", "brooke hogan"]
+    }},
+    {
     "conrad-bruceprichard": {
       "tags": ["conrad", "bruce prichard"]
     }},
@@ -557,6 +573,10 @@
       "tags": ["conrad", "over"]
     }}, 
     {
+    "conrad-goahead": {
+      "tags": ["conrad", "go ahead", "twitter"]
+    }},
+    {
     "conrad-googlemachine": {
       "tags": ["conrad", "google"]
     }},    
@@ -564,6 +584,10 @@
     "conrad-hatetweets": {
       "tags": ["conrad", "tweets"]
     }},
+    {
+    "conrad-hoes": {
+      "tags": ["conrad", "too much time", "hoes"]
+    }}, 
     {
     "conrad-howmuchcocaine": {
       "tags": ["conrad", "cocaine", "drugs"]
@@ -641,6 +665,10 @@
       "tags": ["conrad", "racist"]
     }},
     {
+    "conrad-lovearguing": {
+      "tags": ["conrad", "love", "arguing"]
+    }},
+    {
     "conrad-lovetoknow": {
       "tags": ["conrad", "hashtag", "love to know"]
     }},
@@ -705,6 +733,10 @@
       "tags": ["conrad", "roll tide"]
     }},  
     {
+    "conrad-sandman": {
+      "tags": ["conrad", "sandman", "singing"]
+    }},
+    {
     "conrad-sexscandals": {
       "tags": ["conrad", "sex scandals", "90s"]
     }}, 
@@ -715,6 +747,10 @@
     {
     "conrad-shorter": {
       "tags": ["conrad", "shorter", "a damn lie"]
+    }},
+    {
+    "conrad-showsshort": {
+      "tags": ["conrad", "short", "a damn lie"]
     }},
     {
     "conrad-soold": {
@@ -735,6 +771,10 @@
     {
     "conrad-thatllgetover": {
       "tags": ["conrad", "over"]
+    }}, 
+    {
+    "conrad-thisisapodcast": {
+      "tags": ["conrad", "podcast", "whisper"]
     }},  
     {
     "conrad-tinhisname": {
@@ -1251,14 +1291,46 @@
   ],
   "dootdootdoot": [
     {
-    "dootdootdoot-hooked": {
-      "tags": ["doot doot doot", "michael ps hayes", "knaves"]
+    "dootdootdoot-cool1": {
+      "tags": ["doot doot doot", "cool"]
+    }},
+    {
+    "dootdootdoot-cool2": {
+      "tags": ["doot doot doot", "cool"]
+    }},
+    {
+    "dootdootdoot-dootdootdoot1": {
+      "tags": ["doot doot doot", "doot", "doot", "doot"]
+    }},
+    {
+    "dootdootdoot-dootdootdoot2": {
+      "tags": ["doot doot doot", "doot", "doot", "doot"]
+    }},
+    {
+    "dootdootdoot-knaves": {
+      "tags": ["doot doot doot", "knaves"]
+    }},
+    {
+    "dootdootdoot-jackets1": {
+      "tags": ["doot doot doot", "jackets"]
+    }},
+    {
+    "dootdootdoot-jackets2": {
+      "tags": ["doot doot doot", "jackets"]
+    }},
+    {
+    "dootdootdoot-michaelpshayes": {
+      "tags": ["doot doot doot", "michael p.s. hayes", "knaves"]
+    }},
+    {
+    "dootdootdoot-utensils": {
+      "tags": ["doot doot doot", "knives", "forks", "spoons"]
     }}
   ],
   "hogan": [
     {
-    "hogan-hooked": {
-      "tags": ["hogan"]
+    "hogan-doesntwork": {
+      "tags": ["hogan", "doesnt work", "brother"]
     }}
   ],
   "millertime": [

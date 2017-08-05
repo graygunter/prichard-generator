@@ -27,7 +27,7 @@ class SoundQueue extends Component {
 
   render() {
     return (
-      <div className="sound-queue">
+      <div className="left-column">
 
         <h1 className="title">
         	Something to Generate

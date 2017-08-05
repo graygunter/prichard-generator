@@ -20,7 +20,7 @@ class App extends Component {
 
     super();
 
-    this.handleAboutClose = this.handleAboutClose.bind(this);
+    this.handleBackClick = this.handleBackClick.bind(this);
 
     this.handleAboutPress = this.handleAboutPress.bind(this);
 
@@ -82,12 +82,21 @@ class App extends Component {
 
   }
 
-  handleAboutClose() {
+  handleBackClick() {
 
-    let body = document.querySelector("body");
-    body.className = "";
+    if(this.state.showAboutScreen) {
 
-    this.setState({showAboutScreen : false});
+      let body = document.querySelector("body");
+      body.className = "";
+
+      this.setState({showAboutScreen : false});
+
+    }
+    else {
+
+      this.setState({soundTileToExplore : null});
+
+    }
 
   }
 
@@ -289,7 +298,7 @@ class App extends Component {
       <div>
 
         <AboutScreen 
-                      handleAboutClose={this.handleAboutClose}/>
+                      handleBackClick={this.handleBackClick}/>
 
       </div>
 
@@ -302,6 +311,8 @@ class App extends Component {
     return (
 
       <SoundTileExplore 
+                        exploreTitle={this.state.soundTileToExplore}
+                        handleBackClick={this.handleBackClick}
                         tileData={audioData[this.state.soundTileToExplore]}/>
 
     );
