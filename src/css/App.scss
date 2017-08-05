@@ -550,41 +550,30 @@ body {
 
       }
 
-      .explore-item-buttons {
+      .explore-item-name-and-button {
 
-        text-align: right;
+        @extend %clearfix;
+        font-size: 2rem;
+        margin-bottom: 6%;
+
+        .explore-item-name {
+          float: left;
+        }
 
         button {
 
           @include border-radius(50%);
           background: none;
-          display: inline;
+          background-color: $green;
+          display: block;
+          float: left;
           height: 30px;
+          margin-left: 10px;
+          margin-top: 4px;
           position: relative;
           width: 30px;
 
-          &.explore-item-play {
-
-            background-color: $green;
-            margin-right: 3px;
-
-          }
-
-          &.explore-item-select {
-            
-            background-color: #ccc;
-
-          }
-
         }
-
-      }
-
-      .explore-item-name {
-
-        @extend %clearfix;
-        font-size: 2rem;
-        margin-bottom: 6%;
 
       }
 

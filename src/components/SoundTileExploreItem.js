@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import classNames from 'classnames';
 
 class SoundTileExploreItem extends Component {
 
@@ -7,6 +8,12 @@ class SoundTileExploreItem extends Component {
     super();
 
     this.buildTags = this.buildTags.bind(this);
+
+    this.state = {
+
+      isCurrentlySelected: false
+
+    }
 
   }
 
@@ -37,22 +44,25 @@ class SoundTileExploreItem extends Component {
 
     return (
 
-      <div className="explore-item">
+      <div className={
+        classNames("explore-item", this.state.isCurrentlySelected ? "selected" : null)}>
 
         <div className="explore-item-buttons">
 
-          <button className="explore-item-play">
+        </div>
+
+        <div className="explore-item-name-and-button">
+
+          <div className="explore-item-name">
+            {this.props.itemName}
+          </div>
+
+          <button 
+                  className="explore-item-play"
+                  onClick={() => this.props.handleSoundPlay(this.props.exploreTitle + "-" + this.props.itemName)}>
             <i className="fa fa-play" aria-hidden="true"></i>
           </button>
 
-          <button className="explore-item-select">
-            <i className="fa fa-check" aria-hidden="true"></i>
-          </button>
-
-        </div>
-
-        <div className="explore-item-name">
-          {this.props.itemName}
         </div>
 
         <div className="explore-item-tags">

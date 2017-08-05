@@ -70,7 +70,7 @@ class SoundPaletteTile extends Component {
             
             <button 
                     className="sound-tile-play"
-                    onClick={() => this.props.handleSoundTilePlay(this.state.file)}>
+                    onClick={() => this.props.handleSoundPlay(this.state.file)}>
                       <i className="fa fa-play" aria-hidden="true"></i>
             </button>
             

@@ -61,7 +61,7 @@ table {
   text-transform: uppercase;
   width: 100%; }
 
-.left-column .sound-queue-tiles .sound-queue-tile:after, .sound-palette .sound-tile .sound-tile-buttons:after, .sound-tile-explore .explore-items .explore-item .explore-item-name:after {
+.left-column .sound-queue-tiles .sound-queue-tile:after, .sound-palette .sound-tile .sound-tile-buttons:after, .sound-tile-explore .explore-items .explore-item .explore-item-name-and-button:after {
   content: "";
   display: table;
   clear: both; }
@@ -394,26 +394,25 @@ body {
     .sound-tile-explore .explore-items .explore-item:nth-child(even) {
       background-color: rgba(0, 112, 201, 0.1);
       border: 1px solid #0070c9; }
-    .sound-tile-explore .explore-items .explore-item .explore-item-buttons {
-      text-align: right; }
-      .sound-tile-explore .explore-items .explore-item .explore-item-buttons button {
+    .sound-tile-explore .explore-items .explore-item .explore-item-name-and-button {
+      font-size: 2rem;
+      margin-bottom: 6%; }
+      .sound-tile-explore .explore-items .explore-item .explore-item-name-and-button .explore-item-name {
+        float: left; }
+      .sound-tile-explore .explore-items .explore-item .explore-item-name-and-button button {
         -webkit-border-radius: 50%;
         -moz-border-radius: 50%;
         -ms-border-radius: 50%;
         border-radius: 50%;
         background: none;
-        display: inline;
+        background-color: #0d8b00;
+        display: block;
+        float: left;
         height: 30px;
+        margin-left: 10px;
+        margin-top: 4px;
         position: relative;
         width: 30px; }
-        .sound-tile-explore .explore-items .explore-item .explore-item-buttons button.explore-item-play {
-          background-color: #0d8b00;
-          margin-right: 3px; }
-        .sound-tile-explore .explore-items .explore-item .explore-item-buttons button.explore-item-select {
-          background-color: #ccc; }
-    .sound-tile-explore .explore-items .explore-item .explore-item-name {
-      font-size: 2rem;
-      margin-bottom: 6%; }
     .sound-tile-explore .explore-items .explore-item .explore-item-tags {
       font-size: 1rem; }
       .sound-tile-explore .explore-items .explore-item .explore-item-tags .tag {

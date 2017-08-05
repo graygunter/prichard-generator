@@ -36,7 +36,7 @@ class App extends Component {
 
     this.handleSoundTileExplore = this.handleSoundTileExplore.bind(this);
 
-    this.handleSoundTilePlay = this.handleSoundTilePlay.bind(this);
+    this.handleSoundPlay = this.handleSoundPlay.bind(this);
 
     this.keybuttonFileRemoved = this.keybuttonFileRemoved.bind(this);
 
@@ -253,7 +253,9 @@ class App extends Component {
 
   } 
 
-  handleSoundTilePlay(soundTileToPlay) {
+  handleSoundPlay(soundTileToPlay) {
+
+    console.log(soundTileToPlay);
 
     this.playSound(soundTileToPlay);
 
@@ -313,6 +315,7 @@ class App extends Component {
       <SoundTileExplore 
                         exploreTitle={this.state.soundTileToExplore}
                         handleBackClick={this.handleBackClick}
+                        handleSoundPlay={this.handleSoundPlay}
                         tileData={audioData[this.state.soundTileToExplore]}/>
 
     );
@@ -324,8 +327,6 @@ class App extends Component {
     return (
 
       <div>
-
-        {this.state.soundToPlay ? this.soundFile() : null}
 
         <button 
                 className="about-button"
@@ -356,7 +357,7 @@ class App extends Component {
                       handleSoundTileDrag={this.handleSoundTileDrag}
                       handleSoundTileDragEnd={this.handleSoundTileDragEnd}
                       handleSoundTileExplore={this.handleSoundTileExplore}
-                      handleSoundTilePlay={this.handleSoundTilePlay} 
+                      handleSoundPlay={this.handleSoundPlay} 
                       randomNumber={this.randomNumber}/>
         
       </div>
@@ -382,7 +383,11 @@ class App extends Component {
     return (
 
       <div>
+
+        {this.state.soundToPlay ? this.soundFile() : null}
+
         {this.state.showAboutScreen ? this.showAboutScreen() : this.showInteractionScreen()}
+      
       </div>
 
     );

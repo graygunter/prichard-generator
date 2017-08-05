@@ -2,11 +2,11 @@
   "mlw": [
     {
     "mlw-neverstops": {
-      "tags": ["mlw", "never stops"]
+      "tags": ["mlw", "never stops", "outro"]
     }},
     {
     "mlw-production": {
-      "tags": ["mlw", "production"]
+      "tags": ["mlw", "production", "intro"]
     }}
   ],  
   "bruce": [
@@ -28,7 +28,7 @@
     }}, 
     {
     "bruce-asshole": {
-      "tags": ["bruce", "he was an asshole"]
+      "tags": ["bruce", "he was an", "asshole"]
     }}, 
     {
     "bruce-autopsy": {
@@ -171,6 +171,10 @@
       "tags": ["bruce", "hated it"]
     }},
     {
+    "bruce-hesondrugs": {
+      "tags": ["bruce", "drugs"]
+    }},
+    {
     "bruce-hiphiphooray": {
       "tags": ["bruce", "hip hip hooray"]
     }},
@@ -303,6 +307,10 @@
       "tags": ["bruce", "never gonna", "dollar amount"]
     }},
     {
+    "bruce-nipslip": {
+      "tags": ["bruce", "nipslip"]
+    }},
+    {
     "bruce-notgonnasay": {
       "tags": ["bruce", "not gonna say", "dollar amount"]
     }},
@@ -343,8 +351,8 @@
       "tags": ["bruce", "simply"]
     }},
     {
-    "bruce-steroids": {
-      "tags": ["bruce", "steroids"]
+    "bruce-shiteat": {
+      "tags": ["bruce", "shit", "where you eat"]
     }},
     {
     "bruce-shittingsouth": {
@@ -357,6 +365,10 @@
     {
     "bruce-squash": {
       "tags": ["bruce", "squash"]
+    }},
+    {
+    "bruce-steroids": {
+      "tags": ["bruce", "steroids"]
     }},
     {
     "bruce-stinkers": {
@@ -393,6 +405,10 @@
     {
     "bruce-thisisreal": {
       "tags": ["bruce", "this is real"]
+    }},
+    {
+    "bruce-twittermachine": {
+      "tags": ["bruce", "twitter", "machine"]
     }},
     {
     "bruce-ummm": {
@@ -441,6 +457,10 @@
     {
     "bruce-yourehot": {
       "tags": ["bruce", "youre getting hot"]
+    }},
+    {
+    "bruce-yourturn": {
+      "tags": ["bruce", "your turn"]
     }}
   ],
   "conrad": [
@@ -549,6 +569,10 @@
       "tags": ["conrad", "dont try this"]
     }},
     {
+    "conrad-doublepenetration": {
+      "tags": ["conrad", "double penetration"]
+    }},
+    {
     "conrad-doyourealize": {
       "tags": ["conrad", "impression"]
     }},
@@ -563,6 +587,14 @@
     {
     "conrad-fuckinfoolproof": {
       "tags": ["conrad", "fuck", "fool proof"]
+    }},
+    {
+    "conrad-fuckingknow": {
+      "tags": ["conrad", "fuck", "talk"]
+    }},
+    {
+    "conrad-fullboob": {
+      "tags": ["conrad", "full", "boob"]
     }},
     {
     "conrad-hot1": {
@@ -963,10 +995,6 @@
       "tags": ["goddamn", "impression", "vince"]
     }},
     {
-    "vince-goddamnitwhatareyoulaughing": {
-      "tags": ["goddamn", "impression", "vince"]
-    }},
-    {
     "vince-goddamnyoubruce": {
       "tags": ["goddamn", "impression", "vince"]
     }},
@@ -989,6 +1017,10 @@
     {
     "vince-washyourhands": {
       "tags": ["impression", "vince"]
+    }},
+    {
+    "vince-whatareyoulaughing": {
+      "tags": ["goddamn", "impression", "vince"]
     }}
   ],
   "warrior": [
@@ -1115,6 +1147,10 @@
     {
     "cornette-snake": {
       "tags": ["cornette", "snake", "jake roberts", "impression"]
+    }},
+    {
+    "cornette-steamingturds": {
+      "tags": ["cornette", "steaming", "turds"]
     }}
   ],
   "andre": [

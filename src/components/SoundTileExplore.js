@@ -19,6 +19,7 @@ class SoundTileExplore extends Component {
 
         let newItem = <SoundTileExploreItem
                                             exploreTitle={this.props.exploreTitle}
+                                            handleSoundPlay={this.props.handleSoundPlay}
                                             itemName={fileName} 
                                             key={"SoundTileExploreItem-" + fileName} 
                                             tags={currentTags}/>
@@ -64,7 +65,7 @@ class SoundTileExplore extends Component {
 
             <h3>{this.props.exploreTitle}</h3>
 
-            <h4><span>{this.props.tileData.length}</span> audio clips</h4>
+            <h4><span>{this.props.tileData.length}</span> {audioClipsString}</h4>
 
           </div>
 

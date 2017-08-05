@@ -18,7 +18,7 @@ class SoundPalette extends Component {
                                 handleSoundTileDrag={this.props.handleSoundTileDrag}
                                 handleSoundTileDragEnd={this.props.handleSoundTileDragEnd}
                                 handleSoundTileExplore={this.props.handleSoundTileExplore}
-                                handleSoundTilePlay={this.props.handleSoundTilePlay}
+                                handleSoundPlay={this.props.handleSoundPlay}
                                 key={"SoundPaletteTile-" + tile}
                                 name={tile}
                                 randomNumber={this.props.randomNumber}
