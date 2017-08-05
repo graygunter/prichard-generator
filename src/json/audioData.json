@@ -56,15 +56,15 @@
     }},  
     {
     "bruce-beltmagic": {
-      "tags": ["brisco", "belt", "magic"]
+      "tags": ["bruce", "belt", "magic"]
     }}, 
     {
     "bruce-beltprop": {
-      "tags": ["brisco", "belt", "prop"]
+      "tags": ["bruce", "belt", "prop"]
     }},  
     {
     "bruce-blameme": {
-      "tags": ["brisco", "blame"]
+      "tags": ["bruce", "blame"]
     }},    
     {
     "bruce-briscoass": {
@@ -93,6 +93,10 @@
     {
     "bruce-casket": {
       "tags": ["bruce", "casket"]
+    }},
+    {
+    "bruce-chizart": {
+      "tags": ["bruce", "chizart", "carnie"]
     }},
     {
     "bruce-clintinhershey": {
@@ -131,8 +135,20 @@
       "tags": ["bruce", "i dont care"]
     }},
     {
+    "bruce-donthaveaclue": {
+      "tags": ["bruce", "dont a clue"]
+    }},
+    {
+    "bruce-dontremember": {
+      "tags": ["bruce", "dont", "remember"]
+    }},
+    {
     "bruce-drugstuff": {
       "tags": ["bruce", "drugs"]
+    }},
+    {
+    "bruce-easytiger": {
+      "tags": ["bruce", "easy tiger"]
     }},
     {
     "bruce-entertainment": {
@@ -149,6 +165,10 @@
     {
     "bruce-fatwhiteguy": {
       "tags": ["bruce", "fat", "white guy"]
+    }},
+    {
+    "bruce-fistfucker": {
+      "tags": ["bruce", "fist", "fuck"]
     }},
     {
     "bruce-fuckit": {
@@ -228,7 +248,11 @@
     }},
     {
     "bruce-ismokedalotofpot": {
-      "tags": ["bruce", "drugs"]
+      "tags": ["bruce", "drugs", "pot", "pills"]
+    }},
+    {
+    "bruce-itsucked": {
+      "tags": ["bruce", "sucked", "personally"]
     }},
     {
     "bruce-iwasntthere1": {
@@ -347,10 +371,6 @@
       "tags": ["bruce", "segueway"]
     }},
     {
-    "bruce-simply1": {
-      "tags": ["bruce", "simply"]
-    }},
-    {
     "bruce-shiteat": {
       "tags": ["bruce", "shit", "where you eat"]
     }},
@@ -361,6 +381,14 @@
     {
     "bruce-shovelback": {
       "tags": ["bruce", "shovel", "bury"]
+    }},
+    {
+    "bruce-simply1": {
+      "tags": ["bruce", "simply"]
+    }},
+    {
+    "bruce-sisterkissing": {
+      "tags": ["bruce", "kissing your sister"]
     }},
     {
     "bruce-squash": {
@@ -581,6 +609,14 @@
       "tags": ["conrad", "fake iraqis", "super bowl"]
     }},
     {
+    "conrad-familyshow": {
+      "tags": ["conrad", "family", "show"]
+    }},
+    {
+    "conrad-fistfucker": {
+      "tags": ["conrad", "hashtag", "fist", "fuck"]
+    }},
+    {
     "conrad-flair": {
       "tags": ["conrad", "flair"]
     }},
@@ -615,6 +651,10 @@
     {
     "conrad-googlemachine2": {
       "tags": ["conrad", "google"]
+    }},
+    {
+    "conrad-guitarjunk": {
+      "tags": ["conrad", "guitar", "junk"]
     }},  
     {
     "conrad-hatetweets": {
@@ -623,6 +663,10 @@
     {
     "conrad-hoes": {
       "tags": ["conrad", "too much time", "hoes"]
+    }}, 
+    {
+    "conrad-hookah": {
+      "tags": ["conrad", "hookah", "fuck"]
     }}, 
     {
     "conrad-howmuchcocaine": {
@@ -709,6 +753,10 @@
       "tags": ["conrad", "hashtag", "love to know"]
     }},
     {
+    "conrad-moneytalk": {
+      "tags": ["conrad", "money talk"]
+    }},
+    {
     "conrad-mountie1": {
       "tags": ["conrad", "mountie"]
     }},
@@ -771,6 +819,10 @@
     {
     "conrad-sandman": {
       "tags": ["conrad", "sandman", "singing"]
+    }},
+    {
+    "conrad-sayiwasntthere": {
+      "tags": ["conrad", "say", "i wasnt there"]
     }},
     {
     "conrad-sexscandals": {
@@ -973,8 +1025,28 @@
   ],
   "dusty": [
     {
+    "dusty-badasslook": {
+      "tags": ["dusty", "badass", "look"]
+    }},
+    {
     "dusty-cutitoff": {
-      "tags": ["dusty", "cut it off"]
+      "tags": ["dusty", "cut it off", "impression"]
+    }},
+    {
+    "dusty-eagleclaw1": {
+      "tags": ["dusty", "eagle claw", "impression"]
+    }},
+    {
+    "dusty-eagleclaw2": {
+      "tags": ["dusty", "eagle claw", "impression"]
+    }},
+    {
+    "dusty-polkadots": {
+      "tags": ["dusty", "polkadots", "impression"]
+    }},
+    {
+    "dusty-pumpkinhead": {
+      "tags": ["dusty", "pumpkinhead", "impression"]
     }}
   ],
   "jr": [
@@ -996,41 +1068,49 @@
   "vince": [
     {
     "vince-goddamniloveit": {
-      "tags": ["goddamn", "impression", "vince"]
+      "tags": ["vince", "goddamn", "impression", "bruce"]
     }},
     {
     "vince-goddamnyoubruce": {
-      "tags": ["goddamn", "impression", "vince"]
+      "tags": ["vince", "goddamn", "impression", "bruce"]
     }},
     {
     "vince-hessotiny": {
-      "tags": ["tiny", "impression", "vince"]
+      "tags": ["vince", "tiny", "impression", "bruce"]
     }},
     {
     "vince-hicksoutherner": {
-      "tags": ["vince", "hick", "southerner"]
+      "tags": ["vince", "hick", "southerner", "bruce"]
+    }},
+    {
+    "vince-polkadots": {
+      "tags": ["vince", "impression", "polkadots", "conrad"]
     }},
     {
     "vince-ratingsdamnit": {
-      "tags": ["impression", "vince"]
+      "tags": ["vince", "impression", "bruce"]
     }},
     {
     "vince-shitinthebucket": {
-      "tags": ["impression", "shit", "vince"]
+      "tags": ["vince", "impression", "shit", "bruce"]
+    }},
+    {
+    "vince-warriorpal": {
+      "tags": ["vince", "impression", "conrad"]
     }},
     {
     "vince-washyourhands": {
-      "tags": ["impression", "vince"]
+      "tags": ["vince", "impression", "bruce"]
     }},
     {
     "vince-whatareyoulaughing": {
-      "tags": ["goddamn", "impression", "vince"]
+      "tags": ["vince", "goddamn", "impression", "bruce"]
     }}
   ],
   "warrior": [
     {
     "warrior-dextrucity": {
-      "tags": ["impression", "warriror"]
+      "tags": ["warriror", "impression"]
     }}
   ],
   "ecw": [
@@ -1040,6 +1120,10 @@
     }},
     {
     "ecw-b14": {
+      "tags": ["ecw"]
+    }},
+    {
+    "ecw-g718": {
       "tags": ["ecw"]
     }},
     {
@@ -1229,6 +1313,10 @@
   ],
   "rumors": [
     {   
+    "rumors-asyoudsay": {
+      "tags": ["bruce", "rumors and innuendo", "as youd say"] 
+    }},
+    {   
     "rumors-bruce1": {
       "tags": ["bruce", "rumors and innuendo"] 
     }},
@@ -1344,6 +1432,14 @@
     }},
     {
     "dootdootdoot-dootdootdoot2": {
+      "tags": ["doot doot doot", "doot", "doot", "doot"]
+    }},
+    {
+    "dootdootdoot-dootdootdoot3": {
+      "tags": ["doot doot doot", "doot", "doot", "doot"]
+    }},
+    {
+    "dootdootdoot-dootdootdoot4": {
       "tags": ["doot doot doot", "doot", "doot", "doot"]
     }},
     {

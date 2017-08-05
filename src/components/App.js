@@ -58,6 +58,8 @@ class App extends Component {
 
       soundTileToExplore: null,
 
+      soundTileToExploreCurrentSelection: null,
+
       soundToPlay: undefined,
 
       soundTileBeingDragged: undefined,
@@ -255,15 +257,16 @@ class App extends Component {
 
   handleSoundPlay(soundTileToPlay) {
 
-    console.log(soundTileToPlay);
-
     this.playSound(soundTileToPlay);
 
   }
 
-  handleSoundTileExplore(soundTile) {
+  handleSoundTileExplore(soundTile, currentSelection) {
 
-    this.setState({soundTileToExplore: soundTile});
+    this.setState({
+      soundTileToExplore: soundTile,
+      soundTileToExploreCurrentSelection: currentSelection
+    });
 
   }
 
@@ -313,6 +316,7 @@ class App extends Component {
     return (
 
       <SoundTileExplore 
+                        currentSelection={this.state.soundTileToExploreCurrentSelection}
                         exploreTitle={this.state.soundTileToExplore}
                         handleBackClick={this.handleBackClick}
                         handleSoundPlay={this.handleSoundPlay}

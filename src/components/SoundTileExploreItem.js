@@ -27,7 +27,7 @@ class SoundTileExploreItem extends Component {
 
         let tag = (<div className="tag"
                         key={"Tag-" + this.props.itemName + i}>
-                    {this.props.tags[i]}
+                          {"#" + this.props.tags[i]}
                   </div>);
 
         tagsArray.push(tag);
@@ -47,9 +47,12 @@ class SoundTileExploreItem extends Component {
       <div className={
         classNames("explore-item", this.state.isCurrentlySelected ? "selected" : null)}>
 
-        <div className="explore-item-buttons">
-
-        </div>
+        <button
+                className="select-button">
+                  <div className="inner-text">
+                    Select
+                  </div>
+        </button>
 
         <div className="explore-item-name-and-button">
 

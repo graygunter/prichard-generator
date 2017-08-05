@@ -39,17 +39,17 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-.about-button, .back-button, .left-column .sound-queue-buttons button {
+.about-button, .back-button, .left-column .sound-queue-buttons button, .sound-tile-explore .explore-items .explore-item .select-button {
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
   border-radius: 5px;
   box-shadow: 1px 2px 1px rgba(0, 0, 0, 0.5);
   cursor: pointer; }
-  .about-button:hover, .back-button:hover, .left-column .sound-queue-buttons button:hover {
+  .about-button:hover, .back-button:hover, .left-column .sound-queue-buttons button:hover, .sound-tile-explore .explore-items .explore-item .select-button:hover {
     box-shadow: none; }
 
-.about-button .inner-text, .back-button .inner-text, .left-column .sound-queue-buttons button .inner-text {
+.about-button .inner-text, .back-button .inner-text, .left-column .sound-queue-buttons button .inner-text, .sound-tile-explore .explore-items .explore-item .select-button .inner-text {
   color: #fff;
   font-family: 'Oswald', sans-serif;
   font-size: 1rem;
@@ -359,6 +359,7 @@ body {
         margin-left: -1px; }
 
 .sound-tile-explore .left-column .explore-info {
+  padding-top: 3%;
   text-align: center; }
   .sound-tile-explore .left-column .explore-info .icon {
     background-position: center;
@@ -370,13 +371,17 @@ body {
     width: 100%; }
   .sound-tile-explore .left-column .explore-info h3 {
     font-size: 3rem;
+    font-weight: 700;
     text-transform: uppercase; }
   .sound-tile-explore .left-column .explore-info h4 {
-    font-size: 2rem; }
+    font-size: 2rem;
+    margin-bottom: 10%; }
   .sound-tile-explore .left-column .explore-info h5 {
-    font-size: 1.25rem; }
+    font-size: 1.25rem;
+    margin-bottom: 5%; }
   .sound-tile-explore .left-column .explore-info span {
-    color: #ff0033; }
+    color: #ff0033;
+    font-weight: 700; }
 .sound-tile-explore .explore-items {
   box-sizing: border-box;
   height: 100%;
@@ -390,12 +395,24 @@ body {
     box-sizing: border-box;
     display: inline-block;
     padding: 1% 1% 2% 2%;
+    position: relative;
     width: 33.333%; }
     .sound-tile-explore .explore-items .explore-item:nth-child(odd) {
       border: 1px solid rgba(0, 0, 0, 0.3); }
     .sound-tile-explore .explore-items .explore-item:nth-child(even) {
       background-color: rgba(0, 112, 201, 0.1);
       border: 1px solid #0070c9; }
+    .sound-tile-explore .explore-items .explore-item .select-button {
+      background-color: #0070c9;
+      display: none;
+      padding: 5px 10px;
+      position: absolute;
+      right: 10px;
+      top: 10px; }
+    .sound-tile-explore .explore-items .explore-item:hover .select-button {
+      display: block; }
+    .sound-tile-explore .explore-items .explore-item:hover.selected .select-button {
+      display: none; }
     .sound-tile-explore .explore-items .explore-item .explore-item-name-and-button {
       font-size: 2rem;
       margin-bottom: 6%; }
@@ -418,10 +435,8 @@ body {
     .sound-tile-explore .explore-items .explore-item .explore-item-tags {
       font-size: 1rem; }
       .sound-tile-explore .explore-items .explore-item .explore-item-tags .tag {
-        background-color: #0070c9;
-        color: #FFF;
+        color: #666;
         display: inline-block;
-        margin-right: 5px;
-        padding: 5px 10px; }
+        margin-right: 5px; }
 
 /*# sourceMappingURL=App.css.map */

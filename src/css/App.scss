@@ -482,6 +482,7 @@ body {
 
     .explore-info {
 
+      padding-top: 3%;
       text-align: center;
 
       .icon {
@@ -499,6 +500,7 @@ body {
       h3 {
 
         font-size: 3rem;
+        font-weight: 700;
         text-transform: uppercase;
 
       }
@@ -506,18 +508,21 @@ body {
       h4 {
 
         font-size: 2rem;
+        margin-bottom: 10%;
 
       }
 
       h5 {
 
         font-size: 1.25rem;
+        margin-bottom: 5%;
 
       }
 
       span {
 
         color: $red;
+        font-weight: 700;
 
       }
 
@@ -541,6 +546,7 @@ body {
       box-sizing: border-box;
       display: inline-block;
       padding: 1% 1% 2% 2%;
+      position: relative;
       width: 33.333%;
 
       &:nth-child(odd) {
@@ -553,6 +559,34 @@ body {
 
         background-color: $blue-light;
         border: 1px solid $blue;
+
+      }
+
+      .select-button {
+
+        @extend %standard-button;
+        background-color: $blue;
+        display: none;
+        padding: 5px 10px;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+
+        .inner-text {
+          @extend %standard-button-text;
+        }
+
+      }
+
+      &:hover .select-button {
+
+        display: block;
+
+      }
+
+      &:hover.selected .select-button {
+
+        display: none;
 
       }
 
@@ -589,11 +623,9 @@ body {
 
         .tag {
 
-          background-color: $blue;
-          color: #FFF;
+          color: #666;
           display: inline-block;
           margin-right: 5px;
-          padding: 5px 10px;
 
         }
 

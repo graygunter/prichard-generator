@@ -3,6 +3,18 @@ import SoundTileExploreItem from './SoundTileExploreItem';
 
 class SoundTileExplore extends Component {
 
+  constructor() {
+
+    super();
+
+    this.state = {
+
+      currentSelection: undefined
+
+    }
+
+  }
+
   generateSoundTileExploreItems() {
 
     let exploreItemsArray = []
@@ -43,6 +55,13 @@ class SoundTileExplore extends Component {
     if(this.props.tileData.length > 1)
       audioClipsString += "s";
 
+    if(this.state.currentSelection) {
+
+      var currentSelectionName = this.state.currentSelection;
+      currentSelectionName = currentSelectionName.substring(currentSelectionName.indexOf("-") + 1, currentSelectionName.length);
+
+    }
+
     return (
 
       <div className="sound-tile-explore">
@@ -57,17 +76,19 @@ class SoundTileExplore extends Component {
 
           <div className="explore-info">
 
+            <h5>Now exploring the category: </h5>
+
+            <h3>{this.props.exploreTitle}</h3>
 
             <div 
                   className="icon"
                   style={{backgroundImage: iconPath}}>    
             </div>
 
-            <h3>{this.props.exploreTitle}</h3>
-
             <h4><span>{this.props.tileData.length}</span> {audioClipsString}</h4>
 
             <h5>Clip currently selected: </h5>
+            <h5><span>{currentSelectionName}</span></h5>
 
           </div>
 
@@ -89,6 +110,12 @@ class SoundTileExplore extends Component {
 
       </div>
     );
+
+  }
+
+  componentDidMount() {
+
+    this.setState({currentSelection: this.props.currentSelection});
 
   }
 
