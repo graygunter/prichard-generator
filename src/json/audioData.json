@@ -63,6 +63,10 @@
       "tags": ["bruce", "belt", "prop"]
     }},  
     {
+    "bruce-bigbastard": {
+      "tags": ["bruce", "big", "bastard"]
+    }},
+    {
     "bruce-blameme": {
       "tags": ["bruce", "blame"]
     }},    
@@ -77,6 +81,10 @@
     {
     "bruce-briscohooker": {
       "tags": ["brisco", "bruce", "hooker"]
+    }},
+    {
+    "bruce-bruceprichard": {
+      "tags": ["bruce", "bruce prichard"]
     }},   
     {
     "bruce-bulldog": {
@@ -179,6 +187,10 @@
       "tags": ["bruce", "gasp"]
     }},
     {
+    "bruce-gobbledygooker": {
+      "tags": ["bruce", "gobbledy gooker"]
+    }},
+    {
     "bruce-guilty": {
       "tags": ["bruce", "guilty"]
     }},
@@ -187,7 +199,11 @@
       "tags": ["bruce", "handcuff key", "cornette"]
     }},
     {
-    "bruce-hatedit": {
+    "bruce-hatedit1": {
+      "tags": ["bruce", "hated it"]
+    }},
+    {
+    "bruce-hatedit2": {
       "tags": ["bruce", "hated it"]
     }},
     {
@@ -253,6 +269,10 @@
     {
     "bruce-itsucked": {
       "tags": ["bruce", "sucked", "personally"]
+    }},
+    {
+    "bruce-iwanthim": {
+      "tags": ["bruce", "i want him"]
     }},
     {
     "bruce-iwasntthere1": {
@@ -645,12 +665,24 @@
       "tags": ["conrad", "go ahead", "twitter"]
     }},
     {
+    "conrad-gobbledygooker1": {
+      "tags": ["conrad", "gobbledy gooker"]
+    }},
+    {
+    "conrad-gobbledygooker2": {
+      "tags": ["conrad", "gobbledy gooker"]
+    }},
+    {
     "conrad-googlemachine1": {
-      "tags": ["conrad", "google"]
+      "tags": ["conrad", "google machine"]
     }}, 
     {
     "conrad-googlemachine2": {
-      "tags": ["conrad", "google"]
+      "tags": ["conrad", "google machine"]
+    }},
+    {
+    "conrad-googlemachine3": {
+      "tags": ["conrad", "google machine"]
     }},
     {
     "conrad-guitarjunk": {
@@ -737,6 +769,10 @@
       "tags": ["conrad", "laughing"]
     }},
     {
+    "conrad-leatherbydan": {
+      "tags": ["conrad", "leather by dan", "dot com"]
+    }},
+    {
     "conrad-lieattendence": {
       "tags": ["conrad", "attendence", "lie"]
     }},
@@ -751,6 +787,10 @@
     {
     "conrad-lovetoknow": {
       "tags": ["conrad", "hashtag", "love to know"]
+    }},
+    {
+    "conrad-madheadgame": {
+      "tags": ["conrad", "madheadgame"]
     }},
     {
     "conrad-moneytalk": {
@@ -853,6 +893,10 @@
       "tags": ["conrad", "something to wrestle with"]
     }},    
     {
+    "conrad-takingcredit": {
+      "tags": ["conrad", "credit", "shit"]
+    }},
+    {
     "conrad-thankyou": {
       "tags": ["conrad", "thank you"]
     }},  
@@ -901,8 +945,16 @@
       "tags": ["conrad", "weird"]
     }},
     {
+    "conrad-whatever": {
+      "tags": ["conrad", "give me", "im good with"]
+    }},
+    {
     "conrad-whobooked": {
       "tags": ["conrad", "booking", "shit"]
+    }},
+    {
+    "conrad-whywerehere": {
+      "tags": ["conrad", "why were here"]
     }},
     {
     "conrad-whw": {
@@ -924,103 +976,107 @@
   "jerry": [
     {
     "jerry-chicken": {
-      "tags": ["chicken", "chicken-salad", "impression", "jerry"]
+      "tags": ["jerry", "impression", "chicken", "chicken-salad"]
     }},
     {
     "jerry-chickensalad": {
-      "tags": ["chicken-salad", "impression", "jerry"]
+      "tags": ["jerry", "impression", "chicken-salad"]
     }},
     {
     "jerry-grapes1": {
-      "tags": ["chicken-salad", "impression", "jerry", "grapes", "you know"]
+      "tags": ["jerry", "impression", "chicken-salad", "grapes", "you know"]
     }},
     {
     "jerry-grapes2": {
-      "tags": ["chicken-salad", "impression", "jerry", "grapes", "you know"]
+      "tags": ["jerry", "impression", "chicken-salad", "grapes", "you know"]
     }},
     {   
     "jerry-hatevince": {
-      "tags": ["impression", "jerry", "vince"]
+      "tags": ["jerry", "impression", "vince"]
     }},
     {
     "jerry-hello": {
-      "tags": ["impression", "jerry"]
+      "tags": ["jerry", "impression"]
     }},
     {
     "jerry-huh1": {
-      "tags": ["huh", "impression", "jerry"]
+      "tags": ["jerry", "impression", "huh"]
     }},
     {
     "jerry-huh2": {
-      "tags": ["huh", "impression", "jerry"]
+      "tags": ["jerry", "impression", "huh"]
     }},
     {
     "jerry-huh3": {
-      "tags": ["huh", "impression", "jerry"]
+      "tags": ["jerry", "impression", "huh"]
     }},
     {
     "jerry-huh4": {
-      "tags": ["huh", "impression", "jerry"]
+      "tags": ["jerry", "impression", "huh"]
     }},
     {
     "jerry-idontknowanyone": {
-      "tags": ["impression", "jerry"]
+      "tags": ["jerry", "impression"]
     }},
     {
     "jerry-mayonnaise1": {
-      "tags": ["chicken-salad", "impression", "jerry", "mayonnaise"]
+      "tags": ["chicken-salad", "jerry", "impression", "mayonnaise"]
     }},
     {
     "jerry-mayonnaise2": {
-      "tags": ["chicken-salad", "impression", "jerry", "mayonnaise"]
+      "tags": ["chicken-salad", "jerry", "impression", "mayonnaise"]
     }},
     {
     "jerry-thisisjerry": {
-      "tags": ["impression", "jerry"]
+      "tags": ["jerry", "impression"]
     }},
     {
     "jerry-timeforlunch": {
-      "tags": ["impression", "jerry", "lunch"]
+      "tags": ["jerry", "impression", "lunch"]
     }},
     {
      "jerry-uhhuh": {
-      "tags": ["impression", "jerry"]
+      "tags": ["jerry", "impression"]
     }},
     {
     "jerry-walnuts1": {
-      "tags": ["chicken-salad", "impression", "jerry", "walnuts"]
+      "tags": ["jerry", "impression", "chicken-salad", "walnuts"]
     }},
     {
     "jerry-walnuts2": {
-      "tags": ["chicken-salad", "impression", "jerry", "walnuts"]
+      "tags": ["jerry", "impression", "chicken-salad", "walnuts"]
     }},
     {
     "jerry-youknow1": {
-      "tags": ["impression", "jerry", "you know"]
+      "tags": ["jerry", "impression", "you know"]
     }},
     {
     "jerry-youknow2": {
-      "tags": ["impression", "jerry", "you know"]
+      "tags": ["jerry", "impression", "you know"]
     }},
     {
     "jerry-youknow3": {
-      "tags": ["impression", "jerry", "you know"]
+      "tags": ["jerry", "impression", "you know"]
     }},
     {
     "jerry-youknow4": {
-      "tags": ["impression", "jerry", "you know"]
+      "tags": ["jerry", "impression", "you know"]
     }},
     {
     "jerry-youknow5": {
-      "tags": ["impression", "jerry", "you know"]
+      "tags": ["jerry", "impression", "you know"]
     }},
     {
     "jerry-youknow6": {
-      "tags": ["impression", "jerry", "you know"]
+      "tags": ["jerry", "impression", "you know"]
     }},
     {
     "jerry-youknow7": {
-      "tags": ["impression", "jerry", "you know"]
+      "tags": ["jerry", "impression", "you know"]
+    }},
+    {
+    "jerry-youknow8": {
+      "tags": ["jerry", "impression", "you know"]
     }}
   ],
   "dusty": [
@@ -1145,8 +1201,8 @@
   ],
   "funk": [
     {
-    "funk-hooked": {
-      "tags": ["funk"]
+    "funk-whore": {
+      "tags": ["funk", "whore"]
     }}
   ],
   "meltzer": [
@@ -1212,6 +1268,14 @@
     }}
   ],
   "cornette": [
+    {
+    "cornette-boxover1": {
+      "tags": ["cornette", "box", "over"]
+    }}, 
+    {
+    "cornette-boxover2": {
+      "tags": ["cornette", "box", "over"]
+    }}, 
     {
     "cornette-burger": {
       "tags": ["cornette", "burger", "double cheeseburger", "double mayo", "double onion"]
@@ -1295,6 +1359,10 @@
       "tags": ["ribs", "conrad"]
     }},
     {
+    "ribs-conrad4": {
+      "tags": ["ribs", "conrad"]
+    }},
+    {
     "ribs-everything": {
       "tags": ["ribs", "everythings a rib"]
     }},
@@ -1334,6 +1402,10 @@
     }},
     {
     "rumors-bruce5": {
+      "tags": ["bruce", "rumors and innuendo"] 
+    }},
+    {
+    "rumors-bruce6": {
       "tags": ["bruce", "rumors and innuendo"] 
     }},
     {
@@ -1467,6 +1539,10 @@
     {
     "hogan-doesntwork": {
       "tags": ["hogan", "doesnt work", "brother"]
+    }},
+    {
+    "hogan-mustpose": {
+      "tags": ["hogan", "must pose"]
     }}
   ],
   "millertime": [
@@ -1499,6 +1575,26 @@
     {
     "russo-ilike": {
       "tags": ["russo", "i like vince russo"]
+    }}
+  ],
+  "gobbledygooker": [
+    {
+    "gobbledygooker-gobbledygooker1": {
+      "tags": ["gobbledygooker"]
+    }},
+    {
+    "gobbledygooker-gobbledygooker1": {
+      "tags": ["gobbledygooker"]
+    }}
+  ],
+  "baby": [
+    {
+    "baby-babytonight1": {
+      "tags": ["baby", "alone with my baby tonight"]
+    }},
+    {
+    "baby-babytonight2": {
+      "tags": ["baby", "alone with my baby tonight"]
     }}
   ]
 }
