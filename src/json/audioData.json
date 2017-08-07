@@ -127,6 +127,10 @@
       "tags": ["bruce", "deadman", "taker"]
     }},
     {
+    "bruce-definitelyafuck": {
+      "tags": ["bruce", "definitely", "fuck"]
+    }},
+    {
     "bruce-didntbeat": {
       "tags": ["bruce", "beat", "sheet"]
     }},
@@ -245,6 +249,10 @@
     {
     "bruce-idontknow2": {
       "tags": ["bruce", "i dont know"]
+    }},
+    {
+    "bruce-idontremember": {
+      "tags": ["bruce", "i dont remember"]
     }},
     {
     "bruce-ihaveneverseen": {
@@ -431,6 +439,10 @@
       "tags": ["bruce", "conrad", "stupid quesitons"]
     }},
     {
+    "bruce-suchbullshit": {
+      "tags": ["bruce", "bullshit"]
+    }},
+    {
     "bruce-teeonyourback": {
       "tags": ["bruce", "snake", "tee on your back"]
     }},
@@ -453,6 +465,10 @@
     {
     "bruce-thisisreal": {
       "tags": ["bruce", "this is real"]
+    }},
+    {
+    "bruce-toradol": {
+      "tags": ["bruce", "toradol", "drugs"]
     }},
     {
     "bruce-twittermachine": {
@@ -537,6 +553,10 @@
       "tags": ["conrad", "serious"]
     }},
     {
+    "conrad-arnanderson": {
+      "tags": ["conrad", "arn anderson"]
+    }},
+    {
     "conrad-atprichardshow": {
       "tags": ["conrad", "@prichardshow", "twitter"]
     }},
@@ -581,6 +601,10 @@
       "tags": ["conrad", "cheat"]
     }},
     {
+    "conrad-chickensalad": {
+      "tags": ["conrad", "make", "chicken salad"]
+    }},
+    {
     "conrad-comeback": {
       "tags": ["conrad", "come back"]
     }},
@@ -609,7 +633,11 @@
       "tags": ["conrad", "hot"]
     }},
     {
-    "conrad-dontputat": {
+    "conrad-dontputat1": {
+      "tags": ["conrad", "dont put a t"]
+    }},
+    {
+    "conrad-dontputat2": {
       "tags": ["conrad", "dont put a t"]
     }},
     {
@@ -623,6 +651,10 @@
     {
     "conrad-doyourealize": {
       "tags": ["conrad", "impression"]
+    }},
+    {
+    "conrad-dumbassquestion": {
+      "tags": ["conrad", "dumbass", "question"]
     }},
     {
     "conrad-fakeiraqis": {
@@ -639,6 +671,10 @@
     {
     "conrad-flair": {
       "tags": ["conrad", "flair"]
+    }},
+    {
+    "conrad-fascinated": {
+      "tags": ["conrad", "always been", "fascinated"]
     }},
     {
     "conrad-fuckinfoolproof": {
@@ -670,6 +706,10 @@
     }},
     {
     "conrad-gobbledygooker2": {
+      "tags": ["conrad", "gobbledy gooker"]
+    }},
+    {
+    "conrad-gobbledygooker3": {
       "tags": ["conrad", "gobbledy gooker"]
     }},
     {
@@ -707,6 +747,10 @@
     {
     "conrad-highandmighty": {
       "tags": ["conrad", "high and mighty", "fuck"]
+    }},
+    {
+    "conrad-horsesmouth": {
+      "tags": ["conrad", "horses mouth"]
     }},
     {
     "conrad-hotonthis": {
@@ -809,6 +853,10 @@
       "tags": ["conrad", "murder"]
     }},
     {
+    "conrad-natureboy": {
+      "tags": ["conrad", "nature boy", "ric flair"]
+    }},
+    {
     "conrad-neverend": {
       "tags": ["conrad", "show", "never end"]
     }},
@@ -831,6 +879,10 @@
     {
     "conrad-prop": {
       "tags": ["conrad", "prop"]
+    }},
+    {
+    "conrad-realquestion": {
+      "tags": ["conrad", "real", "question"]
     }},
     {
     "conrad-retort": {
@@ -873,12 +925,20 @@
       "tags": ["conrad", "shit on everything"]
     }}, 
     {
+    "conrad-shocktoyou": {
+      "tags": ["conrad", "shock to you"]
+    }},
+    {
     "conrad-shorter": {
       "tags": ["conrad", "shorter", "a damn lie"]
     }},
     {
     "conrad-showsshort": {
       "tags": ["conrad", "short", "a damn lie"]
+    }},
+    {
+    "conrad-soma": {
+      "tags": ["conrad", "soma", "drugs"]
     }},
     {
     "conrad-soold": {
@@ -933,12 +993,20 @@
       "tags": ["conrad", "im glad we had this talk"]
     }},
     {
+    "conrad-timeout": {
+      "tags": ["conrad", "time out", "right there"]
+    }},
+    {
     "conrad-wantedtohear": {
       "tags": ["conrad", "thats what i wanted to hear"]
     }},
     {
     "conrad-wasteoftime": {
       "tags": ["conrad", "waste of time"]
+    }},
+    {
+    "conrad-weapons": {
+      "tags": ["conrad", "bats", "barbed wire", "handcuffs"]
     }},
     {
     "conrad-weird": {
@@ -949,7 +1017,11 @@
       "tags": ["conrad", "give me", "im good with"]
     }},
     {
-    "conrad-whobooked": {
+    "conrad-whobooked1": {
+      "tags": ["conrad", "booking", "shit"]
+    }},
+    {
+    "conrad-whobooked2": {
       "tags": ["conrad", "booking", "shit"]
     }},
     {
@@ -969,8 +1041,16 @@
       "tags": ["conrad", "wtf", "umaga"]
     }},
     {
+    "conrad-wtfwwf": {
+      "tags": ["conrad", "wtf", "wwf"]
+    }},
+    {
     "conrad-yougothot": {
       "tags": ["conrad", "hot"]
+    }},
+    {
+    "conrad-yourfavorite": {
+      "tags": ["conrad", "your favorite", "terry taylor"]
     }}
   ],
   "jerry": [
@@ -1137,6 +1217,10 @@
     {
     "vince-hicksoutherner": {
       "tags": ["vince", "hick", "southerner", "bruce"]
+    }},
+    {
+    "vince-medicalfacility": {
+      "tags": ["vince", "impression", "medical facility"]
     }},
     {
     "vince-polkadots": {
@@ -1363,6 +1447,10 @@
       "tags": ["ribs", "conrad"]
     }},
     {
+    "ribs-conrad5": {
+      "tags": ["ribs", "conrad"]
+    }},
+    {
     "ribs-everything": {
       "tags": ["ribs", "everythings a rib"]
     }},
@@ -1377,6 +1465,10 @@
     {
     "ribs-thatwasarib": {
       "tags": ["ribs", "bruce"]
+    }},
+    {
+    "ribs-turd": {
+      "tags": ["ribs", "conrad", "turd"]
     }}
   ],
   "rumors": [
@@ -1531,6 +1623,10 @@
       "tags": ["doot doot doot", "michael p.s. hayes", "knaves"]
     }},
     {
+    "dootdootdoot-speakingof": {
+      "tags": ["doot doot doot", "conrad", "speaking of"]
+    }},
+    {
     "dootdootdoot-utensils": {
       "tags": ["doot doot doot", "knives", "forks", "spoons"]
     }}
@@ -1587,13 +1683,13 @@
       "tags": ["gobbledygooker"]
     }}
   ],
-  "baby": [
+  "babytonight": [
     {
-    "baby-babytonight1": {
+    "babytonight-babytonight1": {
       "tags": ["baby", "alone with my baby tonight"]
     }},
     {
-    "baby-babytonight2": {
+    "babytonight-babytonight2": {
       "tags": ["baby", "alone with my baby tonight"]
     }}
   ]
