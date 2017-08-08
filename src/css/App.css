@@ -69,6 +69,14 @@ table {
 body {
   font-family: 'Oswald', sans-serif;
   font-weight: 300; }
+  body .intro-screen {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 4; }
   body.about-screen {
     background: url("../imgs/logo-white.jpg") no-repeat center fixed #fff;
     background-size: 50%;

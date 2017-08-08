@@ -5,6 +5,7 @@ import audioData from '../json/audioData.json';
 import backgroundData from '../json/backgroundData.json';
 import keyboardData from '../json/keyboardData.json';
 
+import IntroScreen from './IntroScreen';
 import AboutScreen from './AboutScreen';
 import SoundPalette from './SoundPalette';
 import SoundQueue from './SoundQueue';
@@ -54,6 +55,8 @@ class App extends Component {
 
     this.state = {
 
+      showIntroScreen: true,
+
       showAboutScreen: false,
 
       soundTileToExplore: null,
@@ -81,6 +84,12 @@ class App extends Component {
   randomNumber(max) {
 
     return Math.floor(Math.random()*max)
+
+  }
+
+  handleIntroClose() {
+
+    this.setState({showIntroScreen: false});
 
   }
 
@@ -391,12 +400,17 @@ class App extends Component {
         {this.state.soundToPlay ? this.soundFile() : null}
 
         {this.state.showAboutScreen ? this.showAboutScreen() : this.showInteractionScreen()}
+
+        {this.state.showIntroScreen ? <IntroScreen 
+                                                    audioData={audioData}
+                                                    handleIntroClose={this.handleIntroClose}/> : null}
       
       </div>
 
     );
 
   }
+
 }
 
 export default App;
