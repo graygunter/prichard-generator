@@ -11,18 +11,78 @@ body {
 
   .intro-screen {
 
-    background-color: rgba(0,0,0,.5);
+    background-color: rgba(0,0,0,.75);
+    color: #FFF;
+    font-size: 2rem;
     height: 100%;
     left: 0;
+    line-height: 2.5rem;
+    padding-top: 2%;
     position: absolute;
+    text-align: center;
+    text-shadow: 2px 2px 0px #000;
     top: 0;
     width: 100%;
-    z-index: 4;
+    z-index: 5;
+
+    .fa-times {
+
+      cursor: pointer;
+      position: absolute;
+      right: 1%;
+      top: 1%;
+
+    }
+
+    h2 {
+      
+      margin-bottom: 4%;
+
+    }
+
+    img {
+
+      display: block;
+      height: 300px;
+      margin: 0 auto 4%;
+      width: 300px;
+    
+    }
+
+    h3 {
+    
+      span {
+        
+        color: $red;
+        font-size: 4rem;
+        font-weight: 700;
+
+      }
+
+    }
+
+    button {
+
+      margin-top: 5%;
+
+      @extend %standard-button;
+      background-color: $blue;
+      padding: 3%;
+      
+      .inner-text {
+        
+        @extend %standard-button-text;
+        font-size: 3rem;
+        line-height: 3rem;
+
+      }
+
+    }
 
   }
 
   &.about-screen {
-    background: url("../imgs/logo-white.jpg") no-repeat center fixed #fff;
+    background: url("../imgs/logo-light.jpg") no-repeat center fixed #fff;
     background-size: 50%;
     padding-top: 5%;
   }
@@ -106,7 +166,7 @@ body {
   position: fixed;
   right: 10px;
   top: 10px;
-  z-index: 10;
+  z-index: 4;
 
   .inner-text {
     

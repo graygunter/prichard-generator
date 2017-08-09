@@ -21,9 +21,11 @@ class App extends Component {
 
     super();
 
+    this.handleAboutPress = this.handleAboutPress.bind(this);
+
     this.handleBackClick = this.handleBackClick.bind(this);
 
-    this.handleAboutPress = this.handleAboutPress.bind(this);
+    this.handleIntroClose = this.handleIntroClose.bind(this);
 
     this.handleKeyboardPress = this.handleKeyboardPress.bind(this);
 

@@ -167,6 +167,10 @@
       "tags": ["bruce", "drugs"]
     }},
     {
+    "bruce-dynamiteass": {
+      "tags": ["bruce", "dynamite", "ass"]
+    }},
+    {
     "bruce-easytiger": {
       "tags": ["bruce", "easy tiger"]
     }},
@@ -219,6 +223,10 @@
       "tags": ["bruce", "gobbledy gooker"]
     }},
     {
+    "bruce-grinchfuck": {
+      "tags": ["bruce", "grinch", "fuck"]
+    }},
+    {
     "bruce-guilty": {
       "tags": ["bruce", "guilty"]
     }},
@@ -239,6 +247,10 @@
       "tags": ["bruce", "drugs"]
     }},
     {
+    "bruce-heshorrible": {
+      "tags": ["bruce", "dont mean to be mean", "horrible"]
+    }},
+    {
     "bruce-hiphiphooray": {
       "tags": ["bruce", "hip hip hooray"]
     }},
@@ -249,6 +261,10 @@
     {
     "bruce-horrible": {
       "tags": ["bruce", "horrible"]
+    }},
+    {
+    "bruce-hypothetically": {
+      "tags": ["bruce", "hypothetically", "probably"]
     }},
     {
     "bruce-iamanasshole": {
@@ -387,6 +403,10 @@
       "tags": ["bruce", "murder"]
     }},
     {
+    "bruce-nakeddickpic": {
+      "tags": ["bruce", "naked", "dick", "picture"]
+    }},
+    {
     "bruce-nevergonna": {
       "tags": ["bruce", "never gonna", "dollar amount"]
     }},
@@ -411,12 +431,24 @@
       "tags": ["bruce", "one of those deals"]
     }},
     {
+    "bruce-oneofthosedeals3": {
+      "tags": ["bruce", "one of those deals"]
+    }},
+    {
+    "bruce-oneofthosedeals4": {
+      "tags": ["bruce", "one of those deals"]
+    }},
+    {
     "bruce-paidasswhoopin": {
       "tags": ["bruce", "paid", "asswhoopin"]
     }},
     {
     "bruce-peeinthering": {
       "tags": ["bruce", "pee", "ring"]
+    }},
+    {
+    "bruce-peoplehateme": {
+      "tags": ["bruce", "people", "hate"]
     }},
     {
     "bruce-plinko": {
@@ -495,6 +527,10 @@
       "tags": ["bruce", "bullshit"]
     }},
     {
+    "bruce-sureasfuck": {
+      "tags": ["bruce", "sure", "fuck"]
+    }},
+    {
     "bruce-teeonyourback": {
       "tags": ["bruce", "snake", "tee on your back"]
     }},
@@ -559,8 +595,12 @@
       "tags": ["bruce", "fuck"]
     }},    
     {
-    "bruce-wouldntdoubtit": {
-      "tags": ["bruce", "wouldnt doubt it"]
+    "bruce-wholikedwhat": {
+      "tags": ["bruce", "who liked what"]
+    }},
+    {
+    "bruce-whore": {
+      "tags": ["bruce", "daughter", "sister", "whore"]
     }},
     {
     "bruce-whostheasshole": {
@@ -593,7 +633,11 @@
   ],
   "conrad": [
     {
-    "conrad-aintscaredofshit": {
+    "conrad-aintscared1": {
+      "tags": ["conrad", "aint", "scared", "shit"]
+    }},
+    {
+    "conrad-aintscared2": {
       "tags": ["conrad", "aint", "scared", "shit"]
     }},
     {
@@ -631,6 +675,10 @@
     {
     "conrad-arnanderson": {
       "tags": ["conrad", "arn anderson"]
+    }},
+    {
+    "conrad-asshole": {
+      "tags": ["conrad", "i am an asshole"]
     }},
     {
     "conrad-atprichardshow": {
@@ -765,6 +813,10 @@
       "tags": ["conrad", "fuck", "fool proof"]
     }},
     {
+    "conrad-fuckingchase": {
+      "tags": ["conrad", "fuck", "chase"]
+    }},
+    {
     "conrad-fuckingknow": {
       "tags": ["conrad", "fuck", "talk"]
     }},
@@ -775,6 +827,10 @@
     {
     "conrad-getover": {
       "tags": ["conrad", "over"]
+    }},
+    {
+    "conrad-getyortickets": {
+      "tags": ["conrad", "ticket", "not a rib dot com"]
     }}, 
     {
     "conrad-goahead": {
@@ -937,6 +993,10 @@
       "tags": ["conrad", "madheadgame"]
     }},
     {
+    "conrad-messageboard": {
+      "tags": ["conrad", "message board", "bullshit"]
+    }},
+    {
     "conrad-moneytalk": {
       "tags": ["conrad", "money talk"]
     }},
@@ -967,6 +1027,10 @@
     {
     "conrad-peeinthering": {
       "tags": ["conrad", "pee in the ring"]
+    }},
+    {
+    "conrad-perkedup": {
+      "tags": ["conrad", "perkedup", "interest"]
     }},
     {
     "conrad-poll1": {
@@ -1017,6 +1081,10 @@
       "tags": ["conrad", "roll tide"]
     }},  
     {
+    "conrad-rolltide3": {
+      "tags": ["conrad", "roll tide"]
+    }},  
+    {
     "conrad-sandman": {
       "tags": ["conrad", "sandman", "singing"]
     }},
@@ -1024,6 +1092,10 @@
     "conrad-sayiwasntthere": {
       "tags": ["conrad", "say", "i wasnt there"]
     }},
+    {
+    "conrad-selfpromoter": {
+      "tags": ["conrad", "shameless", "selfpromoter"]
+    }}, 
     {
     "conrad-sexscandals": {
       "tags": ["conrad", "sex scandals", "90s"]
@@ -1117,6 +1189,10 @@
       "tags": ["conrad", "time out", "right there"]
     }},
     {
+    "conrad-tshirtnext": {
+      "tags": ["conrad", "tshirt", "next"]
+    }},
+    {
     "conrad-unprofessional": {
       "tags": ["conrad", "unprofessional", "fuck"]
     }},
@@ -1161,8 +1237,16 @@
       "tags": ["conrad", "why were here"]
     }},
     {
-    "conrad-whw": {
+    "conrad-whw1": {
       "tags": ["conrad", "hashtag", "what happened when"]
+    }},
+    {
+    "conrad-whw2": {
+      "tags": ["conrad", "what happened when"]
+    }},
+    {
+    "conrad-whyyoulisten": {
+      "tags": ["conrad", "why you listen"]
     }},
     {
     "conrad-wrotethisshit": {
@@ -1199,11 +1283,23 @@
       "tags": ["jerry", "impression", "chicken-salad"]
     }},
     {
+    "jerry-chickensalad3": {
+      "tags": ["jerry", "impression", "chicken-salad"]
+    }},
+    {
+    "jerry-coffee": {
+      "tags": ["jerry", "impression", "coffee", "conrad"]
+    }},
+    {
     "jerry-grapes1": {
       "tags": ["jerry", "impression", "chicken-salad", "grapes", "you know"]
     }},
     {
     "jerry-grapes2": {
+      "tags": ["jerry", "impression", "chicken-salad", "grapes", "you know"]
+    }},
+    {
+    "jerry-grapes3": {
       "tags": ["jerry", "impression", "chicken-salad", "grapes", "you know"]
     }},
     {   
@@ -1245,6 +1341,22 @@
     {
     "jerry-mayonnaise3": {
       "tags": ["chicken-salad", "jerry", "impression", "mayonnaise"]
+    }},
+    {
+    "jerry-mayonnaise4": {
+      "tags": ["chicken-salad", "jerry", "impression", "mayonnaise"]
+    }},
+    {
+    "jerry-mrmcmahon": {
+      "tags": ["jerry", "impression", "conrad", "mr mcmahon"]
+    }},
+    {
+    "jerry-saltandpepper": {
+      "tags": ["jerry", "impression", "bruce", "salt and pepper"]
+    }},
+    {
+    "jerry-thankyou": {
+      "tags": ["jerry", "impression", "thank you", "mr mcmahon"]
     }},
     {
     "jerry-thisisjerry": {
@@ -1305,12 +1417,20 @@
     {
     "jerry-youknow9": {
       "tags": ["jerry", "impression", "you know"]
+    }},
+    {
+    "jerry-youknow10": {
+      "tags": ["jerry", "impression", "you know", "conrad"]
     }}
   ],
   "dusty": [
     {
     "dusty-badasslook": {
       "tags": ["dusty", "badass", "look"]
+    }},
+    {
+    "dusty-captivate": {
+      "tags": ["dusty", "captivate", "love"]
     }},
     {
     "dusty-cutitoff": {
@@ -1325,6 +1445,14 @@
       "tags": ["dusty", "eagle claw", "impression"]
     }},
     {
+    "dusty-greensborojackoff": {
+      "tags": ["dusty", "greensboro", "jackoff", "bruce mitchell"]
+    }},
+    {
+    "dusty-meltzer": {
+      "tags": ["dusty", "meltzer", "nasty"]
+    }},
+    {
     "dusty-polkadots": {
       "tags": ["dusty", "polkadots", "impression"]
     }},
@@ -1336,7 +1464,11 @@
   "jr": [
     {
     "jr-drdeath": {
-      "tags": ["doctor death", "impression", "jr"]
+      "tags": ["jr", "impression", "dr death"]
+    }},
+    {
+    "jr-newhold": {
+      "tags": ["jr", "impression", "learn a new hold"]
     }}
   ],
   "savage": [
@@ -1353,6 +1485,10 @@
     {
     "vince-donttell": {
       "tags": ["vince", "dont tell", "impression", "bruce"]
+    }},
+    {
+    "vince-hotandwet": {
+      "tags": ["vince", "hot and wet", "impression", "bruce"]
     }},
     {
     "vince-goddamniloveit": {
@@ -1379,6 +1515,10 @@
       "tags": ["vince", "great", "bruce"]
     }},
     {
+    "vince-jackoff": {
+      "tags": ["vince", "jack off", "bruce"]
+    }},
+    {
     "vince-laughing": {
       "tags": ["vince", "laughing", "bruce"]
     }},
@@ -1389,6 +1529,10 @@
     {
     "vince-ohmy": {
       "tags": ["vince", "impression", "oh my", "bruce"]
+    }},
+    {
+    "jerry-pronouns": {
+      "tags": ["jerry", "impression", "pronouns", "goddamnit"]
     }},
     {
     "vince-ratingsdamnit": {
@@ -1417,6 +1561,10 @@
     {
     "vince-whatareyoulaughing": {
       "tags": ["vince", "goddamn", "impression", "bruce"]
+    }},
+    {
+    "vince-who": {
+      "tags": ["vince", "who", "impression", "bruce"]
     }}
   ],
   "warrior": [
@@ -1509,6 +1657,10 @@
     {
     "meltzer-rhymes": {
       "tags": ["meltzer", "rhymes with"]
+    }},
+    {
+    "meltzer-wrong": {
+      "tags": ["meltzer", "conrad", "wrong"]
     }},
     {
     "meltzer-yourass": {
@@ -1765,6 +1917,10 @@
       "tags": ["conrad", "rumors and innuendo", "incorrectly"]
     }},
     {
+    "rumors-iveheard": {
+      "tags": ["bruce", "rumors and innuendo", "ive heard"]
+    }},
+    {
     "rumors-penis": {
       "tags": ["conrad", "rumors and innuendo", "penis"]
     }}
@@ -1820,6 +1976,10 @@
     }},
     {
     "dootdootdoot-dootdootdoot4": {
+      "tags": ["doot doot doot", "doot", "doot", "doot"]
+    }},
+    {
+    "dootdootdoot-dootdootdoot5": {
       "tags": ["doot doot doot", "doot", "doot", "doot"]
     }},
     {
@@ -1885,6 +2045,22 @@
   ],
   "russo": [
     {
+    "russo-bro1": {
+      "tags": ["russo", "bro"]
+    }},
+    {
+    "russo-bro2": {
+      "tags": ["russo", "bro"]
+    }},
+    {
+    "russo-bro3": {
+      "tags": ["russo", "yo", "bro"]
+    }},
+    {
+    "russo-bro4": {
+      "tags": ["russo", "yo", "bro"]
+    }},
+    {
     "russo-ilike": {
       "tags": ["russo", "i like vince russo"]
     }}
@@ -1915,6 +2091,24 @@
     {
     "babytonight-babytonight2": {
       "tags": ["baby", "alone with my baby tonight"]
+    }}
+  ],
+  "tna": [
+    {
+    "tna-dixiecarter": {
+      "tags": ["tna", "ec3", "bruce"]
+    }},
+    {
+    "tna-dixiecarter": {
+      "tags": ["tna", "dixie carter", "lots", "conrad"]
+    }},
+    {
+    "tna-sixsidedring": {
+      "tags": ["tna", "six sided ring"]
+    }},
+    {
+    "tna-tna": {
+      "tags": ["tna", "bruce"]
     }}
   ]
 }
