@@ -343,6 +343,10 @@
       "tags": ["bruce", "i wasnt there"]
     }},
     {
+    "bruce-iwasntthere3": {
+      "tags": ["bruce", "i wasnt there", "thank god"]
+    }},
+    {
     "bruce-jerrydontcare": {
       "tags": ["bruce", "jerry"]
     }},
@@ -377,6 +381,10 @@
     {
     "bruce-littlesecret": {
       "tags": ["bruce", "little secret"]
+    }},
+    {
+    "bruce-lovespoo": {
+      "tags": ["bruce", "everybody", "loves poo"]
     }},
     {
     "bruce-mainevent": {
@@ -487,6 +495,10 @@
       "tags": ["bruce", "pull out"]
     }},
     {
+    "bruce-quickies": {
+      "tags": ["bruce", "quickies"]
+    }},
+    {
     "bruce-respectballs": {
       "tags": ["bruce", "respect", "balls"]
     }},
@@ -501,6 +513,10 @@
     {
     "bruce-segueway": {
       "tags": ["bruce", "segueway"]
+    }},
+    {
+    "bruce-shitcommand": {
+      "tags": ["bruce", "shit", "on command"]
     }},
     {
     "bruce-shiteat": {
@@ -525,6 +541,10 @@
     {
     "bruce-sisterkissing": {
       "tags": ["bruce", "kissing your sister"]
+    }},
+    {
+    "bruce-soundslikebullshit": {
+      "tags": ["bruce", "sounds like", "bullshit"]
     }},
     {
     "bruce-squash": {
@@ -807,6 +827,14 @@
     {
     "conrad-doyourealize": {
       "tags": ["conrad", "impression"]
+    }},
+    {
+    "conrad-drugmule": {
+      "tags": ["conrad", "drug mule"]
+    }},
+    {
+    "conrad-drugtalk": {
+      "tags": ["conrad", "talk", "drugs"]
     }},
     {
     "conrad-dumbassquestion": {
@@ -1093,6 +1121,10 @@
       "tags": ["conrad", "porn", "connoisseur"]
     }},
     {
+    "conrad-pornpootin": {
+      "tags": ["conrad", "porn", "pootin"]
+    }},
+    {
     "conrad-prop": {
       "tags": ["conrad", "prop"]
     }},
@@ -1153,13 +1185,25 @@
       "tags": ["conrad", "shameless", "selfpromoter"]
     }}, 
     {
+    "conrad-sexrelated": {
+      "tags": ["conrad", "sex"]
+    }},
+    {
     "conrad-sexscandals": {
       "tags": ["conrad", "sex scandals", "90s"]
+    }}, 
+    {
+    "conrad-shepooted": {
+      "tags": ["conrad", "she", "pooted"]
     }}, 
     {
     "conrad-shitoneverything": {
       "tags": ["conrad", "shit on everything"]
     }}, 
+    {
+    "conrad-shitonthis": {
+      "tags": ["conrad", "shit on this", "for me"]
+    }},     
     {
     "conrad-shocktoyou": {
       "tags": ["conrad", "shock to you"]
@@ -1192,6 +1236,10 @@
     "conrad-splithairs": {
       "tags": ["conrad", "split hairs"]
     }}, 
+    {
+    "conrad-stopreading": {
+      "tags": ["conrad", "stop reading", "fuck"]
+    }},
     {
     "conrad-stupidquestion": {
       "tags": ["conrad", "stupid question", "mark"]
@@ -1553,6 +1601,10 @@
     {
     "vince-goddamnyoubruce": {
       "tags": ["vince", "goddamn", "impression", "bruce"]
+    }},
+    {
+    "vince-gotitpal": {
+      "tags": ["vince", "got it pal", "impression", "bruce"]
     }},
     {
     "vince-hessotiny": {
@@ -2047,6 +2099,10 @@
       "tags": ["doot doot doot", "doot", "doot", "doot"]
     }},
     {
+    "dootdootdoot-extra": {
+      "tags": ["doot doot doot", "extra"]
+    }},
+    {
     "dootdootdoot-knaves": {
       "tags": ["doot doot doot", "knaves"]
     }},
@@ -2207,6 +2263,12 @@
     {
     "patterson-nobodybelieve": {
       "tags": ["patterson", "oh my god", "nobody believe it"]
+    }}
+  ],
+  "johnnyace": [
+    {
+    "johnnyace-hooked": {
+      "tags": ["johnnyace", "hooked"]
     }}
   ]
 }
