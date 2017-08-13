@@ -39,13 +39,21 @@
       "tags": ["bruce", "autopsy", "cocaine", "drugs"]
     }}, 
     {
+    "bruce-basedinfact": {
+      "tags": ["bruce", "beat", "santa"]
+    }},
+    {
     "bruce-beatsanta": {
       "tags": ["bruce", "beat", "santa"]
     }},
     {
     "bruce-beattheshit": {
       "tags": ["bruce", "beat", "shit"]
-    }},  
+    }}, 
+    {
+    "bruce-beautifulday": {
+      "tags": ["bruce", "beautiful day", "neighborhood"]
+    }}, 
     {
     "bruce-beenthere1": {
       "tags": ["bruce", "been there"]
@@ -411,6 +419,10 @@
       "tags": ["bruce", "never gonna", "dollar amount"]
     }},
     {
+    "bruce-neversaw": {
+      "tags": ["bruce", "never saw", "sex"]
+    }},
+    {
     "bruce-nipslip": {
       "tags": ["bruce", "nipslip"]
     }},
@@ -439,6 +451,10 @@
       "tags": ["bruce", "one of those deals"]
     }},
     {
+    "bruce-oneofthosedeals5": {
+      "tags": ["bruce", "one of those deals"]
+    }},
+    {
     "bruce-paidasswhoopin": {
       "tags": ["bruce", "paid", "asswhoopin"]
     }},
@@ -453,6 +469,10 @@
     {
     "bruce-plinko": {
       "tags": ["bruce", "the price is right", "plinko"]
+    }},
+    {
+    "bruce-poopbucket": {
+      "tags": ["bruce", "poop", "bucket"]
     }},
     {
     "bruce-pornconnoisseur": {
@@ -499,6 +519,10 @@
       "tags": ["bruce", "simply"]
     }},
     {
+    "bruce-simply2": {
+      "tags": ["bruce", "simply"]
+    }},
+    {
     "bruce-sisterkissing": {
       "tags": ["bruce", "kissing your sister"]
     }},
@@ -525,6 +549,10 @@
     {
     "bruce-suchbullshit": {
       "tags": ["bruce", "bullshit"]
+    }},
+    {
+    "bruce-sumsitup": {
+      "tags": ["bruce", "sums it up"]
     }},
     {
     "bruce-sureasfuck": {
@@ -825,6 +853,10 @@
       "tags": ["conrad", "full", "boob"]
     }},
     {
+    "conrad-getmyshitin": {
+      "tags": ["conrad", "get my shit in"]
+    }},
+    {
     "conrad-getover": {
       "tags": ["conrad", "over"]
     }},
@@ -863,7 +895,15 @@
     {
     "conrad-guitarjunk": {
       "tags": ["conrad", "guitar", "junk"]
-    }},  
+    }},
+    {
+    "conrad-fuckwithhim": {
+      "tags": ["conrad", "fuck", "with him"]
+    }}, 
+    {
+    "conrad-fuckyou": {
+      "tags": ["conrad", "fuck", "you"]
+    }},     
     {
     "conrad-hatetweets1": {
       "tags": ["conrad", "tweets"]
@@ -927,6 +967,14 @@
     {
     "conrad-idontknowwhen5": {
       "tags": ["conrad", "i dont know when well talk about"]
+    }},
+    {
+    "conrad-ifyouonlyknew1": {
+      "tags": ["conrad", "if you only knew"]
+    }},
+    {
+    "conrad-ifyouonlyknew2": {
+      "tags": ["conrad", "if you only knew"]
     }},
     {
     "conrad-imfromhuntsville": {
@@ -1049,6 +1097,10 @@
       "tags": ["conrad", "prop"]
     }},
     {
+    "conrad-reallife": {
+      "tags": ["conrad", "real life", "motherfucker"]
+    }},
+    {
     "conrad-realquestion": {
       "tags": ["conrad", "real", "question"]
     }},
@@ -1082,6 +1134,10 @@
     }},  
     {
     "conrad-rolltide3": {
+      "tags": ["conrad", "roll tide"]
+    }},  
+    {
+    "conrad-rolltide4": {
       "tags": ["conrad", "roll tide"]
     }},  
     {
@@ -1189,10 +1245,6 @@
       "tags": ["conrad", "time out", "right there"]
     }},
     {
-    "conrad-tshirtnext": {
-      "tags": ["conrad", "tshirt", "next"]
-    }},
-    {
     "conrad-unprofessional": {
       "tags": ["conrad", "unprofessional", "fuck"]
     }},
@@ -1207,6 +1259,10 @@
     {
     "conrad-wasteoftime": {
       "tags": ["conrad", "waste of time"]
+    }},
+    {
+    "conrad-watchnerd": {
+      "tags": ["conrad", "watch", "nerd"]
     }},
     {
     "conrad-weapons": {
@@ -1447,10 +1503,6 @@
     {
     "dusty-greensborojackoff": {
       "tags": ["dusty", "greensboro", "jackoff", "bruce mitchell"]
-    }},
-    {
-    "dusty-meltzer": {
-      "tags": ["dusty", "meltzer", "nasty"]
     }},
     {
     "dusty-polkadots": {
@@ -1707,7 +1759,7 @@
     {
     "cornette-fattoo": {
       "tags": ["cornette", "fuck", "fat too"]
-    }},   
+    }}, 
     {
     "cornette-goddamn1": {
       "tags": ["cornette", "goddamn"]
@@ -1811,6 +1863,14 @@
       "tags": ["ribs", "conrad"]
     }},
     {
+    "ribs-conrad7": {
+      "tags": ["ribs", "conrad", "not"]
+    }},
+    {
+    "ribs-conrad8": {
+      "tags": ["ribs", "conrad", "not"]
+    }},
+    {
     "ribs-everything": {
       "tags": ["ribs", "everythings a rib"]
     }},
@@ -1836,6 +1896,10 @@
     }}
   ],
   "rumors": [
+    {   
+    "rumors-allover": {
+      "tags": ["bruce", "rumors and innuendo", "all over"] 
+    }},
     {   
     "rumors-asyoudsay": {
       "tags": ["bruce", "rumors and innuendo", "as youd say"] 
@@ -2041,6 +2105,10 @@
     {
     "love-itsamiracle": {
       "tags": ["love", "its a miracle"]
+    }},
+    {
+    "love-thyhead": {
+      "tags": ["love", "thy head"]
     }}
   ],
   "russo": [
@@ -2095,6 +2163,10 @@
   ],
   "tna": [
     {
+    "tna-actionfigure": {
+      "tags": ["tna", "dixie carter", "action figure"]
+    }},
+    {
     "tna-dixiecarter": {
       "tags": ["tna", "ec3", "bruce"]
     }},
@@ -2103,12 +2175,38 @@
       "tags": ["tna", "dixie carter", "lots", "conrad"]
     }},
     {
+    "tna-dixiedoll1": {
+      "tags": ["tna", "dixie doll", "dixie carter"]
+    }},
+    {
+    "tna-dixiedoll2": {
+      "tags": ["tna", "dixie doll", "dixie carter"]
+    }},
+    {
     "tna-sixsidedring": {
       "tags": ["tna", "six sided ring"]
     }},
     {
+    "tna-stories": {
+      "tags": ["tna", "stories", "dixie carter"]
+    }},
+    {
     "tna-tna": {
       "tags": ["tna", "bruce"]
+    }},
+    {
+    "tna-wheresdixie": {
+      "tags": ["tna", "wheres dixie", "hashtag"]
+    }}
+  ],
+  "patterson": [
+    {
+    "patterson-horowitz": {
+      "tags": ["patterson", "barry horowitz", "skip"]
+    }},
+    {
+    "patterson-nobodybelieve": {
+      "tags": ["patterson", "oh my god", "nobody believe it"]
     }}
   ]
 }
