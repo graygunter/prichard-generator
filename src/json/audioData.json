@@ -215,6 +215,10 @@
       "tags": ["bruce", "fuck", "yeah"]
     }},
     {
+    "bruce-fuckoffpolitely": {
+      "tags": ["bruce", "fuck", "politely"]
+    }},
+    {
     "bruce-gasp": {
       "tags": ["bruce", "gasp"]
     }},
@@ -483,6 +487,14 @@
       "tags": ["bruce", "poop", "bucket"]
     }},
     {
+    "bruce-poutboy": {
+      "tags": ["bruce", "pout boy", "tonight"]
+    }},
+    {
+    "bruce-poutyshoes": {
+      "tags": ["bruce", "pouty shoes", "on"]
+    }},
+    {
     "bruce-pornconnoisseur": {
       "tags": ["bruce", "porn", "connoisseur"]
     }},
@@ -501,6 +513,10 @@
     {
     "bruce-respectballs": {
       "tags": ["bruce", "respect", "balls"]
+    }},
+    {
+    "bruce-rolltide": {
+      "tags": ["bruce", "roll tide"]
     }},
     {
     "bruce-rooster": {
@@ -1021,6 +1037,10 @@
       "tags": ["conrad", "is this real"]
     }},
     {
+    "conrad-jerryjarret": {
+      "tags": ["conrad", "jerry", "mister"]
+    }},
+    {
     "conrad-jerrywemaynot": {
       "tags": ["conrad", "jerry"]
     }},
@@ -1171,6 +1191,10 @@
     {
     "conrad-rolltide4": {
       "tags": ["conrad", "roll tide"]
+    }}, 
+    {
+    "conrad-rolltide5": {
+      "tags": ["conrad", "roll tide", "cuz"]
     }},  
     {
     "conrad-sandman": {
@@ -1375,6 +1399,10 @@
   ],
   "jerry": [
     {
+    "jerry-buywrasslin": {
+      "tags": ["jerry", "impression", "buy", "wrasslin"]
+    }},
+    {
     "jerry-chicken": {
       "tags": ["jerry", "impression", "chicken", "chicken-salad"]
     }},
@@ -1435,6 +1463,10 @@
       "tags": ["jerry", "impression"]
     }},
     {
+    "jerry-jerryjarret": {
+      "tags": ["jerry", "jerry jarret", "you know", "impression"]
+    }},
+    {
     "jerry-mayonnaise1": {
       "tags": ["chicken-salad", "jerry", "impression", "mayonnaise"]
     }},
@@ -1457,6 +1489,10 @@
     {
     "jerry-saltandpepper": {
       "tags": ["jerry", "impression", "bruce", "salt and pepper"]
+    }},
+    {
+    "jerry-tennessee": {
+      "tags": ["jerry", "impression", "tennessee"]
     }},
     {
     "jerry-thankyou": {
@@ -1485,6 +1521,10 @@
     {
     "jerry-walnuts3": {
       "tags": ["jerry", "impression", "chicken-salad", "walnuts"]
+    }},
+    {
+    "jerry-wedowrasslin": {
+      "tags": ["jerry", "impression", "wrasslin"]
     }},
     {
     "jerry-youknow1": {
@@ -1583,6 +1623,10 @@
   ],
   "vince": [
     {
+    "vince-boughtacasino": {
+      "tags": ["vince", "casino", "impression", "bruce"]
+    }},
+    {
     "vince-donttell": {
       "tags": ["vince", "dont tell", "impression", "bruce"]
     }},
@@ -1595,8 +1639,12 @@
       "tags": ["vince", "goddamn", "impression", "bruce"]
     }},
     {
-    "vince-goddamnpal": {
+    "vince-goddamnpal1": {
       "tags": ["vince", "goddamn", "impression", "bruce"]
+    }},
+    {
+    "vince-goddamnpal2": {
+      "tags": ["vince", "goddamn", "impression", "conrad"]
     }},
     {
     "vince-goddamnyoubruce": {
@@ -1609,6 +1657,10 @@
     {
     "vince-hessotiny": {
       "tags": ["vince", "tiny", "impression", "bruce"]
+    }},
+    {
+    "vince-heypal": {
+      "tags": ["vince", "hey pal", "impression", "bruce"]
     }},
     {
     "vince-hicksoutherner": {
@@ -1629,6 +1681,10 @@
     {
     "vince-medicalfacility": {
       "tags": ["vince", "impression", "medical facility", "bruce"]
+    }},
+    {
+    "vince-noholdsbarred1": {
+      "tags": ["vince", "impression", "no holds barred", "bruce"]
     }},
     {
     "vince-ohmy": {
@@ -1777,7 +1833,11 @@
       "tags": ["pwtorch", "greensboro", "bitchboy", "jackoff"]
     }},
     {
-    "pwtorch-greensborojackoff": {
+    "pwtorch-greensborojackoff1": {
+      "tags": ["pwtorch", "greensboro", "jackoff"]
+    }},
+    {
+    "pwtorch-greensborojackoff2": {
       "tags": ["pwtorch", "greensboro", "jackoff"]
     }}
   ],
@@ -2215,6 +2275,10 @@
     {
     "babytonight-babytonight2": {
       "tags": ["baby", "alone with my baby tonight"]
+    }},
+    {
+    "babytonight-spendmydays": {
+      "tags": ["baby", "spend my days"]
     }}
   ],
   "tna": [
@@ -2269,6 +2333,16 @@
     {
     "johnnyace-hooked": {
       "tags": ["johnnyace", "hooked"]
+    }}
+  ],
+  "rooster": [
+    {
+    "rooster-cockadoodledoo1": {
+      "tags": ["rooster", "cockadoodledoo man", "conrad"]
+    }},
+    {
+    "rooster-terrytaylor": {
+      "tags": ["rooster", "terry taylor", "conrad"]
     }}
   ]
 }
