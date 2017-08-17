@@ -57,6 +57,10 @@ class App extends Component {
 
     this.state = {
 
+      currentSoundSelectionsArray: [],
+
+      initialLoadComplete: false,
+
       showIntroScreen: true,
 
       showAboutScreen: false,

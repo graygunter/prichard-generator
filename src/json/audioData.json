@@ -817,6 +817,10 @@
       "tags": ["conrad", "bruce prichard", "whisper"]
     }},
     {
+    "conrad-bulletfortom": {
+      "tags": ["conrad", "bullet for tom", "put one in bruce"]
+    }},
+    {
     "conrad-bullshitanswer": {
       "tags": ["conrad", "bullshit", "answer"]
     }},
@@ -1907,6 +1911,10 @@
   ],
   "meltzer": [
     {
+    "meltzer-agree": {
+      "tags": ["meltzer", "bruce", "agree"]
+    }},
+    {
     "meltzer-conman": {
       "tags": ["meltzer", "conrad", "con man"]
     }},
@@ -2020,6 +2028,10 @@
     "cornette-killsomebody": {
       "tags": ["cornette", "kill somebody"]
     }},
+    {
+    "cornette-midnightexpress": {
+      "tags": ["cornette", "midnight express", "motherfucker"]
+    }},
     { 
     "cornette-pinkforheels": {
       "tags": ["cornette", "pink is for heels"]
@@ -2099,6 +2111,10 @@
     {
     "milmascaras-noyab8": {
       "tags": ["milmascaras", "no yab"]
+    }},
+    {
+    "milmascaras-noyab9": {
+      "tags": ["milmascaras", "no yab"]
     }}
   ],
   "ribs": [
@@ -2145,6 +2161,10 @@
     {
     "ribs-conrad8": {
       "tags": ["ribs", "conrad", "not"]
+    }},
+    {
+    "ribs-conrad9": {
+      "tags": ["ribs", "conrad", "fuck"]
     }},
     {
     "ribs-everything": {
@@ -2371,7 +2391,11 @@
   ],
   "millertime": [
     {
-    "millertime-chikoo": {
+    "millertime-chikoo1": {
+      "tags": ["millertime", "chikoo"]
+    }},
+    {
+    "millertime-chikoo2": {
       "tags": ["millertime", "chikoo"]
     }},    
     {
@@ -2467,6 +2491,10 @@
     {
     "babytonight-spendmydays": {
       "tags": ["babytonight", "spend my days"]
+    }},
+    {
+    "babytonight-wrestlerockrumble": {
+      "tags": ["babytonight", "wrestle rock rumble"]
     }}
   ],
   "tna": [
@@ -2557,6 +2585,10 @@
       "tags": ["rooster", "cockadoodledoo man", "bruce"]
     }},
     {
+    "rooster-cockadoodledoo3": {
+      "tags": ["rooster", "cockadoodledoo man", "bruce"]
+    }},
+    {
     "rooster-terrytaylor": {
       "tags": ["rooster", "terry taylor", "conrad"]
     }},
@@ -2581,6 +2613,24 @@
     {
     "bulldog-wasntthere": {
       "tags": ["bulldog", "wasnt there", "it was owen"]
+    }}
+  ],
+  "brutus": [
+    {
+    "brutus-clipforher": {
+      "tags": ["brutus", "clip", "shit"]
+    }},
+    {
+    "brutus-thefuckingbarber1": {
+      "tags": ["brutus", "the fucking barbar"]
+    }},
+    {
+    "brutus-thefuckingbarber2": {
+      "tags": ["brutus", "the fucking barbar"]
+    }},
+    {
+    "brutus-thefuckingbarber3": {
+      "tags": ["brutus", "the fucking barbar"]
     }}
   ]
 }
