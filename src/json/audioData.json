@@ -1181,6 +1181,10 @@
       "tags": ["conrad", "nature boy", "ric flair"]
     }},
     {
+    "conrad-netherregions": {
+      "tags": ["conrad", "burn", "devil", "nether regions"]
+    }},
+    {
     "conrad-neverend": {
       "tags": ["conrad", "show", "never end"]
     }},
@@ -1923,6 +1927,10 @@
       "tags": ["meltzer", "doesnt know", "as usual"]
     }},
     {
+    "meltzer-donthate": {
+      "tags": ["meltzer", "dont hate", "bruce"]
+    }},
+    {
     "meltzer-fuckmeltzer1": {
       "tags": ["meltzer", "bruce", "fuck", "fuck dave meltzer"]
     }},
@@ -1940,7 +1948,7 @@
     }},    
     {
     "meltzer-niceguy": {
-      "tags": ["meltzer", "bruce"]
+      "tags": ["meltzer", "nice guy", "bruce"]
     }},
     {
     "meltzer-notdone": {
@@ -1953,6 +1961,10 @@
     {
     "meltzer-rhymes": {
       "tags": ["meltzer", "rhymes with"]
+    }},
+    {
+    "meltzer-shit": {
+      "tags": ["meltzer", "shit", "clear up", "bruce"]
     }},
     {
     "meltzer-wrong": {
@@ -2611,14 +2623,22 @@
       "tags": ["bulldog", "fuck"]
     }},
     {
-    "bulldog-wasntthere": {
+    "bulldog-wasntthere1": {
       "tags": ["bulldog", "wasnt there", "it was owen"]
+    }},
+    {
+    "bulldog-wasntthere2": {
+      "tags": ["bulldog", "wasnt there"]
     }}
   ],
   "brutus": [
     {
     "brutus-clipforher": {
       "tags": ["brutus", "clip", "shit"]
+    }},
+    {
+    "brutus-struttincuttin": {
+      "tags": ["brutus", "struttin", "cuttin"]
     }},
     {
     "brutus-thefuckingbarber1": {

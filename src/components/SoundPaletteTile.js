@@ -98,6 +98,8 @@ class SoundPaletteTile extends Component {
 
   componentDidMount() {
 
+    console.log("Sound Palette Tile loaded!");
+
     this.getRandomSound();
 
   }
