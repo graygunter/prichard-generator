@@ -10,7 +10,7 @@ class IntroScreen extends Component {
 
     for(let category in this.props.audioData) {
 
-      console.log(category + ": " + this.props.audioData[category].length)
+      //console.log(category + ": " + this.props.audioData[category].length)
 
       categories++;
 

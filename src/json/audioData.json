@@ -71,6 +71,10 @@
       "tags": ["bruce", "bell had to ring", "bell rang"]
     }},  
     {
+    "bruce-bellrang3": {
+      "tags": ["bruce", "bell had to ring", "eventually"]
+    }},  
+    {
     "bruce-beltmagic": {
       "tags": ["bruce", "belt", "magic"]
     }}, 
@@ -1483,7 +1487,11 @@
       "tags": ["jerry", "buy", "wrasslin"]
     }},
     {
-    "jerry-chicken": {
+    "jerry-chicken1": {
+      "tags": ["jerry", "chicken", "chicken-salad"]
+    }},
+    {
+    "jerry-chicken2": {
       "tags": ["jerry", "chicken", "chicken-salad"]
     }},
     {
@@ -1496,6 +1504,10 @@
     }},
     {
     "jerry-chickensalad3": {
+      "tags": ["jerry", "chicken-salad"]
+    }},
+    {
+    "jerry-chickensalad4": {
       "tags": ["jerry", "chicken-salad"]
     }},
     {
@@ -1565,6 +1577,14 @@
     {
     "jerry-mrmcmahon": {
       "tags": ["jerry", "conrad", "mr mcmahon"]
+    }},
+    {
+    "jerry-mcmahonsoffice": {
+      "tags": ["jerry", "mr mcmahon", "office"]
+    }},
+    {
+    "jerry-neverbeenribbed": {
+      "tags": ["jerry", "never been", "ribs"]
     }},
     {
     "jerry-saltandpepper": {
@@ -1645,6 +1665,10 @@
     {
     "jerry-youknow10": {
       "tags": ["jerry", "you know", "conrad"]
+    }},
+    {
+    "jerry-youknow11": {
+      "tags": ["jerry", "you know"]
     }}
   ],
   "dusty": [
@@ -1673,12 +1697,20 @@
       "tags": ["dusty", "greensboro", "jackoff", "bruce mitchell"]
     }},
     {
+    "dusty-pepperoni": {
+      "tags": ["dusty", "pepperoni pizza", "pig snout"]
+    }},
+    {
     "dusty-polkadots": {
       "tags": ["dusty", "polkadots"]
     }},
     {
     "dusty-pumpkinhead": {
       "tags": ["dusty", "pumpkinhead"]
+    }},
+    {
+    "dusty-thankyou": {
+      "tags": ["dusty", "thank you", "baby", "darlin"]
     }}
   ],
   "jr": [
@@ -1693,12 +1725,20 @@
   ],
   "savage": [
     {
+    "savage-cupofcoffee": {
+      "tags": ["savage", "cup of coffee"]
+    }},
+    {
     "savage-rightinthemiddle": {
-      "tags": ["savage"]
+      "tags": ["savage", "right in the middle"]
     }},
     {
     "savage-wintheminthering": {
-      "tags": ["savage"]
+      "tags": ["savage", "win em", "lose em", "ring"]
+    }},
+    {
+    "savage-yeahbrother": {
+      "tags": ["yeah brother", "dig it"]
     }}
   ],
   "vince": [
@@ -1731,12 +1771,20 @@
       "tags": ["vince", "goddamn", "conrad"]
     }},
     {
+    "vince-goddamnpal3": {
+      "tags": ["vince", "goddamn", "conrad"]
+    }},
+    {
     "vince-goddamnitbruce": {
       "tags": ["vince", "goddamn", "fuck"]
     }},
     {
     "vince-goddamnyoubruce": {
       "tags": ["vince", "goddamn"]
+    }},
+    {
+    "vince-goodcallcornie": {
+      "tags": ["vince", "good call", "cornette"]
     }},
     {
     "vince-gotitpal": {
@@ -1791,8 +1839,12 @@
       "tags": ["vince", "oh my"]
     }},
     {
-    "jerry-pronouns": {
-      "tags": ["jerry", "pronouns", "goddamnit"]
+    "vince-ooze1": {
+      "tags": ["vince", "ooze"]
+    }},
+    {
+    "vince-ooze2": {
+      "tags": ["vince", "ooze", "green", "purple"]
     }},
     {
     "vince-ratingsdamnit": {
@@ -1829,6 +1881,10 @@
     {
     "vince-whatareyoulaughing": {
       "tags": ["vince", "goddamn"]
+    }},
+    {
+    "vince-who": {
+      "tags": ["vince", "where i am", "where im going"]
     }},
     {
     "vince-who": {
@@ -1901,6 +1957,10 @@
       "tags": ["funk", "bruce", "prichard"]
     }},
     {
+    "funk-sorrybastard": {
+      "tags": ["funk", "bastard", "sorry"]
+    }},
+    {
     "funk-whore1": {
       "tags": ["funk", "whore"]
     }},
@@ -1910,6 +1970,10 @@
     }},
     {
     "funk-whore3": {
+      "tags": ["funk", "whore"]
+    }},
+    {
+    "funk-whore4": {
       "tags": ["funk", "whore"]
     }}
   ],
@@ -2017,6 +2081,10 @@
       "tags": ["cornette", "burger", "double cheeseburger", "double mayo", "double onion"]
     }}, 
     {
+    "cornette-doublecheeseburger": {
+      "tags": ["cornette", "double cheeseburger", "extra mayonaise"]
+    }}, 
+    {
     "cornette-fattoo": {
       "tags": ["cornette", "fuck", "fat too"]
     }}, 
@@ -2043,6 +2111,10 @@
     {
     "cornette-midnightexpress": {
       "tags": ["cornette", "midnight express", "motherfucker"]
+    }},
+    {
+    "cornette-motherfucker": {
+      "tags": ["cornette", "motherfucker"]
     }},
     { 
     "cornette-pinkforheels": {
@@ -2331,6 +2403,10 @@
     {
     "piper-santa": {
       "tags": ["piper", "santa"]
+    }},
+    {
+    "piper-yaknow": {
+      "tags": ["piper", "ya know", "son"]
     }}
   ],
   "dootdootdoot": [
@@ -2548,6 +2624,10 @@
     }}
   ],
   "patterson": [
+    {
+    "patterson-dontgiveafuck": {
+      "tags": ["patterson", "dont give", "fuck"]
+    }},
     {
     "patterson-gaga": {
       "tags": ["patterson", "give them", "gaga"]

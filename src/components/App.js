@@ -55,9 +55,11 @@ class App extends Component {
 
     this.resetSoundQueue = this.resetSoundQueue.bind(this);
 
+    this.soundTileFileSelected = this.soundTileFileSelected.bind(this);
+
     this.state = {
 
-      currentSoundSelectionsArray: [],
+      currentSoundTileFiles: {},
 
       initialLoadComplete: false,
 
@@ -311,6 +313,18 @@ class App extends Component {
 
   }
 
+  soundTileFileSelected(soundTile, file) {
+
+    console.log("### " + soundTile);
+
+    let tempCurrentSoundTileFiles = this.state.currentSoundTileFiles;
+
+    tempCurrentSoundTileFiles[soundTile] = file;
+
+    this.setState({currentSoundTileFiles: tempCurrentSoundTileFiles});
+
+  }
+
   showAboutScreen() {
 
     return (
@@ -376,8 +390,9 @@ class App extends Component {
                       handleSoundTileDrag={this.handleSoundTileDrag}
                       handleSoundTileDragEnd={this.handleSoundTileDragEnd}
                       handleSoundTileExplore={this.handleSoundTileExplore}
-                      handleSoundPlay={this.handleSoundPlay} 
-                      randomNumber={this.randomNumber}/>
+                      handleSoundPlay={this.handleSoundPlay}
+                      randomNumber={this.randomNumber}
+                      soundTileFileSelected={this.soundTileFileSelected}/>
         
       </div>
 

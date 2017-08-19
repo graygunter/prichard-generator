@@ -9,6 +9,8 @@ class SoundPaletteTile extends Component {
 
     this.getRandomSound = this.getRandomSound.bind(this);
 
+    this.returnFileName = this.returnFileName.bind(this);
+
     this.state = {
 
       file: undefined
@@ -17,14 +19,33 @@ class SoundPaletteTile extends Component {
 
   }
 
+  returnFileName(fileName) {
+
+    return fileName.substring(fileName.indexOf("-") + 1, fileName.length);
+
+  }
+
   createIconAndFile() {
 
     let fileName = String(this.state.file);
+
+/*  NEEDS TO BE TESTED: Method for subbing PNGs for iE browsers below iE11
+
+    let fileType = "svg";
+
+    if (isIE () && isIE () < 11) {
+
+      fileType = "png";
+
+    }
+
+*/
+
     let iconPath = "url(\"" + require(`../imgs/icons/icon_${fileName.substring(0, fileName.indexOf("-"))}.svg`) + "\")";
 
     //console.log("$$$ " + iconPath);
 
-    fileName = fileName.substring(fileName.indexOf("-") + 1, fileName.length);
+    fileName = this.returnFileName(fileName);
 
     return (
             <div className="icon-and-file">
@@ -48,6 +69,8 @@ class SoundPaletteTile extends Component {
     for (let soundName in randomSound) {
 
       this.setState({file : soundName});
+
+      this.props.soundTileFileSelected(this.props.category, this.returnFileName(soundName));
     
     }
 
@@ -58,7 +81,7 @@ class SoundPaletteTile extends Component {
     return (
 
       <div 
-        className={classNames("sound-tile", this.props.name)}
+        className={classNames("sound-tile", this.props.category)}
         draggable="true"
         onDragStart={() => this.props.handleSoundTileDrag(this)}
         onDragEnd={() => this.props.handleSoundTileDragEnd(this)}>
@@ -77,7 +100,7 @@ class SoundPaletteTile extends Component {
             
             <button 
                     className="sound-tile-explore"
-                    onClick={() => this.props.handleSoundTileExplore(this.props.name, this.state.file)}
+                    onClick={() => this.props.handleSoundTileExplore(this.props.category, this.state.file)}
                     title="Explore Audio Files">
                       <i className="fa fa-search" aria-hidden="true"></i>
             </button>
@@ -97,8 +120,6 @@ class SoundPaletteTile extends Component {
   }
 
   componentDidMount() {
-
-    console.log("Sound Palette Tile loaded!");
 
     this.getRandomSound();
 

@@ -9,20 +9,22 @@ class SoundPalette extends Component {
 
     let tilesArray = [];
 
-    for(let tile in audioData)
+    for(let tileCategory in audioData)
     {
 
-      let soundArray = audioData[tile];
+      let soundArray = audioData[tileCategory];
 
       let newTile = (<SoundPaletteTile 
+                                category={tileCategory}
                                 handleSoundTileDrag={this.props.handleSoundTileDrag}
                                 handleSoundTileDragEnd={this.props.handleSoundTileDragEnd}
                                 handleSoundTileExplore={this.props.handleSoundTileExplore}
                                 handleSoundPlay={this.props.handleSoundPlay}
-                                key={"SoundPaletteTile-" + tile}
-                                name={tile}
+                                key={"SoundPaletteTile-" + tileCategory}
                                 randomNumber={this.props.randomNumber}
-                                soundArray={soundArray}/>);
+                                soundArray={soundArray}
+                                soundTileFileSelected={this.props.soundTileFileSelected}
+                                />);
 
       tilesArray.push(newTile);
 
