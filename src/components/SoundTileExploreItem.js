@@ -48,7 +48,9 @@ class SoundTileExploreItem extends Component {
         classNames("explore-item", this.state.isCurrentlySelected ? "selected" : null)}>
 
         <button
-                className="select-button">
+                className="select-button"
+                onClick={() => this.props.soundTileFileSelected(this.props.exploreTitle + "-" + this.props.itemName)}>
+
                   <div className="inner-text">
                     Select
                   </div>

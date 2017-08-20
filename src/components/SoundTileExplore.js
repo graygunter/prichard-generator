@@ -34,6 +34,7 @@ class SoundTileExplore extends Component {
                                             handleSoundPlay={this.props.handleSoundPlay}
                                             itemName={fileName} 
                                             key={"SoundTileExploreItem-" + fileName} 
+                                            soundTileFileSelected={this.soundTileFileSelected}
                                             tags={currentTags}/>
 
         exploreItemsArray.push(newItem);

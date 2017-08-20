@@ -100,7 +100,7 @@ class SoundPaletteTile extends Component {
             
             <button 
                     className="sound-tile-explore"
-                    onClick={() => this.props.handleSoundTileExplore(this.props.category, this.state.file)}
+                    onClick={() => this.props.handleSoundTileExplore(this.props.category)}
                     title="Explore Audio Files">
                       <i className="fa fa-search" aria-hidden="true"></i>
             </button>
