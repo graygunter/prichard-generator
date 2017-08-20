@@ -70,7 +70,7 @@ class SoundPaletteTile extends Component {
 
       this.setState({file : soundName});
 
-      this.props.soundTileFileSelected(this.props.category, this.returnFileName(soundName));
+      this.props.soundTileFileSelected(this.props.category, soundName);
     
     }
 
@@ -121,7 +121,15 @@ class SoundPaletteTile extends Component {
 
   componentDidMount() {
 
-    this.getRandomSound();
+    console.log("this.props.currentSoundTileFile: " + this.props.currentSoundTileFile)
+
+    if(!this.props.currentSoundTileFile) 
+    {
+      this.getRandomSound();
+    }
+    else {
+      this.setState({file : this.props.currentSoundTileFile});
+    }
 
   }
 

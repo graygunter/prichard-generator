@@ -315,7 +315,7 @@ class App extends Component {
 
   soundTileFileSelected(soundTile, file) {
 
-    console.log("### " + soundTile);
+    //console.log("### " + soundTile);
 
     let tempCurrentSoundTileFiles = this.state.currentSoundTileFiles;
 
@@ -387,6 +387,7 @@ class App extends Component {
 
         <SoundPalette 
                       audioData={audioData}
+                      currentSoundTileFiles={this.state.currentSoundTileFiles}
                       handleSoundTileDrag={this.handleSoundTileDrag}
                       handleSoundTileDragEnd={this.handleSoundTileDragEnd}
                       handleSoundTileExplore={this.handleSoundTileExplore}

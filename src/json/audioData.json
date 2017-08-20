@@ -13,7 +13,11 @@
     {
     "bruce-100percent": {
       "tags": ["bruce", "hundred percent", "true"]
-    }},    
+    }},
+    {
+    "bruce-14thbeer": {
+      "tags": ["bruce", "fourteenth beer"]
+    }},     
     {
     "bruce-again": {
       "tags": ["bruce", "again"]
@@ -33,7 +37,11 @@
     {
     "bruce-asshole": {
       "tags": ["bruce", "he was an", "asshole"]
-    }}, 
+    }},
+    {
+    "bruce-assholedumbass": {
+      "tags": ["bruce", "asshole", "dumbass"]
+    }},
     {
     "bruce-autopsy": {
       "tags": ["bruce", "autopsy", "cocaine", "drugs"]
@@ -117,6 +125,10 @@
     {
     "bruce-bullshit2": {
       "tags": ["bruce", "bullshit", "shit"]
+    }},
+    {
+    "bruce-bullshitonbullshit": {
+      "tags": ["bruce", "bullshit", "on bullshit"]
     }},
     {
     "bruce-casket": {
@@ -223,12 +235,20 @@
       "tags": ["bruce", "freestyling", "here"]
     }},
     {
+    "bruce-fuckem": {
+      "tags": ["bruce", "fuck em"]
+    }},
+    {
     "bruce-fuckit": {
       "tags": ["bruce", "fuck", "yeah"]
     }},
     {
     "bruce-fuckoffpolitely": {
       "tags": ["bruce", "fuck", "politely"]
+    }},
+    {
+    "bruce-fuckwitchtit": {
+      "tags": ["bruce", "fuck", "witch tit"]
     }},
     {
     "bruce-gargledjack": {
@@ -371,6 +391,10 @@
       "tags": ["bruce", "i wasnt there", "thank god"]
     }},
     {
+    "bruce-jennajameson": {
+      "tags": ["bruce", "jenna jameson", "naked"]
+    }},
+    {
     "bruce-jerrydontcare": {
       "tags": ["bruce", "jerry"]
     }},
@@ -393,6 +417,10 @@
     {
     "bruce-kickedinthenuts": {
       "tags": ["bruce", "kick", "nuts"]
+    }},
+    {
+    "bruce-killmyself": {
+      "tags": ["bruce", "id kill myself"]
     }},
     {
     "bruce-laughing1": {
@@ -461,6 +489,10 @@
     {
     "bruce-notgonnasay": {
       "tags": ["bruce", "not gonna say", "dollar amount"]
+    }},
+    {
+    "bruce-nounicorn": {
+      "tags": ["bruce", "no unicorn", "no horse"]
     }},
     {
     "bruce-oneoftheonlytimes": {
@@ -635,8 +667,8 @@
       "tags": ["bruce", "this is real"]
     }},
     {
-    "bruce-thisisreal": {
-      "tags": ["bruce", "this is real"]
+    "bruce-threesecondfuck": {
+      "tags": ["bruce", "three seconds later", "fuck"]
     }},
     {
     "bruce-tickling": {
@@ -807,6 +839,10 @@
     {
     "conrad-beatsanta": {
       "tags": ["conrad", "beat", "santa"]
+    }},
+    {
+    "conrad-bellrang": {
+      "tags": ["conrad", "bell rang"]
     }},
     {
     "conrad-brookehogan": {
@@ -1133,6 +1169,14 @@
       "tags": ["conrad", "laughing"]
     }},
     {
+    "conrad-laughing4": {
+      "tags": ["conrad", "laughing"]
+    }},
+    {
+    "conrad-laughing5": {
+      "tags": ["conrad", "laughing"]
+    }},
+    {
     "conrad-leatherbydan": {
       "tags": ["conrad", "leather by dan", "dot com"]
     }},
@@ -1193,6 +1237,10 @@
       "tags": ["conrad", "show", "never end"]
     }},
     {
+    "conrad-nounicorn": {
+      "tags": ["conrad", "no unicorn", "or horse"]
+    }},
+    {
     "conrad-oneofthosedeals": {
       "tags": ["conrad", "one of those deals"]
     }},
@@ -1227,6 +1275,10 @@
     {
     "conrad-prop": {
       "tags": ["conrad", "prop"]
+    }},
+    {
+    "conrad-prowrestlingtees": {
+      "tags": ["bruce", "prowrestling tees"]
     }},
     {
     "conrad-putabow": {
@@ -1359,6 +1411,10 @@
     {
     "conrad-takingcredit": {
       "tags": ["conrad", "credit", "shit"]
+    }},
+    {
+    "conrad-telephonetelegram": {
+      "tags": ["conrad", "telephone", "telegram", "tell a wrestler"]
     }},
     {
     "conrad-thankyou": {
@@ -1747,6 +1803,10 @@
       "tags": ["vince", "casino"]
     }},
     {
+    "vince-choppypeepee": {
+      "tags": ["vince", "choppy", "pee pee"]
+    }},
+    {
     "vince-donttell": {
       "tags": ["vince", "dont tell"]
     }},
@@ -1807,6 +1867,10 @@
       "tags": ["vince", "hick", "southerner"]
     }},
     {
+    "vince-ifiwasdead": {
+      "tags": ["vince", "wouldnt be on tv", "if i was dead"]
+    }},
+    {
     "vince-itllbegreat": {
       "tags": ["vince", "great"]
     }},
@@ -1845,6 +1909,10 @@
     {
     "vince-ooze2": {
       "tags": ["vince", "ooze", "green", "purple"]
+    }},
+    {
+    "vince-pastaandchicken": {
+      "tags": ["vince", "pasta", "chicken"]
     }},
     {
     "vince-ratingsdamnit": {
@@ -2371,6 +2439,10 @@
     {
     "rumors-penis": {
       "tags": ["conrad", "rumors and innuendo", "penis"]
+    }},
+    {
+    "rumors-whatsrumors": {
+      "tags": ["conrad", "rumors and innuendo", "what happened"]
     }}
   ],
   "gimmicks": [
@@ -2635,6 +2707,10 @@
     {
     "patterson-gibberish": {
       "tags": ["patterson", "gibberish", "fuck it"]
+    }},
+    {
+    "patterson-fuckyouboth": {
+      "tags": ["patterson", "fuck you both"]
     }},
     {
     "patterson-horowitz": {
