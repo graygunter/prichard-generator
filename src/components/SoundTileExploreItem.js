@@ -40,6 +40,37 @@ class SoundTileExploreItem extends Component {
 
   }
 
+  showSelectButton() {
+
+    return (
+
+      <button
+        className="select-button"
+        onClick={() => this.props.soundTileFileSelected(this.props.exploreTitle + "-" + this.props.itemName)}>
+
+          <div className="inner-text">
+            Select
+          </div>
+      </button>
+
+    );
+
+  }
+
+  showSelectedTag() {
+
+    return (
+
+      <div className="selected-tag">
+
+        Selected
+
+      </div>
+
+    )
+
+  }
+
   render() {
 
     return (
@@ -47,14 +78,7 @@ class SoundTileExploreItem extends Component {
       <div className={
         classNames("explore-item", this.state.isCurrentlySelected ? "selected" : null)}>
 
-        <button
-                className="select-button"
-                onClick={() => this.props.soundTileFileSelected(this.props.exploreTitle + "-" + this.props.itemName)}>
-
-                  <div className="inner-text">
-                    Select
-                  </div>
-        </button>
+        {this.state.isCurrentlySelected ? this.showSelectedTag() : this.showSelectButton()}
 
         <div className="explore-item-name-and-button">
 
@@ -76,6 +100,13 @@ class SoundTileExploreItem extends Component {
 
       </div>
     );
+
+  }
+
+  componentDidMount() {
+
+    if(this.props.exploreTitle + "-" + this.props.itemName === this.props.currentSelection)
+      this.setState({isCurrentlySelected : true});
 
   }
 

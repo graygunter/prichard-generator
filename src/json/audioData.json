@@ -973,10 +973,6 @@
       "tags": ["conrad", "flair"]
     }},
     {
-    "conrad-fascinated": {
-      "tags": ["conrad", "always been", "fascinated"]
-    }},
-    {
     "conrad-fuckinfoolproof": {
       "tags": ["conrad", "fuck", "fool proof"]
     }},
@@ -1071,15 +1067,7 @@
     {
     "conrad-hot1": {
       "tags": ["conrad", "hot"]
-    }},
-    {
-    "conrad-hotonthis": {
-      "tags": ["conrad", "hot"]
-    }},
-    {
-    "conrad-howmuchcocaine": {
-      "tags": ["conrad", "cocaine", "drugs"]
-    }},    
+    }},  
     {
     "conrad-horsesmouth": {
       "tags": ["conrad", "horses mouth"]
@@ -1088,6 +1076,10 @@
     "conrad-hotonthis": {
       "tags": ["conrad", "hot"]
     }},
+    {
+    "conrad-howmuchcocaine": {
+      "tags": ["conrad", "cocaine", "drugs"]
+    }},  
     {
     "conrad-humblebrag": {
       "tags": ["conrad", "hashtag", "humblebrag"]
@@ -1588,7 +1580,7 @@
     }},
     {
     "jerry-hello": {
-      "tags": ["jerry"]
+      "tags": ["jerry", "hello"]
     }},
     {
     "jerry-huh1": {
@@ -1608,7 +1600,7 @@
     }},
     {
     "jerry-idontknowanyone": {
-      "tags": ["jerry"]
+      "tags": ["jerry", "i dont know anyone", "hate vince"]
     }},
     {
     "jerry-jerryjarret": {
@@ -1656,7 +1648,7 @@
     }},
     {
     "jerry-thisisjerry": {
-      "tags": ["jerry"]
+      "tags": ["jerry", "this is jerry"]
     }},
     {
     "jerry-timeforlunch": {
@@ -1664,7 +1656,7 @@
     }},
     {
      "jerry-uhhuh": {
-      "tags": ["jerry"]
+      "tags": ["jerry", "uh huh"]
     }},
     {
     "jerry-walnuts1": {
@@ -1916,7 +1908,7 @@
     }},
     {
     "vince-ratingsdamnit": {
-      "tags": ["vince"]
+      "tags": ["vince", "ratings", "damnit"]
     }},
     {
     "vince-shitinthebucket": {
@@ -1944,7 +1936,7 @@
     }},
     {
     "vince-washyourhands": {
-      "tags": ["vince"]
+      "tags": ["vince", "wash your hands"]
     }},
     {
     "vince-whatareyoulaughing": {
@@ -1962,7 +1954,7 @@
   "warrior": [
     {
     "warrior-dextrucity": {
-      "tags": ["warriror"]
+      "tags": ["warriror", "dextrucity"]
     }}
   ],
   "ecw": [
@@ -2612,19 +2604,19 @@
   "gobbledygooker": [
     {
     "gobbledygooker-gobbledygooker1": {
-      "tags": ["gobbledygooker"]
+      "tags": ["gobbledygooker", "gobbledy gooker"]
     }},
     {
     "gobbledygooker-gobbledygooker2": {
-      "tags": ["gobbledygooker"]
+      "tags": ["gobbledygooker", "gobbledy gooker"]
     }},
     {
     "gobbledygooker-gobbledygooker3": {
-      "tags": ["gobbledygooker"]
+      "tags": ["gobbledygooker", "gobbledy gooker"]
     }},
     {
     "gobbledygooker-gobbledygooker4": {
-      "tags": ["gobbledygooker"]
+      "tags": ["gobbledygooker", "gobbledy gooker"]
     }}
   ],
   "babytonight": [

@@ -650,6 +650,35 @@ body {
 
       }
 
+      &.selected {
+        
+        background: $blue;
+        color: #FFF;
+
+        .selected-tag {
+
+          border-left: 50px solid transparent;
+          border-top: 50px solid red;
+          height: 0;
+          position: absolute;
+          right: 0;
+          top: 0;
+          width: 0;
+
+        }
+
+        .explore-item-tags {
+
+          .tag {
+
+            color: #FFF;
+
+          }
+
+        }
+
+      }
+
       &:hover .select-button {
 
         display: block;
@@ -677,6 +706,7 @@ body {
           @include border-radius(50%);
           background: none;
           background-color: $green;
+          box-shadow: 1px 1px 5px rgba(0,0,0,0.3);
           display: block;
           float: left;
           height: 30px;
@@ -684,6 +714,12 @@ body {
           margin-top: 4px;
           position: relative;
           width: 30px;
+
+          &:hover {
+
+            box-shadow: none;
+
+          }
 
         }
 

@@ -3,18 +3,6 @@ import SoundTileExploreItem from './SoundTileExploreItem';
 
 class SoundTileExplore extends Component {
 
-  constructor() {
-
-    super();
-
-    this.state = {
-
-      currentSelection: undefined
-
-    }
-
-  }
-
   generateSoundTileExploreItems() {
 
     let exploreItemsArray = []
@@ -30,6 +18,7 @@ class SoundTileExplore extends Component {
         fileName = fileName.substring(fileName.indexOf("-") + 1, fileName.length);
 
         let newItem = <SoundTileExploreItem
+                                            currentSelection={this.props.currentSelection}
                                             exploreTitle={this.props.exploreTitle}
                                             handleSoundPlay={this.props.handleSoundPlay}
                                             itemName={fileName} 
@@ -56,9 +45,9 @@ class SoundTileExplore extends Component {
     if(this.props.tileData.length > 1)
       audioClipsString += "s";
 
-    if(this.state.currentSelection) {
+    if(this.props.currentSelection) {
 
-      var currentSelectionName = this.state.currentSelection;
+      var currentSelectionName = this.props.currentSelection;
       currentSelectionName = currentSelectionName.substring(currentSelectionName.indexOf("-") + 1, currentSelectionName.length);
 
     }
@@ -111,12 +100,6 @@ class SoundTileExplore extends Component {
 
       </div>
     );
-
-  }
-
-  componentDidMount() {
-
-    this.setState({currentSelection: this.props.currentSelection});
 
   }
 
