@@ -457,6 +457,10 @@ body {
         right: 0;
         top: 0;
         width: 0; }
+        .sound-tile-explore .explore-items .explore-item.selected .selected-tag .selected-tag-text {
+          left: 0;
+          position: absolute;
+          top: 0; }
       .sound-tile-explore .explore-items .explore-item.selected .explore-item-tags .tag {
         color: #FFF; }
     .sound-tile-explore .explore-items .explore-item:hover .select-button {

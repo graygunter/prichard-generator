@@ -63,7 +63,9 @@ class SoundTileExploreItem extends Component {
 
       <div className="selected-tag">
 
-        Selected
+        <div className="selected-tag-text">
+          Selected
+        </div>
 
       </div>
 
