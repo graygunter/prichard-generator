@@ -966,7 +966,7 @@
     }},
     {
     "conrad-doyourealize": {
-      "tags": ["conrad"]
+      "tags": ["conrad", "do you realize", "impression"]
     }},
     {
     "conrad-drugmule": {
@@ -1062,6 +1062,10 @@
     }},
     {
     "conrad-googlemachine3": {
+      "tags": ["conrad", "google machine"]
+    }},
+    {
+    "conrad-googlemachine4": {
       "tags": ["conrad", "google machine"]
     }},
     {
@@ -1581,6 +1585,10 @@
       "tags": ["conrad", "booking", "shit"]
     }},
     {
+    "conrad-whoseidea": {
+      "tags": ["conrad", "whose idea", "was this"]
+    }},
+    {
     "conrad-whywerehere": {
       "tags": ["conrad", "why were here"]
     }},
@@ -2096,31 +2104,31 @@
   "ecw": [
     {
     "ecw-bingo": {
-      "tags": ["ecw"]
+      "tags": ["ecw", "bingo"]
     }},
     {
     "ecw-b14": {
-      "tags": ["ecw"]
+      "tags": ["ecw", "b-14"]
     }},
     {
     "ecw-g718": {
-      "tags": ["ecw"]
+      "tags": ["ecw", "g-718"]
     }},
     {
     "ecw-i17": {
-      "tags": ["ecw"]
+      "tags": ["ecw", "i-17"]
     }},
     {
     "ecw-i62": {
-      "tags": ["ecw"]
+      "tags": ["ecw", "i-62"]
     }},
     {
     "ecw-n32": {
-      "tags": ["ecw"]
+      "tags": ["ecw", "n-32"]
     }},
     {
     "ecw-o3": {
-      "tags": ["ecw"]
+      "tags": ["ecw", "o-3"]
     }}
   ],
   "funk": [

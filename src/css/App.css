@@ -437,7 +437,7 @@ body {
     .sound-tile-explore .explore-items .explore-item:nth-child(odd) {
       border: 1px solid rgba(0, 0, 0, 0.3); }
     .sound-tile-explore .explore-items .explore-item:nth-child(even) {
-      background-color: rgba(0, 112, 201, 0.1);
+      background-color: #e5f0f0;
       border: 1px solid #0070c9; }
     .sound-tile-explore .explore-items .explore-item .select-button {
       background-color: #0070c9;
@@ -450,17 +450,35 @@ body {
       background: #0070c9;
       color: #FFF; }
       .sound-tile-explore .explore-items .explore-item.selected .selected-tag {
-        border-left: 50px solid transparent;
-        border-top: 50px solid red;
-        height: 0;
+        background-color: #760ce8;
+        border-left: 1px solid #43008c;
+        border-right: 1px solid #43008c;
+        border-top: 1px solid #43008c;
+        color: white;
+        font-size: 1rem;
+        font-weight: 700;
+        height: 46px;
+        letter-spacing: 1px;
+        margin: 0 auto;
+        padding-top: 15px;
         position: absolute;
-        right: 0;
-        top: 0;
-        width: 0; }
+        right: 5px;
+        text-align: center;
+        text-transform: uppercase;
+        top: -3px;
+        width: 110px; }
         .sound-tile-explore .explore-items .explore-item.selected .selected-tag .selected-tag-text {
+          text-shadow: 1px 1px 0 #000; }
+        .sound-tile-explore .explore-items .explore-item.selected .selected-tag:after {
+          border-bottom: 13px solid #0070c9;
+          border-left: 55px solid transparent;
+          border-right: 55px solid transparent;
+          bottom: 0;
+          content: ' ';
+          height: 0;
           left: 0;
           position: absolute;
-          top: 0; }
+          width: 0; }
       .sound-tile-explore .explore-items .explore-item.selected .explore-item-tags .tag {
         color: #FFF; }
     .sound-tile-explore .explore-items .explore-item:hover .select-button {
@@ -472,7 +490,15 @@ body {
       margin-bottom: 6%; }
       .sound-tile-explore .explore-items .explore-item .explore-item-name-and-button .explore-item-name {
         float: left; }
-      .sound-tile-explore .explore-items .explore-item .explore-item-name-and-button button {
+    .sound-tile-explore .explore-items .explore-item .explore-item-tags {
+      font-size: 1rem; }
+      .sound-tile-explore .explore-items .explore-item .explore-item-tags .tag {
+        color: #666;
+        display: block;
+        margin-right: 5px;
+        float: left;
+        line-height: 2.3rem; }
+      .sound-tile-explore .explore-items .explore-item .explore-item-tags button {
         -webkit-border-radius: 50%;
         -moz-border-radius: 50%;
         -ms-border-radius: 50%;
@@ -483,17 +509,11 @@ body {
         display: block;
         float: left;
         height: 30px;
-        margin-left: 10px;
+        margin-left: 5px;
         margin-top: 4px;
         position: relative;
         width: 30px; }
-        .sound-tile-explore .explore-items .explore-item .explore-item-name-and-button button:hover {
+        .sound-tile-explore .explore-items .explore-item .explore-item-tags button:hover {
           box-shadow: none; }
-    .sound-tile-explore .explore-items .explore-item .explore-item-tags {
-      font-size: 1rem; }
-      .sound-tile-explore .explore-items .explore-item .explore-item-tags .tag {
-        color: #666;
-        display: inline-block;
-        margin-right: 5px; }
 
 /*# sourceMappingURL=App.css.map */

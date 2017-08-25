@@ -657,20 +657,41 @@ body {
 
         .selected-tag {
 
-          border-left: 50px solid transparent;
-          border-top: 50px solid red;
-          height: 0;
-          position: absolute;
-          right: 0;
-          top: 0;
-          width: 0;
-
+          background-color: $purple;
+          border-left: 1px solid $dark-purple;
+          border-right: 1px solid $dark-purple;
+          border-top: 1px solid $dark-purple;
+          color: white;
+          font-size: 1rem;
+          font-weight: 700;
+          height: 46px;
+          letter-spacing: 1px;
+          margin: 0 auto;
+          padding-top: 15px;
+          position: absolute; 
+          right: 5px;
+          text-align: center;
+          text-transform: uppercase;
+          top: -3px;
+          width: 110px;
 
           .selected-tag-text {
 
+            text-shadow: 1px 1px 0 #000;
+
+          }
+
+          &:after {
+
+            border-bottom: 13px solid $blue;
+            border-left: 55px solid transparent;
+            border-right: 55px solid transparent;
+            bottom: 0;
+            content: ' ';
+            height: 0;
             left: 0;
             position: absolute;
-            top: 0;
+            width: 0;
 
           }
 
@@ -710,28 +731,6 @@ body {
           float: left;
         }
 
-        button {
-
-          @include border-radius(50%);
-          background: none;
-          background-color: $green;
-          box-shadow: 1px 1px 5px rgba(0,0,0,0.3);
-          display: block;
-          float: left;
-          height: 30px;
-          margin-left: 10px;
-          margin-top: 4px;
-          position: relative;
-          width: 30px;
-
-          &:hover {
-
-            box-shadow: none;
-
-          }
-
-        }
-
       }
 
       .explore-item-tags {
@@ -741,8 +740,32 @@ body {
         .tag {
 
           color: #666;
-          display: inline-block;
+          display: block;
           margin-right: 5px;
+          float: left;
+          line-height: 2.3rem;
+          
+        }
+
+        button {
+
+          @include border-radius(50%);
+          background: none;
+          background-color: $green;
+          box-shadow: 1px 1px 5px rgba(0,0,0,0.3);
+          display: block;
+          float: left;
+          height: 30px;
+          margin-left: 5px;
+          margin-top: 4px;
+          position: relative;
+          width: 30px;
+
+          &:hover {
+
+            box-shadow: none;
+
+          }
 
         }
 

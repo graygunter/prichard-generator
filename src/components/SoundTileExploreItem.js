@@ -88,16 +88,18 @@ class SoundTileExploreItem extends Component {
             {this.props.itemName}
           </div>
 
+        </div>
+
+        <div className="explore-item-tags">
+        
+          {this.buildTags()}
+
           <button 
                   className="explore-item-play"
                   onClick={() => this.props.handleSoundPlay(this.props.exploreTitle + "-" + this.props.itemName)}>
             <i className="fa fa-play" aria-hidden="true"></i>
           </button>
 
-        </div>
-
-        <div className="explore-item-tags">
-          {this.buildTags()}
         </div>
 
       </div>
