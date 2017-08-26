@@ -23,7 +23,7 @@ class SoundTileExplore extends Component {
                                             handleSoundPlay={this.props.handleSoundPlay}
                                             itemName={fileName} 
                                             key={"SoundTileExploreItem-" + fileName} 
-                                            soundTileFileSelected={this.soundTileFileSelected}
+                                            soundTileFileSelected={this.props.soundTileFileSelected}
                                             tags={currentTags}/>
 
         exploreItemsArray.push(newItem);
@@ -37,6 +37,8 @@ class SoundTileExplore extends Component {
   }
 
   render() {
+
+    console.log("SoundTileExplore rendered!");
 
     let iconPath = "url(\"" + require(`../imgs/icons/icon_${this.props.exploreTitle}.svg`) + "\")";
 

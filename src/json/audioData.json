@@ -339,7 +339,11 @@
       "tags": ["bruce", "i can tell", "hot"]
     }},
     {
-    "bruce-idaresay": {
+    "bruce-idaresay1": {
+      "tags": ["bruce", "i dare say"]
+    }},
+    {
+    "bruce-idaresay2": {
       "tags": ["bruce", "i dare say"]
     }},
     {
@@ -1345,6 +1349,10 @@
       "tags": ["bruce", "prowrestling tees"]
     }},
     {
+    "conrad-pullingteeth": {
+      "tags": ["conrad", "pulling teeth", "fuck"]
+    }},
+    {
     "conrad-putabowon1": {
       "tags": ["conrad", "put a bow on"]
     }},
@@ -1910,6 +1918,10 @@
     }}
   ],
   "vince": [
+    {
+    "vince-beefcake": {
+      "tags": ["vince", "beefcake", "over"]
+    }},
     {
     "vince-boughtacasino": {
       "tags": ["vince", "casino"]
@@ -2911,6 +2923,10 @@
     {
     "patterson-gibberish": {
       "tags": ["patterson", "gibberish", "fuck it"]
+    }},
+    {
+    "patterson-gobanana": {
+      "tags": ["patterson", "go banana"]
     }},
     {
     "patterson-hebuyseverything": {
