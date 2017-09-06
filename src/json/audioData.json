@@ -85,7 +85,11 @@
     {
     "bruce-bellrang3": {
       "tags": ["bruce", "bell had to ring", "eventually"]
-    }},  
+    }},
+    {
+    "bruce-bellrang4": {
+      "tags": ["bruce", "bell had to ring", "eventually"]
+    }},
     {
     "bruce-beltmagic": {
       "tags": ["bruce", "belt", "magic"]
@@ -189,6 +193,10 @@
     {
     "bruce-dontremember": {
       "tags": ["bruce", "dont", "remember"]
+    }},
+    {
+    "bruce-dontunderstand": {
+      "tags": ["bruce", "dont understand", "question", "conrad"]
     }},
     {
     "bruce-drizzlingshits": {
@@ -1357,6 +1365,10 @@
       "tags": ["conrad", "show", "never end"]
     }},
     {
+    "conrad-notmad": {
+      "tags": ["conrad", "not mad", "anymore"]
+    }},
+    {
     "conrad-nounicorn": {
       "tags": ["conrad", "no unicorn", "or horse"]
     }},
@@ -1517,6 +1529,10 @@
       "tags": ["conrad", "shock to you"]
     }},
     {
+    "conrad-shootshit": {
+      "tags": ["conrad", "shoot shit", "at people"]
+    }},
+    {
     "conrad-shorter": {
       "tags": ["conrad", "shorter", "a damn lie"]
     }},
@@ -1669,8 +1685,12 @@
       "tags": ["conrad", "booking", "shit"]
     }},
     {
-    "conrad-whoseidea": {
+    "conrad-whoseidea1": {
       "tags": ["conrad", "whose idea", "was this"]
+    }},
+    {
+    "conrad-whoseidea1": {
+      "tags": ["conrad", "whose idea", "is this"]
     }},
     {
     "conrad-whywerehere": {
@@ -1979,12 +1999,20 @@
   ],
   "jr": [
     {
+    "jr-bosswants": {
+      "tags": ["jr", "boss wants", "to talk to you"]
+    }},
+    {
     "jr-drdeath": {
       "tags": ["jr", "dr death"]
     }},
     {
     "jr-goddamn": {
       "tags": ["jr", "god damn"]
+    }},
+    {
+    "jr-heyboy": {
+      "tags": ["jr", "hey boy"]
     }},
     {
     "jr-hurr": {
@@ -2053,6 +2081,10 @@
     {
     "vince-cutebastard": {
       "tags": ["vince", "cute", "bastard"]
+    }},
+    {
+    "vince-dontdocomedy": {
+      "tags": ["vince", "dont do comedy", "do humor"]
     }},
     {
     "vince-dontdothejob": {
@@ -2419,8 +2451,16 @@
       "tags": ["heyman", "abort"]
     }},
     {
+    "heyman-anothervolley1": {
+      "tags": ["heyman", "allow me", "another volley"]
+    }},
+    {
     "heyman-bockwinkel": {
       "tags": ["heyman", "bockwinkel"]
+    }},
+    {
+    "heyman-helptheselads": {
+      "tags": ["heyman", "help these lads"]
     }},
     {
     "heyman-iappologize": {
@@ -3029,6 +3069,10 @@
       "tags": ["babytonight", "wrapped", "little finger"]
     }},
     {
+    "babytonight-sheri": {
+      "tags": ["babytonight", "sheri"]
+    }},
+    {
     "babytonight-spendmydays": {
       "tags": ["babytonight", "spend my days"]
     }},
@@ -3109,12 +3153,20 @@
       "tags": ["patterson", "barry horowitz", "skip"]
     }},
     {
+    "patterson-ilovehim": {
+      "tags": ["patterson", "i love him"]
+    }},
+    {
     "patterson-nobodybelieve": {
       "tags": ["patterson", "oh my god", "nobody believe it"]
     }},
     {
     "patterson-nobodycares": {
       "tags": ["patterson", "nobody cares"]
+    }},
+    {
+    "patterson-shawnmichael": {
+      "tags": ["patterson", "shawn michael"]
     }},
     {
     "patterson-stupid": {
