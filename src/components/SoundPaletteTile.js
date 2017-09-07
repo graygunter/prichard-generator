@@ -121,7 +121,7 @@ class SoundPaletteTile extends Component {
 
   componentDidMount() {
 
-    console.log("this.props.currentSoundTileFile: " + this.props.currentSoundTileFile)
+    //console.log("this.props.currentSoundTileFile: " + this.props.currentSoundTileFile)
 
     if(!this.props.currentSoundTileFile) 
     {

@@ -479,6 +479,10 @@
       "tags": ["bruce", "little secret"]
     }},
     {
+    "bruce-lowclass": {
+      "tags": ["bruce", "low class"]
+    }},
+    {
     "bruce-lovespoo": {
       "tags": ["bruce", "everybody", "loves poo"]
     }},
@@ -723,6 +727,10 @@
       "tags": ["bruce", "snake", "jake roberts"]
     }},
     {
+    "bruce-thatsstw": {
+      "tags": ["bruce", "thats", "something to wrestle with"]
+    }},
+    {
     "bruce-thisisreal": {
       "tags": ["bruce", "this is real"]
     }},
@@ -757,6 +765,10 @@
     {
     "bruce-usedtobeover2": {
       "tags": ["bruce", "over", "used to be"]
+    }},
+    {
+    "bruce-vicodinmonth": {
+      "tags": ["bruce", "vicodin", "month"]
     }},
     {
     "bruce-warrioru": {
@@ -813,6 +825,10 @@
     {
     "bruce-yourehot": {
       "tags": ["bruce", "youre getting hot"]
+    }},
+    {
+    "bruce-yousuck": {
+      "tags": ["bruce", "you suck", "singing"]
     }},
     {
     "bruce-yousmell": {
@@ -879,6 +895,10 @@
     {
     "conrad-asshole": {
       "tags": ["conrad", "i am an asshole"]
+    }},
+    {
+    "conrad-assfucking": {
+      "tags": ["conrad", "ass fucking", "speaking of"]
     }},
     {
     "conrad-atbruceprichard": {
@@ -1143,6 +1163,14 @@
     {
     "conrad-hatetweets2": {
       "tags": ["conrad", "tweets"]
+    }},
+    {
+    "conrad-hatetweets3": {
+      "tags": ["conrad", "tweets"]
+    }},
+    {
+    "conrad-hhhcritical": {
+      "tags": ["conrad", "hhh", "critical"]
     }},
     {
     "conrad-highandmighty": {
@@ -1613,7 +1641,11 @@
       "tags": ["conrad", "the real answer"]
     }},
     {
-    "conrad-thereyougo": {
+    "conrad-thereyougo1": {
+      "tags": ["conrad", "there you go"]
+    }},
+    {
+    "conrad-thereyougo2": {
       "tags": ["conrad", "there you go"]
     }},
     {
@@ -1669,6 +1701,10 @@
       "tags": ["conrad", "give me", "im good with"]
     }},
     {
+    "conrad-whascausing": {
+      "tags": ["conrad", "whats causing", "all this"]
+    }},
+    {
     "conrad-whatsupwiththat": {
       "tags": ["conrad", "whats up", "with that"]
     }},
@@ -1689,7 +1725,7 @@
       "tags": ["conrad", "whose idea", "was this"]
     }},
     {
-    "conrad-whoseidea1": {
+    "conrad-whoseidea2": {
       "tags": ["conrad", "whose idea", "is this"]
     }},
     {
@@ -1705,8 +1741,16 @@
       "tags": ["conrad", "what happened when"]
     }},
     {
+    "conrad-whw3": {
+      "tags": ["conrad", "what happened when"]
+    }},
+    {
     "conrad-whyyoulisten": {
       "tags": ["conrad", "why you listen"]
+    }},
+    {
+    "conrad-wrestlingfan": {
+      "tags": ["conrad", "wrestling fan"]
     }},
     {
     "conrad-wrotethisshit": {
@@ -1921,6 +1965,10 @@
     {
     "jerry-youknow12": {
       "tags": ["jerry", "you know"]
+    }},
+    {
+    "jerry-youknow13": {
+      "tags": ["jerry", "you know", "conrad"]
     }}
   ],
   "dusty": [
@@ -2043,6 +2091,10 @@
     {
     "savage-cupofcoffee": {
       "tags": ["savage", "cup of coffee"]
+    }},
+    {
+    "savage-easeup": {
+      "tags": ["savage", "ease up", "brother"]
     }},
     {
     "savage-heybrother": {
@@ -2841,6 +2893,10 @@
       "tags": ["conrad", "rumors and innuendo", "penis"]
     }},
     {
+    "rumors-theresbeenlots": {
+      "tags": ["conrad", "rumors and innuendo", "theres been lots"]
+    }},
+    {
     "rumors-whatsrumors": {
       "tags": ["conrad", "rumors and innuendo", "what happened"]
     }}
@@ -3073,8 +3129,16 @@
       "tags": ["babytonight", "sheri"]
     }},
     {
-    "babytonight-spendmydays": {
+    "babytonight-spendmydays1": {
       "tags": ["babytonight", "spend my days"]
+    }},
+    {
+    "babytonight-spendmydays2": {
+      "tags": ["babytonight", "spend my days"]
+    }},
+    {
+    "babytonight-workinhard": {
+      "tags": ["babytonight", "workin hard", "on the go"]
     }},
     {
     "babytonight-wrestlerockrumble": {
