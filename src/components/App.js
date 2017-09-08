@@ -137,11 +137,7 @@ class App extends Component {
 
   playSoundQueue() {
 
-    //console.log("play pressed");
-
-    if(this.state.soundQueuesArray !== []) {
-
-      //console.log("soundQueuesArray is not empty");
+    if(this.state.soundQueuesArray.length !== 0) {
 
       let tempSoundQuesesArray = this.state.soundQueuesArray;
 
@@ -162,7 +158,7 @@ class App extends Component {
 
   playSound(soundToPlay) {
 
-    //console.log(soundToPlay);
+    //console.log("### " + soundToPlay);
 
     let folder = soundToPlay.substring(0, soundToPlay.indexOf("-"));
 
