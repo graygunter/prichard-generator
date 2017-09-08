@@ -70,7 +70,9 @@ class SoundTileExplore extends Component {
 
             <h5>Now exploring the category: </h5>
 
-            <h3>{this.props.exploreTitle}</h3>
+            <h3
+                className={this.props.exploreTitle.length > 10 ? "small" : null}
+                >{this.props.exploreTitle}</h3>
 
             <div 
                   className="icon"

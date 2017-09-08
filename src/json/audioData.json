@@ -789,7 +789,11 @@
     {
     "bruce-whatif": {
       "tags": ["bruce", "what if"]
-    }},    
+    }},
+    {
+    "bruce-whatthefuck": {
+      "tags": ["bruce", "what the fuck"]
+    }},  
     {
     "bruce-wherethefuck": {
       "tags": ["bruce", "fuck"]
@@ -1185,6 +1189,10 @@
       "tags": ["conrad", "hookah", "fuck"]
     }}, 
     {
+    "conrad-hookersasses": {
+      "tags": ["conrad", "hookers asses", "lines", "drugs"]
+    }}, 
+    {
     "conrad-horsesmouth": {
       "tags": ["conrad", "horses mouth"]
     }},
@@ -1465,12 +1473,20 @@
       "tags": ["conrad", "put a bow on"]
     }},
     {
+    "conrad-realdeal": {
+      "tags": ["conrad", "whats the", "real deal"]
+    }},
+    {
     "conrad-reallife": {
       "tags": ["conrad", "real life", "motherfucker"]
     }},
     {
     "conrad-realquestion": {
       "tags": ["conrad", "real", "question"]
+    }},
+    {
+    "conrad-rehab": {
+      "tags": ["conrad", "rehab", "drugs"]
     }},
     {
     "conrad-retort": {
@@ -1623,7 +1639,11 @@
     {
     "conrad-thatllgetover": {
       "tags": ["conrad", "over"]
-    }}, 
+    }},
+    {
+    "conrad-thatprichard": {
+      "tags": ["conrad", "that prichard", "ha ha"]
+    }},
     {
     "conrad-thisisapodcast": {
       "tags": ["conrad", "podcast", "whisper"]
@@ -1691,6 +1711,10 @@
     {
     "conrad-weapons": {
       "tags": ["conrad", "bats", "barbed wire", "handcuffs"]
+    }},
+    {
+    "conrad-weedcarrier": {
+      "tags": ["conrad", "weed carrier", "drugs"]
     }},
     {
     "conrad-weird": {
@@ -2043,6 +2067,10 @@
     {
     "dusty-thankyou": {
       "tags": ["dusty", "thank you", "baby", "darlin"]
+    }},
+    {
+    "dusty-virgilisoverthere": {
+      "tags": ["dusty", "virgil is over there", "the dream"]
     }}
   ],
   "jr": [
@@ -2542,7 +2570,7 @@
     }}, 
     {
     "cornette-burger": {
-      "tags": ["cornette", "burger", "double cheeseburger", "double mayo", "double onion"]
+      "tags": ["cornette", "cheeseburger", "double mayo", "double onion"]
     }}, 
     {
     "cornette-doublecheeseburger": {

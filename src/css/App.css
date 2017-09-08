@@ -410,6 +410,8 @@ body {
     font-size: 3rem;
     font-weight: 700;
     text-transform: uppercase; }
+    .sound-tile-explore .left-column .explore-info h3.small {
+      font-size: 2rem; }
   .sound-tile-explore .left-column .explore-info h4 {
     font-size: 2rem;
     margin-bottom: 10%; }

@@ -63,6 +63,8 @@ class VirtualKeyboardBackground extends Component {
 
     backgroundDataLocal.splice(backgroundNumber, 1);
 
+    //console.log("### backgroundSelected: " + backgroundSelected);
+
     childDiv.style.backgroundImage = "url(\"" + require(`../imgs/backgrounds/${backgroundSelected}.jpg`) + "\")";
 
     masterBackgroundDiv.prepend(childDiv);
@@ -70,7 +72,7 @@ class VirtualKeyboardBackground extends Component {
   }
 
   removeTransition(e) {
-    
+
     masterBackgroundDiv.removeChild(e.target);
 
     this.setBackground();
@@ -100,9 +102,18 @@ class VirtualKeyboardBackground extends Component {
 
   componentDidMount() {
 
+    //console.log("VirtualKeyboardBackground componentDidMount");
+
     this.resetBackgroundData();
 
     this.createBackgroundChildDivs()
+
+  }
+
+  componentWillUnmount() {
+
+    //console.log("VirtualKeyboardBackground componentWillUnmount");
+
 
   }
 

@@ -575,6 +575,12 @@ body {
         font-weight: 700;
         text-transform: uppercase;
 
+        &.small {
+
+          font-size: 2rem;
+
+        }
+
       }
 
       h4 {
