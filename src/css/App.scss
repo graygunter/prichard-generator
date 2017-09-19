@@ -17,7 +17,6 @@ body {
     height: 100%;
     left: 0;
     line-height: 2.5rem;
-    padding-top: 2%;
     position: absolute;
     text-align: center;
     text-shadow: 2px 2px 0px #000;
@@ -34,46 +33,53 @@ body {
 
     }
 
-    h2 {
-      
-      margin-bottom: 4%;
+    .inner-container {
 
-    }
+      padding-bottom: 0;
 
-    img {
-
-      display: block;
-      height: 300px;
-      margin: 0 auto 4%;
-      width: 300px;
-    
-    }
-
-    h3 {
-    
-      span {
+      h2 {
         
-        color: $red;
-        font-size: 4rem;
-        font-weight: 700;
+        margin-bottom: 4%;
+        margin-top: 6%;
 
       }
 
-    }
+      img {
 
-    button {
-
-      margin-top: 5%;
-
-      @extend %standard-button;
-      background-color: $blue;
-      padding: 3%;
+        display: block;
+        height: 300px;
+        margin: 0 auto 4%;
+        width: 300px;
       
-      .inner-text {
+      }
+
+      h3 {
+      
+        span {
+          
+          color: $red;
+          font-size: 4rem;
+          font-weight: 700;
+
+        }
+
+      }
+
+      button {
+
+        margin-top: 5%;
+
+        @extend %standard-button;
+        background-color: $blue;
+        padding: 3%;
         
-        @extend %standard-button-text;
-        font-size: 3rem;
-        line-height: 3rem;
+        .inner-text {
+          
+          @extend %standard-button-text;
+          font-size: 3rem;
+          line-height: 3rem;
+
+        }
 
       }
 

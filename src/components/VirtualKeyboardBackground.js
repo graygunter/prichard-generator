@@ -36,6 +36,8 @@ class VirtualKeyboardBackground extends Component {
 
   createBackgroundChildDivs() {
 
+    console.log("createBackgroundChildDivs");
+
     masterBackgroundDiv = document.getElementsByClassName("virtual-keyboard-background");
 
     masterBackgroundDiv = masterBackgroundDiv[0];
@@ -43,7 +45,7 @@ class VirtualKeyboardBackground extends Component {
     this.setBackground();
     this.setBackground();
 
-    setInterval(this.changeBackground, 9000);
+    setInterval(this.changeBackground, 4000);
 
   }
 
@@ -63,8 +65,6 @@ class VirtualKeyboardBackground extends Component {
 
     backgroundDataLocal.splice(backgroundNumber, 1);
 
-    //console.log("### backgroundSelected: " + backgroundSelected);
-
     childDiv.style.backgroundImage = "url(\"" + require(`../imgs/backgrounds/${backgroundSelected}.jpg`) + "\")";
 
     masterBackgroundDiv.prepend(childDiv);
@@ -80,6 +80,8 @@ class VirtualKeyboardBackground extends Component {
   }
 
   changeBackground() {
+
+    clearInterval(this.changeBackground);
 
     let divToFade = masterBackgroundDiv.querySelector('div:nth-child(2)');
 
@@ -102,8 +104,6 @@ class VirtualKeyboardBackground extends Component {
 
   componentDidMount() {
 
-    //console.log("VirtualKeyboardBackground componentDidMount");
-
     this.resetBackgroundData();
 
     this.createBackgroundChildDivs()
@@ -112,8 +112,7 @@ class VirtualKeyboardBackground extends Component {
 
   componentWillUnmount() {
 
-    //console.log("VirtualKeyboardBackground componentWillUnmount");
-
+    clearInterval(this.changeBackground);
 
   }
 

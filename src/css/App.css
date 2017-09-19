@@ -39,17 +39,17 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-body .intro-screen button, .about-button, .back-button, .left-column .sound-queue-buttons button, .sound-tile-explore .explore-items .explore-item .select-button {
+body .intro-screen .inner-container button, .about-button, .back-button, .left-column .sound-queue-buttons button, .sound-tile-explore .explore-items .explore-item .select-button {
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
   border-radius: 5px;
   box-shadow: 1px 2px 1px rgba(0, 0, 0, 0.5);
   cursor: pointer; }
-  body .intro-screen button:hover, .about-button:hover, .back-button:hover, .left-column .sound-queue-buttons button:hover, .sound-tile-explore .explore-items .explore-item .select-button:hover {
+  body .intro-screen .inner-container button:hover, .about-button:hover, .back-button:hover, .left-column .sound-queue-buttons button:hover, .sound-tile-explore .explore-items .explore-item .select-button:hover {
     box-shadow: none; }
 
-body .intro-screen button .inner-text, .about-button .inner-text, .back-button .inner-text, .left-column .sound-queue-buttons button .inner-text, .sound-tile-explore .explore-items .explore-item .select-button .inner-text {
+body .intro-screen .inner-container button .inner-text, .about-button .inner-text, .back-button .inner-text, .left-column .sound-queue-buttons button .inner-text, .sound-tile-explore .explore-items .explore-item .select-button .inner-text {
   color: #fff;
   font-family: 'Oswald', sans-serif;
   font-size: 1rem;
@@ -76,7 +76,6 @@ body {
     height: 100%;
     left: 0;
     line-height: 2.5rem;
-    padding-top: 2%;
     position: absolute;
     text-align: center;
     text-shadow: 2px 2px 0px #000;
@@ -88,24 +87,27 @@ body {
       position: absolute;
       right: 1%;
       top: 1%; }
-    body .intro-screen h2 {
-      margin-bottom: 4%; }
-    body .intro-screen img {
-      display: block;
-      height: 300px;
-      margin: 0 auto 4%;
-      width: 300px; }
-    body .intro-screen h3 span {
-      color: #ff0033;
-      font-size: 4rem;
-      font-weight: 700; }
-    body .intro-screen button {
-      margin-top: 5%;
-      background-color: #0070c9;
-      padding: 3%; }
-      body .intro-screen button .inner-text {
-        font-size: 3rem;
-        line-height: 3rem; }
+    body .intro-screen .inner-container {
+      padding-bottom: 0; }
+      body .intro-screen .inner-container h2 {
+        margin-bottom: 4%;
+        margin-top: 6%; }
+      body .intro-screen .inner-container img {
+        display: block;
+        height: 300px;
+        margin: 0 auto 4%;
+        width: 300px; }
+      body .intro-screen .inner-container h3 span {
+        color: #ff0033;
+        font-size: 4rem;
+        font-weight: 700; }
+      body .intro-screen .inner-container button {
+        margin-top: 5%;
+        background-color: #0070c9;
+        padding: 3%; }
+        body .intro-screen .inner-container button .inner-text {
+          font-size: 3rem;
+          line-height: 3rem; }
   body.about-screen {
     background: url("../imgs/logo-light.jpg") no-repeat center fixed #fff;
     background-size: 50%;
