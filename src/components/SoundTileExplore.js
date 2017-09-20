@@ -3,17 +3,74 @@ import SoundTileExploreItem from './SoundTileExploreItem';
 
 class SoundTileExplore extends Component {
 
+  constructor(){
+    
+    super();
+    
+    this.filterByTags = this.filterByTags.bind(this);
+
+    this.state ={
+      
+      filterInput: 'Filter by tag'
+    
+    }
+
+  }
+
+  onChangeHandler(e){
+
+    this.setState({filterInput: e.target.value})
+
+  }
+
+  onFocus(e){
+
+    if(e.target.value === 'Filter by tag')
+          this.setState({filterInput: ''})
+
+  }
+
+  filterByTags(tile) {
+
+    console.log(tile);
+
+    let dontFilter = true;
+
+    if(this.state.filterInput !== '' && this.state.filterInput !== 'Filter by tag') {
+
+      for(let fileName in tile) {
+
+        let currentTags = tile[fileName]["tags"];
+
+        if(!currentTags.includes(this.state.filterInput))
+          dontFilter = false;
+
+      }
+
+    }
+
+    if(dontFilter)
+      return tile
+
+  }
+
   generateSoundTileExploreItems() {
 
     console.log("### generateSoundTileExploreItems: " + this.props.currentSelection);
 
     let exploreItemsArray = []
 
-    for(let i = 0; i < this.props.tileData.length; i++) {
+    let filteredTileData = this.props.tileData;
 
-      for(let fileName in this.props.tileData[i]) {
+    filteredTileData = filteredTileData.filter(this.filterByTags);
 
-        let currentObject = this.props.tileData[i];
+    console.log(filteredTileData);
+
+    for(let i = 0; i < filteredTileData.length; i++) {
+
+      for(let fileName in filteredTileData[i]) {
+
+        let currentObject = filteredTileData[i];
 
         let currentTags = currentObject[fileName]["tags"];
 
@@ -83,6 +140,11 @@ class SoundTileExplore extends Component {
 
             <h5>Clip currently selected: </h5>
             <h5><span>{currentSelectionName}</span></h5>
+
+            <input  type="text"
+                    onChange={this.onChangeHandler.bind(this)}
+                    onFocus={this.onFocus.bind(this)}
+                    value={this.state.filterInput} />
 
           </div>
 
