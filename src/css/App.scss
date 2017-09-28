@@ -610,6 +610,27 @@ body {
 
       }
 
+      input {
+        
+        @include border-radius(10px);
+        -webkit-appearance: none;
+        border: 2px solid $blue;
+        -webkit-box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
+        box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
+        font-family: 'Oswald', sans-serif;
+        font-size: 1.25rem;
+        font-weight: 300;
+        outline: none;
+        padding: 2% 5%;
+
+        &:focus {
+
+          border-color: $green;
+
+        }
+
+      }
+
     }
 
   }

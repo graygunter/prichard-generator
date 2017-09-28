@@ -30,6 +30,13 @@ class SoundTileExplore extends Component {
 
   }
 
+  onBlur(e){
+
+    if(e.target.value === '' || e.target.value === ' ')
+          this.setState({filterInput: 'Filter by tag'})
+
+  }
+
   filterByTags(tile) {
 
     console.log(tile);
@@ -142,6 +149,7 @@ class SoundTileExplore extends Component {
             <h5><span>{currentSelectionName}</span></h5>
 
             <input  type="text"
+                    onBlur={this.onBlur.bind(this)}
                     onChange={this.onChangeHandler.bind(this)}
                     onFocus={this.onFocus.bind(this)}
                     value={this.state.filterInput} />

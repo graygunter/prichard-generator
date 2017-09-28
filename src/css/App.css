@@ -423,6 +423,22 @@ body {
   .sound-tile-explore .left-column .explore-info span {
     color: #ff0033;
     font-weight: 700; }
+  .sound-tile-explore .left-column .explore-info input {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-appearance: none;
+    border: 2px solid #0070c9;
+    -webkit-box-shadow: 0 0 4px 1px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 0 4px 1px rgba(0, 0, 0, 0.25);
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 300;
+    outline: none;
+    padding: 2% 5%; }
+    .sound-tile-explore .left-column .explore-info input:focus {
+      border-color: #0d8b00; }
 .sound-tile-explore .explore-items {
   box-sizing: border-box;
   height: 100%;
