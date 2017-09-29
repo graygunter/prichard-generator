@@ -959,6 +959,10 @@
       "tags": ["bruce", "rubbed wrong"]
     }},
     {
+    "bruce-ruthlessaggression": {
+      "tags": ["bruce", "ruthless aggression"]
+    }},
+    {
     "bruce-segueway": {
       "tags": ["bruce", "segueway"]
     }},
@@ -2314,6 +2318,10 @@
       "tags": ["conrad", "roll tide", "cuz"]
     }},
     {
+    "conrad-ruthlessaggression": {
+      "tags": ["conrad", "ruthless aggression"]
+    }},
+    {
     "conrad-sandman": {
       "tags": ["conrad", "sandman", "singing"]
     }},
@@ -3244,7 +3252,11 @@
       "tags": ["vince", "hick", "southerner"]
     }},
     {
-    "vince-hoganmustpose": {
+    "vince-hoganmustpose1": {
+      "tags": ["vince", "hogan must pose"]
+    }},
+    {
+    "vince-hoganmustpose2": {
       "tags": ["vince", "hogan must pose"]
     }},
     {
@@ -3414,6 +3426,10 @@
     {
     "vince-soakinginfood": {
       "tags": ["vince", "shit", "vader"]
+    }},
+    {
+    "vince-standback": {
+      "tags": ["vince", "singing", "stand back"]
     }},
     {
     "vince-talktome": {
@@ -4405,6 +4421,10 @@
     }}
   ],
   "hogan": [
+    {
+    "hogan-andhoganposed": {
+      "tags": ["hogan", "and hogan posed"]
+    }},
     {
     "hogan-doesntwork": {
       "tags": ["hogan", "doesnt work", "brother"]
