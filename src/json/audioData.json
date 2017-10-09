@@ -461,7 +461,11 @@
     {
     "bruce-fuckyouconrad": {
       "tags": ["bruce", "fuck you", "conrad"]
-    }},  
+    }},
+    {
+    "bruce-fuckyoufest": {
+      "tags": ["bruce", "fuck you", "fest"]
+    }}, 
     {
     "bruce-gargledjack": {
       "tags": ["bruce", "gargled", "jack daniels", "alochol"]
@@ -1067,6 +1071,10 @@
       "tags": ["bruce", "quickies"]
     }},
     {
+    "bruce-rattesticles": {
+      "tags": ["bruce", "rat", "testicles"]
+    }},
+    {
     "bruce-rehab1": {
       "tags": ["bruce", "rehab", "never been"]
     }},
@@ -1490,6 +1498,10 @@
     "bruce-writingthatshit": {
       "tags": ["bruce", "writing that shit", "during that time"]
     }},
+    {
+    "bruce-xanax": {
+      "tags": ["bruce", "xanax", "himself", "up"]
+    }},    
     {
     "bruce-yeah": {
       "tags": ["bruce", "yeah", "i think so"]
@@ -3576,6 +3588,10 @@
       "tags": ["jr", "boss wants", "to talk to you"]
     }},
     {
+    "jr-canttravel": {
+      "tags": ["jr", "cant travel", "like this"]
+    }},
+    {
     "jr-drdeath": {
       "tags": ["jr", "dr death"]
     }},
@@ -3594,6 +3610,10 @@
     {
     "jr-hurr": {
       "tags": ["jr", "hurr"]
+    }},
+    {
+    "jr-igotkids": {
+      "tags": ["jr", "i got kids", "id like to see them", "again"]
     }},
     {
     "jr-newhold": {
@@ -3780,6 +3800,10 @@
       "tags": ["vince", "goddamn"]
     }},
     {
+    "vince-goddamnpal6": {
+      "tags": ["vince", "goddamn"]
+    }},
+    {
     "vince-goddamnyoubruce": {
       "tags": ["vince", "goddamn"]
     }},
@@ -3798,6 +3822,10 @@
     {
     "vince-guestreferee": {
       "tags": ["vince", "guest referee", "no controversy"]
+    }},
+    {
+    "vince-gusto": {
+      "tags": ["vince", "appreciate your", "gusto", "passion"]
     }},
     {
     "vince-fuckem": {
@@ -3905,6 +3933,14 @@
     }},
     {
     "vince-laughing3": {
+      "tags": ["vince", "laughing"]
+    }},
+    {
+    "vince-laughing4": {
+      "tags": ["vince", "laughing"]
+    }},
+    {
+    "vince-laughing5": {
       "tags": ["vince", "laughing"]
     }},
     {
@@ -4054,6 +4090,10 @@
     {
     "vince-thatwasgood": {
       "tags": ["vince", "that was good", "goddamn", "pal"]
+    }},
+    {
+    "vince-thinking": {
+      "tags": ["vince", "heres what", "were", "thinking"]
     }},
     {
     "vince-titlevstitle": {
@@ -4372,6 +4412,10 @@
       "tags": ["heyman", "there is", "advocate sir"]
     }},
     {
+    "heyman-airdrywhore": {
+      "tags": ["heyman", "air dry", "whore"]
+    }},
+    {
     "heyman-anothervolley1": {
       "tags": ["heyman", "allow me", "another volley"]
     }},
@@ -4394,6 +4438,14 @@
     {
     "heyman-destroyhim": {
       "tags": ["heyman", "he will", "destory him"]
+    }},
+    {
+    "heyman-donot": {
+      "tags": ["heyman", "do not", "come into my room"]
+    }},
+    {
+    "heyman-donotattempt": {
+      "tags": ["heyman", "do not attempt", "change sheets", "vaccum floor"]
     }},
     {
     "heyman-fiveseconds": {
@@ -4446,6 +4498,10 @@
     {
     "heyman-safeword": {
       "tags": ["heyman", "safe word"]
+    }},
+    {
+    "heyman-thehelp": {
+      "tags": ["heyman", "cannot trust", "the help", "hotel"]
     }}
   ],
   "cornette": [
@@ -4460,6 +4516,14 @@
     {
     "cornette-boxover2": {
       "tags": ["cornette", "box", "over"]
+    }},
+    {
+    "cornette-brooklynbrawler": {
+      "tags": ["cornette", "brooklyn brawler", "drop the belt"]
+    }},
+    {
+    "cornette-bugsbunny": {
+      "tags": ["cornette", "bugs bunny", "looking", "motherfucker"]
     }}, 
     {
     "cornette-burger": {
@@ -4470,16 +4534,32 @@
       "tags": ["cornette", "bury me in it", "wtf"]
     }}, 
     {
+    "cornette-canadianbastards": {
+      "tags": ["cornette", "canadian", "bastards", "motherfucker"]
+    }},
+    {
     "cornette-canadianmotherfucker": {
       "tags": ["cornette", "goddamn", "canadian", "motherfucker"]
+    }},
+    {
+    "cornette-cheesesteak": {
+      "tags": ["cornette", "cheesesteak", "double cheese"]
+    }},
+    {
+    "cornette-chefboyardee": {
+      "tags": ["cornette", "chef boyardee", "perfect meal"]
     }},
     {
     "cornette-chickensalad": {
       "tags": ["cornette", "goddamn", "chicken salad"]
     }},
     {
-    "cornette-deathtube": {
+    "cornette-deathtube1": {
       "tags": ["cornette", "death tube"]
+    }},
+    {
+    "cornette-deathtube2": {
+      "tags": ["cornette", "death tube", "gang plank"]
     }},
     {
     "cornette-doublecheeseburger": {
@@ -4492,15 +4572,43 @@
     {
     "cornette-doublesatin": {
       "tags": ["cornette", "double satin", "conrad"]
-    }}, 
+    }},
+    {
+    "cornette-dudleydoright": {
+      "tags": ["cornette", "dudley do-right", "my shit"]
+    }},
     {
     "cornette-fattoo": {
       "tags": ["cornette", "fuck", "fat too"]
+    }},
+    {
+    "cornette-fightisgreat": {
+      "tags": ["cornette", "fight is great"]
+    }},
+    {
+    "cornette-firethem": {
+      "tags": ["cornette", "fuckers", "fire them", "non-drawing"]
+    }},
+    {
+    "cornette-fuckhim": {
+      "tags": ["cornette", "fuck him", "goddamn"]
+    }}, 
+    {
+    "cornette-fucknewjersey": {
+      "tags": ["cornette", "fuck new jersey", "fuck atlantic city"]
     }}, 
     {
     "cornette-fuckthatshit": {
       "tags": ["cornette", "fuck that shit"]
-    }}, 
+    }},
+    {
+    "cornette-garlic": {
+      "tags": ["cornette", "garlic"]
+    }},
+    {
+    "cornette-george1": {
+      "tags": ["cornette", "george", "died"]
+    }},
     {
     "cornette-goddamn1": {
       "tags": ["cornette", "goddamn"]
@@ -4530,12 +4638,24 @@
       "tags": ["cornette", "good looking girl", "hes a heel"]
     }}, 
     {
-    "cornette-gottago": {
+    "cornette-gottago1": {
       "tags": ["cornette", "good go now", "motherfucker"]
-    }}, 
+    }},
+    {
+    "cornette-gottago2": {
+      "tags": ["cornette"]
+    }},
     {
     "cornette-handcuffkey": {
       "tags": ["cornette", "handcuff key"]
+    }},
+    {
+    "cornette-hardroll1": {
+      "tags": ["cornette", "hard roll", "soft roll"]
+    }},
+    {
+    "cornette-hardroll2": {
+      "tags": ["cornette", "hard roll"]
     }},
     {
     "cornette-hesaheel1": {
@@ -4562,6 +4682,14 @@
       "tags": ["cornette", "kill somebody"]
     }},
     {
+    "cornette-killyou": {
+      "tags": ["cornette", "kill you", "and your son"]
+    }},
+    {
+    "cornette-light": {
+      "tags": ["cornette", "light", "hurts my eyes"]
+    }},
+    {
     "cornette-midnightexpress": {
       "tags": ["cornette", "midnight express", "motherfucker"]
     }},
@@ -4572,6 +4700,14 @@
     {
     "cornette-motherfucker2": {
       "tags": ["cornette", "motherfucker"]
+    }},
+    {
+    "cornette-myshit1": {
+      "tags": ["cornette", "i dont want", "touching", "my shit"]
+    }},
+    {
+    "cornette-myshit2": {
+      "tags": ["cornette", "touching", "my shit", "conrad"]
     }},
     {
     "cornette-pervertprichard": {
@@ -4594,8 +4730,24 @@
       "tags": ["cornette", "goddamn", "real name"]
     }},
     {
+    "cornette-royrogers": {
+      "tags": ["cornette", "roy rogers", "roast beef", "horsey sauce"]
+    }},
+    {
     "cornette-seethismatch": {
       "tags": ["cornette", "wait til you", "see this match"]
+    }},
+    {
+    "cornette-shootmotherfucker": {
+      "tags": ["cornette", "shoot a", "motherfucker", "conrad"]
+    }},
+    {
+    "cornette-skinyou1": {
+      "tags": ["cornette", "skin you", "kill you", "motherfuckers"]
+    }},
+    {
+    "cornette-skinyou2": {
+      "tags": ["cornette", "skin you", "find out where you sleep"]
     }},
     {
     "cornette-slowdown": {
@@ -4606,6 +4758,10 @@
       "tags": ["cornette", "snake", "jake roberts"]
     }},
     {
+    "cornette-starving": {
+      "tags": ["cornette", "and im", "starving"]
+    }},
+    {
     "cornette-steamingturds": {
       "tags": ["cornette", "steaming", "turds"]
     }},
@@ -4614,8 +4770,28 @@
       "tags": ["cornette", "lance storm", "chris jericho", "thrillseekers"]
     }},
     {
+    "cornette-talktome": {
+      "tags": ["cornette", "talk", "to me"]
+    }},
+    {
     "cornette-triple": {
       "tags": ["cornette", "triple", "extra cheese", "double onion"]
+    }},
+    {
+    "cornette-trunkfixed": {
+      "tags": ["cornette", "didnt get", "trunk fixed", "reminder"]
+    }},
+    {
+    "cornette-yankee1": {
+      "tags": ["cornette", "yankee", "motherfucker"]
+    }},
+    {
+    "cornette-yankee2": {
+      "tags": ["cornette", "yankee", "motherfucker", "kill you"]
+    }},
+    {
+    "cornette-yankeefather": {
+      "tags": ["cornette", "yankee father", "motherfucker"]
     }}
   ],
   "andre": [
@@ -5284,6 +5460,14 @@
       "tags": ["millertime", "chikoo"]
     }},
     {
+    "millertime-chikoo12": {
+      "tags": ["millertime", "chikoo"]
+    }},
+    {
+    "millertime-chikoo13": {
+      "tags": ["millertime", "chikoo"]
+    }},
+    {
     "millertime-exactlywhatidid": {
       "tags": ["millertime", "thats exactly", "what i did"]
     }},
@@ -5326,6 +5510,10 @@
     {
     "millertime-millertime3": {
       "tags": ["millertime", "miller time", "oh yeah", "conrad"]
+    }},
+    {
+    "millertime-millertime4": {
+      "tags": ["millertime", "miller time", "conrad"]
     }},
     {
     "millertime-sprayed": {
