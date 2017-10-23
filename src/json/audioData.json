@@ -6736,5 +6736,67 @@
     "mesothelioma-billions": {
       "tags": ["mesothelioma", "rgt law", "billions"]
     }}
+  ],
+  "rus": [
+    {
+    "rus-models1": {
+      "tags": ["rus", "models r us"]
+    }},
+    {
+    "rus-models2": {
+      "tags": ["rus", "models r us"]
+    }},
+    {
+    "rus-models3": {
+      "tags": ["rus", "models r us"]
+    }}
+  ],
+  "stu": [
+    {
+    "stu-dosomething": {
+      "tags": ["stu", "do something"]
+    }},
+    {
+    "stu-eh": {
+      "tags": ["stu", "eh"]
+    }},
+    {
+    "stu-dosomething": {
+      "tags": ["stu", "do something"]
+    }},
+    {
+    "stu-fucking pervert": {
+      "tags": ["stu", "fucking pervert"]
+    }},
+    {
+    "stu-goddamnowen": {
+      "tags": ["stu", "goddamn owen"]
+    }},
+    {
+    "stu-reg": {
+      "tags": ["stu", "reg"]
+    }},
+    {
+    "stu-tomydaughter": {
+      "tags": ["stu", "to my daughter"]
+    }},
+    {
+    "stu-trymethen": {
+      "tags": ["stu", "try me then"]
+    }}
+  ],
+  "ernieladd": [
+    {
+    "ernieladd-hefiredmyass1": {
+      "tags": ["ernieladd", "he fired my ass"]
+    }},
+    {
+    "ernieladd-hefiredmyass2": {
+      "tags": ["ernieladd", "he fired my ass"]
+    }},
+    {
+    "ernieladd-thebigcat": {
+      "tags": ["ernieladd", "the big cat"]
+    }}
   ]
 }
