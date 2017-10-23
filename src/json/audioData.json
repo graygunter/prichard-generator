@@ -479,6 +479,10 @@
       "tags": ["bruce", "fuck", "goof", "hate to say"]
     }},
     {
+    "bruce-fuckingstupid": {
+      "tags": ["bruce", "absolutely", "fucking stupid"]
+    }},
+    {
     "bruce-fuckingwork": {
       "tags": ["bruce", "this is a fucking work"]
     }},
@@ -703,6 +707,10 @@
       "tags": ["bruce", "i dont know"]
     }},
     {
+    "bruce-idontrecall": {
+      "tags": ["bruce", "i dont recall"]
+    }},
+    {
     "bruce-idontremember": {
       "tags": ["bruce", "i dont remember"]
     }},
@@ -741,6 +749,10 @@
     {
     "bruce-improve": {
       "tags": ["bruce", "improve", "shit"]
+    }},
+    {
+    "bruce-improvetosuck": {
+      "tags": ["bruce", "it wouldve had to improve", "to suck"]
     }},
     {
     "bruce-imtoofat": {
@@ -1047,8 +1059,16 @@
       "tags": ["bruce", "dont comment", "money"]
     }},
     {
+    "bruce-motherfucker": {
+      "tags": ["bruce", "this one", "motherfucker"]
+    }},
+    {
     "bruce-motherfuckinghorns": {
       "tags": ["bruce", "mother fucking horns", "bright red"]
+    }},
+    {
+    "bruce-motherofhischildren": {
+      "tags": ["bruce", "mother of his children", "is a whore"]
     }},
     {
     "bruce-mullet": {
@@ -1203,12 +1223,20 @@
       "tags": ["bruce", "porn", "connoisseur"]
     }},
     {
+    "bruce-potheads": {
+      "tags": ["bruce", "for by about", "pot heads"]
+    }},
+    {
     "bruce-poutboy": {
       "tags": ["bruce", "pout boy", "tonight"]
     }},
     {
     "bruce-poutyshoes": {
       "tags": ["bruce", "pouty shoes", "on"]
+    }},
+    {
+    "bruce-pricharddotcom": {
+      "tags": ["bruce", "what about,", "bruce prichard", "dot com"]
     }},
     {
     "bruce-privateparts": {
@@ -1441,6 +1469,10 @@
     {
     "bruce-stuckinmycraw": {
       "tags": ["bruce", "conrad", "stuck in", "my craw"]
+    }},
+    {
+    "bruce-stupidestthings": {
+      "tags": ["bruce", "stupidest", "fucking things", "in my life"]
     }},
     {
     "bruce-stupidquestions": {
@@ -2125,6 +2157,10 @@
       "tags": ["conrad", "dead"]
     }},
     {
+    "conrad-describeexperience": {
+      "tags": ["conrad", "how would you describe", "that experience"]
+    }},
+    {
     "conrad-dickforthat": {
       "tags": ["conrad", "dick for that"]
     }},
@@ -2394,6 +2430,10 @@
       "tags": ["conrad", "google machine", "jerry jarrett"]
     }},
     {
+    "conrad-grabyourballs": {
+      "tags": ["conrad", "did he", "grab your balls"]
+    }},
+    {
     "conrad-greenmist": {
       "tags": ["conrad", "tell me about", "green mist"]
     }},
@@ -2442,9 +2482,13 @@
       "tags": ["conrad", "hoessuckit"]
     }},
     {
+    "conrad-hollywoodhogan": {
+      "tags": ["conrad", "hollywood hogan"]
+    }},
+    {
     "conrad-hookah": {
       "tags": ["conrad", "hookah", "fuck"]
-    }}, 
+    }},
     {
     "conrad-hookersasses": {
       "tags": ["conrad", "hookers asses", "lines", "drugs"]
@@ -2544,6 +2588,10 @@
     {
     "conrad-ifyouonlyknew2": {
       "tags": ["conrad", "if you only knew"]
+    }},
+    {
+    "conrad-illtellvince": {
+      "tags": ["conrad", "ill tell vince"]
     }},
     {
     "conrad-iloveyou": {
@@ -2786,6 +2834,10 @@
       "tags": ["conrad", "message board", "bullshit"]
     }},
     {
+    "conrad-michaelpshayes": {
+      "tags": ["conrad", "michael ps hayes"]
+    }},
+    {
     "conrad-mickeymouse": {
       "tags": ["conrad", "foul mouth", "mickey mouse"]
     }},
@@ -2956,6 +3008,10 @@
     {
     "conrad-personalterritory": {
       "tags": ["conrad", "veer off", "super personal territory"]
+    }},
+    {
+    "conrad-peyote": {
+      "tags": ["conrad", "peyote", "i dont know", "drugs"]
     }},
     {
     "conrad-pissoff": {
@@ -3150,6 +3206,10 @@
       "tags": ["conrad", "say", "i wasnt there"]
     }},
     {
+    "conrad-scottsteiner": {
+      "tags": ["conrad", "say", "scott steiner"]
+    }},
+    {
     "conrad-selfpromoter": {
       "tags": ["conrad", "shameless", "selfpromoter"]
     }}, 
@@ -3236,6 +3296,10 @@
     {
     "conrad-soold": {
       "tags": ["conrad", "bruce", "so old"]
+    }},
+    {
+    "conrad-soundlike": {
+      "tags": ["conrad", "what might that", "sound like"]
     }},
     {
     "conrad-soundlikevince": {
@@ -3614,6 +3678,10 @@
       "tags": ["conrad", "wrestlers shitting", "in the ring"]
     }},
     {
+    "conrad-wrestlingbuddy": {
+      "tags": ["conrad", "wrestling buddy", "where he touched youvince-nahnahnahnah1.mp3"]
+    }},
+    {
     "conrad-wrestlingbusiness": {
       "tags": ["conrad", "wrestling business", "weird place"]
     }},
@@ -3624,6 +3692,10 @@
     {
     "conrad-wrestlingfans": {
       "tags": ["conrad", "wrestling fans", "are poor"]
+    }},
+    {
+    "conrad-wrestlingnerd": {
+      "tags": ["conrad", "wrestling nerd", "goofy"]
     }},
     {
     "conrad-wigglehere": {
@@ -4075,6 +4147,7 @@
     "jr-newhold": {
       "tags": ["jr", "learn a new hold"]
     }},
+
     {
     "jr-slobberknocker": {
       "tags": ["jr", "slobber knocker"]
@@ -4092,6 +4165,10 @@
       "tags": ["jr", "stone cold"]
     }},
     {
+    "jr-surprise": {
+      "tags": ["jr", "we dont like", "surprise"]
+    }},
+    {
     "jr-wearblack": {
       "tags": ["jr", "why you", "wear black"]
     }},
@@ -4100,8 +4177,16 @@
       "tags": ["jr", "well"]
     }},
     {
+    "jr-wrestlemaniadickpic": {
+      "tags": ["jr", "wrestlemania", "dick pic"]
+    }},
+    {
     "jr-yougottago": {
       "tags": ["jr", "you gotta go"]
+    }},
+    {
+    "jr-yourpast": {
+      "tags": ["jr", "your past", "dont give a fuck"]
     }}
   ],
   "savage": [
@@ -4446,6 +4531,14 @@
     {
     "vince-movement": {
       "tags": ["vince", "movement", "television"]
+    }},
+    {
+    "vince-nahnahnahnah1": {
+      "tags": ["vince", "nah nah nah nah"]
+    }},
+    {
+    "vince-nahnahnahnah2": {
+      "tags": ["vince", "nah nah nah nah", "hey hey hey", "goodbye"]
     }},
     {
     "vince-namesoftheholds": {
@@ -4980,6 +5073,10 @@
       "tags": ["heyman", "do not attempt", "change sheets", "vaccum floor"]
     }},
     {
+    "heyman-fatjewishpercocet": {
+      "tags": ["heyman", "fat", "jewish", "i like percocet"]
+    }},
+    {
     "heyman-fiveseconds": {
       "tags": ["heyman", "down in", "five seconds"]
     }},
@@ -5020,6 +5117,10 @@
       "tags": ["heyman", "mean mark"]
     }},
     {
+    "heyman-mypeople": {
+      "tags": ["heyman", "you have to speak to", "my people"]
+    }},
+    {
     "heyman-notamanager": {
       "tags": ["heyman", "not a manager"]
     }},
@@ -5050,6 +5151,10 @@
     {
     "heyman-thehelp": {
       "tags": ["heyman", "cannot trust", "the help", "hotel"]
+    }},
+    {
+    "heyman-wearahat": {
+      "tags": ["heyman", "i wear a hat", "plug my brand"]
     }},
     {
     "heyman-whatareyoudoing": {
@@ -5751,6 +5856,14 @@
     }},
     {
     "rumors-conrad12": {
+      "tags": ["rumors", "conrad"]
+    }},
+    {
+    "rumors-conrad12": {
+      "tags": ["rumors", "conrad"]
+    }},
+    {
+    "rumors-conrad13": {
       "tags": ["rumors", "conrad"]
     }},
     {
@@ -6542,6 +6655,14 @@
     {
     "bulldog-fuckedhim": {
       "tags": ["bulldog", "fuck"]
+    }},
+    {
+    "bulldog-fuckthis": {
+      "tags": ["bulldog", "fuck this"]
+    }},
+    {
+    "bulldog-gonnaquit": {
+      "tags": ["bulldog", "im gonna quit"]
     }},
     {
     "bulldog-itsowen": {
