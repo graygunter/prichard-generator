@@ -151,6 +151,10 @@
       "tags": ["bruce", "blimp sank", "to the ground"]
     }}, 
     {
+    "bruce-bong": {
+      "tags": ["bruce", "bong", "water pipe", "drugs"]
+    }},
+    {
     "bruce-bonusshow": {
       "tags": ["bruce", "bonus show"]
     }},
@@ -385,6 +389,10 @@
     {
     "bruce-entertainment": {
       "tags": ["bruce", "entertainment purposes"]
+    }},
+    {
+    "bruce-etchedinyourmind": {
+      "tags": ["bruce", "etched in your mind", "certain things"]
     }},
     {
     "bruce-everynight": {
@@ -695,8 +703,12 @@
       "tags": ["bruce", "drugs"]
     }},
     {
-    "bruce-idonthatehim": {
+    "bruce-idonthatehim1": {
       "tags": ["bruce", "i dont hate him", "but fuck him"]
+    }},
+    {
+    "bruce-idonthatehim2": {
+      "tags": ["bruce", "i dont hate him", "id have to care"]
     }},
     {
     "bruce-idontknow1": {
@@ -1223,6 +1235,10 @@
       "tags": ["bruce", "porn", "connoisseur"]
     }},
     {
+    "bruce-pothead": {
+      "tags": ["bruce", "being the pothead", "i used to be", "drugs"]
+    }},
+    {
     "bruce-potheads": {
       "tags": ["bruce", "for by about", "pot heads"]
     }},
@@ -1461,6 +1477,10 @@
     {
     "bruce-stormcloudsahead": {
       "tags": ["bruce", "storm clouds ahead", "my friend"]
+    }},
+    {
+    "bruce-straightedge": {
+      "tags": ["bruce", "what is", "straight edge"]
     }},
     {
     "bruce-stripclubs": {
@@ -1741,6 +1761,10 @@
     {
     "bruce-witchcraft": {
       "tags": ["bruce", "witchcraft", "count"]
+    }},
+    {
+    "bruce-worldclassrearend": {
+      "tags": ["bruce", "world class", "rear end"]
     }},
     {
     "bruce-wouldntdoubtit": {
@@ -2434,6 +2458,10 @@
       "tags": ["conrad", "did he", "grab your balls"]
     }},
     {
+    "conrad-greatestpodcast": {
+      "tags": ["conrad", "the greatest", "wrestling podcast"]
+    }},
+    {
     "conrad-greenmist": {
       "tags": ["conrad", "tell me about", "green mist"]
     }},
@@ -2802,6 +2830,10 @@
       "tags": ["conrad", "madheadgame"]
     }},
     {
+    "conrad-makesmehappy": {
+      "tags": ["conrad", "this", "makes me happy"]
+    }},
+    {
     "conrad-magic": {
       "tags": ["conrad", "magic"]
     }},
@@ -3154,6 +3186,10 @@
       "tags": ["conrad", "rikishi", "superstar"]
     }}, 
     {
+    "conrad-rollcredits": {
+      "tags": ["conrad", "roll credits", "no way", "were beating that"]
+    }},
+    {
     "conrad-rolltide1": {
       "tags": ["conrad", "roll tide"]
     }},
@@ -3276,6 +3312,10 @@
     {
     "conrad-slownight": {
       "tags": ["conrad", "slow night", "conradisson"]
+    }},
+    {
+    "conrad-smellslikedope": {
+      "tags": ["conrad", "car", "smells like dope", "drugs"]
     }},
     {
     "conrad-smokingdope": {
@@ -3974,6 +4014,10 @@
       "tags": ["dusty", "badass", "look"]
     }},
     {
+    "dusty-bullropematches": {
+      "tags": ["dusty", "i could forget", "more", "bullrope matches"]
+    }},
+    {
     "dusty-captivate": {
       "tags": ["dusty", "captivate", "love"]
     }},
@@ -4008,6 +4052,10 @@
     {
     "dusty-fuckedup2": {
       "tags": ["dusty", "fucked up", "beers", "bar"]
+    }},
+    {
+    "dusty-fuckinggenius": {
+      "tags": ["dusty", "fucking genius", "i like it"]
     }},
     {
     "dusty-gotanidea1": {
@@ -4259,6 +4307,14 @@
     {
     "vince-choppypeepee": {
       "tags": ["vince", "choppy", "pee pee"]
+    }},
+    {
+    "vince-cmpunk": {
+      "tags": ["vince", "skinny", "little", "tattooed fuck"]
+    }},
+    {
+    "vince-comeonbaby": {
+      "tags": ["vince", "come on baby", "give it to me"]
     }},
     {
     "vince-confetti": {
@@ -4529,6 +4585,10 @@
       "tags": ["vince", "medical facility"]
     }},
     {
+    "vince-movegroove": {
+      "tags": ["vince", "you gotta", "move", "groove"]
+    }},
+    {
     "vince-movement": {
       "tags": ["vince", "movement", "television"]
     }},
@@ -4587,6 +4647,10 @@
     {
     "vince-ooze2": {
       "tags": ["vince", "ooze", "green", "purple"]
+    }},
+    {
+    "vince-orgasming": {
+      "tags": ["vince", "yeah", "come on", "move"]
     }},
     {
     "vince-paleincomparrison": {
@@ -5041,6 +5105,10 @@
       "tags": ["heyman", "air dry", "whore"]
     }},
     {
+    "heyman-anacondavice": {
+      "tags": ["heyman", "anaconda vice", "sir"]
+    }},
+    {
     "heyman-anothervolley1": {
       "tags": ["heyman", "allow me", "another volley"]
     }},
@@ -5119,6 +5187,10 @@
     {
     "heyman-mypeople": {
       "tags": ["heyman", "you have to speak to", "my people"]
+    }},
+    {
+    "heyman-negative4stars": {
+      "tags": ["heyman", "negative 4 stars"]
     }},
     {
     "heyman-notamanager": {
@@ -5867,12 +5939,20 @@
       "tags": ["rumors", "conrad"]
     }},
     {
+    "rumors-conrad14": {
+      "tags": ["rumors", "conrad"]
+    }},
+    {
     "rumors-conspiracytheories": {
       "tags": ["rumors", "bruce", "conspiracy theories"]
     }},
     {
     "rumors-dontdeal": {
       "tags": ["rumors", "bruce"]
+    }},
+    {
+    "rumors-hoseshit": {
+      "tags": ["rumors", "bruce", "fucking", "horse shit"]
     }},
     {
     "rumors-incorrectly": {
@@ -6517,12 +6597,28 @@
   ],
   "johnnyace": [
     {
+    "johnnyace-armslookgreat": {
+      "tags": ["johnnyace", "first of all", "his arms look great"]
+    }},
+    {
     "johnnyace-believethat": {
       "tags": ["johnnyace", "you think", "people will", "believe that"]
     }},
     {
+    "johnnyace-cowabunga1": {
+      "tags": ["johnnyace", "cowabunga"]
+    }},
+    {
+    "johnnyace-cowabunga2": {
+      "tags": ["johnnyace", "cowabunga"]
+    }},
+    {
     "johnnyace-gohome": {
       "tags": ["johnnyace", "go home"]
+    }},
+    {
+    "johnnyace-gotanyextrie": {
+      "tags": ["johnnyace", "got any extrie", "drugs"]
     }},
     {
     "johnnyace-hesalotolder": {
@@ -6563,6 +6659,14 @@
     {
     "johnnyace-skateboards": {
       "tags": ["johnnyace", "came down on", "skateboards"]
+    }},
+    {
+    "johnnyace-smokingdoob": {
+      "tags": ["johnnyace", "smoking a doob", "drugs"]
+    }},
+    {
+    "johnnyace-takeitback": {
+      "tags": ["johnnyace", "take it back conrad"]
     }},
     {
     "johnnyace-thatonevein": {
