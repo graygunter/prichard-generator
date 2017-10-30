@@ -17,11 +17,15 @@
     {
     "bruce-100percent": {
       "tags": ["bruce", "hundred percent", "true"]
-    }}, 
+    }},
+    {
+    "bruce-4and3quartersstars": {
+      "tags": ["bruce", "4 and 3 quarters", "stars"]
+    }},
     {
     "bruce-5or6guys": {
       "tags": ["bruce", "5 or 6 guys", "in a hotel room"]
-    }},   
+    }},
     {
     "bruce-abouttime": {
       "tags": ["bruce", "about time"]
@@ -49,6 +53,10 @@
     {
     "bruce-apologize": {
       "tags": ["bruce", "apologize"]
+    }},
+    {
+    "bruce-arewedone": {
+      "tags": ["bruce", "are we done", "then"]
     }},
     {
     "bruce-areyouserious": {
@@ -161,6 +169,10 @@
     {
     "bruce-boobs": {
       "tags": ["bruce", "boobs"]
+    }},
+    {
+    "bruce-bookingcommittee": {
+      "tags": ["bruce", "it was", "booking committee"]
     }},
     {
     "bruce-books": {
@@ -459,12 +471,8 @@
       "tags": ["bruce", "freestyling", "here"]
     }},
     {
-    "bruce-fuckwad": {
-      "tags": ["bruce", "fuck", "wad"]
-    }},
-    {
-    "bruce-fuckup": {
-      "tags": ["bruce", "i fuck up", "all the time"]
+    "bruce-fuckjerryjarrett": {
+      "tags": ["bruce", "fuck", "jerry jarrett"]
     }},
     {
     "bruce-fuckedup": {
@@ -509,6 +517,14 @@
     {
     "bruce-fuckoffpolitely": {
       "tags": ["bruce", "fuck", "politely"]
+    }},
+    {
+    "bruce-fuckup": {
+      "tags": ["bruce", "i fuck up", "all the time"]
+    }},
+    {
+    "bruce-fuckwad": {
+      "tags": ["bruce", "fuck", "wad"]
     }},
     {
     "bruce-fuckwitchtit": {
@@ -835,6 +851,10 @@
       "tags": ["bruce", "i wasnt there"]
     }},
     {
+    "bruce-iwill": {
+      "tags": ["bruce", "i will", "if you want me to"]
+    }},
+    {
     "bruce-jbl": {
       "tags": ["bruce", "john layfield", "probably"]
     }},
@@ -1024,6 +1044,14 @@
     }},
     {
     "bruce-marco4": {
+      "tags": ["bruce", "marco"]
+    }},
+    {
+    "bruce-marco5": {
+      "tags": ["bruce", "marco"]
+    }},
+    {
+    "bruce-marco6": {
       "tags": ["bruce", "marco"]
     }},
     {
@@ -1219,6 +1247,10 @@
       "tags": ["bruce", "people", "hate"]
     }},
     {
+    "bruce-pickonmarcmero": {
+      "tags": ["bruce", "pick on", "marc mero"]
+    }},
+    {
     "bruce-pillhead": {
       "tags": ["bruce", "pill head", "fuck up", "rehab"]
     }},
@@ -1251,8 +1283,12 @@
       "tags": ["bruce", "pouty shoes", "on"]
     }},
     {
-    "bruce-pricharddotcom": {
-      "tags": ["bruce", "what about,", "bruce prichard", "dot com"]
+    "bruce-pricharddotcom1": {
+      "tags": ["bruce", "what about", "bruce prichard", "dot com"]
+    }},
+    {
+    "bruce-pricharddotcom2": {
+      "tags": ["bruce", "new tshirts", "bruce prichard", "dot com"]
     }},
     {
     "bruce-privateparts": {
@@ -1401,6 +1437,10 @@
     {
     "bruce-shityourpants": {
       "tags": ["bruce", "shit your pants", "it happens"]
+    }},
+    {
+    "bruce-shouldvebeenfired": {
+      "tags": ["conrad", "you should have", "been fired", "but i wasnt"]
     }},
     {
     "bruce-shovelback": {
@@ -1671,6 +1711,18 @@
       "tags": ["bruce", "over", "used to be"]
     }},
     {
+    "bruce-vaderstinky1": {
+      "tags": ["bruce", "vader", "stinky"]
+    }},
+    {
+    "bruce-vaderstinky2": {
+      "tags": ["bruce", "vader", "stinky"]
+    }},
+    {
+    "bruce-vaderstinky3": {
+      "tags": ["bruce", "vader", "stinky"]
+    }},
+    {
     "bruce-vaseline": {
       "tags": ["bruce", "vaseline", "next time"]
     }},
@@ -1734,6 +1786,10 @@
     "bruce-whatweallsaid": {
       "tags": ["bruce", "what we all said"]
     }}, 
+    {
+    "bruce-whentheygetharry": {
+      "tags": ["bruce", "works sometimes", "when they get harry"]
+    }},  
     {
     "bruce-wherethefuck": {
       "tags": ["bruce", "fuck"]
@@ -1839,6 +1895,10 @@
     {
     "conrad-434suckit": {
       "tags": ["conrad", "434 references", "suck it"]
+    }},
+    {
+    "conrad-6stars": {
+      "tags": ["conrad", "6 stars"]
     }},
     {
     "conrad-agreewiththat": {
@@ -2854,6 +2914,14 @@
       "tags": ["conrad", "mero"]
     }},
     {
+    "conrad-mero3": {
+      "tags": ["conrad", "mero"]
+    }},
+    {
+    "conrad-mero4": {
+      "tags": ["conrad", "mero"]
+    }},
+    {
     "conrad-mesothelioma": {
       "tags": ["conrad", "message board", "bullshit"]
     }},
@@ -3060,6 +3128,10 @@
     {
     "conrad-pluggedourshit": {
       "tags": ["conrad", "plugged", "shit"]
+    }},
+    {
+    "conrad-plugyourtshirts": {
+      "tags": ["conrad", "plug", "your t-shirts"]
     }},
     {
     "conrad-poll1": {
@@ -3288,6 +3360,10 @@
     {
     "conrad-shorter": {
       "tags": ["conrad", "shorter", "a damn lie"]
+    }},
+    {
+    "conrad-shouldvebeenfired": {
+      "tags": ["conrad", "you should have", "been fired"]
     }},
     {
     "conrad-shovels": {
@@ -4263,6 +4339,10 @@
       "tags": ["savage", "meant to talk", "brother"]
     }},
     {
+    "savage-pussy": {
+      "tags": ["savage", "pussy", "go somewhere else"]
+    }},
+    {
     "savage-rightinthemiddle": {
       "tags": ["savage", "right in the middle"]
     }},
@@ -4533,6 +4613,10 @@
       "tags": ["vince", "i love it"]
     }},
     {
+    "vince-inthemecca": {
+      "tags": ["vince", "in the", "mecca"]
+    }},
+    {
     "vince-inyourface": {
       "tags": ["vince", "in your face", "spew"]
     }},
@@ -4773,6 +4857,10 @@
       "tags": ["vince", "title vs title"]
     }},
     {
+    "vince-youlookregal": {
+      "tags": ["vince", "you look", "regal"]
+    }},
+    {
     "vince-understand": {
       "tags": ["vince", "dont you", "understand"]
     }},  
@@ -4780,6 +4868,10 @@
     "vince-uphisass": {
       "tags": ["vince", "up his ass", "in his mouth"]
     }},  
+    {
+    "vince-vaderstinky": {
+      "tags": ["vince", "vader", "stinky"]
+    }},
     {
     "vince-warriorpal": {
       "tags": ["vince", "conrad"]
@@ -4813,6 +4905,10 @@
       "tags": ["vince", "who"]
     }},
     {
+    "vince-wrapitup": {
+      "tags": ["vince", "wrap it up", "pal"]
+    }},
+    {
     "vince-wrecker": {
       "tags": ["vince", "goddamn", "wrecker"]
     }},
@@ -4833,6 +4929,14 @@
     {
     "warrior-dextrucity": {
       "tags": ["warriror", "dextrucity"]
+    }},
+    {
+    "warrior-hesultimatewarrior": {
+      "tags": ["warriror", "hes", "ultimate warrior"]
+    }},
+    {
+    "warrior-ultimatewarrioris": {
+      "tags": ["warriror", "ultimate warrior", "is"]
     }}
   ],
   "ecw": [
@@ -5311,6 +5415,10 @@
       "tags": ["cornette", "dudley do-right", "my shit"]
     }},
     {
+    "cornette-fatmotherfucker": {
+      "tags": ["cornette", "fat", "motherfucker", "get off me"]
+    }},
+    {
     "cornette-fattoo": {
       "tags": ["cornette", "fuck", "fat too"]
     }},
@@ -5365,6 +5473,10 @@
     {
     "cornette-goddamn5": {
       "tags": ["cornette", "goddamn", "motherfucker"]
+    }},
+    {
+    "cornette-goddamn6": {
+      "tags": ["cornette", "goddamn"]
     }}, 
     {
     "cornette-goodgooglymoogly": {
@@ -5400,6 +5512,10 @@
     }},
     {
     "cornette-hesaheel2": {
+      "tags": ["cornette", "hes a heel"]
+    }},
+    {
+    "cornette-hesaheel3": {
       "tags": ["cornette", "hes a heel"]
     }},
     {
@@ -5491,6 +5607,10 @@
       "tags": ["cornette", "roy rogers", "roast beef", "horsey sauce"]
     }},
     {
+    "cornette-rubbedmynose": {
+      "tags": ["cornette", "roy rogers", "roast beef", "horsey sauce"]
+    }},
+    {
     "cornette-seethismatch": {
       "tags": ["cornette", "wait til you", "see this match"]
     }},
@@ -5561,6 +5681,10 @@
     {
     "cornette-yankeefather": {
       "tags": ["cornette", "yankee father", "motherfucker"]
+    }},
+    {
+    "cornette-yourglovesstink": {
+      "tags": ["cornette", "your gloves", "stink"]
     }}
   ],
   "andre": [
@@ -6523,6 +6647,10 @@
   ],
   "patterson": [
     {
+    "patterson-16stitch": {
+      "tags": ["patterson", "he had to get", "16 stitch"]
+    }},
+    {
     "patterson-blimpfat": {
       "tags": ["patterson", "blimp", "too fat", "fuck you"]
     }},
@@ -6581,6 +6709,10 @@
     {
     "patterson-shawnmichael": {
       "tags": ["patterson", "shawn michael"]
+    }},
+    {
+    "patterson-stichesstonecold": {
+      "tags": ["patterson", "stiches", "stone cold"]
     }},
     {
     "patterson-stupid": {
@@ -6643,6 +6775,10 @@
     {
     "johnnyace-ihop": {
       "tags": ["johnnyace", "used to work at", "ihop"]
+    }},
+    {
+    "johnnyace-injapan": {
+      "tags": ["johnnyace", "mine was", "in japan"]
     }},
     {
     "johnnyace-johnnyace": {
@@ -6853,6 +6989,10 @@
     {
     "rus-models3": {
       "tags": ["rus", "models r us"]
+    }},
+    {
+    "rus-slammys": {
+      "tags": ["rus", "slammys r us"]
     }}
   ],
   "stu": [
