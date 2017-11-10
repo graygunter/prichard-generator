@@ -7725,6 +7725,14 @@
       "tags": ["johnnyace", "you think", "people will", "believe that"]
     }},
     {
+    "johnnyace-cometomyoffice": {
+      "tags": ["johnnyace", "come to my", "office"]
+    }},
+    {
+    "johnnyace-contract": {
+      "tags": ["johnnyace", "ive got", "a contract"]
+    }},
+    {
     "johnnyace-cowabunga1": {
       "tags": ["johnnyace", "cowabunga"]
     }},
@@ -7733,8 +7741,16 @@
       "tags": ["johnnyace", "cowabunga"]
     }},
     {
+    "johnnyace-gimmieacall": {
+      "tags": ["johnnyace", "gimmie", "a call"]
+    }},
+    {
     "johnnyace-gohome": {
       "tags": ["johnnyace", "go home"]
+    }},
+    {
+    "johnnyace-goodjob": {
+      "tags": ["johnnyace", "good job"]
     }},
     {
     "johnnyace-gotanyextrie": {
@@ -7771,6 +7787,10 @@
     {
     "johnnyace-johnnyace": {
       "tags": ["johnnyace", "johnny ace"]
+    }},
+    {
+    "johnnyace-needtotalk": {
+      "tags": ["johnnyace", "hey", "need to talk", "right now"]
     }},
     {
     "johnnyace-ohmygod": {
