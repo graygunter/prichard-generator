@@ -211,6 +211,22 @@
       "tags": ["brisco", "bray wyatt", "superstar"]
     }},
     {
+    "bruce-briangewirtz1": {
+      "tags": ["brisco", "brian gewirtz", "its"]
+    }},
+    {
+    "bruce-briangewirtz2": {
+      "tags": ["brisco", "brian gewirtz", "its"]
+    }},
+    {
+    "bruce-briangewirtz3": {
+      "tags": ["brisco", "brian gewirtz", "its"]
+    }},
+    {
+    "bruce-briangewirtz4": {
+      "tags": ["brisco", "brian gewirtz", "its"]
+    }},
+    {
     "bruce-briscoass": {
       "tags": ["brisco", "bruce", "kick ass"]
     }},
@@ -291,8 +307,16 @@
       "tags": ["bruce", "clint", "hershey", "don't like wwf"]
     }},
     {
-    "bruce-cocaine": {
-      "tags": ["bruce", "cocaine"]
+    "bruce-cocaine1": {
+      "tags": ["bruce", "cocaine", "drugs"]
+    }},
+    {
+    "bruce-cocaine2": {
+      "tags": ["bruce", "cocaine", "drugs", "hallucinogen"]
+    }},
+    {
+    "bruce-cocaine3": {
+      "tags": ["bruce", "cocaine", "drugs", "helluva"]
     }},
     {
     "bruce-coltcabana": {
@@ -1492,6 +1516,14 @@
       "tags": ["bruce", "paul boesch", "houston wrestling"]
     }},
     {
+    "bruce-paulstirringshit": {
+      "tags": ["bruce", "paul heyman", "stirring shit"]
+    }},
+    {
+    "bruce-paycheckinvolved": {
+      "tags": ["bruce", "funny what you can do", "paycheck involved"]
+    }},
+    {
     "bruce-peeinthering": {
       "tags": ["bruce", "pee", "ring"]
     }},
@@ -1594,6 +1626,10 @@
     {
     "bruce-rattesticles": {
       "tags": ["bruce", "rat", "testicles"]
+    }},
+    {
+    "bruce-reallife": {
+      "tags": ["bruce", "that was", "real life"]
     }},
     {
     "bruce-recreationaldrug": {
@@ -1992,6 +2028,10 @@
       "tags": ["bruce", "tickling", "belly", "shit"]
     }},
     {
+    "bruce-tightiewhiteies": {
+      "tags": ["bruce", "bleached blonde man", "tightie whiteies"]
+    }},
+    {
     "bruce-tights1": {
       "tags": ["bruce", "tights", "youre not gonna get me"]
     }},
@@ -2080,12 +2120,16 @@
       "tags": ["bruce", "vicodin", "month"]
     }},
     {
+    "bruce-vincelikescoasters": {
+      "tags": ["bruce", "vince", "likes", "roller coasters"]
+    }},
+    {
     "bruce-vincelovedpeeing": {
       "tags": ["bruce", "vince", "loved", "peeing on people"]
     }},
     {
     "bruce-vinceshit": {
-      "tags": ["bruce", "vince shit", "himself"]
+      "tags": ["bruce", "vince", "shit", "himself"]
     }},
     {
     "bruce-warrioru": {
@@ -2102,6 +2146,10 @@
     {
     "bruce-wasnthard": {
       "tags": ["bruce", "wasnt hard"]
+    }},
+    {
+    "bruce-watchedtheshow": {
+      "tags": ["bruce", "have you ever", "watched the show"]
     }},
     {
     "bruce-wedrankalot": {
@@ -2238,6 +2286,10 @@
     {
     "bruce-yougo": {
       "tags": ["bruce", "you go"]
+    }},
+    {
+    "bruce-youngboys": {
+      "tags": ["bruce", "young boys", "do his bidding"]
     }},
     {
     "bruce-yourehot": {
@@ -2530,6 +2582,10 @@
       "tags": ["conrad", "brother devon", "superstar"]
     }},
     {
+    "conrad-brotherlove": {
+      "tags": ["conrad", "brother love", "superstar"]
+    }},
+    {
     "conrad-brotherlovedank": {
       "tags": ["conrad", "brother love", "dank"]
     }},
@@ -2680,6 +2736,10 @@
     {
     "conrad-cobracommander": {
       "tags": ["conrad", "cobra commander"]
+    }},
+    {
+    "conrad-cocaine": {
+      "tags": ["conrad", "cocaine", "drugs"]
     }},
     {
     "conrad-codyrhodes": {
@@ -3150,6 +3210,10 @@
       "tags": ["conrad", "tell me about", "green mist"]
     }},
     {
+    "conrad-gtfo": {
+      "tags": ["conrad", "gtfo", "not welcome"]
+    }},
+    {
     "conrad-guitarjunk": {
       "tags": ["conrad", "guitar", "junk"]
     }}, 
@@ -3384,6 +3448,10 @@
     {
     "conrad-isthisreal2": {
       "tags": ["conrad", "is this real"]
+    }},
+    {
+    "conrad-isthisreal3": {
+      "tags": ["conrad", "is this real", "life"]
     }},
     {
     "conrad-itdoesnow": {
@@ -3832,6 +3900,10 @@
     {
     "conrad-oneofthosedeals2": {
       "tags": ["conrad", "one of those deals"]
+    }},
+    {
+    "conrad-onlyexcitesme": {
+      "tags": ["conrad", "something that", "only excites", "me"]
     }},
     {
     "conrad-onlyinwrestling": {
@@ -4314,6 +4386,10 @@
       "tags": ["conrad", "split hairs"]
     }},
     {
+    "conrad-stickyicky": {
+      "tags": ["conrad", "who had", "stickiest", "icky"]
+    }},
+    {
     "conrad-stonecolddust": {
       "tags": ["conrad", "stone cold", "dust"]
     }},
@@ -4610,6 +4686,10 @@
       "tags": ["conrad", "well written question"]
     }},
     {
+    "conrad-whatdrugs": {
+      "tags": ["conrad", "what", "drugs", "was he on"]
+    }},
+    {
     "conrad-whatelse": {
       "tags": ["conrad", "what else", "dont you remember"]
     }},
@@ -4663,6 +4743,10 @@
     }},
     {
     "conrad-whobooked4": {
+      "tags": ["conrad", "booking", "shit"]
+    }},
+    {
+    "conrad-whobooked5": {
       "tags": ["conrad", "booking", "shit"]
     }},
     {
@@ -5399,6 +5483,10 @@
     }}
   ],
   "vince": [
+    {
+    "vince-abrasive": {
+      "tags": ["vince", "abrasive"]
+    }},
     {
     "vince-andfromthere": {
       "tags": ["vince", "and", "from", "there"]
@@ -6400,6 +6488,14 @@
   ],
   "heyman": [
     {
+    "heyman-1morevolley": {
+      "tags": ["heyman", "1 more volley", "sir"]
+    }},
+    {
+    "heyman-3punches": {
+      "tags": ["heyman", "3 punches", "i want 1"]
+    }},
+    {
     "heyman-10seconds": {
       "tags": ["heyman", "10 seconds", "dont have a problem"]
     }},
@@ -6452,6 +6548,14 @@
       "tags": ["heyman", "brock lesnar", "superstar"]
     }},
     {
+    "heyman-brotherlove": {
+      "tags": ["heyman", "brother love", "disgusting"]
+    }},
+    {
+    "heyman-chikfila": {
+      "tags": ["heyman", "chik fil a", "lets go get"]
+    }},
+    {
     "heyman-cmpunk": {
       "tags": ["heyman", "cm punk", "superstar"]
     }},
@@ -6492,6 +6596,10 @@
       "tags": ["heyman", "perhaps", "we should", "get together"]
     }},
     {
+    "heyman-handlingcreative": {
+      "tags": ["heyman", "i am", "handling creative"]
+    }},
+    {
     "heyman-heartpunch": {
       "tags": ["heyman", "with a", "heart punch"]
     }},
@@ -6518,6 +6626,14 @@
     {
     "heyman-incharge": {
       "tags": ["heyman", "i am", "in charge here", "sir"]
+    }},
+    {
+    "heyman-itwasnotme": {
+      "tags": ["heyman", "it was", "not me", "sir"]
+    }},
+    {
+    "heyman-kungpao": {
+      "tags": ["heyman", "kung pao", "chicken", "extra pao"]
     }},
     {
     "heyman-lancestorm": {
@@ -6552,8 +6668,20 @@
       "tags": ["heyman", "he will", "never get over", "on the big stage"]
     }},
     {
+    "heyman-notanathelete": {
+      "tags": ["heyman", "not an athelete"]
+    }},
+    {
     "heyman-notamanager": {
       "tags": ["heyman", "not a manager"]
+    }},
+    {
+    "heyman-notawrestler1": {
+      "tags": ["heyman", "not a wrestler", "do my duty"]
+    }},
+    {
+    "heyman-notawrestler2": {
+      "tags": ["heyman", "not a wrestler", "conrad"]
     }},
     {
     "heyman-otherfinish": {
@@ -6570,6 +6698,10 @@
     {
     "heyman-paulheymansir3": {
       "tags": ["heyman", "paul heyman", "sir"]
+    }},
+    {
+    "heyman-performmybest": {
+      "tags": ["heyman", "perform my", "very best"]
     }},
     {
     "heyman-petesenercia": {
@@ -6610,6 +6742,10 @@
     {
     "heyman-whatareyoudoing": {
       "tags": ["heyman", "what exactly", "are you doing"]
+    }},
+    {
+    "heyman-yourhead": {
+      "tags": ["heyman", "your head", "not my head"]
     }}
   ],
   "cornette": [
@@ -7736,8 +7872,12 @@
       "tags": ["doot doot doot", "extra"]
     }},
     {
-    "dootdootdoot-knaves": {
-      "tags": ["doot doot doot", "knaves"]
+    "dootdootdoot-hedidntdoit": {
+      "tags": ["doot doot doot", "he didnt", "do it"]
+    }},
+    {
+    "dootdootdoot-hedidit": {
+      "tags": ["doot doot doot", "he", "did it"]
     }},
     {
     "dootdootdoot-imakemoney": {
@@ -7750,6 +7890,10 @@
     {
     "dootdootdoot-jackets2": {
       "tags": ["doot doot doot", "jackets"]
+    }},
+    {
+    "dootdootdoot-knaves": {
+      "tags": ["doot doot doot", "knaves"]
     }},
     {
     "dootdootdoot-michaelpshayes": {
