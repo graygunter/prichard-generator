@@ -431,6 +431,10 @@
       "tags": ["bruce", "demolition", "axe", "smasher", "singing"]
     }},
     {
+    "bruce-demons": {
+      "tags": ["bruce", "demons", "demonic demons", "ugly head"]
+    }},
+    {
     "bruce-dicksensitive": {
       "tags": ["bruce", "dick", "extra sensitive", "to that"]
     }},
@@ -803,6 +807,14 @@
       "tags": ["bruce", "full of", "mayonaise"]
     }},
     {
+    "bruce-fword1": {
+      "tags": ["bruce", "the f word", "i hate"]
+    }},
+    {
+    "bruce-fword2": {
+      "tags": ["bruce", "the f word"]
+    }},
+    {
     "bruce-gargledjack": {
       "tags": ["bruce", "gargled", "jack daniels", "alochol"]
     }},
@@ -1072,8 +1084,12 @@
       "tags": ["bruce", "i dont recall"]
     }},
     {
-    "bruce-idontremember": {
+    "bruce-idontremember1": {
       "tags": ["bruce", "i dont remember"]
+    }},
+    {
+    "bruce-idontremember2": {
+      "tags": ["bruce", "i dont remember", "cocaine", "steroids", "marijuana"]
     }},
     {
     "bruce-ifyoureintothat": {
@@ -3174,6 +3190,10 @@
       "tags": ["conrad", "cocaine", "drugs"]
     }},
     {
+    "conrad-cocaineuse80s": {
+      "tags": ["conrad", "cocaine", "use", "1980s", "drugs"]
+    }},
+    {
     "conrad-cocksman": {
       "tags": ["conrad", "how would you describe", "cocksman"]
     }},
@@ -3364,6 +3384,10 @@
     {
     "conrad-doublepenetration": {
       "tags": ["conrad", "double penetration"]
+    }},
+    {
+    "conrad-downwiththeclown": {
+      "tags": ["conrad", "are you", "down with the clown", "whoop", "whoop"]
     }},
     {
     "conrad-doyourealize1": {
@@ -3854,6 +3878,10 @@
       "tags": ["conrad", "i cant believe im gonna say this"]
     }},
     {
+    "conrad-idonthavehemeroids": {
+      "tags": ["conrad", "i dont have", "hemeroids"]
+    }},
+    {
     "conrad-idontknowwhen1": {
       "tags": ["conrad", "i dont know when well talk about"]
     }},
@@ -4264,6 +4292,10 @@
     {
     "conrad-mariakanellis": {
       "tags": ["conrad", "maria kanellis", "superstar"]
+    }},
+    {
+    "conrad-marijuana": {
+      "tags": ["conrad", "marijuana", "popular", "forever", "drugs"]
     }},
     {
     "conrad-marinate": {
@@ -5962,6 +5994,10 @@
       "tags": ["dusty", "cut it off"]
     }},
     {
+    "dusty-dontsaywhatyouthinking": {
+      "tags": ["dusty", "pumpkin head", "dont say", "what you thinking"]
+    }},
+    {
     "dusty-donttalk": {
       "tags": ["dusty", "dont talk", "about this"]
     }},
@@ -7578,6 +7614,10 @@
     {
     "meltzer-fuckmeltzer3": {
       "tags": ["meltzer", "bruce", "fuck", "fuck dave meltzer"]
+    }},
+    {
+    "meltzer-halfassed": {
+      "tags": ["meltzer", "half assed", "reporting"]
     }},
     {
     "meltzer-hate": {
@@ -9874,6 +9914,10 @@
       "tags": ["patterson", "underwears"]
     }},
     {
+    "patterson-whoopiecushion": {
+      "tags": ["patterson", "whoopie cushion"]
+    }}
+    {
     "patterson-whowantstosee": {
       "tags": ["patterson", "who the fuck", "wants to see"]
     }}
@@ -9950,6 +9994,10 @@
     {
     "johnnyace-demolitiontheme": {
       "tags": ["johnnyace", "demolition theme", "singing"]
+    }},
+    {
+    "johnnyace-doink": {
+      "tags": ["johnnyace", "doink", "crafty clown"]
     }},
     {
     "johnnyace-everyonestalkingabout": {
