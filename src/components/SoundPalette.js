@@ -15,6 +15,7 @@ class SoundPalette extends Component {
       let soundArray = audioData[tileCategory];
 
       let newTile = (<SoundPaletteTile 
+                                addToSoundQue={this.props.addToSoundQue}
                                 category={tileCategory}
                                 currentSoundTileFile={this.props.currentSoundTileFiles[tileCategory]}
                                 handleSoundTileDrag={this.props.handleSoundTileDrag}

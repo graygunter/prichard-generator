@@ -112,6 +112,13 @@ class SoundPaletteTile extends Component {
                       <i className="fa fa-refresh" aria-hidden="true"></i>
             </button>
 
+            <button 
+                    className="sound-tile-add"
+                    onClick={() => this.props.addToSoundQue(this.state.file)}
+                    title="Add to Sound Que">
+                      <i className="fa fa-plus" aria-hidden="true"></i>
+            </button>
+
           </div>
 
       </div>

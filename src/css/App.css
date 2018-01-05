@@ -158,94 +158,28 @@ body {
   top: 10px;
   z-index: 4; }
 
-.virtual-keyboard {
+.background-holder {
   height: 75%;
   position: absolute;
   right: 0;
   top: 0;
   width: 80%;
   z-index: 1; }
-  .virtual-keyboard .virtual-keyboard-rows {
+  .background-holder div {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 100%;
-    padding-top: 10%;
     position: absolute;
-    width: 100%;
+    transition: opacity 2s ease;
+    width: 100%; }
+    .background-holder div.fade {
+      opacity: 0; }
+  .background-holder .virtual-keyboard-background-1 {
     z-index: 2; }
-    .virtual-keyboard .virtual-keyboard-rows .virtual-keyboard-keybutton-row {
-      display: block;
-      text-align: center;
-      width: 100%; }
-      .virtual-keyboard .virtual-keyboard-rows .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton {
-        -webkit-border-radius: 0.5rem;
-        -moz-border-radius: 0.5rem;
-        -ms-border-radius: 0.5rem;
-        border-radius: 0.5rem;
-        background: rgba(255, 255, 255, 0.4);
-        border: 1px solid #0070c9;
-        box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
-        box-sizing: border-box;
-        color: white;
-        display: inline-block;
-        font-size: 3rem;
-        font-weight: 700;
-        height: 10%;
-        margin: 5px;
-        overflow: hidden;
-        text-align: center;
-        text-shadow: 0 0 .5rem black;
-        transition: all .07s ease;
-        width: 7%; }
-        .virtual-keyboard .virtual-keyboard-rows .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton {
-          height: 100%;
-          padding: 20% 0;
-          position: relative; }
-          .virtual-keyboard .virtual-keyboard-rows .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file {
-            background: white;
-            position: relative; }
-            .virtual-keyboard .virtual-keyboard-rows .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file button {
-              background: none;
-              color: #ff0033;
-              cursor: pointer;
-              font-size: 20px;
-              font-weight: 700;
-              left: 2px;
-              padding: 0;
-              position: absolute;
-              text-shadow: 0.25px 0.25px 0px rgba(0, 0, 0, 0.5);
-              top: 0; }
-              .virtual-keyboard .virtual-keyboard-rows .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file button:hover {
-                text-shadow: none; }
-            .virtual-keyboard .virtual-keyboard-rows .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file .icon {
-              background-repeat: no-repeat;
-              background-size: cover;
-              display: block;
-              height: 60px;
-              left: 50%;
-              margin-left: -30px;
-              position: absolute;
-              width: 60px; }
-            .virtual-keyboard .virtual-keyboard-rows .virtual-keyboard-keybutton-row .virtual-keyboard-keybutton .inner-keybutton.has-file span {
-              opacity: 0; }
-  .virtual-keyboard .virtual-keyboard-background {
-    height: 100%;
-    position: absolute;
-    width: 100%;
+  .background-holder .virtual-keyboard-background-2 {
     z-index: 1; }
-    .virtual-keyboard .virtual-keyboard-background div {
-      background-attachment: fixed;
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      height: 100%;
-      position: absolute;
-      transition: opacity 2s ease;
-      width: 100%; }
-      .virtual-keyboard .virtual-keyboard-background div.fade {
-        opacity: 0; }
-    .virtual-keyboard .virtual-keyboard-background .virtual-keyboard-background-1 {
-      z-index: 2; }
-    .virtual-keyboard .virtual-keyboard-background .virtual-keyboard-background-2 {
-      z-index: 1; }
 
 .left-column {
   background-color: #fff;
@@ -355,7 +289,7 @@ body {
     position: relative;
     text-align: center;
     transition: all .07s ease;
-    width: 12%; }
+    width: 13%; }
     .sound-palette .sound-tile .icon {
       background-position: center;
       background-repeat: no-repeat;
@@ -383,19 +317,13 @@ body {
         background: none;
         display: inline;
         height: 30px;
-        margin: 0 3px;
+        margin: 0 2px;
         position: relative;
         width: 30px; }
-      .sound-palette .sound-tile .sound-tile-buttons .sound-tile-play {
-        background-color: #0d8b00; }
-        .sound-palette .sound-tile .sound-tile-buttons .sound-tile-play i {
-          margin-left: -0.5px; }
-      .sound-palette .sound-tile .sound-tile-buttons .sound-tile-explore, .sound-palette .sound-tile .sound-tile-buttons .sound-tile-refresh {
+      .sound-palette .sound-tile .sound-tile-buttons .sound-tile-play, .sound-palette .sound-tile .sound-tile-buttons .sound-tile-explore, .sound-palette .sound-tile .sound-tile-buttons .sound-tile-refresh {
         background-color: #0070c9; }
-      .sound-palette .sound-tile .sound-tile-buttons .sound-tile-explore i {
-        margin-left: -1.5px; }
-      .sound-palette .sound-tile .sound-tile-buttons .sound-tile-refresh i {
-        margin-left: -1px; }
+      .sound-palette .sound-tile .sound-tile-buttons .sound-tile-add {
+        background-color: #0d8b00; }
 
 .sound-tile-explore .left-column .explore-info {
   padding-top: 3%;

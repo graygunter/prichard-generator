@@ -7,10 +7,10 @@ import keyboardData from '../json/keyboardData.json';
 
 import IntroScreen from './IntroScreen';
 import AboutScreen from './AboutScreen';
+import BackgroundHolder from './BackgroundHolder';
 import SoundPalette from './SoundPalette';
 import SoundQueue from './SoundQueue';
 import SoundTileExplore from './SoundTileExplore';
-import VirtualKeyboard from './VirtualKeyboard';
 
 import '../css/App.css';
 import '../css/font-awesome.css';
@@ -21,27 +21,17 @@ class App extends Component {
 
     super();
 
+    this.addToSoundQue = this.addToSoundQue.bind(this);
+
     this.handleAboutPress = this.handleAboutPress.bind(this);
 
     this.handleBackClick = this.handleBackClick.bind(this);
 
     this.handleIntroClose = this.handleIntroClose.bind(this);
 
-    this.handleKeyboardPress = this.handleKeyboardPress.bind(this);
-
-    this.handleKeybuttonClick = this.handleKeybuttonClick.bind(this);
-
-    this.handleSoundTileDrag = this.handleSoundTileDrag.bind(this);
-
-    this.handleSoundTileDragEnd = this.handleSoundTileDragEnd.bind(this);
-
-    this.handleSoundTileDrop = this.handleSoundTileDrop.bind(this);
-
     this.handleSoundTileExplore = this.handleSoundTileExplore.bind(this);
 
     this.handleSoundPlay = this.handleSoundPlay.bind(this);
-
-    this.keybuttonFileRemoved = this.keybuttonFileRemoved.bind(this);
 
     this.playSound = this.playSound.bind(this);
 
@@ -82,8 +72,6 @@ class App extends Component {
       soundQueuesPlayback: false
 
     }
-
-    window.addEventListener('keydown', this.handleKeyboardPress);
 
   }
 
@@ -158,8 +146,6 @@ class App extends Component {
 
   playSound(soundToPlay) {
 
-    //console.log("### " + soundToPlay);
-
     let folder = soundToPlay.substring(0, soundToPlay.indexOf("-"));
 
     this.setState({soundToPlay : folder + "/" + soundToPlay})
@@ -206,65 +192,15 @@ class App extends Component {
 
   }
 
-  handleKeyboardPress(e) {
+  addToSoundQue(fileName) {
 
-    let keyPressed = (e.key).toUpperCase();
+    let newSoundQueue = this.state.soundQueuesArray;
 
-    if(this.state.keybuttonAssignments[keyPressed] !== undefined) {
-      
-      let newSoundQueue = this.state.soundQueuesArray;
+    newSoundQueue.push(fileName);
 
-      newSoundQueue.push(this.state.keybuttonAssignments[keyPressed]);
-
-      this.playSound(this.state.keybuttonAssignments[keyPressed])
-
-    }
+    this.playSound(fileName);
 
   }
-
-  handleKeybuttonClick(keybuttonClicked) {
-
-    //console.log("handleKeybuttonClick: " + keybuttonClicked);
-
-    if(keybuttonClicked.state.file !== undefined) {
-
-      this.playSound(keybuttonClicked.state.file)
-
-    }
-
-  }
-
-  handleKeybuttonDragOver(e) {
-
-    e.preventDefault();
-
-  }
-
-  handleSoundTileDrag(soundTileBeingDragged) {
-
-    //console.log("handleSoundTileDrag: " + soundTileBeingDragged.state.file);
-
-    this.setState({soundTileBeingDragged : soundTileBeingDragged.state.file});
-
-  }
-
-  handleSoundTileDragEnd(soundTile) {
-
-    //console.log("handleSoundTileDragEnd ");
-
-    this.setState({soundTileBeingDragged : undefined});
-
-  }
-
-  handleSoundTileDrop(keybuttonDroppedOn) {
-
-    //console.log("handleSoundTileDrop");
-
-    keybuttonDroppedOn.updateFile(this.state.soundTileBeingDragged);
-
-    this.newKeybuttonAssignment(keybuttonDroppedOn.props.keybuttonValue, this.state.soundTileBeingDragged);
-
-  } 
 
   handleSoundPlay(soundTileToPlay) {
 
@@ -365,13 +301,8 @@ class App extends Component {
 
         </button>
 
-        <VirtualKeyboard
-                          backgroundData={backgroundData["backgrounds"]}
-                          handleKeybuttonClick={this.handleKeybuttonClick} 
-                          handleKeybuttonDragOver={this.handleKeybuttonDragOver}
-                          handleSoundTileDrop={this.handleSoundTileDrop} 
-                          keyboardData={keyboardData["keys"]}
-                          keybuttonFileRemoved={this.keybuttonFileRemoved}/>
+        <BackgroundHolder
+                          backgroundData={backgroundData["backgrounds"]}/>
 
         <SoundQueue
                     playSoundQueue={this.playSoundQueue}
@@ -380,10 +311,9 @@ class App extends Component {
                     soundQueuesArray={this.state.soundQueuesArray}/>
 
         <SoundPalette 
+                      addToSoundQue={this.addToSoundQue}
                       audioData={audioData}
                       currentSoundTileFiles={this.state.currentSoundTileFiles}
-                      handleSoundTileDrag={this.handleSoundTileDrag}
-                      handleSoundTileDragEnd={this.handleSoundTileDragEnd}
                       handleSoundTileExplore={this.handleSoundTileExplore}
                       handleSoundPlay={this.handleSoundPlay}
                       randomNumber={this.randomNumber}
