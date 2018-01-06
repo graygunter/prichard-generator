@@ -107,6 +107,10 @@
       "tags": ["bruce", "are you serious", "with that question"]
     }},
     {
+    "bruce-arnanderson": {
+      "tags": ["bruce", "arn anderson", "superstar"]
+    }},
+    {
     "bruce-askingaquestion": {
       "tags": ["bruce", "im just", "asking a question"]
     }},
@@ -919,8 +923,12 @@
       "tags": ["bruce", "get the f", "out"]
     }},
     {
-    "bruce-ghb": {
+    "bruce-ghb1": {
       "tags": ["bruce", "ghb", "drugs"]
+    }},
+    {
+    "bruce-ghb2": {
+      "tags": ["bruce", "ghb", "i was told", "drugs"]
     }},
     {
     "bruce-giantgonzalezmatch": {
@@ -993,6 +1001,10 @@
     {
     "bruce-haddiarrhea": {
       "tags": ["bruce", "he", "had diarrhea"]
+    }},
+    {
+    "bruce-halcions": {
+      "tags": ["bruce", "halcions", "a few", "drugs"]
     }},
     {
     "bruce-halfhot": {
@@ -1398,6 +1410,10 @@
     {
     "bruce-joewalsh": {
       "tags": ["bruce", "joe walsh", "motherfucking"]
+    }},
+    {
+    "bruce-johnlaurinaitis": {
+      "tags": ["bruce", "john laurinaitis", "superstar"]
     }},
     {
     "bruce-jurassicpark": {
@@ -2366,6 +2382,10 @@
     {
     "bruce-stephaniemcmahon": {
       "tags": ["bruce", "stephanie mcmahon"]
+    }},
+    {
+    "bruce-stephaniemcmahonsexualstuff": {
+      "tags": ["bruce", "stephanie mcmahon", "did a lot of", "sexual stuff"]
     }},
     {
     "bruce-steroids": {
@@ -4230,6 +4250,10 @@
       "tags": ["conrad", "triple h", "critical"]
     }},
     {
+    "conrad-hhhgreat": {
+      "tags": ["conrad", "no", "triple h", "was great"]
+    }},
+    {
     "conrad-highandmighty": {
       "tags": ["conrad", "high and mighty", "fuck"]
     }},
@@ -4396,6 +4420,10 @@
     {
     "conrad-ifyouonlyknew2": {
       "tags": ["conrad", "if you only knew"]
+    }},
+    {
+    "conrad-illegalfuck": {
+      "tags": ["conrad", "illegal", "as fuck"]
     }},
     {
     "conrad-illtellvince": {
@@ -5070,8 +5098,12 @@
       "tags": ["conrad", "something that", "only excites", "me"]
     }},
     {
-    "conrad-onlyinwrestling": {
+    "conrad-onlyinwrestling1": {
       "tags": ["conrad", "only in wrestling"]
+    }},
+    {
+    "conrad-onlyinwrestling2": {
+      "tags": ["conrad", "only in wrestling", "drugs", "rib"]
     }},
     {
     "conrad-overanalyze": {
@@ -5358,8 +5390,12 @@
       "tags": ["conrad", "did you ever", "roll a fatty", "pimp daddy"]
     }},
     {
-    "conrad-rollcredits": {
+    "conrad-rollcredits1": {
       "tags": ["conrad", "roll credits", "no way", "were beating that"]
+    }},
+    {
+    "conrad-rollcredits2": {
+      "tags": ["conrad", "roll credits", "shows over", "folks"]
     }},
     {
     "conrad-rolltide1": {
@@ -7272,6 +7308,14 @@
       "tags": ["vince", "baby face", "big bastard"]
     }},
     {
+    "vince-bigboobiebaby": {
+      "tags": ["vince", "big boobie baby", "thats what im talking about"]
+    }},
+    {
+    "vince-bigbootydaddy": {
+      "tags": ["vince", "big booty daddy", "get in that booty"]
+    }},
+    {
     "vince-bleh": {
       "tags": ["vince", "bleh"]
     }},
@@ -7290,6 +7334,10 @@
     {
     "vince-brocklesnar": {
       "tags": ["vince", "brock lesnar", "superstar"]
+    }},
+    {
+    "vince-brothersdontfight": {
+      "tags": ["vince", "brothers", "dont", "fight"]
     }},
     {
     "vince-brucesmoking": {
@@ -8026,6 +8074,10 @@
     {
     "vince-smearedshit": {
       "tags": ["vince", "smeared shit", "all over", "the business"]
+    }},
+    {
+    "vince-smellit": {
+      "tags": ["vince", "do you", "smell it", "i smell it"]
     }},
     {
     "vince-soakinginfood": {
