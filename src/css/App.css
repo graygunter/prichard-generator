@@ -49,7 +49,7 @@ body .intro-screen .inner-container button, .about-button, .back-button, .left-c
   body .intro-screen .inner-container button:hover, .about-button:hover, .back-button:hover, .left-column .sound-queue-buttons button:hover, .sound-tile-explore .explore-items .explore-item .select-button:hover {
     box-shadow: none; }
 
-body .intro-screen .inner-container button .inner-text, .about-button .inner-text, .back-button .inner-text, .left-column .sound-queue-buttons button .inner-text, .sound-tile-explore .explore-items .explore-item .select-button .inner-text {
+body .intro-screen .inner-container button .inner-text, .about-button .inner-text, .back-button .inner-text, .left-column .sound-queue-tiles .sound-queue-title, .left-column .sound-queue-buttons button .inner-text, .sound-tile-explore .explore-items .explore-item .select-button .inner-text {
   color: #fff;
   font-family: 'Oswald', sans-serif;
   font-size: 1rem;
@@ -217,7 +217,18 @@ body {
     margin-bottom: 4%;
     overflow-x: hidden;
     overflow-y: scroll;
-    padding: 5px 0 0 0; }
+    padding: 31px 0 0 0;
+    position: relative; }
+    .left-column .sound-queue-tiles .sound-queue-title {
+      -webkit-box-shadow: inset 1px 1px 4px 0px rgba(0, 0, 0, 0.4);
+      box-shadow: inset 1px 1px 4px 0px rgba(0, 0, 0, 0.4);
+      background-color: #0070c9;
+      left: 0;
+      padding: 8px 0;
+      position: absolute;
+      width: 100%;
+      top: 0;
+      z-index: 2; }
     .left-column .sound-queue-tiles .sound-queue-tile {
       border-bottom: .5px solid #666;
       padding-bottom: 2px;

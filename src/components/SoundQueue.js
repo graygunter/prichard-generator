@@ -36,6 +36,9 @@ class SoundQueue extends Component {
         </h1>
 
         <div className="sound-queue-tiles">
+          <div className="sound-queue-title">
+            sound queue 
+          </div>
         	{this.generateSoundQueueTiles()}
         </div>
 
