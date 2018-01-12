@@ -2956,6 +2956,10 @@
       "tags": ["bruce", "who", "the hell", "knows"]
     }},
     {
+    "bruce-whw": {
+      "tags": ["bruce", "whw", "what happened when"]
+    }},
+    {
     "bruce-whowouldyoucall": {
       "tags": ["bruce", "who would you call", "conrad"]
     }},
@@ -3184,6 +3188,10 @@
     {
     "conrad-answer": {
       "tags": ["conrad", "answer"]
+    }},
+    {
+    "conrad-approvedsuckteasing": {
+      "tags": ["conrad", "who approved", "suck teasing"]
     }},
     {
     "conrad-archives": {
@@ -5788,6 +5796,10 @@
     {
     "conrad-sigh3": {
       "tags": ["conrad", "sigh", "exasperation"]
+    }},
+    {
+    "conrad-simulateoralsex": {
+      "tags": ["conrad", "whose idea", "simulate", "oral sex"]
     }},
     {
     "conrad-skipover": {
@@ -11841,6 +11853,28 @@
     {
     "ernieladd-vinniemac2": {
       "tags": ["ernieladd", "vinne mac", "didnt actually call him that"]
+    }}
+  ],
+  "fink": [
+    {
+    "fink-dogeatdog": {
+      "tags": ["fink", "this may be", "dog eat dog", "world"]
+    }},
+    {
+    "fink-longfacelillian": {
+      "tags": ["fink", "why the", "long face", "lillian"]
+    }},
+    {
+    "fink-thepuppies": {
+      "tags": ["fink", "you have", "the puppies"]
+    }},
+    {
+    "fink-theweiner1": {
+      "tags": ["fink", "i have", "the weiner"]
+    }},
+    {
+    "fink-theweiner2": {
+      "tags": ["fink", "i have", "the weiner"]
     }}
   ]
 }
