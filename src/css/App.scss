@@ -566,7 +566,7 @@ body {
 
       }
 
-      .select-button, .sound-tile-add {
+      .select-button {
 
         @extend %standard-button;
         background-color: $blue;
@@ -673,6 +673,7 @@ body {
 
       .explore-item-tags {
 
+        display: flex;
         font-size: 1rem;
 
         .tag {
@@ -680,7 +681,6 @@ body {
           color: #666;
           display: block;
           margin-right: 5px;
-          float: left;
           line-height: 2.3rem;
           
         }
@@ -692,11 +692,8 @@ body {
           background-color: $green;
           box-shadow: 1px 1px 5px rgba(0,0,0,0.3);
           display: block;
-          float: left;
           height: 30px;
           margin-left: 5px;
-          margin-top: 4px;
-          position: relative;
           width: 30px;
 
           &:hover {

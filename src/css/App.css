@@ -39,17 +39,17 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-body .intro-screen .inner-container button, .about-button, .back-button, .left-column .sound-queue-buttons button, .sound-tile-explore .explore-items .explore-item .select-button, .sound-tile-explore .explore-items .explore-item .sound-tile-add {
+body .intro-screen .inner-container button, .about-button, .back-button, .left-column .sound-queue-buttons button, .sound-tile-explore .explore-items .explore-item .select-button {
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
   border-radius: 5px;
   box-shadow: 1px 2px 1px rgba(0, 0, 0, 0.5);
   cursor: pointer; }
-  body .intro-screen .inner-container button:hover, .about-button:hover, .back-button:hover, .left-column .sound-queue-buttons button:hover, .sound-tile-explore .explore-items .explore-item .select-button:hover, .sound-tile-explore .explore-items .explore-item .sound-tile-add:hover {
+  body .intro-screen .inner-container button:hover, .about-button:hover, .back-button:hover, .left-column .sound-queue-buttons button:hover, .sound-tile-explore .explore-items .explore-item .select-button:hover {
     box-shadow: none; }
 
-body .intro-screen .inner-container button .inner-text, .about-button .inner-text, .back-button .inner-text, .left-column .sound-queue-tiles .sound-queue-title, .left-column .sound-queue-buttons button .inner-text, .sound-tile-explore .explore-items .explore-item .select-button .inner-text, .sound-tile-explore .explore-items .explore-item .sound-tile-add .inner-text {
+body .intro-screen .inner-container button .inner-text, .about-button .inner-text, .back-button .inner-text, .left-column .sound-queue-tiles .sound-queue-title, .left-column .sound-queue-buttons button .inner-text, .sound-tile-explore .explore-items .explore-item .select-button .inner-text {
   color: #fff;
   font-family: 'Oswald', sans-serif;
   font-size: 1rem;
@@ -398,7 +398,7 @@ body {
     .sound-tile-explore .explore-items .explore-item:nth-child(even) {
       background-color: #e5f0f0;
       border: 1px solid #0070c9; }
-    .sound-tile-explore .explore-items .explore-item .select-button, .sound-tile-explore .explore-items .explore-item .sound-tile-add {
+    .sound-tile-explore .explore-items .explore-item .select-button {
       background-color: #0070c9;
       display: none;
       padding: 5px 10px;
@@ -452,12 +452,12 @@ body {
       .sound-tile-explore .explore-items .explore-item .explore-item-name-and-button .explore-item-name {
         float: left; }
     .sound-tile-explore .explore-items .explore-item .explore-item-tags {
+      display: flex;
       font-size: 1rem; }
       .sound-tile-explore .explore-items .explore-item .explore-item-tags .tag {
         color: #666;
         display: block;
         margin-right: 5px;
-        float: left;
         line-height: 2.3rem; }
       .sound-tile-explore .explore-items .explore-item .explore-item-tags button {
         -webkit-border-radius: 50%;
@@ -468,11 +468,8 @@ body {
         background-color: #0d8b00;
         box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
         display: block;
-        float: left;
         height: 30px;
         margin-left: 5px;
-        margin-top: 4px;
-        position: relative;
         width: 30px; }
         .sound-tile-explore .explore-items .explore-item .explore-item-tags button:hover {
           box-shadow: none; }
