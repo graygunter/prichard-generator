@@ -81,12 +81,8 @@ class SoundPaletteTile extends Component {
     return (
 
       <div 
-        className={classNames("sound-tile", this.props.category)}
-        draggable="true"
-        onDragStart={() => this.props.handleSoundTileDrag(this)}
-        onDragEnd={() => this.props.handleSoundTileDragEnd(this)}>
+        className={classNames("sound-tile", this.props.category)}>
         
-          
           {this.state.file !== undefined ? this.createIconAndFile() : null}
 
           <div className="sound-tile-buttons">
