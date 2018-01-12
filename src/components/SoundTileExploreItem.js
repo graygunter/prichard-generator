@@ -94,6 +94,13 @@ class SoundTileExploreItem extends Component {
             <i className="fa fa-play" aria-hidden="true"></i>
           </button>
 
+          <button 
+                  className="sound-tile-add"
+                  onClick={() => this.props.addToSoundQue((this.props.exploreTitle, this.props.exploreTitle + "-" + this.props.itemName))}
+                  title="Add to Sound Que">
+                    <i className="fa fa-plus" aria-hidden="true"></i>
+          </button>
+
         </div>
 
       </div>

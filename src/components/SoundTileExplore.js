@@ -86,6 +86,7 @@ class SoundTileExplore extends Component {
         fileName = fileName.substring(fileName.indexOf("-") + 1, fileName.length);
 
         let newItem = <SoundTileExploreItem
+                                            addToSoundQue={this.props.addToSoundQue}
                                             currentSelection={isCurrentSelection}
                                             exploreTitle={this.props.exploreTitle}
                                             handleSoundPlay={this.props.handleSoundPlay}

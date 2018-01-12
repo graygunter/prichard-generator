@@ -3,7 +3,6 @@ import Sound from 'react-sound';
 
 import audioData from '../json/audioData.json';
 import backgroundData from '../json/backgroundData.json';
-import keyboardData from '../json/keyboardData.json';
 
 import IntroScreen from './IntroScreen';
 import AboutScreen from './AboutScreen';
@@ -274,6 +273,7 @@ class App extends Component {
     return (
 
       <SoundTileExplore 
+                        addToSoundQue={this.addToSoundQue}
                         currentSelection={this.state.currentSoundTileFiles[this.state.soundTileToExplore]}
                         exploreTitle={this.state.soundTileToExplore}
                         handleBackClick={this.handleBackClick}

@@ -39,17 +39,17 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-body .intro-screen .inner-container button, .about-button, .back-button, .left-column .sound-queue-buttons button, .sound-tile-explore .explore-items .explore-item .select-button {
+body .intro-screen .inner-container button, .about-button, .back-button, .left-column .sound-queue-buttons button, .sound-tile-explore .explore-items .explore-item .select-button, .sound-tile-explore .explore-items .explore-item .sound-tile-add {
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
   border-radius: 5px;
   box-shadow: 1px 2px 1px rgba(0, 0, 0, 0.5);
   cursor: pointer; }
-  body .intro-screen .inner-container button:hover, .about-button:hover, .back-button:hover, .left-column .sound-queue-buttons button:hover, .sound-tile-explore .explore-items .explore-item .select-button:hover {
+  body .intro-screen .inner-container button:hover, .about-button:hover, .back-button:hover, .left-column .sound-queue-buttons button:hover, .sound-tile-explore .explore-items .explore-item .select-button:hover, .sound-tile-explore .explore-items .explore-item .sound-tile-add:hover {
     box-shadow: none; }
 
-body .intro-screen .inner-container button .inner-text, .about-button .inner-text, .back-button .inner-text, .left-column .sound-queue-tiles .sound-queue-title, .left-column .sound-queue-buttons button .inner-text, .sound-tile-explore .explore-items .explore-item .select-button .inner-text {
+body .intro-screen .inner-container button .inner-text, .about-button .inner-text, .back-button .inner-text, .left-column .sound-queue-tiles .sound-queue-title, .left-column .sound-queue-buttons button .inner-text, .sound-tile-explore .explore-items .explore-item .select-button .inner-text, .sound-tile-explore .explore-items .explore-item .sound-tile-add .inner-text {
   color: #fff;
   font-family: 'Oswald', sans-serif;
   font-size: 1rem;
@@ -398,13 +398,15 @@ body {
     .sound-tile-explore .explore-items .explore-item:nth-child(even) {
       background-color: #e5f0f0;
       border: 1px solid #0070c9; }
-    .sound-tile-explore .explore-items .explore-item .select-button {
+    .sound-tile-explore .explore-items .explore-item .select-button, .sound-tile-explore .explore-items .explore-item .sound-tile-add {
       background-color: #0070c9;
       display: none;
       padding: 5px 10px;
       position: absolute;
       right: 10px;
       top: 10px; }
+    .sound-tile-explore .explore-items .explore-item .sound-tile-add {
+      background-color: #0d8b00; }
     .sound-tile-explore .explore-items .explore-item.selected {
       background: #0070c9;
       color: #FFF; }

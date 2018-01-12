@@ -566,7 +566,7 @@ body {
 
       }
 
-      .select-button {
+      .select-button, .sound-tile-add {
 
         @extend %standard-button;
         background-color: $blue;
@@ -580,6 +580,12 @@ body {
           @extend %standard-button-text;
         }
 
+      }
+
+      .sound-tile-add {
+      
+        background-color: $green;
+      
       }
 
       &.selected {
