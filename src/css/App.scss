@@ -71,7 +71,7 @@ body {
 
         @extend %standard-button;
         background-color: $blue;
-        padding: 3%;
+        padding: 3% 5%;
         
         .inner-text {
           
@@ -589,9 +589,6 @@ body {
       }
 
       &.selected {
-        
-        background: $blue;
-        color: #FFF;
 
         .selected-tag {
 
@@ -621,7 +618,7 @@ body {
 
           &:after {
 
-            border-bottom: 13px solid $blue;
+            border-bottom: 13px solid white;
             border-left: 55px solid transparent;
             border-right: 55px solid transparent;
             bottom: 0;
@@ -635,11 +632,19 @@ body {
 
         }
 
-        .explore-item-tags {
+      }
 
-          .tag {
+      &:nth-child(even) {
 
-            color: #FFF;
+        &.selected {
+
+          .selected-tag {
+
+            &:after {
+
+              border-bottom: 13px solid $blue-light;
+
+            }
 
           }
 
@@ -695,6 +700,12 @@ body {
           height: 30px;
           margin-left: 5px;
           width: 30px;
+
+          &.explore-item-play {
+
+            background-color: $blue;
+
+          }
 
           &:hover {
 

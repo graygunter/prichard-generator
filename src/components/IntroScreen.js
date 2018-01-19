@@ -32,13 +32,15 @@ class IntroScreen extends Component {
                 alt="Something to Generate Something to Wrestle with Bruce Prichard"
                 src={require(`../imgs/logo-white.png`)} />
 
-          <h3><span>{files}</span> audio files in <span>{categories}</span> categories</h3>
+          <h3><span>{files}</span> audio clips in <span>{categories}</span> categories</h3>
           <h3>from the archives of</h3>
           <h3> <a href="http://www.mlwradio.com/something-to-wrestle-with-bruce-prichard.html" target="_blank">Something to Wrestle with Bruce Prichard</a></h3>
+          <h3>Build your own episode by adding clips to the sound queue!</h3>
+
 
           <button onClick={() => this.props.handleIntroClose()}>
             <div className="inner-text">
-              roll tide on that <i className="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
+              start <i className="fa fa-arrow-circle-o-right" aria-hidden="true"></i>
             </div>
           </button>
 

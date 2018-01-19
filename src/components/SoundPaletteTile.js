@@ -29,6 +29,9 @@ class SoundPaletteTile extends Component {
 
     let fileName = String(this.state.file);
 
+    let category = String(this.props.category).charAt(0).toUpperCase() + String(this.props.category).slice(1);
+
+
 /*  NEEDS TO BE TESTED: Method for subbing PNGs for iE browsers below iE11
 
     let fileType = "svg";
@@ -47,12 +50,18 @@ class SoundPaletteTile extends Component {
 
     fileName = this.returnFileName(fileName);
 
+
     return (
             <div className="icon-and-file">
-              <div 
-                    className="icon"
-                    style={{backgroundImage: iconPath}}>    
-              </div>
+
+              <button 
+                      className="icon"
+                      onClick={() => this.props.handleSoundTileExplore(this.props.category)}
+                      title={"Explore " + category}
+                      style={{backgroundImage: iconPath}}>
+
+              </button>
+
               <div className={
                 classNames("file", fileName.length > 12 ? "small" : null)}>
                   {fileName}

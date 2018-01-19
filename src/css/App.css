@@ -104,7 +104,7 @@ body {
       body .intro-screen .inner-container button {
         margin-top: 5%;
         background-color: #0070c9;
-        padding: 3%; }
+        padding: 3% 5%; }
         body .intro-screen .inner-container button .inner-text {
           font-size: 3rem;
           line-height: 3rem; }
@@ -407,41 +407,38 @@ body {
       top: 10px; }
     .sound-tile-explore .explore-items .explore-item .sound-tile-add {
       background-color: #0d8b00; }
-    .sound-tile-explore .explore-items .explore-item.selected {
-      background: #0070c9;
-      color: #FFF; }
-      .sound-tile-explore .explore-items .explore-item.selected .selected-tag {
-        background-color: #760ce8;
-        border-left: 1px solid #43008c;
-        border-right: 1px solid #43008c;
-        border-top: 1px solid #43008c;
-        color: white;
-        font-size: 1rem;
-        font-weight: 700;
-        height: 46px;
-        letter-spacing: 1px;
-        margin: 0 auto;
-        padding-top: 15px;
+    .sound-tile-explore .explore-items .explore-item.selected .selected-tag {
+      background-color: #760ce8;
+      border-left: 1px solid #43008c;
+      border-right: 1px solid #43008c;
+      border-top: 1px solid #43008c;
+      color: white;
+      font-size: 1rem;
+      font-weight: 700;
+      height: 46px;
+      letter-spacing: 1px;
+      margin: 0 auto;
+      padding-top: 15px;
+      position: absolute;
+      right: 5px;
+      text-align: center;
+      text-transform: uppercase;
+      top: -3px;
+      width: 110px; }
+      .sound-tile-explore .explore-items .explore-item.selected .selected-tag .selected-tag-text {
+        text-shadow: 1px 1px 0 #000; }
+      .sound-tile-explore .explore-items .explore-item.selected .selected-tag:after {
+        border-bottom: 13px solid white;
+        border-left: 55px solid transparent;
+        border-right: 55px solid transparent;
+        bottom: 0;
+        content: ' ';
+        height: 0;
+        left: 0;
         position: absolute;
-        right: 5px;
-        text-align: center;
-        text-transform: uppercase;
-        top: -3px;
-        width: 110px; }
-        .sound-tile-explore .explore-items .explore-item.selected .selected-tag .selected-tag-text {
-          text-shadow: 1px 1px 0 #000; }
-        .sound-tile-explore .explore-items .explore-item.selected .selected-tag:after {
-          border-bottom: 13px solid #0070c9;
-          border-left: 55px solid transparent;
-          border-right: 55px solid transparent;
-          bottom: 0;
-          content: ' ';
-          height: 0;
-          left: 0;
-          position: absolute;
-          width: 0; }
-      .sound-tile-explore .explore-items .explore-item.selected .explore-item-tags .tag {
-        color: #FFF; }
+        width: 0; }
+    .sound-tile-explore .explore-items .explore-item:nth-child(even).selected .selected-tag:after {
+      border-bottom: 13px solid #e5f0f0; }
     .sound-tile-explore .explore-items .explore-item:hover .select-button {
       display: block; }
     .sound-tile-explore .explore-items .explore-item:hover.selected .select-button {
@@ -471,6 +468,8 @@ body {
         height: 30px;
         margin-left: 5px;
         width: 30px; }
+        .sound-tile-explore .explore-items .explore-item .explore-item-tags button.explore-item-play {
+          background-color: #0070c9; }
         .sound-tile-explore .explore-items .explore-item .explore-item-tags button:hover {
           box-shadow: none; }
 
