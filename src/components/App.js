@@ -5,6 +5,7 @@ import audioData from '../json/audioData.json';
 import backgroundData from '../json/backgroundData.json';
 
 import IntroScreen from './IntroScreen';
+import Instructions from './Instructions';
 import AboutScreen from './AboutScreen';
 import BackgroundHolder from './BackgroundHolder';
 import SoundPalette from './SoundPalette';
@@ -291,17 +292,7 @@ class App extends Component {
 
       <div>
 
-        <div className="instructions">
-
-          <div className="about-instructions">
-
-              <i className="fa fa-times-circle instructions-close" aria-hidden="true"></i>
-
-              Find out more about STGSTW
-
-          </div>
-
-        </div>
+        <Instructions />
 
         <button 
                 className="about-button"

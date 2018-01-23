@@ -172,40 +172,126 @@ body {
   width: 100%;
   z-index: 5;
 
-  .instructions-close {
+  .instructions-detail {
 
-    left: -5px;
+    @include border-radius(10px);
+    background: rgba(0,0,0,0.75);
+    color: #fff;
+    font-size: 2em;
+    line-height: 1.4em;
+    padding: 0.5% 1.5% 1.5%;
     position: absolute;
-    top: -5px;
+
+    &:after {
+
+      border-bottom-color: transparent;
+      border-left-color: transparent;
+      border-right-color: transparent;
+      border-top-color: transparent;
+
+      border-bottom-style: solid;
+      border-left-style: solid;
+      border-right-style: solid;
+      border-top-style: solid;
+
+      content:"";
+      height: 0;
+      position: absolute;
+      width: 0;
+
+    }
+
+    .instructions-close {
+
+      background: url("../imgs/instructions-close.svg") no-repeat center center;
+      background-size: contain;
+      cursor: button;
+      display: block;
+      height: 30px;
+      left: -10px;
+      position: absolute;
+      top: -10px;
+      width: 30px;
+
+    }
 
   }
 
   .about-instructions {
 
-    -moz-border-radius:    10px;
-    -webkit-border-radius: 10px;
-    background: rgba(0,0,0,.5);
-    border-radius:         10px;
-    color: #fff;
-    font-size: 2em;
-    height: 40px;
-    padding: 10px 20px;
-    position: absolute;
-    right: 7%;
-    top: 1%;
-    width: 120px;
+    height: 6%;
+    right: 8.5%;
+    top: 1.9%;
+    width: 8%;
 
     &:after {
 
-      border-bottom: 13px solid transparent;
-      border-left: 26px solid rgba(0,0,0,0.5);
-      border-top: 13px solid transparent;
-      content:"";
-      height: 0;
-      position: absolute;
-      right: -26px;
-      top: 16px;
-      width: 0;
+      border-bottom-width: 13px;
+      border-left-color: rgba(0,0,0,0.75);
+      border-left-width: 26px;
+      border-top-width: 13px;
+      right: -29px;
+      top: 30%;
+
+    }
+
+  }
+
+  .sound-queue-instructions {
+
+    bottom: 9.25%;
+    height: 10%;
+    left: 1%;
+    width: 15%;
+
+    &:after {
+
+      border-top-color: rgba(0,0,0,0.75);
+      border-top-width: 26px;
+      border-left-width: 13px;
+      border-right-width: 13px;
+      bottom: -29px;
+      left: 10%;
+
+    }
+
+  }
+
+  .category-instructions {
+
+    bottom: 29%;
+    height: 10%;
+    left: 34%;
+    width: 18%;
+
+    &:after {
+
+      border-top-color: rgba(0,0,0,0.75);
+      border-top-width: 26px;
+      border-left-width: 13px;
+      border-right-width: 13px;
+      bottom: -29px;
+      left: 10%;
+
+    }
+
+  }
+
+  .scroll-instructions {
+
+    bottom: 10%;
+    height: 6%;
+    right: 2%;
+    width: 10%;
+
+    &:after {
+
+      border-bottom-width: 13px;
+      border-left-color: rgba(0,0,0,0.75); 
+      border-left-width: 26px;
+      border-top-width: 13px;
+      right: -29px;
+      top: 30%;
 
     }
 
