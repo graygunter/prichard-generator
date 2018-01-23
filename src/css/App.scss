@@ -164,14 +164,63 @@ body {
 
 }
 
+.instructions {
+
+  height: 100%;
+  pointer-events: none;
+  position: absolute;
+  width: 100%;
+  z-index: 5;
+
+  .instructions-close {
+
+    left: -5px;
+    position: absolute;
+    top: -5px;
+
+  }
+
+  .about-instructions {
+
+    -moz-border-radius:    10px;
+    -webkit-border-radius: 10px;
+    background: rgba(0,0,0,.5);
+    border-radius:         10px;
+    color: #fff;
+    font-size: 2em;
+    height: 40px;
+    padding: 10px 20px;
+    position: absolute;
+    right: 7%;
+    top: 1%;
+    width: 120px;
+
+    &:after {
+
+      border-bottom: 13px solid transparent;
+      border-left: 26px solid rgba(0,0,0,0.5);
+      border-top: 13px solid transparent;
+      content:"";
+      height: 0;
+      position: absolute;
+      right: -26px;
+      top: 16px;
+      width: 0;
+
+    }
+
+  }
+
+}
+
 .about-button, .back-button {
 
   @extend %standard-button;
   background-color: $blue;
   padding: 0.5% 1%;
   position: fixed;
-  right: 10px;
-  top: 10px;
+  right: .75%;
+  top: 3%;
   z-index: 4;
 
   .inner-text {
@@ -314,7 +363,7 @@ body {
 
   .sound-queue-buttons {
 
-    display: block;
+    display: flex;
     width: 100%;
 
     button {
@@ -418,6 +467,7 @@ body {
 
       @extend %clearfix;
       bottom: 0;
+      display: flex;
       padding: 5px 0;
       position: absolute;
       width: 100%;
@@ -426,9 +476,8 @@ body {
 
         @include border-radius(50%);
         background: none;
-        display: inline;
         height: 30px;
-        margin: 0 2px;
+        margin: 0 3px;
         position: relative;
         width: 30px;
 

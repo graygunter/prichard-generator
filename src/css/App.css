@@ -150,12 +150,46 @@ body {
   body strong {
     font-weight: 500; }
 
+.instructions {
+  height: 100%;
+  pointer-events: none;
+  position: absolute;
+  width: 100%;
+  z-index: 5; }
+  .instructions .instructions-close {
+    left: -5px;
+    position: absolute;
+    top: -5px; }
+  .instructions .about-instructions {
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    color: #fff;
+    font-size: 2em;
+    height: 40px;
+    padding: 10px 20px;
+    position: absolute;
+    right: 7%;
+    top: 1%;
+    width: 120px; }
+    .instructions .about-instructions:after {
+      border-bottom: 13px solid transparent;
+      border-left: 26px solid rgba(0, 0, 0, 0.5);
+      border-top: 13px solid transparent;
+      content: "";
+      height: 0;
+      position: absolute;
+      right: -26px;
+      top: 16px;
+      width: 0; }
+
 .about-button, .back-button {
   background-color: #0070c9;
   padding: 0.5% 1%;
   position: fixed;
-  right: 10px;
-  top: 10px;
+  right: .75%;
+  top: 3%;
   z-index: 4; }
 
 .background-holder {
@@ -257,7 +291,7 @@ body {
       .left-column .sound-queue-tiles .sound-queue-tile:nth-child(even) {
         background-color: #a7d8ff; }
   .left-column .sound-queue-buttons {
-    display: block;
+    display: flex;
     width: 100%; }
     .left-column .sound-queue-buttons button {
       cursor: pointer;
@@ -317,6 +351,7 @@ body {
         margin-top: 5px; }
     .sound-palette .sound-tile .sound-tile-buttons {
       bottom: 0;
+      display: flex;
       padding: 5px 0;
       position: absolute;
       width: 100%; }
@@ -326,9 +361,8 @@ body {
         -ms-border-radius: 50%;
         border-radius: 50%;
         background: none;
-        display: inline;
         height: 30px;
-        margin: 0 2px;
+        margin: 0 3px;
         position: relative;
         width: 30px; }
       .sound-palette .sound-tile .sound-tile-buttons .sound-tile-play, .sound-palette .sound-tile .sound-tile-buttons .sound-tile-explore, .sound-palette .sound-tile .sound-tile-buttons .sound-tile-refresh {

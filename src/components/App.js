@@ -291,6 +291,18 @@ class App extends Component {
 
       <div>
 
+        <div className="instructions">
+
+          <div className="about-instructions">
+
+              <i className="fa fa-times-circle instructions-close" aria-hidden="true"></i>
+
+              Find out more about STGSTW
+
+          </div>
+
+        </div>
+
         <button 
                 className="about-button"
                 onClick={this.handleAboutPress}>
