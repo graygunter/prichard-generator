@@ -3,6 +3,7 @@ import Sound from 'react-sound';
 
 import audioData from '../json/audioData.json';
 import backgroundData from '../json/backgroundData.json';
+import instructionsData from '../json/instructionsData.json';
 
 import IntroScreen from './IntroScreen';
 import Instructions from './Instructions';
@@ -29,6 +30,8 @@ class App extends Component {
 
     this.handleIntroClose = this.handleIntroClose.bind(this);
 
+    this.handleInstructionHide = this.handleInstructionHide.bind(this);
+
     this.handleSoundTileExplore = this.handleSoundTileExplore.bind(this);
 
     this.handleSoundPlay = this.handleSoundPlay.bind(this);
@@ -52,6 +55,8 @@ class App extends Component {
       currentSoundTileFiles: {},
 
       initialLoadComplete: false,
+
+      instructionsToHide: [],
 
       showIntroScreen: true,
 
@@ -84,6 +89,16 @@ class App extends Component {
   handleIntroClose() {
 
     this.setState({showIntroScreen: false});
+
+  }
+
+  handleInstructionHide(instructionToHide) {
+
+    let tempinstructionsToHide = this.state.instructionsToHide;
+
+    tempinstructionsToHide.push(instructionToHide);    
+
+    this.setState({instructionsToHide : tempinstructionsToHide});
 
   }
 
@@ -292,8 +307,6 @@ class App extends Component {
 
       <div>
 
-        <Instructions />
-
         <button 
                 className="about-button"
                 onClick={this.handleAboutPress}>
@@ -322,6 +335,11 @@ class App extends Component {
                       randomNumber={this.randomNumber}
                       soundTileFileSelected={this.soundTileFileSelected}/>
         
+        <Instructions 
+                      handleInstructionHide={this.handleInstructionHide}
+                      instructionsData={instructionsData}
+                      instructionsToHide={this.state.instructionsToHide}/> 
+
       </div>
 
     );

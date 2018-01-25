@@ -39,7 +39,7 @@ class SoundTileExplore extends Component {
 
   filterByTags(tile) {
 
-    console.log(tile);
+    //console.log(tile);
 
     let dontFilter = true;
 
@@ -63,7 +63,7 @@ class SoundTileExplore extends Component {
 
   generateSoundTileExploreItems() {
 
-    console.log("### generateSoundTileExploreItems: " + this.props.currentSelection);
+    //console.log("### generateSoundTileExploreItems: " + this.props.currentSelection);
 
     let exploreItemsArray = []
 
@@ -71,7 +71,7 @@ class SoundTileExplore extends Component {
 
     filteredTileData = filteredTileData.filter(this.filterByTags);
 
-    console.log(filteredTileData);
+    //console.log(filteredTileData);
 
     for(let i = 0; i < filteredTileData.length; i++) {
 
@@ -107,7 +107,7 @@ class SoundTileExplore extends Component {
 
   render() {
 
-    console.log("SoundTileExplore rendered!");
+    //console.log("SoundTileExplore rendered!");
 
     let iconPath = "url(\"" + require(`../imgs/icons/icon_${this.props.exploreTitle}.svg`) + "\")";
 

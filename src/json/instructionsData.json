@@ -1,0 +1,22 @@
+{
+  "about": [
+    {
+      "text": "Find out more about STGSTW"
+    }
+  ],
+  "sound-queue": [
+    {
+      "text": "Audio clips added to the sound queue play back in order when you press the play button"
+    }
+  ],
+  "category": [
+    {
+      "text": "Audio clips are organized by category. For example clips of Bruce Prichard talking go in 'BRUCE'"
+    }
+  ],
+  "scroll": [
+    {
+      "text": "Scroll the categories to see more"
+    }
+  ]
+}

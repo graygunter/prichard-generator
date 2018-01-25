@@ -575,10 +575,6 @@
       "tags": ["bruce", "im not advocating", "doing drugs"]
     }},
     {
-    "bruce-doingdrugs": {
-      "tags": ["bruce", "im not advocating", "doing drugs"]
-    }},
-    {
     "bruce-doingeverydrug": {
       "tags": ["bruce", "doing every drug", "you could get your hands on"]
     }},
@@ -1314,6 +1310,10 @@
     {
     "bruce-improvetosuck": {
       "tags": ["bruce", "it wouldve had to improve", "to suck"]
+    }},
+    {
+    "bruce-imready": {
+      "tags": ["bruce", "im", "ready"]
     }},
     {
     "bruce-imtoofat": {
@@ -2444,6 +2444,10 @@
       "tags": ["bruce", "so fucked up", "seriously", "think about this"]
     }},
     {
+    "bruce-soisyourmom": {
+      "tags": ["bruce", "so is", "your mom"]
+    }},
+    {
     "bruce-somas1": {
       "tags": ["bruce", "somas", "drugs"]
     }},
@@ -2602,6 +2606,10 @@
     {
     "bruce-tapeitupandgo": {
       "tags": ["bruce", "tape it up", "and go"]
+    }},
+    {
+    "bruce-tatankawarcry": {
+      "tags": ["bruce", "tatanka", "war cry"]
     }},
     {
     "bruce-teeonyourback": {
@@ -3267,6 +3275,10 @@
     }},
     {
     "conrad-areyouready": {
+      "tags": ["conrad", "are you ready"]
+    }},
+    {
+    "conrad-areyoureadybruce": {
       "tags": ["conrad", "here we go", "bruce", "are you ready"]
     }},
     {
@@ -5574,6 +5586,10 @@
       "tags": ["conrad", "this is", "real life"]
     }},
     {
+    "conrad-reallife3": {
+      "tags": ["conrad", "this is", "real life", "fellows"]
+    }},
+    {
     "conrad-realquestion": {
       "tags": ["conrad", "real", "question"]
     }},
@@ -6116,6 +6132,10 @@
     {
     "conrad-tastelesscomedy": {
       "tags": ["conrad", "trashy", "classless", "tasteless", "comedy"]
+    }},
+    {
+    "conrad-tatanka": {
+      "tags": ["conrad", "tatanka", "superstar"]
     }},
     {
     "conrad-teddibiase": {
@@ -7544,6 +7564,10 @@
     {
     "savage-uhhuh": {
       "tags": ["savage", "uh huh", "yeah"]
+    }},
+    {
+    "savage-un": {
+      "tags": ["savage", "uncooked", "uncut", "uncensored", "unbelievable"]
     }},
     {
     "savage-veteran": {
@@ -11494,6 +11518,10 @@
     {
     "johnnyace-skateboards": {
       "tags": ["johnnyace", "came down on", "skateboards"]
+    }},
+    {
+    "johnnyace-slipthetonguein": {
+      "tags": ["johnnyace", "slip the tongue in", "turn your head"]
     }},
     {
     "johnnyace-smokingdoob": {
