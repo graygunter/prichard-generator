@@ -90,7 +90,11 @@ class SoundPaletteTile extends Component {
     return (
 
       <div 
-        className={classNames("sound-tile", this.props.category)}>
+        className={"sound-tile"}>
+
+          <div className="sound-tile-category">
+            {this.props.category}
+          </div>
         
           {this.state.file !== undefined ? this.createIconAndFile() : null}
 

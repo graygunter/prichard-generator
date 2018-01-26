@@ -45,7 +45,7 @@ class BackgroundHolder extends Component {
     this.setBackground();
     this.setBackground();
 
-    setInterval(this.changeBackground, 4000);
+    setInterval(this.changeBackground, 6000);
 
   }
 

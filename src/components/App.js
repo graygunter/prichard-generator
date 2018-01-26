@@ -189,7 +189,7 @@ class App extends Component {
 
   playSoundQueueFinish() {
 
-    if(this.state.soundQueuesArray !== []) {
+    if(this.state.soundQueuesArray.length !== 0) {
 
       this.setState({soundToPlay : undefined});
 
