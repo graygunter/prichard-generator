@@ -1,36 +1,11 @@
 import React, { Component } from 'react';
-import classNames from 'classnames';
 
 class SoundPaletteTile extends Component {
 
-  constructor() {
-
-    super();
-
-    this.getRandomSound = this.getRandomSound.bind(this);
-
-    this.returnFileName = this.returnFileName.bind(this);
-
-    this.state = {
-
-      file: undefined
-
-    }
-
-  }
-
-  returnFileName(fileName) {
-
-    return fileName.substring(fileName.indexOf("-") + 1, fileName.length);
-
-  }
 
   createIconAndFile() {
 
-    let fileName = String(this.state.file);
-
     let category = String(this.props.category).charAt(0).toUpperCase() + String(this.props.category).slice(1);
-
 
 /*  NEEDS TO BE TESTED: Method for subbing PNGs for iE browsers below iE11
 
@@ -44,12 +19,9 @@ class SoundPaletteTile extends Component {
 
 */
 
-    let iconPath = "url(\"" + require(`../imgs/icons/icon_${fileName.substring(0, fileName.indexOf("-"))}.svg`) + "\")";
+    let iconPath = "url(\"" + require(`../imgs/icons/icon_${this.props.category}.svg`) + "\")";
 
     //console.log("$$$ " + iconPath);
-
-    fileName = this.returnFileName(fileName);
-
 
     return (
             <div className="icon-and-file">
@@ -62,30 +34,14 @@ class SoundPaletteTile extends Component {
 
               </button>
 
-              <div className={
-                classNames("file", fileName.length > 12 ? "small" : null)}>
-                  {fileName}
-              </div>              
             </div>
     );
 
   }
 
-  getRandomSound() {
-
-    let randomSound = this.props.soundArray[this.props.randomNumber(this.props.soundArray.length)];
-
-    for (let soundName in randomSound) {
-
-      this.setState({file : soundName});
-
-      this.props.soundTileFileSelected(this.props.category, soundName);
-    
-    }
-
-  }
-
   render() {
+
+    let category = String(this.props.category).charAt(0).toUpperCase() + String(this.props.category).slice(1);
 
     return (
 
@@ -96,56 +52,32 @@ class SoundPaletteTile extends Component {
             {this.props.category}
           </div>
         
-          {this.state.file !== undefined ? this.createIconAndFile() : null}
+          {this.createIconAndFile()}
 
           <div className="sound-tile-buttons">
             
             <button 
-                    className="sound-tile-play"
-                    onClick={() => this.props.handleSoundPlay(this.state.file)}
-                    title="Test Play">
-                      <i className="fa fa-play" aria-hidden="true"></i>
+                    className="sound-tile-random"
+                    onClick={() => this.props.handleSoundTileRandom(this.props.category)}
+                    title={"Play Random " + category + " audio clip"}>
+                      <div className="inner-text">
+                        <i className="fa fa-play" aria-hidden="true"></i> random
+                      </div>
             </button>
             
             <button 
                     className="sound-tile-explore"
                     onClick={() => this.props.handleSoundTileExplore(this.props.category)}
-                    title="Explore Audio Files">
-                      <i className="fa fa-search" aria-hidden="true"></i>
-            </button>
-
-            <button 
-                    className="sound-tile-refresh"
-                    onClick={this.getRandomSound}
-                    title="Random Refresh">
-                      <i className="fa fa-refresh" aria-hidden="true"></i>
-            </button>
-
-            <button 
-                    className="sound-tile-add"
-                    onClick={() => this.props.addToSoundQue(this.state.file)}
-                    title="Add to Sound Que">
-                      <i className="fa fa-plus" aria-hidden="true"></i>
+                    title={"Explore " + category + "'s audio clips"}>
+                      <div className="inner-text">
+                        <i className="fa fa-search" aria-hidden="true"></i> explore
+                      </div>
             </button>
 
           </div>
 
       </div>
     );
-
-  }
-
-  componentDidMount() {
-
-    //console.log("this.props.currentSoundTileFile: " + this.props.currentSoundTileFile)
-
-    if(!this.props.currentSoundTileFile) 
-    {
-      this.getRandomSound();
-    }
-    else {
-      this.setState({file : this.props.currentSoundTileFile});
-    }
 
   }
 

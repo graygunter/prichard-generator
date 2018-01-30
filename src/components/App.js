@@ -36,6 +36,8 @@ class App extends Component {
 
     this.handleSoundPlay = this.handleSoundPlay.bind(this);
 
+    this.handleSoundTileRandom = this.handleSoundTileRandom.bind(this);
+
     this.playSound = this.playSound.bind(this);
 
     this.playSoundFinish = this.playSoundFinish.bind(this);
@@ -68,11 +70,15 @@ class App extends Component {
 
       soundTileBeingDragged: undefined,
 
-      keybuttonAssignments: {
-
-      },
-
       soundQueuesArray: [],
+
+      //soundQueuesArray: ["mlw-production", "conrad-stw3", "conrad-bruceprichard1", "conrad-brucewhatsgoingon", "bruce-fatwhiteguy", "conrad-dontgethot", "bruce-imhot", "conrad-coolstory2", "bruce-stupidquestions", "conrad-fuckingchase", "conrad-stopreading", "bruce-fuckoffpolitely", "conrad-fuckingdone", "conrad-rollcredits2", "mlw-neverstops"],
+
+      //soundQueuesArray: ["savage-heybrother1", "savage-firstnamelastname2", "savage-getcrazy", "savage-ilikeit", "savage-yeahbrother"],
+
+      //soundQueuesArray: ["dusty-pickupthephone", "dusty-gotanidea2", "dusty-fuckedup1", "dusty-moremoney", "dusty-donttalk"],
+
+      //soundQueuesArray: ["andre-imagiant", "andre-iwantwine", "andre-24beers", "andre-14vodkasodas", "andre-15jackandcoke", "andre-igosleepnow"],
 
       soundQueuesPlayback: false
 
@@ -223,25 +229,21 @@ class App extends Component {
 
   }
 
-  handleSoundTileExplore(soundTile, currentSelection) {
+  handleSoundTileRandom(soundCategory) {
+
+    let soundData = audioData[soundCategory];
+    let randomSoundObject = soundData[this.randomNumber(soundData.length)];
+
+    for(let randomSound in randomSoundObject)
+      this.playSound(randomSound);
+
+  }
+
+  handleSoundTileExplore(soundTile) {
 
     this.setState({
       soundTileToExplore: soundTile
     });
-
-  }
-
-  keybuttonFileRemoved(keybutton) {
-
-    this.newKeybuttonAssignment(keybutton.props.keybuttonValue, undefined);
-
-  }
-
-  newKeybuttonAssignment(keybutton, value) {
-
-    let newKeybuttonAssignments = this.state.keybuttonAssignments;
-
-    newKeybuttonAssignments[keybutton] = value;
 
   }
 
@@ -290,11 +292,9 @@ class App extends Component {
 
       <SoundTileExplore 
                         addToSoundQue={this.addToSoundQue}
-                        currentSelection={this.state.currentSoundTileFiles[this.state.soundTileToExplore]}
                         exploreTitle={this.state.soundTileToExplore}
                         handleBackClick={this.handleBackClick}
                         handleSoundPlay={this.handleSoundPlay}
-                        soundTileFileSelected={this.soundTileFileSelected}
                         tileData={audioData[this.state.soundTileToExplore]}/>
 
     );
@@ -327,13 +327,9 @@ class App extends Component {
                     soundQueuesArray={this.state.soundQueuesArray}/>
 
         <SoundPalette 
-                      addToSoundQue={this.addToSoundQue}
                       audioData={audioData}
-                      currentSoundTileFiles={this.state.currentSoundTileFiles}
                       handleSoundTileExplore={this.handleSoundTileExplore}
-                      handleSoundPlay={this.handleSoundPlay}
-                      randomNumber={this.randomNumber}
-                      soundTileFileSelected={this.soundTileFileSelected}/>
+                      handleSoundTileRandom={this.handleSoundTileRandom}/>
         
         <Instructions 
                       handleInstructionHide={this.handleInstructionHide}

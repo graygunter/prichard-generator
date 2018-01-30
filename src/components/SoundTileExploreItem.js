@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import classNames from 'classnames';
 
 class SoundTileExploreItem extends Component {
 
@@ -34,47 +33,11 @@ class SoundTileExploreItem extends Component {
 
   }
 
-  showSelectButton() {
-
-    return (
-
-      <button
-        className="select-button"
-        onClick={() => this.props.soundTileFileSelected(this.props.exploreTitle, this.props.exploreTitle + "-" + this.props.itemName)}>
-
-          <div className="inner-text">
-            Select
-          </div>
-      </button>
-
-    );
-
-  }
-
-  showSelectedTag() {
-
-    return (
-
-      <div className="selected-tag">
-
-        <div className="selected-tag-text">
-          Selected
-        </div>
-
-      </div>
-
-    )
-
-  }
-
   render() {
 
     return (
 
-      <div className={
-        classNames("explore-item", this.props.currentSelection ? "selected" : null)}>
-
-        {this.props.currentSelection ? this.showSelectedTag() : this.showSelectButton()}
+      <div className="explore-item">
 
         <div className="explore-item-name-and-button">
 

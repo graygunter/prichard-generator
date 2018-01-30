@@ -63,8 +63,6 @@ class SoundTileExplore extends Component {
 
   generateSoundTileExploreItems() {
 
-    //console.log("### generateSoundTileExploreItems: " + this.props.currentSelection);
-
     let exploreItemsArray = []
 
     let filteredTileData = this.props.tileData;
@@ -81,18 +79,14 @@ class SoundTileExplore extends Component {
 
         let currentTags = currentObject[fileName]["tags"];
 
-        let isCurrentSelection = this.props.currentSelection === fileName ? true : false;
-
         fileName = fileName.substring(fileName.indexOf("-") + 1, fileName.length);
 
         let newItem = <SoundTileExploreItem
                                             addToSoundQue={this.props.addToSoundQue}
-                                            currentSelection={isCurrentSelection}
                                             exploreTitle={this.props.exploreTitle}
                                             handleSoundPlay={this.props.handleSoundPlay}
                                             itemName={fileName} 
                                             key={"SoundTileExploreItem-" + fileName} 
-                                            soundTileFileSelected={this.props.soundTileFileSelected}
                                             tags={currentTags}/>
 
         exploreItemsArray.push(newItem);
@@ -115,9 +109,6 @@ class SoundTileExplore extends Component {
 
     if(this.props.tileData.length > 1)
       audioClipsString += "s";
-
-    var currentSelectionName = this.props.currentSelection;
-    currentSelectionName = currentSelectionName.substring(currentSelectionName.indexOf("-") + 1, currentSelectionName.length);
 
     return (
 
@@ -145,9 +136,6 @@ class SoundTileExplore extends Component {
             </div>
 
             <h4><span>{this.props.tileData.length}</span> {audioClipsString}</h4>
-
-            <h5>Clip currently selected: </h5>
-            <h5><span>{currentSelectionName}</span></h5>
 
             <input  type="text"
                     onBlur={this.onBlur.bind(this)}
