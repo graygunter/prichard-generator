@@ -539,6 +539,10 @@
       "tags": ["bruce", "two guys", "dicks in their hands"]
     }},
     {
+    "bruce-dicksuccumbed": {
+      "tags": ["bruce", "dick", "succumbed"]
+    }},
+    {
     "bruce-dickwaseverywhere": {
       "tags": ["bruce", "dick", "was", "everywhere"]
     }},
@@ -1021,6 +1025,14 @@
     {
     "bruce-gothere": {
       "tags": ["bruce", "we dont need to", "go there"]
+    }},
+    {
+    "bruce-gotfuckedup1": {
+      "tags": ["bruce", "we got", "fucked up"]
+    }},
+    {
+    "bruce-gotfuckedup2": {
+      "tags": ["bruce", "too much to drink", "fucked up"]
     }},
     {
     "bruce-gotnaked": {
@@ -2976,6 +2988,10 @@
       "tags": ["bruce", "weird shit"]
     }},
     {
+    "bruce-welearn": {
+      "tags": ["bruce", "we learn", "often", "by fucking up"]
+    }},
+    {
     "bruce-wenttothebar": {
       "tags": ["bruce", "we all", "went to the bar"]
     }},
@@ -3158,6 +3174,10 @@
     {
     "bruce-youngboys": {
       "tags": ["bruce", "young boys", "do his bidding"]
+    }},
+    {
+    "bruce-youngbucks": {
+      "tags": ["bruce", "young bucks", "bullet club"]
     }},
     {
     "bruce-yourehot": {
@@ -4504,6 +4524,10 @@
     {
     "conrad-hatetweets3": {
       "tags": ["conrad", "tweets"]
+    }},
+    {
+    "conrad-heartbreakers": {
+      "tags": ["conrad", "heartbreakers", "every day", "weed"]
     }},
     {
     "conrad-herculeshernandez": {
@@ -6830,898 +6854,6 @@
       "tags": ["conrad", "zubaz", "younger listeners", "big deal"]
     }}
   ],
-  "jerry": [
-    {
-    "jerry-buywrasslin": {
-      "tags": ["jerry", "buy", "wrasslin"]
-    }},
-    {
-    "jerry-chicken1": {
-      "tags": ["jerry", "chicken", "chicken-salad"]
-    }},
-    {
-    "jerry-chicken2": {
-      "tags": ["jerry", "chicken", "chicken-salad"]
-    }},
-    {
-    "jerry-chicken3": {
-      "tags": ["jerry", "chicken", "chop it up"]
-    }},
-    {
-    "jerry-chicken4": {
-      "tags": ["jerry", "chicken", "its good"]
-    }},
-    {
-    "jerry-chickensalad1": {
-      "tags": ["jerry", "chicken-salad"]
-    }},
-    {
-    "jerry-chickensalad2": {
-      "tags": ["jerry", "chicken-salad"]
-    }},
-    {
-    "jerry-chickensalad3": {
-      "tags": ["jerry", "chicken-salad"]
-    }},
-    {
-    "jerry-chickensalad4": {
-      "tags": ["jerry", "chicken-salad"]
-    }},
-    {
-    "jerry-coffee": {
-      "tags": ["jerry", "coffee", "conrad"]
-    }},
-    {
-    "jerry-grapes1": {
-      "tags": ["jerry", "chicken-salad", "grapes", "you know"]
-    }},
-    {
-    "jerry-grapes2": {
-      "tags": ["jerry", "chicken-salad", "grapes", "you know"]
-    }},
-    {
-    "jerry-grapes3": {
-      "tags": ["jerry", "chicken-salad", "grapes", "you know"]
-    }},
-    {  
-    "jerry-hatevince": {
-      "tags": ["jerry", "vince"]
-    }},
-    {
-    "jerry-hejustpeed": {
-      "tags": ["jerry", "he just peed", "oh dear"]
-    }},
-    {
-    "jerry-hello1": {
-      "tags": ["jerry", "hello"]
-    }},
-    {
-    "jerry-hello2": {
-      "tags": ["jerry", "hello"]
-    }},
-    {
-    "jerry-honey": {
-      "tags": ["jerry", "honey"]
-    }},
-    {
-    "jerry-huh1": {
-      "tags": ["jerry", "huh"]
-    }},
-    {
-    "jerry-huh2": {
-      "tags": ["jerry", "huh"]
-    }},
-    {
-    "jerry-huh3": {
-      "tags": ["jerry", "huh"]
-    }},
-    {
-    "jerry-huh4": {
-      "tags": ["jerry", "huh"]
-    }},
-    {
-    "jerry-huh5": {
-      "tags": ["jerry", "huh"]
-    }},
-    {
-    "jerry-huh6": {
-      "tags": ["jerry", "huh"]
-    }},
-    {
-    "jerry-huh7": {
-      "tags": ["jerry", "huh"]
-    }},
-    {
-    "jerry-idontknowanyone": {
-      "tags": ["jerry", "i dont know anyone", "hate vince"]
-    }},
-    {
-    "jerry-ihavenever": {
-      "tags": ["jerry", "i have never", "been yelled at"]
-    }},
-    {
-    "jerry-jerryjarret": {
-      "tags": ["jerry", "jerry jarret", "you know"]
-    }},
-    {
-    "jerry-mayonnaise1": {
-      "tags": ["chicken-salad", "jerry", "mayonnaise"]
-    }},
-    {
-    "jerry-mayonnaise2": {
-      "tags": ["chicken-salad", "jerry", "mayonnaise"]
-    }},
-    {
-    "jerry-mayonnaise3": {
-      "tags": ["chicken-salad", "jerry", "mayonnaise"]
-    }},
-    {
-    "jerry-mayonnaise4": {
-      "tags": ["chicken-salad", "jerry", "mayonnaise"]
-    }},
-    {
-    "jerry-mcmahonsoffice": {
-      "tags": ["jerry", "mr mcmahon", "office"]
-    }},
-    {
-    "jerry-neverbeenribbed": {
-      "tags": ["jerry", "never been", "ribs"]
-    }},
-    {
-    "jerry-okay": {
-      "tags": ["jerry", "okay"]
-    }},
-    {
-    "jerry-razor": {
-      "tags": ["jerry", "razor", "chop up"]
-    }},
-    {
-    "jerry-saltandpepper": {
-      "tags": ["jerry", "bruce", "salt and pepper"]
-    }},
-    {
-    "jerry-squeeze": {
-      "tags": ["jerry", "squeeze"]
-    }},
-    {
-    "jerry-tennessee": {
-      "tags": ["jerry", "tennessee"]
-    }},
-    {
-    "jerry-thankyou": {
-      "tags": ["jerry", "thank you", "mr mcmahon"]
-    }},
-    {
-    "jerry-thisisjerry": {
-      "tags": ["jerry", "this is jerry"]
-    }},
-    {
-    "jerry-timeforlunch": {
-      "tags": ["jerry", "lunch"]
-    }},
-    {
-     "jerry-uhhuh": {
-      "tags": ["jerry", "uh huh"]
-    }},
-    {
-     "jerry-vincetalkedtome": {
-      "tags": ["jerry", "well", "vince", "talked to me"]
-    }},
-    {
-    "jerry-walnuts1": {
-      "tags": ["jerry", "chicken-salad", "walnuts"]
-    }},
-    {
-    "jerry-walnuts2": {
-      "tags": ["jerry", "chicken-salad", "walnuts"]
-    }},
-    {
-    "jerry-walnuts3": {
-      "tags": ["jerry", "chicken-salad", "walnuts"]
-    }},
-    {
-    "jerry-wedowrasslin": {
-      "tags": ["jerry", "wrasslin"]
-    }},
-    {
-    "jerry-yelledat": {
-      "tags": ["jerry", "ive never been", "yelled at", "in my life"]
-    }},
-    {
-    "jerry-youknow1": {
-      "tags": ["jerry", "you know"]
-    }},
-    {
-    "jerry-youknow2": {
-      "tags": ["jerry", "you know"]
-    }},
-    {
-    "jerry-youknow3": {
-      "tags": ["jerry", "you know"]
-    }},
-    {
-    "jerry-youknow4": {
-      "tags": ["jerry", "you know"]
-    }},
-    {
-    "jerry-youknow5": {
-      "tags": ["jerry", "you know"]
-    }},
-    {
-    "jerry-youknow6": {
-      "tags": ["jerry", "you know"]
-    }},
-    {
-    "jerry-youknow7": {
-      "tags": ["jerry", "you know"]
-    }},
-    {
-    "jerry-youknow8": {
-      "tags": ["jerry", "you know"]
-    }},
-    {
-    "jerry-youknow9": {
-      "tags": ["jerry", "you know"]
-    }},
-    {
-    "jerry-youknow10": {
-      "tags": ["jerry", "you know", "conrad"]
-    }},
-    {
-    "jerry-youknow11": {
-      "tags": ["jerry", "you know"]
-    }},
-    {
-    "jerry-youknow12": {
-      "tags": ["jerry", "you know"]
-    }},
-    {
-    "jerry-youknow13": {
-      "tags": ["jerry", "you know", "conrad"]
-    }},
-    {
-    "jerry-youknow14": {
-      "tags": ["jerry", "you know"]
-    }},
-    {
-    "jerry-youknow15": {
-      "tags": ["jerry", "you know"]
-    }},
-    {
-    "jerry-youknow16": {
-      "tags": ["jerry", "you know"]
-    }}
-  ],
-  "dusty": [
-    {
-    "dusty-3motherfuckers": {
-      "tags": ["dusty", "three", "of them", "motherfuckers"]
-    }},
-    {
-    "dusty-badasslook": {
-      "tags": ["dusty", "badass", "look"]
-    }},
-    {
-    "dusty-bigboot": {
-      "tags": ["dusty", "somebody", "big boot"]
-    }},
-    {
-    "dusty-bloodandguts": {
-      "tags": ["dusty", "blood and guts", "everywhere"]
-    }},
-    {
-    "dusty-bullropematches": {
-      "tags": ["dusty", "i could forget", "more", "bullrope matches"]
-    }},
-    {
-    "dusty-captivate": {
-      "tags": ["dusty", "captivate", "love"]
-    }},
-    {
-    "dusty-cody": {
-      "tags": ["dusty", "cody", "superstar"]
-    }},
-    {
-    "dusty-compete": {
-      "tags": ["dusty", "compete", "with the dream", "baby"]
-    }},
-    {
-    "dusty-concretepool": {
-      "tags": ["dusty", "concrete pool"]
-    }},
-    {
-    "dusty-cutitoff": {
-      "tags": ["dusty", "cut it off"]
-    }},
-    {
-    "dusty-demons": {
-      "tags": ["dusty", "demons", "funky", "jump down your throat"]
-    }},
-    {
-    "dusty-dontsaywhatyouthinking": {
-      "tags": ["dusty", "pumpkin head", "dont say", "what you thinking"]
-    }},
-    {
-    "dusty-donttalk": {
-      "tags": ["dusty", "dont talk", "about this"]
-    }},
-    {
-    "dusty-dosomething": {
-      "tags": ["dusty", "do something", "with ya"]
-    }},
-    {
-    "dusty-dustymuffler": {
-      "tags": ["dusty", "dusty muffler", "keep that shiznit in"]
-    }},
-    {
-    "dusty-eagleclaw1": {
-      "tags": ["dusty", "eagle claw"]
-    }},
-    {
-    "dusty-eagleclaw2": {
-      "tags": ["dusty", "eagle claw"]
-    }},
-    {
-    "dusty-everybodysdrinking": {
-      "tags": ["dusty", "everybodys drinking", "alochol"]
-    }},
-    {
-    "dusty-fuckedthelobbyup": {
-      "tags": ["dusty", "fucked the", "lobby of the hotel", "up"]
-    }},
-    {
-    "dusty-fuckedup1": {
-      "tags": ["dusty", "fucked up", "beers", "bar"]
-    }},
-    {
-    "dusty-fuckedup2": {
-      "tags": ["dusty", "fucked up", "beers", "bar"]
-    }},
-    {
-    "dusty-fuckinggenius": {
-      "tags": ["dusty", "fucking genius", "i like it"]
-    }},
-    {
-    "dusty-gotanidea1": {
-      "tags": ["dusty", "got an idea"]
-    }},
-    {
-    "dusty-gotanidea2": {
-      "tags": ["dusty", "got an idea", "run by you"]
-    }},
-    {
-    "dusty-gotanidea3": {
-      "tags": ["dusty", "got an idea"]
-    }},
-    {
-    "dusty-greensborojackoff": {
-      "tags": ["dusty", "greensboro", "jackoff", "bruce mitchell"]
-    }},
-    {
-    "dusty-itwasugly": {
-      "tags": ["dusty", "but", "it was ugly"]
-    }},
-    {
-    "dusty-kabuki1": {
-      "tags": ["dusty", "kabuki"]
-    }},
-    {
-    "dusty-kabuki2": {
-      "tags": ["dusty", "kabuki"]
-    }},
-    {
-    "dusty-kabuki3": {
-      "tags": ["dusty", "kabuki"]
-    }},
-    {
-    "dusty-kabuki4": {
-      "tags": ["dusty", "very", "kabuki", "ish", "baby"]
-    }},
-    {
-    "dusty-karate": {
-      "tags": ["dusty", "karate", "kung fu", "shit"]
-    }},
-    {
-    "dusty-magic": {
-      "tags": ["dusty", "it was", "magic"]
-    }},
-    {
-    "dusty-moremoney": {
-      "tags": ["dusty", "big ideas", "more money"]
-    }},
-    {
-    "dusty-mostpopular": {
-      "tags": ["dusty", "most popular", "wrestler", "pwi"]
-    }},
-    {
-    "dusty-mostrecognizable1": {
-      "tags": ["dusty", "second most recognizable", "athelete in the world"]
-    }},
-    {
-    "dusty-mostrecognizable2": {
-      "tags": ["dusty", "second most recognizable", "athelete in the world"]
-    }},
-    {
-    "dusty-mysterious1": {
-      "tags": ["dusty", "mysterious", "shiznit"]
-    }},
-    {
-    "dusty-mysterious2": {
-      "tags": ["dusty", "mysterious"]
-    }},
-    {
-    "dusty-mysterious3": {
-      "tags": ["dusty", "mysterious"]
-    }},
-    {
-    "dusty-mysterious4": {
-      "tags": ["dusty", "mysterious"]
-    }},
-    {
-    "dusty-nastysituation": {
-      "tags": ["dusty", "nasty", "situation"]
-    }},
-    {
-    "dusty-ohbaby": {
-      "tags": ["dusty", "oh baby"]
-    }},
-    {
-    "dusty-oljumbo": {
-      "tags": ["dusty", "ol jumbo"]
-    }},
-    {
-    "dusty-parisianfood": {
-      "tags": ["dusty", "parisian food", "if you will"]
-    }},
-    {
-    "dusty-pepperoni": {
-      "tags": ["dusty", "pepperoni pizza", "pig snout"]
-    }},
-    {
-    "dusty-perfectedthemist": {
-      "tags": ["dusty", "perfected the mist"]
-    }},
-    {
-    "dusty-pickupthephone": {
-      "tags": ["dusty", "baby", "pick up the phone"]
-    }},
-    {
-    "dusty-polkadots": {
-      "tags": ["dusty", "polkadots"]
-    }},
-    {
-    "dusty-pumpkinhead": {
-      "tags": ["dusty", "pumpkinhead"]
-    }},
-    {
-    "dusty-reasonhoganwon": {
-      "tags": ["dusty", "only reason", "hogan won", "new york"]
-    }},
-    {
-    "dusty-seedofthedream": {
-      "tags": ["dusty", "squirted", "nuts", "seed of the american dream"]
-    }},
-    {
-    "dusty-sherrimartel": {
-      "tags": ["dusty", "sherri martel", "nasty"]
-    }},
-    {
-    "dusty-slidemybooty": {
-      "tags": ["dusty", "let me", "slide", "my booty"]
-    }},
-    {
-    "dusty-smileonyourface": {
-      "tags": ["dusty", "little", "smiile", "on your face"]
-    }},
-    {
-    "dusty-stardust": {
-      "tags": ["dusty", "stardust", "fucked up like a monkey"]
-    }},
-    {
-    "dusty-thankyou": {
-      "tags": ["dusty", "thank you", "baby", "darlin"]
-    }},
-    {
-    "dusty-touchhim": {
-      "tags": ["dusty", "touch him", "in way he hasn't been touched"]
-    }},
-    {
-    "dusty-touchthemlights": {
-      "tags": ["dusty", "touch them lights", "burn that", "litte hiney"]
-    }},
-    {
-    "dusty-virgilisoverthere": {
-      "tags": ["dusty", "virgil is over there", "the dream"]
-    }},
-    {
-    "dusty-whichone": {
-      "tags": ["dusty", "you know", "which one"]
-    }}
-  ],
-  "jr": [
-    {
-    "jr-allintheknuckle": {
-      "tags": ["jr", "its all in", "the knuckle"]
-    }},
-    {
-    "jr-bbqsauce": {
-      "tags": ["jr", "bbq", "sauce", "will enhance"]
-    }},
-    {
-    "jr-bigandbad": {
-      "tags": ["jr", "big and bad", "ill tell you one thing"]
-    }},
-    {
-    "jr-bosswants": {
-      "tags": ["jr", "boss wants", "to talk to you"]
-    }},
-    {
-    "jr-canttravel": {
-      "tags": ["jr", "cant travel", "like this"]
-    }},
-    {
-    "jr-cheesegrater": {
-      "tags": ["jr", "cheese grater", "cage"]
-    }},
-    {
-    "jr-deeperthecrotch": {
-      "tags": ["jr", "deeper the crotch", "deeper the slam"]
-    }},
-    {
-    "jr-dontknowbbq": {
-      "tags": ["jr", "they dont know", "bbq"]
-    }},
-    {
-    "jr-drdeath": {
-      "tags": ["jr", "dr death"]
-    }},
-    {
-    "jr-goddamn": {
-      "tags": ["jr", "god damn"]
-    }},
-    {
-    "jr-grabthecrotch": {
-      "tags": ["jr", "grab the crotch", "snatch it"]
-    }},
-    {
-    "jr-hadtopee": {
-      "tags": ["jr", "goddamn", "had to pee"]
-    }},
-    {
-    "jr-heyboy": {
-      "tags": ["jr", "hey boy"]
-    }},
-    {
-    "jr-hhh": {
-      "tags": ["jr", "hunter", "hurst", "helmsley"]
-    }},
-    {
-    "jr-hurr": {
-      "tags": ["jr", "hurr"]
-    }},
-    {
-    "jr-igotkids": {
-      "tags": ["jr", "i got kids", "id like to see them", "again"]
-    }},
-    {
-    "jr-newhold": {
-      "tags": ["jr", "learn a new hold"]
-    }},
-    {
-    "jr-newyorkcity": {
-      "tags": ["jr", "new york city"]
-    }},
-    {
-    "jr-playsfootball": {
-      "tags": ["jr", "plays football", "gotta love him", "goddamn"]
-    }},
-    {
-    "jr-sassafras": {
-      "tags": ["jr", "sassafras"]
-    }},
-    {
-    "jr-slobberknocker": {
-      "tags": ["jr", "slobber knocker"]
-    }},
-    {
-    "jr-steelcage": {
-      "tags": ["jr", "steel cage", "solid"]
-    }},
-    {
-    "jr-stonecold1": {
-      "tags": ["jr", "stone cold"]
-    }},
-    {
-    "jr-stonecold2": {
-      "tags": ["jr", "stone cold"]
-    }},
-    {
-    "jr-surprise": {
-      "tags": ["jr", "we dont like", "surprise"]
-    }},
-    {
-    "jr-utilityplayers": {
-      "tags": ["jr", "theyre", "utilityplayers"]
-    }},
-    {
-    "jr-wearblack": {
-      "tags": ["jr", "why you", "wear black"]
-    }},
-    {
-    "jr-well": {
-      "tags": ["jr", "well"]
-    }},
-    {
-    "jr-wellboss": {
-      "tags": ["jr", "well", "boss"]
-    }},
-    {
-    "jr-wildthing": {
-      "tags": ["jr", "wild thing", "hes referring to"]
-    }},
-    {
-    "jr-wouldntknowarib": {
-      "tags": ["jr", "wouldnt know", "a rib", "a pretzel"]
-    }},
-    {
-    "jr-wrestlemaniadickpic": {
-      "tags": ["jr", "wrestlemania", "dick pic"]
-    }},
-    {
-    "jr-yougottago": {
-      "tags": ["jr", "you gotta go"]
-    }},
-    {
-    "jr-yourpast": {
-      "tags": ["jr", "your past", "dont give a fuck"]
-    }}
-  ],
-  "savage": [
-    {
-    "savage-atthesametime": {
-      "tags": ["savage", "at the same time", "dig it", "yeah"]
-    }},
-    {
-    "savage-bikini": {
-      "tags": ["savage", "bikini", "itsy witsy", "teenie weenie"]
-    }},
-    {
-    "savage-buythemabeer": {
-      "tags": ["savage", "buy them a", "beer", "bruce"]
-    }},
-    {
-    "savage-canttrusthim": {
-      "tags": ["savage", "cant trust him", "brother", "keep an eye on"]
-    }},
-    {
-    "savage-checkitout": {
-      "tags": ["savage", "check it out"]
-    }},
-    {
-    "savage-cupofcoffee": {
-      "tags": ["savage", "cup of coffee"]
-    }},
-    {
-    "savage-digitdigit": {
-      "tags": ["savage", "macho man says", "dig it", "singing"]
-    }},
-    {
-    "savage-dontpullthehair": {
-      "tags": ["savage", "dont pull", "the hair"]
-    }},
-    {
-    "savage-donttouchthehair": {
-      "tags": ["savage", "dont touch", "the hair", "brother"]
-    }},
-    {
-    "savage-easeup": {
-      "tags": ["savage", "ease up", "brother"]
-    }},
-    {
-    "savage-eyeofmadness": {
-      "tags": ["savage", "eye of madness", "oh yeah"]
-    }},
-    {
-    "savage-firstnamelastname1": {
-      "tags": ["savage", "first name", "macho", "last name", "man"]
-    }},
-    {
-    "savage-firstnamelastname2": {
-      "tags": ["savage", "first name", "macho", "last name", "man", "dig it"]
-    }},
-    {
-    "savage-forgetmyname": {
-      "tags": ["savage", "forget my name", "look at my boots"]
-    }},
-    {
-    "savage-frontallobes": {
-      "tags": ["savage", "frontal lobes", "nowhere near"]
-    }},
-    {
-    "savage-getasnakeoff": {
-      "tags": ["savage", "how do you", "get a snake off"]
-    }},
-    {
-    "savage-getcrazy": {
-      "tags": ["savage", "go somwhere", "get crazy"]
-    }},
-    {
-    "savage-gettheheat": {
-      "tags": ["savage", "get the heat", "on me", "hot tag"]
-    }},
-    {
-    "savage-heybrother1": {
-      "tags": ["savage", "hey brother", "macho man"]
-    }},
-    {
-    "savage-heybrother2": {
-      "tags": ["savage", "hey brother"]
-    }},
-    {
-    "savage-iknewit": {
-      "tags": ["savage", "i knew it", "uh huh"]
-    }},
-    {
-    "savage-ilikeit": {
-      "tags": ["savage", "i like it"]
-    }},
-    {
-    "savage-ithinkyougotit": {
-      "tags": ["savage", "i think you got it", "kid", "uh huh"]
-    }},
-    {
-    "savage-littlelooksee": {
-      "tags": ["savage", "give her", "a little", "look see"]
-    }},
-    {
-    "savage-lustinhiseyes": {
-      "tags": ["savage", "lust in his eyes"]
-    }},
-    {
-    "savage-machohat1": {
-      "tags": ["savage", "i need", "my hat"]
-    }},
-    {
-    "savage-machohat2": {
-      "tags": ["savage", "freak out", "freak out", "macho hat"]
-    }},
-    {
-    "savage-machohat3": {
-      "tags": ["savage", "macho hat"]
-    }},
-    {
-    "savage-machohat4": {
-      "tags": ["savage", "macho hat"]
-    }},
-    {
-    "savage-meanttotalk": {
-      "tags": ["savage", "meant to talk", "brother"]
-    }},
-    {
-    "savage-myhair": {
-      "tags": ["savage", "my hair", "looks nice"]
-    }},
-    {
-    "savage-nicer": {
-      "tags": ["savage", "youre good", "you couldve been", "nicer"]
-    }},
-    {
-    "savage-nothappening1": {
-      "tags": ["savage", "not happening", "not today", "not tomorrow"]
-    }},
-    {
-    "savage-nothappening2": {
-      "tags": ["savage", "not happening", "not on my watch"]
-    }},
-    {
-    "savage-nothappening3": {
-      "tags": ["savage", "not happening", "not never"]
-    }},
-    {
-    "savage-nottonight": {
-      "tags": ["savage", "not tonight", "brother"]
-    }},
-    {
-    "savage-pussy": {
-      "tags": ["savage", "pussy", "go somewhere else"]
-    }},
-    {
-    "savage-rageintheeyes": {
-      "tags": ["savage", "rage in the eyes", "brother"]
-    }},
-    {
-    "savage-rightinthemiddle": {
-      "tags": ["savage", "right in the middle"]
-    }},
-    {
-    "savage-saveyourmoney": {
-      "tags": ["savage", "save your money", "t bills"]
-    }},
-    {
-    "savage-sayit": {
-      "tags": ["savage", "say it"]
-    }},
-    {
-    "savage-sidjustice": {
-      "tags": ["savage", "sid justice", "thank god"]
-    }},
-    {
-    "savage-somebodyelse": {
-      "tags": ["savage", "put it on", "somebody else"]
-    }},
-    {
-    "savage-spandexcowboyboots": {
-      "tags": ["savage", "whats wrong with", "spandex and cowboy boots"]
-    }},
-    {
-    "savage-specialhat": {
-      "tags": ["savage", "its a", "special hat"]
-    }},
-    {
-    "savage-suffering": {
-      "tags": ["savage", "suffering", "builds character"]
-    }},
-    {
-    "savage-talkingtoher": {
-      "tags": ["savage", "why are you", "talking to her"]
-    }},
-    {
-    "savage-tapeitupandgo": {
-      "tags": ["savage", "tape it up and go"]
-    }},
-    {
-    "savage-thatsmygimmick": {
-      "tags": ["savage", "thats my gimmick", "brother"]
-    }},
-    {
-    "savage-themachoman": {
-      "tags": ["savage", "the macho man", "ms elizabeth", "freak out"]
-    }},
-    {
-    "savage-thinking": {
-      "tags": ["savage", "thinking", "thinking", "thinking", "uh huh"]
-    }},
-    {
-    "savage-uhhuh": {
-      "tags": ["savage", "uh huh", "yeah"]
-    }},
-    {
-    "savage-un": {
-      "tags": ["savage", "uncooked", "uncut", "uncensored", "unbelievable"]
-    }},
-    {
-    "savage-unbelievable": {
-      "tags": ["savage", "unbelievable"]
-    }},
-    {
-    "savage-veteran": {
-      "tags": ["savage", "veteran", "save the day"]
-    }},
-    {
-    "savage-veterans": {
-      "tags": ["savage", "veterans", "young guys", "cant hang"]
-    }},
-    {
-    "savage-wheniseevince": {
-      "tags": ["savage", "when i see", "vince"]
-    }},
-    {
-    "savage-wintheminthering": {
-      "tags": ["savage", "win em", "lose em", "ring"]
-    }},
-    {
-    "savage-worldchampion": {
-      "tags": ["savage", "macho man", "world champion"]
-    }},
-    {
-    "savage-yeahbrother": {
-      "tags": ["savage", "yeah brother", "dig it"]
-    }},
-    {
-    "savage-youneverknow": {
-      "tags": ["savage", "you never know", "yeah"]
-    }}
-  ],
   "vince": [
     {
     "vince-abrasive": {
@@ -8736,6 +7868,1480 @@
       "tags": ["vince", "zeus"]
     }}
   ],
+  "jerry": [
+    {
+    "jerry-buywrasslin": {
+      "tags": ["jerry", "buy", "wrasslin"]
+    }},
+    {
+    "jerry-chicken1": {
+      "tags": ["jerry", "chicken", "chicken-salad"]
+    }},
+    {
+    "jerry-chicken2": {
+      "tags": ["jerry", "chicken", "chicken-salad"]
+    }},
+    {
+    "jerry-chicken3": {
+      "tags": ["jerry", "chicken", "chop it up"]
+    }},
+    {
+    "jerry-chicken4": {
+      "tags": ["jerry", "chicken", "its good"]
+    }},
+    {
+    "jerry-chickensalad1": {
+      "tags": ["jerry", "chicken-salad"]
+    }},
+    {
+    "jerry-chickensalad2": {
+      "tags": ["jerry", "chicken-salad"]
+    }},
+    {
+    "jerry-chickensalad3": {
+      "tags": ["jerry", "chicken-salad"]
+    }},
+    {
+    "jerry-chickensalad4": {
+      "tags": ["jerry", "chicken-salad"]
+    }},
+    {
+    "jerry-coffee": {
+      "tags": ["jerry", "coffee", "conrad"]
+    }},
+    {
+    "jerry-grapes1": {
+      "tags": ["jerry", "chicken-salad", "grapes", "you know"]
+    }},
+    {
+    "jerry-grapes2": {
+      "tags": ["jerry", "chicken-salad", "grapes", "you know"]
+    }},
+    {
+    "jerry-grapes3": {
+      "tags": ["jerry", "chicken-salad", "grapes", "you know"]
+    }},
+    {  
+    "jerry-hatevince": {
+      "tags": ["jerry", "vince"]
+    }},
+    {
+    "jerry-hejustpeed": {
+      "tags": ["jerry", "he just peed", "oh dear"]
+    }},
+    {
+    "jerry-hello1": {
+      "tags": ["jerry", "hello"]
+    }},
+    {
+    "jerry-hello2": {
+      "tags": ["jerry", "hello"]
+    }},
+    {
+    "jerry-honey": {
+      "tags": ["jerry", "honey"]
+    }},
+    {
+    "jerry-huh1": {
+      "tags": ["jerry", "huh"]
+    }},
+    {
+    "jerry-huh2": {
+      "tags": ["jerry", "huh"]
+    }},
+    {
+    "jerry-huh3": {
+      "tags": ["jerry", "huh"]
+    }},
+    {
+    "jerry-huh4": {
+      "tags": ["jerry", "huh"]
+    }},
+    {
+    "jerry-huh5": {
+      "tags": ["jerry", "huh"]
+    }},
+    {
+    "jerry-huh6": {
+      "tags": ["jerry", "huh"]
+    }},
+    {
+    "jerry-huh7": {
+      "tags": ["jerry", "huh"]
+    }},
+    {
+    "jerry-idontknowanyone": {
+      "tags": ["jerry", "i dont know anyone", "hate vince"]
+    }},
+    {
+    "jerry-ihavenever": {
+      "tags": ["jerry", "i have never", "been yelled at"]
+    }},
+    {
+    "jerry-jerryjarret": {
+      "tags": ["jerry", "jerry jarret", "you know"]
+    }},
+    {
+    "jerry-mayonnaise1": {
+      "tags": ["chicken-salad", "jerry", "mayonnaise"]
+    }},
+    {
+    "jerry-mayonnaise2": {
+      "tags": ["chicken-salad", "jerry", "mayonnaise"]
+    }},
+    {
+    "jerry-mayonnaise3": {
+      "tags": ["chicken-salad", "jerry", "mayonnaise"]
+    }},
+    {
+    "jerry-mayonnaise4": {
+      "tags": ["chicken-salad", "jerry", "mayonnaise"]
+    }},
+    {
+    "jerry-mcmahonsoffice": {
+      "tags": ["jerry", "mr mcmahon", "office"]
+    }},
+    {
+    "jerry-neverbeenribbed": {
+      "tags": ["jerry", "never been", "ribs"]
+    }},
+    {
+    "jerry-okay": {
+      "tags": ["jerry", "okay"]
+    }},
+    {
+    "jerry-razor": {
+      "tags": ["jerry", "razor", "chop up"]
+    }},
+    {
+    "jerry-saltandpepper": {
+      "tags": ["jerry", "bruce", "salt and pepper"]
+    }},
+    {
+    "jerry-squeeze": {
+      "tags": ["jerry", "squeeze"]
+    }},
+    {
+    "jerry-tennessee": {
+      "tags": ["jerry", "tennessee"]
+    }},
+    {
+    "jerry-thankyou": {
+      "tags": ["jerry", "thank you", "mr mcmahon"]
+    }},
+    {
+    "jerry-thisisjerry": {
+      "tags": ["jerry", "this is jerry"]
+    }},
+    {
+    "jerry-timeforlunch": {
+      "tags": ["jerry", "lunch"]
+    }},
+    {
+     "jerry-uhhuh": {
+      "tags": ["jerry", "uh huh"]
+    }},
+    {
+     "jerry-vincetalkedtome": {
+      "tags": ["jerry", "well", "vince", "talked to me"]
+    }},
+    {
+    "jerry-walnuts1": {
+      "tags": ["jerry", "chicken-salad", "walnuts"]
+    }},
+    {
+    "jerry-walnuts2": {
+      "tags": ["jerry", "chicken-salad", "walnuts"]
+    }},
+    {
+    "jerry-walnuts3": {
+      "tags": ["jerry", "chicken-salad", "walnuts"]
+    }},
+    {
+    "jerry-wedowrasslin": {
+      "tags": ["jerry", "wrasslin"]
+    }},
+    {
+    "jerry-yelledat": {
+      "tags": ["jerry", "ive never been", "yelled at", "in my life"]
+    }},
+    {
+    "jerry-youknow1": {
+      "tags": ["jerry", "you know"]
+    }},
+    {
+    "jerry-youknow2": {
+      "tags": ["jerry", "you know"]
+    }},
+    {
+    "jerry-youknow3": {
+      "tags": ["jerry", "you know"]
+    }},
+    {
+    "jerry-youknow4": {
+      "tags": ["jerry", "you know"]
+    }},
+    {
+    "jerry-youknow5": {
+      "tags": ["jerry", "you know"]
+    }},
+    {
+    "jerry-youknow6": {
+      "tags": ["jerry", "you know"]
+    }},
+    {
+    "jerry-youknow7": {
+      "tags": ["jerry", "you know"]
+    }},
+    {
+    "jerry-youknow8": {
+      "tags": ["jerry", "you know"]
+    }},
+    {
+    "jerry-youknow9": {
+      "tags": ["jerry", "you know"]
+    }},
+    {
+    "jerry-youknow10": {
+      "tags": ["jerry", "you know", "conrad"]
+    }},
+    {
+    "jerry-youknow11": {
+      "tags": ["jerry", "you know"]
+    }},
+    {
+    "jerry-youknow12": {
+      "tags": ["jerry", "you know"]
+    }},
+    {
+    "jerry-youknow13": {
+      "tags": ["jerry", "you know", "conrad"]
+    }},
+    {
+    "jerry-youknow14": {
+      "tags": ["jerry", "you know"]
+    }},
+    {
+    "jerry-youknow15": {
+      "tags": ["jerry", "you know"]
+    }},
+    {
+    "jerry-youknow16": {
+      "tags": ["jerry", "you know"]
+    }}
+  ],
+  "savage": [
+    {
+    "savage-atthesametime": {
+      "tags": ["savage", "at the same time", "dig it", "yeah"]
+    }},
+    {
+    "savage-bikini": {
+      "tags": ["savage", "bikini", "itsy witsy", "teenie weenie"]
+    }},
+    {
+    "savage-buythemabeer": {
+      "tags": ["savage", "buy them a", "beer", "bruce"]
+    }},
+    {
+    "savage-canttrusthim": {
+      "tags": ["savage", "cant trust him", "brother", "keep an eye on"]
+    }},
+    {
+    "savage-checkitout": {
+      "tags": ["savage", "check it out"]
+    }},
+    {
+    "savage-cupofcoffee": {
+      "tags": ["savage", "cup of coffee"]
+    }},
+    {
+    "savage-digitdigit": {
+      "tags": ["savage", "macho man says", "dig it", "singing"]
+    }},
+    {
+    "savage-dontpullthehair": {
+      "tags": ["savage", "dont pull", "the hair"]
+    }},
+    {
+    "savage-donttouchthehair": {
+      "tags": ["savage", "dont touch", "the hair", "brother"]
+    }},
+    {
+    "savage-easeup": {
+      "tags": ["savage", "ease up", "brother"]
+    }},
+    {
+    "savage-eyeofmadness": {
+      "tags": ["savage", "eye of madness", "oh yeah"]
+    }},
+    {
+    "savage-firstnamelastname1": {
+      "tags": ["savage", "first name", "macho", "last name", "man"]
+    }},
+    {
+    "savage-firstnamelastname2": {
+      "tags": ["savage", "first name", "macho", "last name", "man", "dig it"]
+    }},
+    {
+    "savage-forgetmyname": {
+      "tags": ["savage", "forget my name", "look at my boots"]
+    }},
+    {
+    "savage-frontallobes": {
+      "tags": ["savage", "frontal lobes", "nowhere near"]
+    }},
+    {
+    "savage-getasnakeoff": {
+      "tags": ["savage", "how do you", "get a snake off"]
+    }},
+    {
+    "savage-getcrazy": {
+      "tags": ["savage", "go somwhere", "get crazy"]
+    }},
+    {
+    "savage-gettheheat": {
+      "tags": ["savage", "get the heat", "on me", "hot tag"]
+    }},
+    {
+    "savage-heybrother1": {
+      "tags": ["savage", "hey brother", "macho man"]
+    }},
+    {
+    "savage-heybrother2": {
+      "tags": ["savage", "hey brother"]
+    }},
+    {
+    "savage-iknewit": {
+      "tags": ["savage", "i knew it", "uh huh"]
+    }},
+    {
+    "savage-ilikeit": {
+      "tags": ["savage", "i like it"]
+    }},
+    {
+    "savage-ithinkyougotit": {
+      "tags": ["savage", "i think you got it", "kid", "uh huh"]
+    }},
+    {
+    "savage-littlelooksee": {
+      "tags": ["savage", "give her", "a little", "look see"]
+    }},
+    {
+    "savage-lustinhiseyes": {
+      "tags": ["savage", "lust in his eyes"]
+    }},
+    {
+    "savage-machohat1": {
+      "tags": ["savage", "i need", "my hat"]
+    }},
+    {
+    "savage-machohat2": {
+      "tags": ["savage", "freak out", "freak out", "macho hat"]
+    }},
+    {
+    "savage-machohat3": {
+      "tags": ["savage", "macho hat"]
+    }},
+    {
+    "savage-machohat4": {
+      "tags": ["savage", "macho hat"]
+    }},
+    {
+    "savage-meanttotalk": {
+      "tags": ["savage", "meant to talk", "brother"]
+    }},
+    {
+    "savage-myhair": {
+      "tags": ["savage", "my hair", "looks nice"]
+    }},
+    {
+    "savage-nicer": {
+      "tags": ["savage", "youre good", "you couldve been", "nicer"]
+    }},
+    {
+    "savage-nothappening1": {
+      "tags": ["savage", "not happening", "not today", "not tomorrow"]
+    }},
+    {
+    "savage-nothappening2": {
+      "tags": ["savage", "not happening", "not on my watch"]
+    }},
+    {
+    "savage-nothappening3": {
+      "tags": ["savage", "not happening", "not never"]
+    }},
+    {
+    "savage-nottonight": {
+      "tags": ["savage", "not tonight", "brother"]
+    }},
+    {
+    "savage-pussy": {
+      "tags": ["savage", "pussy", "go somewhere else"]
+    }},
+    {
+    "savage-rageintheeyes": {
+      "tags": ["savage", "rage in the eyes", "brother"]
+    }},
+    {
+    "savage-rightinthemiddle": {
+      "tags": ["savage", "right in the middle"]
+    }},
+    {
+    "savage-saveyourmoney": {
+      "tags": ["savage", "save your money", "t bills"]
+    }},
+    {
+    "savage-sayit": {
+      "tags": ["savage", "say it"]
+    }},
+    {
+    "savage-sidjustice": {
+      "tags": ["savage", "sid justice", "thank god"]
+    }},
+    {
+    "savage-somebodyelse": {
+      "tags": ["savage", "put it on", "somebody else"]
+    }},
+    {
+    "savage-spandexcowboyboots": {
+      "tags": ["savage", "whats wrong with", "spandex and cowboy boots"]
+    }},
+    {
+    "savage-specialhat": {
+      "tags": ["savage", "its a", "special hat"]
+    }},
+    {
+    "savage-suffering": {
+      "tags": ["savage", "suffering", "builds character"]
+    }},
+    {
+    "savage-talkingtoher": {
+      "tags": ["savage", "why are you", "talking to her"]
+    }},
+    {
+    "savage-tapeitupandgo": {
+      "tags": ["savage", "tape it up and go"]
+    }},
+    {
+    "savage-thatsmygimmick": {
+      "tags": ["savage", "thats my gimmick", "brother"]
+    }},
+    {
+    "savage-themachoman": {
+      "tags": ["savage", "the macho man", "ms elizabeth", "freak out"]
+    }},
+    {
+    "savage-thinking": {
+      "tags": ["savage", "thinking", "thinking", "thinking", "uh huh"]
+    }},
+    {
+    "savage-uhhuh": {
+      "tags": ["savage", "uh huh", "yeah"]
+    }},
+    {
+    "savage-un": {
+      "tags": ["savage", "uncooked", "uncut", "uncensored", "unbelievable"]
+    }},
+    {
+    "savage-unbelievable": {
+      "tags": ["savage", "unbelievable"]
+    }},
+    {
+    "savage-veteran": {
+      "tags": ["savage", "veteran", "save the day"]
+    }},
+    {
+    "savage-veterans": {
+      "tags": ["savage", "veterans", "young guys", "cant hang"]
+    }},
+    {
+    "savage-wheniseevince": {
+      "tags": ["savage", "when i see", "vince"]
+    }},
+    {
+    "savage-wintheminthering": {
+      "tags": ["savage", "win em", "lose em", "ring"]
+    }},
+    {
+    "savage-worldchampion": {
+      "tags": ["savage", "macho man", "world champion"]
+    }},
+    {
+    "savage-yeahbrother": {
+      "tags": ["savage", "yeah brother", "dig it"]
+    }},
+    {
+    "savage-youneverknow": {
+      "tags": ["savage", "you never know", "yeah"]
+    }}
+  ],
+  "cornette": [
+    {
+    "cornette-5000dollars": {
+      "tags": ["cornette", "5000 dollars", "double cheeseburgers", "kill you"]
+    }},
+    {
+    "cornette-babyfacesandheels1": {
+      "tags": ["cornette", "babyfaces", "heels", "kill each other"]
+    }},
+    {
+    "cornette-babyfacesandheels2": {
+      "tags": ["cornette", "babyfaces", "heels", "thats what they do"]
+    }},
+    {
+    "cornette-babyfacechampion": {
+      "tags": ["cornette", "babyface", "champion"]
+    }},
+    {
+    "cornette-beatmeat": {
+      "tags": ["cornette", "beat meat", "anybody can", "motherfucker"]
+    }},
+    {
+    "cornette-bigbootydaddy": {
+      "tags": ["cornette", "big botty daddy", "scott steiner"]
+    }},
+    {
+    "cornette-booshit": {
+      "tags": ["cornette", "boo the shit out of", "hate him"]
+    }},
+    {
+    "cornette-boxover1": {
+      "tags": ["cornette", "box", "over"]
+    }},
+    {
+    "cornette-boxover2": {
+      "tags": ["cornette", "box", "over"]
+    }},
+    {
+    "cornette-boxover3": {
+      "tags": ["cornette", "box", "over"]
+    }},
+    {
+    "cornette-brooklynbrawler": {
+      "tags": ["cornette", "brooklyn brawler", "drop the belt"]
+    }},
+    {
+    "cornette-bugsbunny": {
+      "tags": ["cornette", "bugs bunny", "looking", "motherfucker"]
+    }},
+    {
+    "cornette-burger": {
+      "tags": ["cornette", "cheeseburger", "double mayo", "double onion"]
+    }},
+    {
+    "cornette-burymeinit": {
+      "tags": ["cornette", "bury me in it", "wtf"]
+    }},
+    {
+    "cornette-cagematch": {
+      "tags": ["cornette", "cage", "keep out", "keep in"]
+    }},
+    {
+    "cornette-canadianbastards": {
+      "tags": ["cornette", "canadian", "bastards", "motherfucker"]
+    }},
+    {
+    "cornette-canadianmotherfucker": {
+      "tags": ["cornette", "goddamn", "canadian", "motherfucker"]
+    }},
+    {
+    "cornette-chainsawcharlie": {
+      "tags": ["cornette", "chainsaw charlie", "terrys idea", "love it"]
+    }},
+    {
+    "cornette-cheesesteak": {
+      "tags": ["cornette", "cheesesteak", "double cheese"]
+    }},
+    {
+    "cornette-chefboyardee": {
+      "tags": ["cornette", "chef boyardee", "perfect meal"]
+    }},
+    {
+    "cornette-chickensalad": {
+      "tags": ["cornette", "goddamn", "chicken salad"]
+    }},
+    {
+    "cornette-cocksucker": {
+      "tags": ["cornette", "cock sucker"]
+    }},
+    {
+    "cornette-deathtube1": {
+      "tags": ["cornette", "death tube"]
+    }},
+    {
+    "cornette-deathtube2": {
+      "tags": ["cornette", "death tube", "gang plank"]
+    }},
+    {
+    "cornette-demolitiontheme": {
+      "tags": ["cornette", "demolition theme", "singing"]
+    }},
+    {
+    "cornette-diaper1": {
+      "tags": ["cornette", "everybody wants to see", "diaper"]
+    }},
+    {
+    "cornette-diaper2": {
+      "tags": ["cornette", "put a", "diaper", "on him"]
+    }},
+    {
+    "cornette-doublecheeseburger1": {
+      "tags": ["cornette", "double cheeseburger", "extra mayonaise"]
+    }},
+    {
+    "cornette-doublecheeseburger2": {
+      "tags": ["cornette", "double cheeseburger", "motherfucker"]
+    }},
+    {
+    "cornette-doublecheesebuttplug": {
+      "tags": ["cornette", "double cheese", "butt plug"]
+    }},
+    {
+    "cornette-doublemayo": {
+      "tags": ["cornette", "double mayo", "motherfucker"]
+    }},
+    {
+    "cornette-doublesatin": {
+      "tags": ["cornette", "double satin", "conrad"]
+    }},
+    {
+    "cornette-doubletitties": {
+      "tags": ["cornette", "double ds", "double titties"]
+    }},
+    {
+    "cornette-downanotch": {
+      "tags": ["cornette", "down a notch", "or two", "motherfucker", "conrad"]
+    }},
+    {
+    "cornette-dudleydoright": {
+      "tags": ["cornette", "dudley do-right", "my shit"]
+    }},
+    {
+    "cornette-fatmotherfucker": {
+      "tags": ["cornette", "fat", "motherfucker", "get off me"]
+    }},
+    {
+    "cornette-fattoo": {
+      "tags": ["cornette", "fuck", "fat too"]
+    }},
+    {
+    "cornette-fightisgreat": {
+      "tags": ["cornette", "fight is great"]
+    }},
+    {
+    "cornette-firethem": {
+      "tags": ["cornette", "fuckers", "fire them", "non-drawing"]
+    }},
+    {
+    "cornette-fuckhim": {
+      "tags": ["cornette", "fuck him", "goddamn"]
+    }},
+    {
+    "cornette-fucknewjersey": {
+      "tags": ["cornette", "fuck new jersey", "fuck atlantic city"]
+    }},
+    {
+    "cornette-fuckthatshit": {
+      "tags": ["cornette", "fuck that shit"]
+    }},
+    {
+    "cornette-fuckthatsnake": {
+      "tags": ["cornette", "fuck that snake", "make boots out of him"]
+    }},
+    {
+    "cornette-fuckyou": {
+      "tags": ["cornette", "fuck you", "motherfucker"]
+    }},
+    {
+    "cornette-garlic": {
+      "tags": ["cornette", "garlic"]
+    }},
+    {
+    "cornette-george1": {
+      "tags": ["cornette", "george", "died"]
+    }},
+    {
+    "cornette-goddamn1": {
+      "tags": ["cornette", "goddamn"]
+    }},
+    {
+    "cornette-goddamn2": {
+      "tags": ["cornette", "goddamn"]
+    }},
+    {
+    "cornette-goddamn3": {
+      "tags": ["cornette", "goddamn"]
+    }},
+    {
+    "cornette-goddamn4": {
+      "tags": ["cornette", "goddamn", "conrad"]
+    }},
+    {
+    "cornette-goddamn5": {
+      "tags": ["cornette", "goddamn", "motherfucker"]
+    }},
+    {
+    "cornette-goddamn6": {
+      "tags": ["cornette", "goddamn"]
+    }},
+    {
+    "cornette-goodgooglymoogly": {
+      "tags": ["cornette", "goodgooglymoogly", "conrad"]
+    }},
+    {
+    "cornette-goodlookinggirl": {
+      "tags": ["cornette", "good looking girl", "hes a heel"]
+    }},
+    {
+    "cornette-gottago1": {
+      "tags": ["cornette", "good go now", "motherfucker"]
+    }},
+    {
+    "cornette-gottago2": {
+      "tags": ["cornette", "gotta go"]
+    }},
+    {
+    "cornette-greatestmatch": {
+      "tags": ["cornette", "greatest match"]
+    }},
+    {
+    "cornette-greekgod": {
+      "tags": ["cornette", "3rd generation", "greek god"]
+    }},
+    {
+    "cornette-handcuffkey": {
+      "tags": ["cornette", "handcuff key"]
+    }},
+    {
+    "cornette-hardroll1": {
+      "tags": ["cornette", "hard roll", "soft roll"]
+    }},
+    {
+    "cornette-hardroll2": {
+      "tags": ["cornette", "hard roll"]
+    }},
+    {
+    "cornette-hesaheel1": {
+      "tags": ["cornette", "hes a heel"]
+    }},
+    {
+    "cornette-hesaheel2": {
+      "tags": ["cornette", "hes a heel"]
+    }},
+    {
+    "cornette-hesaheel3": {
+      "tags": ["cornette", "hes a heel"]
+    }},
+    {
+    "cornette-hesaheel4": {
+      "tags": ["cornette", "hes a heel"]
+    }},
+    {
+    "cornette-hesblind": {
+      "tags": ["cornette", "hes blind"]
+    }},
+    {
+    "cornette-heyasshole": {
+      "tags": ["cornette", "hey", "asshole"]
+    }}, 
+    {
+    "cornette-heymotherfucker": {
+      "tags": ["cornette", "hey", "motherfucker"]
+    }},
+    {
+    "cornette-idontknow": {
+      "tags": ["cornette", "i dont know", "what the fuck"]
+    }},
+    {
+    "cornette-itscornie": {
+      "tags": ["cornette", "its cornie"]
+    }},
+    {
+    "cornette-itsucked": {
+      "tags": ["cornette", "it sucked", "goddamnit"]
+    }},
+    {
+    "cornette-jam": {
+      "tags": ["cornette", "jam", "butter", "toast"]
+    }},
+    {
+    "cornette-kelseysnuts1": {
+      "tags": ["cornette", "kelseys nuts"]
+    }},
+    {
+    "cornette-kelseysnuts2": {
+      "tags": ["cornette", "kelseys nuts"]
+    }},
+    {
+    "cornette-kelseysnuts3": {
+      "tags": ["cornette", "kelseys nuts"]
+    }},
+    {
+    "cornette-kennybolin": {
+      "tags": ["cornette", "kenny bolin", "best friend"]
+    }},
+    {
+    "cornette-killinghim": {
+      "tags": ["cornette", "youre killing him"]
+    }},
+    {
+    "cornette-killsomebody": {
+      "tags": ["cornette", "kill somebody"]
+    }},
+    {
+    "cornette-killyou": {
+      "tags": ["cornette", "kill you", "and your son"]
+    }},
+    {
+    "cornette-lickmydick": {
+      "tags": ["cornette", "he can", "lick my dick"]
+    }},
+    {
+    "cornette-light": {
+      "tags": ["cornette", "light", "hurts my eyes"]
+    }},
+    {
+    "cornette-managerofchampions": {
+      "tags": ["cornette", "manager", "of champions", "goddamn"]
+    }},
+    {
+    "cornette-midnightexpress": {
+      "tags": ["cornette", "midnight express", "motherfucker"]
+    }},
+    {
+    "cornette-motherfucker1": {
+      "tags": ["cornette", "motherfucker"]
+    }},
+    {
+    "cornette-motherfucker2": {
+      "tags": ["cornette", "motherfucker"]
+    }},
+    {
+    "cornette-motherfucker3": {
+      "tags": ["cornette", "motherfucker"]
+    }},
+    {
+    "cornette-motherfuckingweek": {
+      "tags": ["cornette", "this", "motherfuckering", "week"]
+    }},
+    {
+    "cornette-myshit1": {
+      "tags": ["cornette", "i dont want", "touching", "my shit"]
+    }},
+    {
+    "cornette-myshit2": {
+      "tags": ["cornette", "touching", "my shit", "conrad"]
+    }},
+    {
+    "cornette-noknivesnoguns": {
+      "tags": ["cornette", "no knives", "no guns", "5000 dollars"]
+    }},
+    {
+    "cornette-pervertprichard": {
+      "tags": ["cornette", "pervert", "bruce prichard"]
+    }},
+    {
+    "cornette-pinkforheels": {
+      "tags": ["cornette", "pink is for heels"]
+    }},
+    {
+    "cornette-platefullpiss1": {
+      "tags": ["cornette", "plate full of piss"]
+    }},
+    {
+    "cornette-platefullpiss2": {
+      "tags": ["cornette", "plate full of piss"]
+    }},
+    {
+    "cornette-platefullpiss3": {
+      "tags": ["cornette", "plate full of piss"]
+    }},
+    {
+    "cornette-powdercantsee": {
+      "tags": ["cornette", "powder", "boom", "cant see"]
+    }},
+    {
+    "cornette-realname": {
+      "tags": ["cornette", "goddamn", "real name"]
+    }},
+    {
+    "cornette-royrogers": {
+      "tags": ["cornette", "roy rogers", "roast beef", "horsey sauce"]
+    }},
+    {
+    "cornette-rubbedmynose": {
+      "tags": ["cornette", "roy rogers", "roast beef", "horsey sauce"]
+    }},
+    {
+    "cornette-seethismatch": {
+      "tags": ["cornette", "wait til you", "see this match"]
+    }},
+    {
+    "cornette-shootmotherfucker": {
+      "tags": ["cornette", "shoot a", "motherfucker", "conrad"]
+    }},
+    {
+    "cornette-showmyface": {
+      "tags": ["cornette", "ill never be able to", "show my face", "again"]
+    }},
+    {
+    "cornette-simple": {
+      "tags": ["cornette", "simple", "goddamn", "conrad"]
+    }},
+    {
+    "cornette-skinyou1": {
+      "tags": ["cornette", "skin you", "kill you", "motherfuckers"]
+    }},
+    {
+    "cornette-skinyou2": {
+      "tags": ["cornette", "skin you", "find out where you sleep"]
+    }},
+    {
+    "cornette-slowdown": {
+      "tags": ["cornette", "slow down", "mistakes", "motherfucker"]
+    }},
+    {
+    "cornette-snake": {
+      "tags": ["cornette", "snake", "jake roberts"]
+    }},
+    {
+    "cornette-spaghetti": {
+      "tags": ["cornette", "kraft", "spaghetti"]
+    }},
+    {
+    "cornette-starving": {
+      "tags": ["cornette", "and im", "starving"]
+    }},
+    {
+    "cornette-steamingturds": {
+      "tags": ["cornette", "steaming", "turds"]
+    }},
+    {
+    "cornette-storm": {
+      "tags": ["cornette", "lance storm", "chris jericho", "thrillseekers"]
+    }},
+    {
+    "cornette-stouffersmacandcheese": {
+      "tags": ["cornette", "stouffers", "mac and cheese"]
+    }},
+    {
+    "cornette-takeyourball": {
+      "tags": ["cornette", "take your ball", "go home to texas", "motherfucker"]
+    }},
+    {
+    "cornette-talktome": {
+      "tags": ["cornette", "talk", "to me"]
+    }},
+    {
+    "cornette-thousanddollars": {
+      "tags": ["cornette", "talk", "to me"]
+    }},
+    {
+    "cornette-thuganomics1": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-thuganomics2": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-thuganomics3": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-thuganomics4": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-thuganomics5": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-thuganomics6": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-thuganomics7": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-thuganomics8": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-thuganomics9": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-thuganomics10": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-thuganomics11": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-thuganomics12": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-thuganomics13": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-thuganomics14": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-thuganomics15": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-thuganomics16": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-thuganomics17": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-thuganomics18": {
+      "tags": ["cornette", "thuganomics", "rapping"]
+    }},
+    {
+    "cornette-triple": {
+      "tags": ["cornette", "triple", "extra cheese", "double onion"]
+    }},
+    {
+    "cornette-trunkfixed": {
+      "tags": ["cornette", "didnt get", "trunk fixed", "reminder"]
+    }},
+    {
+    "cornette-vincerusso": {
+      "tags": ["cornette", "vince russo", "fucked it all up"]
+    }},
+    {
+    "cornette-whatshegonnado": {
+      "tags": ["cornette", "goddamn", "whats he gonna do"]
+    }},
+    {
+    "cornette-whereicomefrom": {
+      "tags": ["cornette", "it is", "where i come from"]
+    }},
+    {
+    "cornette-worldmotherfucker": {
+      "tags": ["cornette", "never be", "part of this world", "motherfucker"]
+    }},
+    {
+    "cornette-wtfhisname": {
+      "tags": ["cornette", "wtf", "is his name"]
+    }},
+    {
+    "cornette-wtfmfers": {
+      "tags": ["cornette", "wtf", "motherfuckers"]
+    }},
+    {
+    "cornette-yankee1": {
+      "tags": ["cornette", "yankee", "motherfucker"]
+    }},
+    {
+    "cornette-yankee2": {
+      "tags": ["cornette", "yankee", "motherfucker", "kill you"]
+    }},
+    {
+    "cornette-yankeefather": {
+      "tags": ["cornette", "yankee father", "motherfucker"]
+    }},
+    {
+    "cornette-yourglovesstink": {
+      "tags": ["cornette", "your gloves", "stink"]
+    }}
+  ],
+  "dusty": [
+    {
+    "dusty-3motherfuckers": {
+      "tags": ["dusty", "three", "of them", "motherfuckers"]
+    }},
+    {
+    "dusty-badasslook": {
+      "tags": ["dusty", "badass", "look"]
+    }},
+    {
+    "dusty-bigboot": {
+      "tags": ["dusty", "somebody", "big boot"]
+    }},
+    {
+    "dusty-bloodandguts": {
+      "tags": ["dusty", "blood and guts", "everywhere"]
+    }},
+    {
+    "dusty-bullropematches": {
+      "tags": ["dusty", "i could forget", "more", "bullrope matches"]
+    }},
+    {
+    "dusty-captivate": {
+      "tags": ["dusty", "captivate", "love"]
+    }},
+    {
+    "dusty-cody": {
+      "tags": ["dusty", "cody", "superstar"]
+    }},
+    {
+    "dusty-compete": {
+      "tags": ["dusty", "compete", "with the dream", "baby"]
+    }},
+    {
+    "dusty-concretepool": {
+      "tags": ["dusty", "concrete pool"]
+    }},
+    {
+    "dusty-cutitoff": {
+      "tags": ["dusty", "cut it off"]
+    }},
+    {
+    "dusty-demons": {
+      "tags": ["dusty", "demons", "funky", "jump down your throat"]
+    }},
+    {
+    "dusty-dontsaywhatyouthinking": {
+      "tags": ["dusty", "pumpkin head", "dont say", "what you thinking"]
+    }},
+    {
+    "dusty-donttalk": {
+      "tags": ["dusty", "dont talk", "about this"]
+    }},
+    {
+    "dusty-dosomething": {
+      "tags": ["dusty", "do something", "with ya"]
+    }},
+    {
+    "dusty-dustymuffler": {
+      "tags": ["dusty", "dusty muffler", "keep that shiznit in"]
+    }},
+    {
+    "dusty-eagleclaw1": {
+      "tags": ["dusty", "eagle claw"]
+    }},
+    {
+    "dusty-eagleclaw2": {
+      "tags": ["dusty", "eagle claw"]
+    }},
+    {
+    "dusty-everybodysdrinking": {
+      "tags": ["dusty", "everybodys drinking", "alochol"]
+    }},
+    {
+    "dusty-fuckedthelobbyup": {
+      "tags": ["dusty", "fucked the", "lobby of the hotel", "up"]
+    }},
+    {
+    "dusty-fuckedup1": {
+      "tags": ["dusty", "fucked up", "beers", "bar"]
+    }},
+    {
+    "dusty-fuckedup2": {
+      "tags": ["dusty", "fucked up", "beers", "bar"]
+    }},
+    {
+    "dusty-fuckinggenius": {
+      "tags": ["dusty", "fucking genius", "i like it"]
+    }},
+    {
+    "dusty-gotanidea1": {
+      "tags": ["dusty", "got an idea"]
+    }},
+    {
+    "dusty-gotanidea2": {
+      "tags": ["dusty", "got an idea", "run by you"]
+    }},
+    {
+    "dusty-gotanidea3": {
+      "tags": ["dusty", "got an idea"]
+    }},
+    {
+    "dusty-greensborojackoff": {
+      "tags": ["dusty", "greensboro", "jackoff", "bruce mitchell"]
+    }},
+    {
+    "dusty-itwasugly": {
+      "tags": ["dusty", "but", "it was ugly"]
+    }},
+    {
+    "dusty-kabuki1": {
+      "tags": ["dusty", "kabuki"]
+    }},
+    {
+    "dusty-kabuki2": {
+      "tags": ["dusty", "kabuki"]
+    }},
+    {
+    "dusty-kabuki3": {
+      "tags": ["dusty", "kabuki"]
+    }},
+    {
+    "dusty-kabuki4": {
+      "tags": ["dusty", "very", "kabuki", "ish", "baby"]
+    }},
+    {
+    "dusty-karate": {
+      "tags": ["dusty", "karate", "kung fu", "shit"]
+    }},
+    {
+    "dusty-magic": {
+      "tags": ["dusty", "it was", "magic"]
+    }},
+    {
+    "dusty-moremoney": {
+      "tags": ["dusty", "big ideas", "more money"]
+    }},
+    {
+    "dusty-mostpopular": {
+      "tags": ["dusty", "most popular", "wrestler", "pwi"]
+    }},
+    {
+    "dusty-mostrecognizable1": {
+      "tags": ["dusty", "second most recognizable", "athelete in the world"]
+    }},
+    {
+    "dusty-mostrecognizable2": {
+      "tags": ["dusty", "second most recognizable", "athelete in the world"]
+    }},
+    {
+    "dusty-mysterious1": {
+      "tags": ["dusty", "mysterious", "shiznit"]
+    }},
+    {
+    "dusty-mysterious2": {
+      "tags": ["dusty", "mysterious"]
+    }},
+    {
+    "dusty-mysterious3": {
+      "tags": ["dusty", "mysterious"]
+    }},
+    {
+    "dusty-mysterious4": {
+      "tags": ["dusty", "mysterious"]
+    }},
+    {
+    "dusty-nastysituation": {
+      "tags": ["dusty", "nasty", "situation"]
+    }},
+    {
+    "dusty-ohbaby": {
+      "tags": ["dusty", "oh baby"]
+    }},
+    {
+    "dusty-oljumbo": {
+      "tags": ["dusty", "ol jumbo"]
+    }},
+    {
+    "dusty-parisianfood": {
+      "tags": ["dusty", "parisian food", "if you will"]
+    }},
+    {
+    "dusty-pepperoni": {
+      "tags": ["dusty", "pepperoni pizza", "pig snout"]
+    }},
+    {
+    "dusty-perfectedthemist": {
+      "tags": ["dusty", "perfected the mist"]
+    }},
+    {
+    "dusty-pickupthephone": {
+      "tags": ["dusty", "baby", "pick up the phone"]
+    }},
+    {
+    "dusty-polkadots": {
+      "tags": ["dusty", "polkadots"]
+    }},
+    {
+    "dusty-pumpkinhead": {
+      "tags": ["dusty", "pumpkinhead"]
+    }},
+    {
+    "dusty-reasonhoganwon": {
+      "tags": ["dusty", "only reason", "hogan won", "new york"]
+    }},
+    {
+    "dusty-seedofthedream": {
+      "tags": ["dusty", "squirted", "nuts", "seed of the american dream"]
+    }},
+    {
+    "dusty-sherrimartel": {
+      "tags": ["dusty", "sherri martel", "nasty"]
+    }},
+    {
+    "dusty-slidemybooty": {
+      "tags": ["dusty", "let me", "slide", "my booty"]
+    }},
+    {
+    "dusty-smileonyourface": {
+      "tags": ["dusty", "little", "smiile", "on your face"]
+    }},
+    {
+    "dusty-stardust": {
+      "tags": ["dusty", "stardust", "fucked up like a monkey"]
+    }},
+    {
+    "dusty-thankyou": {
+      "tags": ["dusty", "thank you", "baby", "darlin"]
+    }},
+    {
+    "dusty-touchhim": {
+      "tags": ["dusty", "touch him", "in way he hasn't been touched"]
+    }},
+    {
+    "dusty-touchthemlights": {
+      "tags": ["dusty", "touch them lights", "burn that", "litte hiney"]
+    }},
+    {
+    "dusty-virgilisoverthere": {
+      "tags": ["dusty", "virgil is over there", "the dream"]
+    }},
+    {
+    "dusty-whichone": {
+      "tags": ["dusty", "you know", "which one"]
+    }}
+  ],
+  "jr": [
+    {
+    "jr-allintheknuckle": {
+      "tags": ["jr", "its all in", "the knuckle"]
+    }},
+    {
+    "jr-bbqsauce": {
+      "tags": ["jr", "bbq", "sauce", "will enhance"]
+    }},
+    {
+    "jr-bigandbad": {
+      "tags": ["jr", "big and bad", "ill tell you one thing"]
+    }},
+    {
+    "jr-bosswants": {
+      "tags": ["jr", "boss wants", "to talk to you"]
+    }},
+    {
+    "jr-canttravel": {
+      "tags": ["jr", "cant travel", "like this"]
+    }},
+    {
+    "jr-cheesegrater": {
+      "tags": ["jr", "cheese grater", "cage"]
+    }},
+    {
+    "jr-deeperthecrotch": {
+      "tags": ["jr", "deeper the crotch", "deeper the slam"]
+    }},
+    {
+    "jr-dontknowbbq": {
+      "tags": ["jr", "they dont know", "bbq"]
+    }},
+    {
+    "jr-drdeath": {
+      "tags": ["jr", "dr death"]
+    }},
+    {
+    "jr-goddamn": {
+      "tags": ["jr", "god damn"]
+    }},
+    {
+    "jr-grabthecrotch": {
+      "tags": ["jr", "grab the crotch", "snatch it"]
+    }},
+    {
+    "jr-hadtopee": {
+      "tags": ["jr", "goddamn", "had to pee"]
+    }},
+    {
+    "jr-heyboy": {
+      "tags": ["jr", "hey boy"]
+    }},
+    {
+    "jr-hhh": {
+      "tags": ["jr", "hunter", "hurst", "helmsley"]
+    }},
+    {
+    "jr-hurr": {
+      "tags": ["jr", "hurr"]
+    }},
+    {
+    "jr-igotkids": {
+      "tags": ["jr", "i got kids", "id like to see them", "again"]
+    }},
+    {
+    "jr-newhold": {
+      "tags": ["jr", "learn a new hold"]
+    }},
+    {
+    "jr-newyorkcity": {
+      "tags": ["jr", "new york city"]
+    }},
+    {
+    "jr-playsfootball": {
+      "tags": ["jr", "plays football", "gotta love him", "goddamn"]
+    }},
+    {
+    "jr-sassafras": {
+      "tags": ["jr", "sassafras"]
+    }},
+    {
+    "jr-slobberknocker": {
+      "tags": ["jr", "slobber knocker"]
+    }},
+    {
+    "jr-steelcage": {
+      "tags": ["jr", "steel cage", "solid"]
+    }},
+    {
+    "jr-stonecold1": {
+      "tags": ["jr", "stone cold"]
+    }},
+    {
+    "jr-stonecold2": {
+      "tags": ["jr", "stone cold"]
+    }},
+    {
+    "jr-surprise": {
+      "tags": ["jr", "we dont like", "surprise"]
+    }},
+    {
+    "jr-utilityplayers": {
+      "tags": ["jr", "theyre", "utilityplayers"]
+    }},
+    {
+    "jr-wearblack": {
+      "tags": ["jr", "why you", "wear black"]
+    }},
+    {
+    "jr-well": {
+      "tags": ["jr", "well"]
+    }},
+    {
+    "jr-wellboss": {
+      "tags": ["jr", "well", "boss"]
+    }},
+    {
+    "jr-wildthing": {
+      "tags": ["jr", "wild thing", "hes referring to"]
+    }},
+    {
+    "jr-wouldntknowarib": {
+      "tags": ["jr", "wouldnt know", "a rib", "a pretzel"]
+    }},
+    {
+    "jr-wrestlemaniadickpic": {
+      "tags": ["jr", "wrestlemania", "dick pic"]
+    }},
+    {
+    "jr-yougottago": {
+      "tags": ["jr", "you gotta go"]
+    }},
+    {
+    "jr-yourpast": {
+      "tags": ["jr", "your past", "dont give a fuck"]
+    }}
+  ],
   "warrior": [
     {
     "warrior-dextrucity1": {
@@ -9384,588 +9990,6 @@
       "tags": ["heyman", "your head", "not my head"]
     }}
   ],
-  "cornette": [
-    {
-    "cornette-5000dollars": {
-      "tags": ["cornette", "5000 dollars", "double cheeseburgers", "kill you"]
-    }},
-    {
-    "cornette-babyfacesandheels1": {
-      "tags": ["cornette", "babyfaces", "heels", "kill each other"]
-    }},
-    {
-    "cornette-babyfacesandheels2": {
-      "tags": ["cornette", "babyfaces", "heels", "thats what they do"]
-    }},
-    {
-    "cornette-babyfacechampion": {
-      "tags": ["cornette", "babyface", "champion"]
-    }},
-    {
-    "cornette-beatmeat": {
-      "tags": ["cornette", "beat meat", "anybody can", "motherfucker"]
-    }},
-    {
-    "cornette-bigbootydaddy": {
-      "tags": ["cornette", "big botty daddy", "scott steiner"]
-    }},
-    {
-    "cornette-booshit": {
-      "tags": ["cornette", "boo the shit out of", "hate him"]
-    }},
-    {
-    "cornette-boxover1": {
-      "tags": ["cornette", "box", "over"]
-    }},
-    {
-    "cornette-boxover2": {
-      "tags": ["cornette", "box", "over"]
-    }},
-    {
-    "cornette-boxover3": {
-      "tags": ["cornette", "box", "over"]
-    }},
-    {
-    "cornette-brooklynbrawler": {
-      "tags": ["cornette", "brooklyn brawler", "drop the belt"]
-    }},
-    {
-    "cornette-bugsbunny": {
-      "tags": ["cornette", "bugs bunny", "looking", "motherfucker"]
-    }},
-    {
-    "cornette-burger": {
-      "tags": ["cornette", "cheeseburger", "double mayo", "double onion"]
-    }},
-    {
-    "cornette-burymeinit": {
-      "tags": ["cornette", "bury me in it", "wtf"]
-    }},
-    {
-    "cornette-cagematch": {
-      "tags": ["cornette", "cage", "keep out", "keep in"]
-    }},
-    {
-    "cornette-canadianbastards": {
-      "tags": ["cornette", "canadian", "bastards", "motherfucker"]
-    }},
-    {
-    "cornette-canadianmotherfucker": {
-      "tags": ["cornette", "goddamn", "canadian", "motherfucker"]
-    }},
-    {
-    "cornette-chainsawcharlie": {
-      "tags": ["cornette", "chainsaw charlie", "terrys idea", "love it"]
-    }},
-    {
-    "cornette-cheesesteak": {
-      "tags": ["cornette", "cheesesteak", "double cheese"]
-    }},
-    {
-    "cornette-chefboyardee": {
-      "tags": ["cornette", "chef boyardee", "perfect meal"]
-    }},
-    {
-    "cornette-chickensalad": {
-      "tags": ["cornette", "goddamn", "chicken salad"]
-    }},
-    {
-    "cornette-cocksucker": {
-      "tags": ["cornette", "cock sucker"]
-    }},
-    {
-    "cornette-deathtube1": {
-      "tags": ["cornette", "death tube"]
-    }},
-    {
-    "cornette-deathtube2": {
-      "tags": ["cornette", "death tube", "gang plank"]
-    }},
-    {
-    "cornette-demolitiontheme": {
-      "tags": ["cornette", "demolition theme", "singing"]
-    }},
-    {
-    "cornette-diaper1": {
-      "tags": ["cornette", "everybody wants to see", "diaper"]
-    }},
-    {
-    "cornette-diaper2": {
-      "tags": ["cornette", "put a", "diaper", "on him"]
-    }},
-    {
-    "cornette-doublecheeseburger1": {
-      "tags": ["cornette", "double cheeseburger", "extra mayonaise"]
-    }},
-    {
-    "cornette-doublecheeseburger2": {
-      "tags": ["cornette", "double cheeseburger", "motherfucker"]
-    }},
-    {
-    "cornette-doublecheesebuttplug": {
-      "tags": ["cornette", "double cheese", "butt plug"]
-    }},
-    {
-    "cornette-doublemayo": {
-      "tags": ["cornette", "double mayo", "motherfucker"]
-    }},
-    {
-    "cornette-doublesatin": {
-      "tags": ["cornette", "double satin", "conrad"]
-    }},
-    {
-    "cornette-doubletitties": {
-      "tags": ["cornette", "double ds", "double titties"]
-    }},
-    {
-    "cornette-downanotch": {
-      "tags": ["cornette", "down a notch", "or two", "motherfucker", "conrad"]
-    }},
-    {
-    "cornette-dudleydoright": {
-      "tags": ["cornette", "dudley do-right", "my shit"]
-    }},
-    {
-    "cornette-fatmotherfucker": {
-      "tags": ["cornette", "fat", "motherfucker", "get off me"]
-    }},
-    {
-    "cornette-fattoo": {
-      "tags": ["cornette", "fuck", "fat too"]
-    }},
-    {
-    "cornette-fightisgreat": {
-      "tags": ["cornette", "fight is great"]
-    }},
-    {
-    "cornette-firethem": {
-      "tags": ["cornette", "fuckers", "fire them", "non-drawing"]
-    }},
-    {
-    "cornette-fuckhim": {
-      "tags": ["cornette", "fuck him", "goddamn"]
-    }},
-    {
-    "cornette-fucknewjersey": {
-      "tags": ["cornette", "fuck new jersey", "fuck atlantic city"]
-    }},
-    {
-    "cornette-fuckthatshit": {
-      "tags": ["cornette", "fuck that shit"]
-    }},
-    {
-    "cornette-fuckthatsnake": {
-      "tags": ["cornette", "fuck that snake", "make boots out of him"]
-    }},
-    {
-    "cornette-fuckyou": {
-      "tags": ["cornette", "fuck you", "motherfucker"]
-    }},
-    {
-    "cornette-garlic": {
-      "tags": ["cornette", "garlic"]
-    }},
-    {
-    "cornette-george1": {
-      "tags": ["cornette", "george", "died"]
-    }},
-    {
-    "cornette-goddamn1": {
-      "tags": ["cornette", "goddamn"]
-    }},
-    {
-    "cornette-goddamn2": {
-      "tags": ["cornette", "goddamn"]
-    }},
-    {
-    "cornette-goddamn3": {
-      "tags": ["cornette", "goddamn"]
-    }},
-    {
-    "cornette-goddamn4": {
-      "tags": ["cornette", "goddamn", "conrad"]
-    }},
-    {
-    "cornette-goddamn5": {
-      "tags": ["cornette", "goddamn", "motherfucker"]
-    }},
-    {
-    "cornette-goddamn6": {
-      "tags": ["cornette", "goddamn"]
-    }},
-    {
-    "cornette-goodgooglymoogly": {
-      "tags": ["cornette", "goodgooglymoogly", "conrad"]
-    }},
-    {
-    "cornette-goodlookinggirl": {
-      "tags": ["cornette", "good looking girl", "hes a heel"]
-    }},
-    {
-    "cornette-gottago1": {
-      "tags": ["cornette", "good go now", "motherfucker"]
-    }},
-    {
-    "cornette-gottago2": {
-      "tags": ["cornette", "gotta go"]
-    }},
-    {
-    "cornette-greatestmatch": {
-      "tags": ["cornette", "greatest match"]
-    }},
-    {
-    "cornette-greekgod": {
-      "tags": ["cornette", "3rd generation", "greek god"]
-    }},
-    {
-    "cornette-handcuffkey": {
-      "tags": ["cornette", "handcuff key"]
-    }},
-    {
-    "cornette-hardroll1": {
-      "tags": ["cornette", "hard roll", "soft roll"]
-    }},
-    {
-    "cornette-hardroll2": {
-      "tags": ["cornette", "hard roll"]
-    }},
-    {
-    "cornette-hesaheel1": {
-      "tags": ["cornette", "hes a heel"]
-    }},
-    {
-    "cornette-hesaheel2": {
-      "tags": ["cornette", "hes a heel"]
-    }},
-    {
-    "cornette-hesaheel3": {
-      "tags": ["cornette", "hes a heel"]
-    }},
-    {
-    "cornette-hesaheel4": {
-      "tags": ["cornette", "hes a heel"]
-    }},
-    {
-    "cornette-hesblind": {
-      "tags": ["cornette", "hes blind"]
-    }},
-    {
-    "cornette-heyasshole": {
-      "tags": ["cornette", "hey", "asshole"]
-    }}, 
-    {
-    "cornette-heymotherfucker": {
-      "tags": ["cornette", "hey", "motherfucker"]
-    }},
-    {
-    "cornette-idontknow": {
-      "tags": ["cornette", "i dont know", "what the fuck"]
-    }},
-    {
-    "cornette-itscornie": {
-      "tags": ["cornette", "its cornie"]
-    }},
-    {
-    "cornette-itsucked": {
-      "tags": ["cornette", "it sucked", "goddamnit"]
-    }},
-    {
-    "cornette-jam": {
-      "tags": ["cornette", "jam", "butter", "toast"]
-    }},
-    {
-    "cornette-kelseysnuts1": {
-      "tags": ["cornette", "kelseys nuts"]
-    }},
-    {
-    "cornette-kelseysnuts2": {
-      "tags": ["cornette", "kelseys nuts"]
-    }},
-    {
-    "cornette-kelseysnuts3": {
-      "tags": ["cornette", "kelseys nuts"]
-    }},
-    {
-    "cornette-kennybolin": {
-      "tags": ["cornette", "kenny bolin", "best friend"]
-    }},
-    {
-    "cornette-killinghim": {
-      "tags": ["cornette", "youre killing him"]
-    }},
-    {
-    "cornette-killsomebody": {
-      "tags": ["cornette", "kill somebody"]
-    }},
-    {
-    "cornette-killyou": {
-      "tags": ["cornette", "kill you", "and your son"]
-    }},
-    {
-    "cornette-lickmydick": {
-      "tags": ["cornette", "he can", "lick my dick"]
-    }},
-    {
-    "cornette-light": {
-      "tags": ["cornette", "light", "hurts my eyes"]
-    }},
-    {
-    "cornette-managerofchampions": {
-      "tags": ["cornette", "manager", "of champions", "goddamn"]
-    }},
-    {
-    "cornette-midnightexpress": {
-      "tags": ["cornette", "midnight express", "motherfucker"]
-    }},
-    {
-    "cornette-motherfucker1": {
-      "tags": ["cornette", "motherfucker"]
-    }},
-    {
-    "cornette-motherfucker2": {
-      "tags": ["cornette", "motherfucker"]
-    }},
-    {
-    "cornette-motherfucker3": {
-      "tags": ["cornette", "motherfucker"]
-    }},
-    {
-    "cornette-motherfuckingweek": {
-      "tags": ["cornette", "this", "motherfuckering", "week"]
-    }},
-    {
-    "cornette-myshit1": {
-      "tags": ["cornette", "i dont want", "touching", "my shit"]
-    }},
-    {
-    "cornette-myshit2": {
-      "tags": ["cornette", "touching", "my shit", "conrad"]
-    }},
-    {
-    "cornette-noknivesnoguns": {
-      "tags": ["cornette", "no knives", "no guns", "5000 dollars"]
-    }},
-    {
-    "cornette-pervertprichard": {
-      "tags": ["cornette", "pervert", "bruce prichard"]
-    }},
-    {
-    "cornette-pinkforheels": {
-      "tags": ["cornette", "pink is for heels"]
-    }},
-    {
-    "cornette-platefullpiss1": {
-      "tags": ["cornette", "plate full of piss"]
-    }},
-    {
-    "cornette-platefullpiss2": {
-      "tags": ["cornette", "plate full of piss"]
-    }},
-    {
-    "cornette-platefullpiss3": {
-      "tags": ["cornette", "plate full of piss"]
-    }},
-    {
-    "cornette-powdercantsee": {
-      "tags": ["cornette", "powder", "boom", "cant see"]
-    }},
-    {
-    "cornette-realname": {
-      "tags": ["cornette", "goddamn", "real name"]
-    }},
-    {
-    "cornette-royrogers": {
-      "tags": ["cornette", "roy rogers", "roast beef", "horsey sauce"]
-    }},
-    {
-    "cornette-rubbedmynose": {
-      "tags": ["cornette", "roy rogers", "roast beef", "horsey sauce"]
-    }},
-    {
-    "cornette-seethismatch": {
-      "tags": ["cornette", "wait til you", "see this match"]
-    }},
-    {
-    "cornette-shootmotherfucker": {
-      "tags": ["cornette", "shoot a", "motherfucker", "conrad"]
-    }},
-    {
-    "cornette-showmyface": {
-      "tags": ["cornette", "ill never be able to", "show my face", "again"]
-    }},
-    {
-    "cornette-simple": {
-      "tags": ["cornette", "simple", "goddamn", "conrad"]
-    }},
-    {
-    "cornette-skinyou1": {
-      "tags": ["cornette", "skin you", "kill you", "motherfuckers"]
-    }},
-    {
-    "cornette-skinyou2": {
-      "tags": ["cornette", "skin you", "find out where you sleep"]
-    }},
-    {
-    "cornette-slowdown": {
-      "tags": ["cornette", "slow down", "mistakes", "motherfucker"]
-    }},
-    {
-    "cornette-snake": {
-      "tags": ["cornette", "snake", "jake roberts"]
-    }},
-    {
-    "cornette-spaghetti": {
-      "tags": ["cornette", "kraft", "spaghetti"]
-    }},
-    {
-    "cornette-starving": {
-      "tags": ["cornette", "and im", "starving"]
-    }},
-    {
-    "cornette-steamingturds": {
-      "tags": ["cornette", "steaming", "turds"]
-    }},
-    {
-    "cornette-storm": {
-      "tags": ["cornette", "lance storm", "chris jericho", "thrillseekers"]
-    }},
-    {
-    "cornette-stouffersmacandcheese": {
-      "tags": ["cornette", "stouffers", "mac and cheese"]
-    }},
-    {
-    "cornette-takeyourball": {
-      "tags": ["cornette", "take your ball", "go home to texas", "motherfucker"]
-    }},
-    {
-    "cornette-talktome": {
-      "tags": ["cornette", "talk", "to me"]
-    }},
-    {
-    "cornette-thousanddollars": {
-      "tags": ["cornette", "talk", "to me"]
-    }},
-    {
-    "cornette-thuganomics1": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-thuganomics2": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-thuganomics3": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-thuganomics4": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-thuganomics5": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-thuganomics6": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-thuganomics7": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-thuganomics8": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-thuganomics9": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-thuganomics10": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-thuganomics11": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-thuganomics12": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-thuganomics13": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-thuganomics14": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-thuganomics15": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-thuganomics16": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-thuganomics17": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-thuganomics18": {
-      "tags": ["cornette", "thuganomics", "rapping"]
-    }},
-    {
-    "cornette-triple": {
-      "tags": ["cornette", "triple", "extra cheese", "double onion"]
-    }},
-    {
-    "cornette-trunkfixed": {
-      "tags": ["cornette", "didnt get", "trunk fixed", "reminder"]
-    }},
-    {
-    "cornette-vincerusso": {
-      "tags": ["cornette", "vince russo", "fucked it all up"]
-    }},
-    {
-    "cornette-whatshegonnado": {
-      "tags": ["cornette", "goddamn", "whats he gonna do"]
-    }},
-    {
-    "cornette-whereicomefrom": {
-      "tags": ["cornette", "it is", "where i come from"]
-    }},
-    {
-    "cornette-worldmotherfucker": {
-      "tags": ["cornette", "never be", "part of this world", "motherfucker"]
-    }},
-    {
-    "cornette-wtfhisname": {
-      "tags": ["cornette", "wtf", "is his name"]
-    }},
-    {
-    "cornette-wtfmfers": {
-      "tags": ["cornette", "wtf", "motherfuckers"]
-    }},
-    {
-    "cornette-yankee1": {
-      "tags": ["cornette", "yankee", "motherfucker"]
-    }},
-    {
-    "cornette-yankee2": {
-      "tags": ["cornette", "yankee", "motherfucker", "kill you"]
-    }},
-    {
-    "cornette-yankeefather": {
-      "tags": ["cornette", "yankee father", "motherfucker"]
-    }},
-    {
-    "cornette-yourglovesstink": {
-      "tags": ["cornette", "your gloves", "stink"]
-    }}
-  ],
   "andre": [
     {
     "andre-14vodkasodas": {
@@ -9994,6 +10018,10 @@
     {
     "andre-brotherlove2": {
       "tags": ["andre", "brother love", "i dont like"]
+    }},
+    {
+    "andre-drinkbottles": {
+      "tags": ["andre", "drink bottles"]
     }},
     {
     "andre-goodforhim": {
@@ -11312,6 +11340,10 @@
     {
     "patterson-battleroyal": {
       "tags": ["patterson", "battle royal", "in reverse"]
+    }},
+    {
+    "patterson-brainbusters": {
+      "tags": ["patterson", "brain busters", "rockers"]
     }},
     {
     "patterson-brethair": {
