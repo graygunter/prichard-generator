@@ -1644,6 +1644,10 @@
       "tags": ["bruce", "lita", "superstar"]
     }},
     {
+    "bruce-littlepricks": {
+      "tags": ["bruce", "little pricks", "cocky", "arrogant"]
+    }},
+    {
     "bruce-littlesecret": {
       "tags": ["bruce", "little secret"]
     }},
@@ -1832,8 +1836,12 @@
       "tags": ["bruce", "never checked out", "mothers", "underwear drawer"]
     }},
     {
-    "bruce-mullet": {
+    "bruce-mullet1": {
       "tags": ["bruce", "first of all", "mullet", "all one length"]
+    }},
+    {
+    "bruce-mullet2": {
+      "tags": ["bruce", "okay", "i had a", "mullet", "but still"]
     }},
     {
     "bruce-murder": {
@@ -2730,6 +2738,10 @@
     {
     "bruce-thefabulousmoolah": {
       "tags": ["bruce", "the fabulous moolah", "superstar", "by god"]
+    }},
+    {
+    "bruce-thenewrockers": {
+      "tags": ["bruce", "the new rockers", "superstar", "the best"]
     }},
     {
     "bruce-theinternet": {
@@ -4368,6 +4380,10 @@
     {
     "conrad-getyourtickets": {
       "tags": ["conrad", "ticket", "not a rib dot com"]
+    }},
+    {
+    "conrad-ghb": {
+      "tags": ["conrad", "ghb", "in the wwf"]
     }},
     {
     "conrad-girlsgonewild": {
@@ -6244,6 +6260,10 @@
     {
     "conrad-talktoyouinamonth": {
       "tags": ["conrad", "fuck you", "havent", "talked to you in a month"]
+    }},
+    {
+    "conrad-tangledup": {
+      "tags": ["conrad", "tangled up", "fucking", "bruce"]
     }},
     {
     "conrad-tastelesscomedy": {

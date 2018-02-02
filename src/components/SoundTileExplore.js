@@ -37,11 +37,9 @@ class SoundTileExplore extends Component {
 
   }
 
-  filterByTags(tile) {
+  filterByTags (tile) {
 
-    //console.log(tile);
-
-    let dontFilter = true;
+    let hideFile = false;
 
     if(this.state.filterInput !== '' && this.state.filterInput !== 'Filter by tag') {
 
@@ -49,14 +47,24 @@ class SoundTileExplore extends Component {
 
         let currentTags = tile[fileName]["tags"];
 
-        if(!currentTags.includes(this.state.filterInput))
-          dontFilter = false;
+        for(let i = 0; i < currentTags.length; i++) {
+
+          //console.log(currentTags[i] + " / " + this.state.filterInput));
+          if(currentTags[i].indexOf(this.state.filterInput) > -1)
+            hideFile = true;
+
+        }
 
       }
 
     }
+    else {
 
-    if(dontFilter)
+      hideFile = true;
+
+    }
+
+    if(hideFile)
       return tile
 
   }
@@ -105,7 +113,7 @@ class SoundTileExplore extends Component {
 
     let iconPath = "url(\"" + require(`../imgs/icons/icon_${this.props.exploreTitle}.svg`) + "\")";
 
-    let audioClipsString = "audio clip";
+    let audioClipsString = "audio file";
 
     if(this.props.tileData.length > 1)
       audioClipsString += "s";
