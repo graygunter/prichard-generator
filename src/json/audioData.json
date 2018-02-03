@@ -71,6 +71,10 @@
       "tags": ["bruce", "again"]
     }},
     {
+    "bruce-aggression": {
+      "tags": ["bruce", "aggression", "violence"]
+    }},
+    {
     "bruce-alotofblood": {
       "tags": ["bruce", "it was", "a lot of", "blood"]
     }},
@@ -2374,6 +2378,10 @@
     {
     "bruce-segueway": {
       "tags": ["bruce", "segueway"]
+    }},
+    {
+    "bruce-sexappeal": {
+      "tags": ["bruce", "sex appeal", "tna"]
     }},
     {
     "bruce-seniormoment": {
@@ -5618,6 +5626,10 @@
       "tags": ["conrad", "pronouns pal"]
     }},
     {
+    "conrad-pronounspal4": {
+      "tags": ["conrad", "pronouns pal"]
+    }},
+    {
     "conrad-prop": {
       "tags": ["conrad", "prop"]
     }},
@@ -6410,7 +6422,7 @@
       "tags": ["conrad", "terry", "invitational", "tournament"]
     }},
     {
-    "conrad-tit": {
+    "conrad-titosantana": {
       "tags": ["conrad", "tito santana", "superstar"]
     }},
     {

@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
 
-var backgroundDataLocal = [];
+let backgroundDataLocal = [];
 
-var masterBackgroundDiv = undefined;
+let masterBackgroundDiv = undefined;
+
+let timer = undefined;
 
 class BackgroundHolder extends Component {
 
@@ -24,6 +26,8 @@ class BackgroundHolder extends Component {
 
   resetBackgroundData() {
 
+    //console.log("resetBackgroundData");
+
     backgroundDataLocal = this.props.backgroundData.map(
 
       function(background) {
@@ -36,7 +40,7 @@ class BackgroundHolder extends Component {
 
   createBackgroundChildDivs() {
 
-    console.log("createBackgroundChildDivs");
+    //console.log("createBackgroundChildDivs");
 
     masterBackgroundDiv = document.getElementsByClassName("background-holder");
 
@@ -45,11 +49,13 @@ class BackgroundHolder extends Component {
     this.setBackground();
     this.setBackground();
 
-    setInterval(this.changeBackground, 6000);
+    timer = setInterval(this.changeBackground, 6000);
 
   }
 
   setBackground() {
+
+    //console.log("setBackground");
 
     let childDiv = document.createElement('div');
 
@@ -73,6 +79,8 @@ class BackgroundHolder extends Component {
 
   removeTransition(e) {
 
+    //console.log("removeTransition");
+
     masterBackgroundDiv.removeChild(e.target);
 
     this.setBackground();
@@ -81,7 +89,7 @@ class BackgroundHolder extends Component {
 
   changeBackground() {
 
-    clearInterval(this.changeBackground);
+    //console.log("changeBackground");
 
     let divToFade = masterBackgroundDiv.querySelector('div:nth-child(2)');
 
@@ -112,7 +120,9 @@ class BackgroundHolder extends Component {
 
   componentWillUnmount() {
 
-    clearInterval(this.changeBackground);
+    //console.log("Background Holder componentWillUnmount");
+
+    clearInterval(timer);
 
   }
 
