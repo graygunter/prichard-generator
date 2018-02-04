@@ -487,6 +487,10 @@
       "tags": ["bruce", "jim cornette", "doing me"]
     }},
     {
+    "bruce-cornettepromo": {
+      "tags": ["bruce", "jim cornette", "best promo", "in the business"]
+    }},
+    {
     "bruce-cornettesasshole": {
       "tags": ["bruce", "jim cornette", "asshole", "puckered"]
     }},
@@ -1990,6 +1994,10 @@
     {
     "bruce-numbtoshit": {
       "tags": ["bruce", "you become", "numb to shit"]
+    }},
+    {
+    "bruce-nwashit": {
+      "tags": ["bruce", "nwa", "shit"]
     }},
     {
     "bruce-offthechizart": {
@@ -5294,6 +5302,10 @@
       "tags": ["conrad", "more to this"]
     }},
     {
+    "conrad-mortgageguy": {
+      "tags": ["conrad", "mortgage guy", "dont know", "what im talking about"]
+    }},
+    {
     "conrad-motherfuckeryes": {
       "tags": ["conrad", "motherfucker", "yes"]
     }},
@@ -5372,6 +5384,10 @@
     {
     "conrad-nocomment": {
       "tags": ["conrad", "no comment"]
+    }},
+    {
+    "conrad-nonanswer": {
+      "tags": ["conrad", "thanks for", "nonanswer"]
     }},
     {
     "conrad-notanopinion": {
@@ -8798,6 +8814,10 @@
       "tags": ["cornette", "goddamn", "real name"]
     }},
     {
+    "cornette-riotsquad": {
+      "tags": ["cornette", "riot squad", "fucking", "awesome"]
+    }},
+    {
     "cornette-royrogers": {
       "tags": ["cornette", "roy rogers", "roast beef", "horsey sauce"]
     }},
@@ -9300,6 +9320,10 @@
     {
     "jr-igotkids": {
       "tags": ["jr", "i got kids", "id like to see them", "again"]
+    }},
+    {
+    "jr-jimcornette": {
+      "tags": ["jr", "jim cornette", "stain", "underwear"]
     }},
     {
     "jr-newhold": {
@@ -11568,6 +11592,10 @@
       "tags": ["johnnyace", "you think", "people will", "believe that"]
     }},
     {
+    "johnnyace-businessman": {
+      "tags": ["johnnyace", "business man", "wrestling business"]
+    }},
+    {
     "johnnyace-cmpunk": {
       "tags": ["johnnyace", "cm punk", "superstar"]
     }},
@@ -11998,6 +12026,10 @@
     }}
   ],
   "rus": [
+    {
+    "rus-caskets": {
+      "tags": ["rus", "caskets"]
+    }},
     {
     "rus-confetti": {
       "tags": ["rus", "confetti"]

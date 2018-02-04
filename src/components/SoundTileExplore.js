@@ -113,7 +113,7 @@ class SoundTileExplore extends Component {
 
     let iconPath = "url(\"" + require(`../imgs/icons/icon_${this.props.exploreTitle}.svg`) + "\")";
 
-    let audioClipsString = "audio file";
+    let audioClipsString = "audio clip";
 
     if(this.props.tileData.length > 1)
       audioClipsString += "s";

@@ -111,6 +111,27 @@ body {
     background: url("../imgs/logo-light.jpg") no-repeat center fixed #fff;
     background-size: 50%;
     padding-top: 5%; }
+    body.about-screen .author-photo {
+      float: right;
+      margin-left: 5%;
+      width: 125px; }
+      body.about-screen .author-photo img {
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        border-radius: 50%;
+        border: 5px solid black;
+        display: block;
+        height: 100px;
+        margin: 0 auto;
+        width: 100px; }
+      body.about-screen .author-photo p {
+        font-size: 1rem;
+        font-weight: bold;
+        line-height: 1.1rem;
+        text-align: center; }
+        body.about-screen .author-photo p span {
+          display: block; }
   body button {
     border: none;
     color: #fff;
@@ -141,7 +162,7 @@ body {
   body p {
     font-size: 1.75rem;
     line-height: 2.5rem;
-    margin-bottom: 3%; }
+    margin-bottom: 5%; }
   body a {
     color: #ff0033; }
     body a:hover {
