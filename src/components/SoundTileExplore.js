@@ -122,28 +122,19 @@ class SoundTileExplore extends Component {
 
       <div className="sound-tile-explore">
 
-        <div className="left-column">
-
-          <h1 className="title">
-            Something to Generate
-            Something to Wrestle with
-            Bruce Prichard
-          </h1>
+        <div className="top-bar">
 
           <div className="explore-info">
-
-            <h5>Now exploring the category: </h5>
-
-            <h3
-                className={this.props.exploreTitle.length > 10 ? "small" : null}
-                >{this.props.exploreTitle}</h3>
 
             <div 
                   className="icon"
                   style={{backgroundImage: iconPath}}>    
             </div>
 
-            <h4><span>{this.props.tileData.length}</span> {audioClipsString}</h4>
+            <div className="category-and-clips">
+              <h4>Category: <span>{this.props.exploreTitle}</span></h4>
+              <h4><span>{this.props.tileData.length}</span> {audioClipsString}</h4>
+            </div>
 
             <input  type="text"
                     onBlur={this.onBlur.bind(this)}
