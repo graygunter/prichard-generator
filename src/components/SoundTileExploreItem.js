@@ -45,24 +45,28 @@ class SoundTileExploreItem extends Component {
             {this.props.itemName}
           </div>
 
+          <div className="explore-buttons">
+
+            <button 
+                    className="explore-item-play"
+                    onClick={() => this.props.handleSoundPlay(this.props.exploreTitle + "-" + this.props.itemName)}>
+              <i className="fa fa-play" aria-hidden="true"></i>
+            </button>
+
+            <button 
+                    className="sound-tile-add"
+                    onClick={() => this.props.addToSoundQue((this.props.exploreTitle, this.props.exploreTitle + "-" + this.props.itemName))}
+                    title="Add to Sound Que">
+                      <i className="fa fa-plus" aria-hidden="true"></i>
+            </button>
+
+          </div>
+
         </div>
 
         <div className="explore-item-tags">
 
           {this.buildTags()}
-
-          <button 
-                  className="explore-item-play"
-                  onClick={() => this.props.handleSoundPlay(this.props.exploreTitle + "-" + this.props.itemName)}>
-            <i className="fa fa-play" aria-hidden="true"></i>
-          </button>
-
-          <button 
-                  className="sound-tile-add"
-                  onClick={() => this.props.addToSoundQue((this.props.exploreTitle, this.props.exploreTitle + "-" + this.props.itemName))}
-                  title="Add to Sound Que">
-                    <i className="fa fa-plus" aria-hidden="true"></i>
-          </button>
 
         </div>
 

@@ -29,6 +29,14 @@ class AboutScreen extends Component {
           </p>
 
           <h2>
+            Huhhh?
+          </h2>
+
+          <h2>
+            Chat me up
+          </h2>
+
+          <h2>
             Who wrote this shit?
           </h2>
 
@@ -47,6 +55,8 @@ class AboutScreen extends Component {
           <p>
             STGSTW was created by <a href="http://twitter.com/graygunter" target="_blank">Gray Gunter</a> a web designer and developer in Columbia, SC who loves wrasslin and Something to Wrestle. You can see other professional projects Gray has worked on at <a href="http://graybearllc.com/work.html" target="_blank">Graybear LLC</a> and his personal projects at <a href="http://graygunter.com" target="_blank">Gray Gunter dot com</a>.
           </p>
+
+
 
         </div>
 

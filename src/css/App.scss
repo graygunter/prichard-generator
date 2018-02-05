@@ -632,78 +632,82 @@ body {
 
 }
 
-.sound-tile-explore {
+.sound-queue-and-sound-tile-explore {
 
-  .left-column {
+  .sound-tile-explore {
 
-    .explore-info {
+    .left-column {
 
-      padding-top: 3%;
-      text-align: center;
+      .explore-info {
 
-      .icon {
+        padding-top: 3%;
+        text-align: center;
 
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: contain;
-        display: block;
-        height: 200px;
-        margin: 1% auto 1%;
-        width: 100%;
+        .icon {
 
-      }
-
-      h3 {
-
-        font-size: 3rem;
-        font-weight: 700;
-        text-transform: uppercase;
-
-        &.small {
-
-          font-size: 2rem;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: contain;
+          display: block;
+          height: 200px;
+          margin: 1% auto 1%;
+          width: 100%;
 
         }
 
-      }
+        h3 {
 
-      h4 {
+          font-size: 3rem;
+          font-weight: 700;
+          text-transform: uppercase;
 
-        font-size: 2rem;
-        margin-bottom: 10%;
+          &.small {
 
-      }
+            font-size: 2rem;
 
-      h5 {
+          }
 
-        font-size: 1.25rem;
-        margin-bottom: 5%;
+        }
 
-      }
+        h4 {
 
-      span {
+          font-size: 2rem;
+          margin-bottom: 10%;
 
-        color: $red;
-        font-weight: 700;
+        }
 
-      }
+        h5 {
 
-      input {
-        
-        @include border-radius(10px);
-        -webkit-appearance: none;
-        border: 2px solid $blue;
-        -webkit-box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
-        box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
-        font-family: 'Oswald', sans-serif;
-        font-size: 1.25rem;
-        font-weight: 300;
-        outline: none;
-        padding: 2% 5%;
+          font-size: 1.25rem;
+          margin-bottom: 5%;
 
-        &:focus {
+        }
 
-          border-color: $green;
+        span {
+
+          color: $red;
+          font-weight: 700;
+
+        }
+
+        input {
+          
+          @include border-radius(10px);
+          -webkit-appearance: none;
+          border: 2px solid $blue;
+          -webkit-box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
+          box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
+          font-family: 'Oswald', sans-serif;
+          font-size: 1.25rem;
+          font-weight: 300;
+          outline: none;
+          padding: 2% 5%;
+
+          &:focus {
+
+            border-color: $green;
+
+          }
 
         }
 
@@ -711,93 +715,92 @@ body {
 
     }
 
-  }
-
-  .explore-items {
-
-    box-sizing: border-box;
-    height: 100%;
-    padding: 5% 0 0 0;
-    position: absolute;
-    right: 0;
-    top: 0;
-    width: 80%;
-    z-index: 1;
-
-    .explore-item {
+    .explore-items {
 
       box-sizing: border-box;
-      display: inline-block;
-      padding: 1% 1% 2% 2%;
-      position: relative;
-      width: 33.333%;
+      height: 100%;
+      padding: 5% 0 0 0;
+      position: absolute;
+      right: 0;
+      top: 0;
+      width: 80%;
+      z-index: 1;
 
-      &:nth-child(odd) {
+      .explore-item {
 
-        border: 1px solid rgba(0,0,0,.3);
+        box-sizing: border-box;
+        display: inline-block;
+        padding: 1% 1% 2% 2%;
+        position: relative;
+        width: 33.333%;
 
-      }
+        &:nth-child(odd) {
 
-      &:nth-child(even) {
+          border: 1px solid rgba(0,0,0,.3);
 
-        background-color: $blue-light;
-        border: 1px solid $blue;
-
-      }
-
-      .sound-tile-add {
-      
-        background-color: $green;
-      
-      }
-
-      .explore-item-name-and-button {
-
-        @extend %clearfix;
-        font-size: 2rem;
-        margin-bottom: 6%;
-
-        .explore-item-name {
-          float: left;
         }
 
-      }
+        &:nth-child(even) {
 
-      .explore-item-tags {
+          background-color: $blue-light;
+          border: 1px solid $blue;
 
-        display: flex;
-        font-size: 1rem;
-
-        .tag {
-
-          color: #666;
-          display: block;
-          margin-right: 5px;
-          line-height: 2.3rem;
-          
         }
 
-        button {
+        .explore-buttons {
 
-          @include border-radius(50%);
-          background: none;
-          background-color: $green;
-          box-shadow: 1px 1px 5px rgba(0,0,0,0.3);
-          display: block;
-          height: 30px;
-          margin-left: 5px;
-          width: 30px;
+          display: flex;
+          position: absolute;
+          right: 10px;
+          top: 10px;
 
-          &.explore-item-play {
+          button {
 
-            background-color: $blue;
+            @include border-radius(50%);
+            background: none;
+            background-color: $green;
+            box-shadow: 1px 1px 5px rgba(0,0,0,0.3);
+            display: block;
+            height: 30px;
+            margin-left: 5px;
+            width: 30px;
+
+            &.explore-item-play {
+
+              background-color: $blue;
+
+            }
+
+            &:hover {
+
+              box-shadow: none;
+
+            }
 
           }
 
-          &:hover {
+        }
 
-            box-shadow: none;
+        .explore-item-name-and-button {
 
+          @extend %clearfix;
+          font-size: 2rem;
+          margin-bottom: 6%;
+
+        }
+
+        .explore-item-tags {
+
+          display: flex;
+          font-size: 1rem;
+
+          .tag {
+
+            color: #666;
+            display: block;
+            margin-right: 5px;
+            line-height: 2.3rem;
+            
           }
 
         }

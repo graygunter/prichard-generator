@@ -288,14 +288,26 @@ class App extends Component {
 
   showSoundTileExplore() {
 
+    console.log("showSoundTileExplore");
+
     return (
 
-      <SoundTileExplore 
-                        addToSoundQue={this.addToSoundQue}
-                        exploreTitle={this.state.soundTileToExplore}
-                        handleBackClick={this.handleBackClick}
-                        handleSoundPlay={this.handleSoundPlay}
-                        tileData={audioData[this.state.soundTileToExplore]}/>
+        <div className="sound-queue-and-sound-tile-explore">
+
+          <SoundQueue
+                      playSoundQueue={this.playSoundQueue}
+                      resetSoundQueue={this.resetSoundQueue}
+                      removeSoundQueueTile={this.removeSoundQueueTile}
+                      soundQueuesArray={this.state.soundQueuesArray}/>
+
+          <SoundTileExplore 
+                            addToSoundQue={this.addToSoundQue}
+                            exploreTitle={this.state.soundTileToExplore}
+                            handleBackClick={this.handleBackClick}
+                            handleSoundPlay={this.handleSoundPlay}
+                            tileData={audioData[this.state.soundTileToExplore]}/>
+
+        </div>
 
     );
 
