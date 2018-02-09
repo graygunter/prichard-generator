@@ -541,7 +541,8 @@ body {
       .sound-queue-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-item-tags .tag {
         color: #666;
         display: block;
+        line-height: 2.3rem;
         margin-right: 5px;
-        line-height: 2.3rem; }
+        white-space: nowrap; }
 
 /*# sourceMappingURL=App.css.map */
