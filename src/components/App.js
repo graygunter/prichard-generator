@@ -70,9 +70,9 @@ class App extends Component {
 
       soundTileBeingDragged: undefined,
 
-      soundQueuesArray: [],
+      //soundQueuesArray: [],
 
-      //soundQueuesArray: ["mlw-production", "conrad-stw3", "conrad-bruceprichard1", "conrad-brucewhatsgoingon", "bruce-fatwhiteguy", "conrad-dontgethot", "bruce-imhot", "conrad-coolstory2", "bruce-stupidquestions", "conrad-fuckingchase", "conrad-stopreading", "bruce-fuckoffpolitely", "conrad-fuckingdone", "conrad-rollcredits2", "mlw-neverstops"],
+      soundQueuesArray: ["mlw-production", "conrad-stw3", "conrad-bruceprichard1", "conrad-brucewhatsgoingon", "bruce-fatwhiteguy", "conrad-dontgethot", "bruce-imhot", "conrad-coolstory2", "bruce-stupidquestions", "conrad-fuckingchase", "conrad-stopreading", "bruce-fuckoffpolitely", "conrad-fuckingdone", "conrad-rollcredits2", "mlw-neverstops"],
 
       //soundQueuesArray: ["savage-heybrother1", "savage-firstnamelastname2", "savage-getcrazy", "savage-ilikeit", "savage-yeahbrother"],
 
@@ -273,11 +273,17 @@ class App extends Component {
 
   showAboutScreen() {
 
+    let categories = 0;
+
+    for(let category in audioData)
+      categories++;
+
     return (
 
       <div>
 
-        <AboutScreen 
+        <AboutScreen  
+                      numCategories={categories}
                       handleBackClick={this.handleBackClick}/>
 
       </div>

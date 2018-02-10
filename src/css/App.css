@@ -60,7 +60,7 @@ body .intro-screen .inner-container button .inner-text, .about-button .inner-tex
   text-transform: uppercase;
   width: 100%; }
 
-.left-column .sound-queue-tiles .sound-queue-tile:after, .sound-queue-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-item-name-and-button:after {
+body.about-screen .about-instructions li:after, .left-column .sound-queue-tiles .sound-queue-tile:after, .sound-queue-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-item-name-and-button:after {
   content: "";
   display: table;
   clear: both; }
@@ -111,6 +111,25 @@ body {
     background: url("../imgs/logo-light.jpg") no-repeat center fixed #fff;
     background-size: 50%;
     padding-top: 5%; }
+    body.about-screen .about-instructions li {
+      margin-bottom: 5%; }
+      body.about-screen .about-instructions li img {
+        border: 5px solid black;
+        box-sizing: border-box;
+        width: 20%; }
+      body.about-screen .about-instructions li:nth-child(odd) img {
+        float: left;
+        margin-right: 5%; }
+      body.about-screen .about-instructions li:nth-child(even) img {
+        float: right;
+        margin-left: 5%; }
+      body.about-screen .about-instructions li.explore-screen img {
+        margin: 0 0 3% 0;
+        width: 100%; }
+      body.about-screen .about-instructions li.audio-clip img {
+        width: 40%; }
+      body.about-screen .about-instructions li.sound-queue img {
+        width: 30%; }
     body.about-screen .author-photo {
       float: right;
       margin-left: 5%;

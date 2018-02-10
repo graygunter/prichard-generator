@@ -4,8 +4,8 @@ class IntroScreen extends Component {
 
   render() {
 
-    var categories = 0;
-    var files = 0;
+    let categories = 0;
+    let files = 0;
 
     for(let category in this.props.audioData) {
 

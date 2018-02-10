@@ -3,7 +3,6 @@ import React, { Component } from 'react';
 
 class AboutScreen extends Component {
 
-
   render() {
     return (
       <div className="about-screen">
@@ -32,9 +31,59 @@ class AboutScreen extends Component {
             Huhhh?
           </h2>
 
-          <h2>
-            Chat me up
-          </h2>
+          <ul className="about-instructions">
+
+            <li className="random-button">
+              <img 
+                    alt="Random button"
+                    src={require(`../imgs/instructions/random_button.gif`)} />
+
+              <p>
+                Click the <strong>random button</strong> on any of the <strong>{this.props.numCategories} categories</strong> to hear a random audio clip from that category. In this example we're about to play a random audio clip from the category <strong>Vince</strong>. But the fun doesn’t stop there...
+              </p>
+            </li>
+
+            <li className="explore-button">
+              <img 
+                    alt="Explore button"
+                    src={require(`../imgs/instructions/explore_button.gif`)} />
+
+              <p>
+                Click the <strong>explore button</strong> on a category to view every single audio clip associated with the category. In this example we're about to explore the category <strong>Baby Tonight</strong>.
+              </p>
+            </li>
+
+            <li className="explore-screen">
+              <img 
+                    alt="Explore screen"
+                    src={require(`../imgs/instructions/explore_screen.gif`)} />
+
+              <p>
+                Clicking the <strong>explore button</strong> brings up the <strong>explore screen</strong> a listing of every single audio clip in the category. Scroll to the bottom of the page to see them all. In this example we're scrolling through the category <strong>Conrad</strong>.
+              </p>
+            </li>
+
+            <li className="audio-clip">
+              <img 
+                    alt="Audio clip"
+                    src={require(`../imgs/instructions/audio_clip.gif`)} />
+
+              <p>
+                Each <strong>audio clip</strong> is represented by a rectangle on the <strong>explore screen</strong>. The large text in the top left is the <strong>title</strong> of the audio clip. The blue <strong>play button</strong> plays the audio clip. The green <strong>add button</strong> will add that audio clip to the <strong>sound queue</strong>. In the bottom left are <strong>tags</strong> associated with the audio clip separated by #. In this example we’re looking at the audio clip <strong>rolltide10</strong> which is tagged “roll tide”, “on that” and “indeed”.
+              </p>
+            </li>
+
+            <li className="sound-queue">
+              <img 
+                    alt="Sound queue"
+                    src={require(`../imgs/instructions/sound_queue.gif`)} />
+
+              <p>
+                The <strong>sound queue</strong> holds all of the audio clips for the episode of Something to Wrestle you’re building. Pressing the <strong>play buttons</strong> will play the audio files in order from top to button. Pressing the <strong>reset button</strong> removes all audio clips from the sound queue. You can remove individual audio clips from the queue by pressing the <strong>red X button</strong> beside each audio clip in the sound queue.
+              </p>
+            </li>
+
+          </ul>
 
           <h2>
             Who wrote this shit?

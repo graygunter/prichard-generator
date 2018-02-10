@@ -92,6 +92,80 @@ body {
     background-size: 50%;
     padding-top: 5%;
 
+    .about-instructions {
+
+      li {
+
+        @extend %clearfix;
+        margin-bottom: 5%;
+
+        img {
+
+          border: 5px solid black;
+          box-sizing: border-box;
+          width: 20%;
+
+        }
+
+        &:nth-child(odd) {
+
+          img {
+
+            float: left;
+            margin-right: 5%;
+
+          }
+
+        }
+
+        &:nth-child(even) {
+
+          img {
+
+            float: right;
+            margin-left: 5%;
+
+          }
+
+        }
+
+        &.explore-screen {
+
+          img {
+
+            margin: 0 0 3% 0;
+            width: 100%;
+
+          }
+
+        }
+
+        &.audio-clip {
+
+
+          img {
+
+            width: 40%;
+
+          }
+
+        }
+
+        &.sound-queue {
+
+
+          img {
+
+            width: 30%;
+
+          }
+
+        }
+
+      }
+
+    }
+
     .author-photo {
 
       float: right;
