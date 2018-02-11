@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class SoundQueueTile extends Component {
+class PlaylistTile extends Component {
 
   render() {
 
@@ -21,7 +21,7 @@ class SoundQueueTile extends Component {
         	{textName}
         </div>
 
-        <button onClick={() => this.props.removeSoundQueueTile(this.props.id)}>
+        <button onClick={() => this.props.removePlaylistTile(this.props.id)}>
           <i className="fa fa-times-circle" aria-hidden="true"></i>
         </button>
 
@@ -31,4 +31,4 @@ class SoundQueueTile extends Component {
   }
 }
 
-export default SoundQueueTile;
+export default PlaylistTile;

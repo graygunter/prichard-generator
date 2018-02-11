@@ -151,7 +151,7 @@ body {
 
         }
 
-        &.sound-queue {
+        &.playlist {
 
 
           img {
@@ -343,7 +343,7 @@ body {
 
   }
 
-  .sound-queue-instructions {
+  .playlist-instructions {
 
     bottom: 9.25%;
     height: 10%;
@@ -483,7 +483,7 @@ body {
 
   }
 
-  .sound-queue-tiles {
+  .playlist-tiles {
     @include border-radius(2px);
     border: 1px solid $blue;
     -webkit-box-shadow:inset 1px 1px 4px 0px rgba(0,0,0,.4);
@@ -496,7 +496,7 @@ body {
     padding: 31px 0 0 0;
     position: relative;
 
-    .sound-queue-title {
+    .playlist-title {
 
       @extend %standard-button-text;
       -webkit-box-shadow:inset 1px 1px 4px 0px rgba(0,0,0,.4);
@@ -511,7 +511,7 @@ body {
 
     }
 
-    .sound-queue-tile {
+    .playlist-tile {
       @extend %clearfix;
       border-bottom: .5px solid #666;
       padding-bottom: 2px;
@@ -552,7 +552,7 @@ body {
 
   }
 
-  .sound-queue-buttons {
+  .playlist-buttons {
 
     display: flex;
     width: 100%;
@@ -707,7 +707,7 @@ body {
 
 }
 
-.sound-queue-and-sound-tile-explore {
+.playlist-and-sound-tile-explore {
 
   .sound-tile-explore {
 

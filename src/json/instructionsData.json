@@ -4,9 +4,9 @@
       "text": "Find out more about STGSTW"
     }
   ],
-  "sound-queue": [
+  "playlist": [
     {
-      "text": "Audio clips added to the sound queue play back in order when you press the play button"
+      "text": "Audio clips added to the playlist will play back in order when you press the play button"
     }
   ],
   "category": [

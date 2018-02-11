@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class SoundQueueButton extends Component {
+class PlaylistButton extends Component {
 
   render() {
     return (
@@ -19,4 +19,4 @@ class SoundQueueButton extends Component {
   }
 }
 
-export default SoundQueueButton;
+export default PlaylistButton;

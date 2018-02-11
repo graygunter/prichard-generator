@@ -34,7 +34,7 @@ class IntroScreen extends Component {
           <h3><span>{files}</span> audio clips in <span>{categories}</span> categories</h3>
           <h3>from the archives of</h3>
           <h3> <a href="http://www.mlwradio.com/something-to-wrestle-with-bruce-prichard.html" target="_blank">Something to Wrestle with Bruce Prichard</a></h3>
-          <h3>Build your own episode by adding clips to the sound queue!</h3>
+          <h3>Build your own episode by adding clips to the playlist!</h3>
 
 
           <button onClick={() => this.props.handleIntroClose()}>

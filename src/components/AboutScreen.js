@@ -69,17 +69,17 @@ class AboutScreen extends Component {
                     src={require(`../imgs/instructions/audio_clip.gif`)} />
 
               <p>
-                Each <strong>audio clip</strong> is represented by a rectangle on the <strong>explore screen</strong>. The large text in the top left is the <strong>title</strong> of the audio clip. The blue <strong>play button</strong> plays the audio clip. The green <strong>add button</strong> will add that audio clip to the <strong>sound queue</strong>. In the bottom left are <strong>tags</strong> associated with the audio clip separated by #. In this example we’re looking at the audio clip <strong>rolltide10</strong> which is tagged “roll tide”, “on that” and “indeed”.
+                Each <strong>audio clip</strong> is represented by a rectangle on the <strong>explore screen</strong>. The large text in the top left is the <strong>title</strong> of the audio clip. The blue <strong>play button</strong> plays the audio clip. The green <strong>add button</strong> will add that audio clip to the <strong>playlist</strong>. In the bottom left are <strong>tags</strong> associated with the audio clip separated by #. In this example we’re looking at the audio clip <strong>rolltide10</strong> which is tagged “roll tide”, “on that” and “indeed”.
               </p>
             </li>
 
-            <li className="sound-queue">
+            <li className="playlist">
               <img 
-                    alt="Sound queue"
+                    alt="Playlist"
                     src={require(`../imgs/instructions/sound_queue.gif`)} />
 
               <p>
-                The <strong>sound queue</strong> holds all of the audio clips for the episode of Something to Wrestle you’re building. Pressing the <strong>play buttons</strong> will play the audio files in order from top to button. Pressing the <strong>reset button</strong> removes all audio clips from the sound queue. You can remove individual audio clips from the queue by pressing the <strong>red X button</strong> beside each audio clip in the sound queue.
+                The <strong>playlist</strong> holds all of the audio clips for the episode of Something to Wrestle you’re building. Pressing the <strong>play buttons</strong> will play the audio files in order from top to button. Pressing the <strong>reset button</strong> removes all audio clips from the playlist. You can remove individual audio clips from the queue by pressing the <strong>red X button</strong> beside each audio clip in the playlist.
               </p>
             </li>
 

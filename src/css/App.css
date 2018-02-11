@@ -39,17 +39,17 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-body .intro-screen .inner-container button, .about-button, .back-button, .left-column .sound-queue-buttons button, .sound-palette .sound-tile .sound-tile-buttons button {
+body .intro-screen .inner-container button, .about-button, .back-button, .left-column .playlist-buttons button, .sound-palette .sound-tile .sound-tile-buttons button {
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
   border-radius: 5px;
   box-shadow: 1px 2px 1px rgba(0, 0, 0, 0.5);
   cursor: pointer; }
-  body .intro-screen .inner-container button:hover, .about-button:hover, .back-button:hover, .left-column .sound-queue-buttons button:hover, .sound-palette .sound-tile .sound-tile-buttons button:hover {
+  body .intro-screen .inner-container button:hover, .about-button:hover, .back-button:hover, .left-column .playlist-buttons button:hover, .sound-palette .sound-tile .sound-tile-buttons button:hover {
     box-shadow: none; }
 
-body .intro-screen .inner-container button .inner-text, .about-button .inner-text, .back-button .inner-text, .left-column .sound-queue-tiles .sound-queue-title, .left-column .sound-queue-buttons button .inner-text, .sound-palette .sound-tile .sound-tile-buttons button .inner-text {
+body .intro-screen .inner-container button .inner-text, .about-button .inner-text, .back-button .inner-text, .left-column .playlist-tiles .playlist-title, .left-column .playlist-buttons button .inner-text, .sound-palette .sound-tile .sound-tile-buttons button .inner-text {
   color: #fff;
   font-family: 'Oswald', sans-serif;
   font-size: 1rem;
@@ -60,7 +60,7 @@ body .intro-screen .inner-container button .inner-text, .about-button .inner-tex
   text-transform: uppercase;
   width: 100%; }
 
-body.about-screen .about-instructions li:after, .left-column .sound-queue-tiles .sound-queue-tile:after, .sound-queue-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-item-name-and-button:after {
+body.about-screen .about-instructions li:after, .left-column .playlist-tiles .playlist-tile:after, .playlist-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-item-name-and-button:after {
   content: "";
   display: table;
   clear: both; }
@@ -128,7 +128,7 @@ body {
         width: 100%; }
       body.about-screen .about-instructions li.audio-clip img {
         width: 40%; }
-      body.about-screen .about-instructions li.sound-queue img {
+      body.about-screen .about-instructions li.playlist img {
         width: 30%; }
     body.about-screen .author-photo {
       float: right;
@@ -240,12 +240,12 @@ body {
       border-top-width: 13px;
       right: -29px;
       top: 30%; }
-  .instructions .sound-queue-instructions {
+  .instructions .playlist-instructions {
     bottom: 9.25%;
     height: 10%;
     left: 1%;
     width: 15%; }
-    .instructions .sound-queue-instructions:after {
+    .instructions .playlist-instructions:after {
       border-top-color: rgba(0, 0, 0, 0.75);
       border-top-width: 26px;
       border-left-width: 13px;
@@ -330,7 +330,7 @@ body {
     background-size: contain;
     height: 35%;
     width: 100%; }
-  .left-column .sound-queue-tiles {
+  .left-column .playlist-tiles {
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     -ms-border-radius: 2px;
@@ -345,7 +345,7 @@ body {
     overflow-y: scroll;
     padding: 31px 0 0 0;
     position: relative; }
-    .left-column .sound-queue-tiles .sound-queue-title {
+    .left-column .playlist-tiles .playlist-title {
       -webkit-box-shadow: inset 1px 1px 4px 0px rgba(0, 0, 0, 0.4);
       box-shadow: inset 1px 1px 4px 0px rgba(0, 0, 0, 0.4);
       background-color: #0070c9;
@@ -355,24 +355,24 @@ body {
       width: 100%;
       top: 0;
       z-index: 2; }
-    .left-column .sound-queue-tiles .sound-queue-tile {
+    .left-column .playlist-tiles .playlist-tile {
       border-bottom: .5px solid #666;
       padding-bottom: 2px;
       padding-left: 5px;
       padding-top: 2px;
       width: 100%; }
-      .left-column .sound-queue-tiles .sound-queue-tile .icon {
+      .left-column .playlist-tiles .playlist-tile .icon {
         background-repeat: no-repeat;
         background-size: cover;
         float: left;
         height: 60px;
         margin-right: 10px;
         width: 60px; }
-      .left-column .sound-queue-tiles .sound-queue-tile .text {
+      .left-column .playlist-tiles .playlist-tile .text {
         float: left;
         font-size: 1.5rem;
         line-height: 3rem; }
-      .left-column .sound-queue-tiles .sound-queue-tile button {
+      .left-column .playlist-tiles .playlist-tile button {
         background: none;
         color: #ff0033;
         margin-right: 8px;
@@ -380,20 +380,20 @@ body {
         float: right;
         font-size: 1.5rem;
         line-height: 3rem; }
-      .left-column .sound-queue-tiles .sound-queue-tile:nth-child(even) {
+      .left-column .playlist-tiles .playlist-tile:nth-child(even) {
         background-color: #a7d8ff; }
-  .left-column .sound-queue-buttons {
+  .left-column .playlist-buttons {
     display: flex;
     width: 100%; }
-    .left-column .sound-queue-buttons button {
+    .left-column .playlist-buttons button {
       margin: .25rem 0;
       padding: 3% 0;
       width: 45%; }
-      .left-column .sound-queue-buttons button:nth-child(1) {
+      .left-column .playlist-buttons button:nth-child(1) {
         margin-right: 10%; }
-      .left-column .sound-queue-buttons button.play {
+      .left-column .playlist-buttons button.play {
         background-color: #0d8b00; }
-      .left-column .sound-queue-buttons button.reset {
+      .left-column .playlist-buttons button.reset {
         background-color: #ff0000; }
 
 .sound-palette {
@@ -465,7 +465,7 @@ body {
       .sound-palette .sound-tile .sound-tile-buttons .sound-tile-random {
         margin-bottom: 5%; }
 
-.sound-queue-and-sound-tile-explore .sound-tile-explore .top-bar {
+.playlist-and-sound-tile-explore .sound-tile-explore .top-bar {
   background-color: white;
   border-bottom: 1px solid #ccc;
   box-shadow: 1px 0px 20px rgba(0, 0, 0, 0.4);
@@ -476,25 +476,25 @@ body {
   width: 80%;
   top: 0;
   z-index: 2; }
-  .sound-queue-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info {
+  .playlist-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info {
     display: flex; }
-    .sound-queue-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info .category-and-clips {
+    .playlist-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info .category-and-clips {
       margin-right: 3%; }
-      .sound-queue-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info .category-and-clips h4 {
+      .playlist-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info .category-and-clips h4 {
         font-size: 2rem;
         margin-bottom: 4%; }
-      .sound-queue-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info .category-and-clips span {
+      .playlist-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info .category-and-clips span {
         color: #ff0033;
         font-weight: 700;
         text-transform: uppercase; }
-    .sound-queue-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info .icon {
+    .playlist-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info .icon {
       background-position: center;
       background-repeat: no-repeat;
       background-size: contain;
       display: block;
       height: 100px;
       width: 10%; }
-    .sound-queue-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info input {
+    .playlist-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info input {
       -webkit-border-radius: 10px;
       -moz-border-radius: 10px;
       -ms-border-radius: 10px;
@@ -509,9 +509,9 @@ body {
       height: 50%;
       outline: none;
       padding: 1% 2% 1% 1%; }
-      .sound-queue-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info input:focus {
+      .playlist-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info input:focus {
         border-color: #0d8b00; }
-.sound-queue-and-sound-tile-explore .sound-tile-explore .explore-items {
+.playlist-and-sound-tile-explore .sound-tile-explore .explore-items {
   box-sizing: border-box;
   height: 100%;
   padding: 9.2% 0 0 0;
@@ -520,23 +520,23 @@ body {
   top: 0;
   width: 80%;
   z-index: 1; }
-  .sound-queue-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item {
+  .playlist-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item {
     box-sizing: border-box;
     display: inline-block;
     padding: 1% 1% 2% 2%;
     position: relative;
     width: 33.333%; }
-    .sound-queue-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item:nth-child(odd) {
+    .playlist-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item:nth-child(odd) {
       border: 1px solid rgba(0, 0, 0, 0.3); }
-    .sound-queue-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item:nth-child(even) {
+    .playlist-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item:nth-child(even) {
       background-color: #e5f0f0;
       border: 1px solid #0070c9; }
-    .sound-queue-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-buttons {
+    .playlist-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-buttons {
       display: flex;
       position: absolute;
       right: 10px;
       top: 10px; }
-      .sound-queue-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-buttons button {
+      .playlist-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-buttons button {
         -webkit-border-radius: 50%;
         -moz-border-radius: 50%;
         -ms-border-radius: 50%;
@@ -548,17 +548,17 @@ body {
         height: 30px;
         margin-left: 5px;
         width: 30px; }
-        .sound-queue-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-buttons button.explore-item-play {
+        .playlist-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-buttons button.explore-item-play {
           background-color: #0070c9; }
-        .sound-queue-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-buttons button:hover {
+        .playlist-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-buttons button:hover {
           box-shadow: none; }
-    .sound-queue-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-item-name-and-button {
+    .playlist-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-item-name-and-button {
       font-size: 2rem;
       margin-bottom: 6%; }
-    .sound-queue-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-item-tags {
+    .playlist-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-item-tags {
       display: flex;
       font-size: 1rem; }
-      .sound-queue-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-item-tags .tag {
+      .playlist-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-item-tags .tag {
         color: #666;
         display: block;
         line-height: 2.3rem;

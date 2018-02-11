@@ -10,7 +10,7 @@ import Instructions from './Instructions';
 import AboutScreen from './AboutScreen';
 import BackgroundHolder from './BackgroundHolder';
 import SoundPalette from './SoundPalette';
-import SoundQueue from './SoundQueue';
+import Playlist from './Playlist';
 import SoundTileExplore from './SoundTileExplore';
 
 import '../css/App.css';
@@ -22,7 +22,7 @@ class App extends Component {
 
     super();
 
-    this.addToSoundQue = this.addToSoundQue.bind(this);
+    this.addToPlaylist = this.addToPlaylist.bind(this);
 
     this.handleAboutPress = this.handleAboutPress.bind(this);
 
@@ -42,13 +42,13 @@ class App extends Component {
 
     this.playSoundFinish = this.playSoundFinish.bind(this);
 
-    this.playSoundQueue = this.playSoundQueue.bind(this);
+    this.playPlaylist = this.playPlaylist.bind(this);
 
-    this.playSoundQueueFinish = this.playSoundQueueFinish.bind(this);
+    this.playPlaylistFinish = this.playPlaylistFinish.bind(this);
 
-    this.removeSoundQueueTile = this.removeSoundQueueTile.bind(this);
+    this.removePlaylistTile = this.removePlaylistTile.bind(this);
 
-    this.resetSoundQueue = this.resetSoundQueue.bind(this);
+    this.resetPlaylist = this.resetPlaylist.bind(this);
 
     this.soundTileFileSelected = this.soundTileFileSelected.bind(this);
 
@@ -70,17 +70,17 @@ class App extends Component {
 
       soundTileBeingDragged: undefined,
 
-      //soundQueuesArray: [],
+      playlistArray: [],
 
-      soundQueuesArray: ["mlw-production", "conrad-stw3", "conrad-bruceprichard1", "conrad-brucewhatsgoingon", "bruce-fatwhiteguy", "conrad-dontgethot", "bruce-imhot", "conrad-coolstory2", "bruce-stupidquestions", "conrad-fuckingchase", "conrad-stopreading", "bruce-fuckoffpolitely", "conrad-fuckingdone", "conrad-rollcredits2", "mlw-neverstops"],
+      //soundPlaylist: ["mlw-production", "conrad-stw3", "conrad-bruceprichard1", "conrad-brucewhatsgoingon", "bruce-fatwhiteguy", "conrad-dontgethot", "bruce-imhot", "conrad-coolstory2", "bruce-stupidquestions", "conrad-fuckingchase", "conrad-stopreading", "bruce-fuckoffpolitely", "conrad-fuckingdone", "conrad-rollcredits2", "mlw-neverstops"],
 
-      //soundQueuesArray: ["savage-heybrother1", "savage-firstnamelastname2", "savage-getcrazy", "savage-ilikeit", "savage-yeahbrother"],
+      //soundPlaylist: ["savage-heybrother1", "savage-firstnamelastname2", "savage-getcrazy", "savage-ilikeit", "savage-yeahbrother"],
 
-      //soundQueuesArray: ["dusty-pickupthephone", "dusty-gotanidea2", "dusty-fuckedup1", "dusty-moremoney", "dusty-donttalk"],
+      //soundPlaylist: ["dusty-pickupthephone", "dusty-gotanidea2", "dusty-fuckedup1", "dusty-moremoney", "dusty-donttalk"],
 
-      //soundQueuesArray: ["andre-imagiant", "andre-iwantwine", "andre-24beers", "andre-14vodkasodas", "andre-15jackandcoke", "andre-igosleepnow"],
+      //soundPlaylist: ["andre-imagiant", "andre-iwantwine", "andre-24beers", "andre-14vodkasodas", "andre-15jackandcoke", "andre-igosleepnow"],
 
-      soundQueuesPlayback: false
+      playlistPlayback: false
 
     }
 
@@ -136,29 +136,27 @@ class App extends Component {
 
   }
 
-  resetSoundQueue() {
+  resetPlaylist() {
 
-    //console.log("resetSoundQueue");
+    //console.log("resetPlaylist");
 
-    this.setState({soundQueuesArray : []});
+    this.setState({playlistArray : []});
 
   }
 
-  playSoundQueue() {
+  playPlaylist() {
 
-    if(this.state.soundQueuesArray.length !== 0) {
+    if(this.state.playlistArray.length !== 0) {
 
-      let tempSoundQuesesArray = this.state.soundQueuesArray;
+      let tempplaylistArray = this.state.playlistArray;
 
-      this.playSound(tempSoundQuesesArray[0])
+      this.playSound(tempplaylistArray[0])
       
-      tempSoundQuesesArray.splice(0,1);
-
-      //console.log(tempSoundQuesesArray);
+      tempplaylistArray.splice(0,1);
 
       this.setState({
-        soundQueuesArray : tempSoundQuesesArray,
-        soundQueuesPlayback : true
+        playlistArray : tempplaylistArray,
+        playlistPlayback : true
       });
 
     }
@@ -180,7 +178,7 @@ class App extends Component {
         <Sound 
               url={require(`../audio/${this.state.soundToPlay}.mp3`)}
               playStatus="PLAYING" 
-              onFinishedPlaying={this.state.soundQueuesPlayback ? this.playSoundQueueFinish : this.playSoundFinish}/>
+              onFinishedPlaying={this.state.playlistPlayback ? this.playPlaylistFinish : this.playSoundFinish}/>
 
       )
 
@@ -193,19 +191,19 @@ class App extends Component {
 
   }
 
-  playSoundQueueFinish() {
+  playPlaylistFinish() {
 
-    if(this.state.soundQueuesArray.length !== 0) {
+    if(this.state.playlistArray.length !== 0) {
 
       this.setState({soundToPlay : undefined});
 
-      this.playSoundQueue();
+      this.playPlaylist();
 
     }
     else {
 
       this.setState({
-        soundQueuesPlayback : false,
+        playlistPlayback : false,
         soundToPlay : undefined
       });
 
@@ -213,11 +211,11 @@ class App extends Component {
 
   }
 
-  addToSoundQue(fileName) {
+  addToPlaylist(fileName) {
 
-    let newSoundQueue = this.state.soundQueuesArray;
+    let newPlaylist = this.state.playlistArray;
 
-    newSoundQueue.push(fileName);
+    newPlaylist.push(fileName);
 
     this.playSound(fileName);
 
@@ -247,15 +245,15 @@ class App extends Component {
 
   }
 
-  removeSoundQueueTile(queueTileToRemove) {
+  removePlaylistTile(playlistTileToRemove) {
 
-    console.log(queueTileToRemove);
+    console.log(playlistTileToRemove);
 
-    let tempSoundQuesesArray = this.state.soundQueuesArray;
+    let tempPlaylistArray = this.state.playlistArray;
 
-    tempSoundQuesesArray.splice(queueTileToRemove, 1);
+    tempPlaylistArray.splice(playlistTileToRemove, 1);
 
-    this.setState({soundQueuesArray : tempSoundQuesesArray});
+    this.setState({playlistArray : tempPlaylistArray});
 
   }
 
@@ -273,17 +271,12 @@ class App extends Component {
 
   showAboutScreen() {
 
-    let categories = 0;
-
-    for(let category in audioData)
-      categories++;
-
     return (
 
       <div>
 
         <AboutScreen  
-                      numCategories={categories}
+                      numCategories={Object.keys(audioData).length}
                       handleBackClick={this.handleBackClick}/>
 
       </div>
@@ -298,16 +291,16 @@ class App extends Component {
 
     return (
 
-        <div className="sound-queue-and-sound-tile-explore">
+        <div className="playlist-and-sound-tile-explore">
 
-          <SoundQueue
-                      playSoundQueue={this.playSoundQueue}
-                      resetSoundQueue={this.resetSoundQueue}
-                      removeSoundQueueTile={this.removeSoundQueueTile}
-                      soundQueuesArray={this.state.soundQueuesArray}/>
+          <Playlist
+                      playPlaylist={this.playPlaylist}
+                      resetPlaylist={this.resetPlaylist}
+                      removePlaylist={this.removePlaylist}
+                      playlistArray={this.state.playlistArray}/>
 
           <SoundTileExplore 
-                            addToSoundQue={this.addToSoundQue}
+                            addToPlaylist={this.addToPlaylist}
                             exploreTitle={this.state.soundTileToExplore}
                             handleBackClick={this.handleBackClick}
                             handleSoundPlay={this.handleSoundPlay}
@@ -338,11 +331,11 @@ class App extends Component {
         <BackgroundHolder
                           backgroundData={backgroundData["backgrounds"]}/>
 
-        <SoundQueue
-                    playSoundQueue={this.playSoundQueue}
-                    resetSoundQueue={this.resetSoundQueue}
-                    removeSoundQueueTile={this.removeSoundQueueTile}
-                    soundQueuesArray={this.state.soundQueuesArray}/>
+        <Playlist
+                    playPlaylist={this.playPlaylist}
+                    resetPlaylist={this.resetPlaylist}
+                    removePlaylistTile={this.removePlaylistTile}
+                    playlistArray={this.state.playlistArray}/>
 
         <SoundPalette 
                       audioData={audioData}
