@@ -56,7 +56,7 @@ class SoundTileExploreItem extends Component {
             <button 
                     className="sound-tile-add"
                     onClick={() => this.props.addToPlaylist((this.props.exploreTitle, this.props.exploreTitle + "-" + this.props.itemName))}
-                    title="Add to Sound Que">
+                    title="Add to Playlist">
                       <i className="fa fa-plus" aria-hidden="true"></i>
             </button>
 

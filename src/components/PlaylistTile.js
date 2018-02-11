@@ -10,7 +10,7 @@ class PlaylistTile extends Component {
     textName = textName.substring(this.props.file.indexOf('-') + 1);
 
     return (
-      <div className="sound-queue-tile">
+      <div className="playlist-tile">
 
         <div 
             className="icon"
