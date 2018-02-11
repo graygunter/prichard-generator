@@ -24,7 +24,10 @@ class AboutScreen extends Component {
           </h2>
 
           <p>
-            <span className="firstcharacter">H</span>ave you ever found yourself wanting more of the <a href="http://www.mlwradio.com/something-to-wrestle-with-bruce-prichard.html" target="_blank">Something to Wrestle with Bruce Prichard</a> podcast, but it’s not noon on a Friday and the hands on the clock keep spinning too slow? Have you ever heard <a href="https://twitter.com/HeyHeyItsConrad" target="_blank">Conrad Thompson</a> ask <a href="https://twitter.com/bruceprichard" target="_blank">Bruce</a> a question and thought “I know exactly which catch phrase he’s going to respond with”? Well then you’re a nerd, but now with the power of <strong>Something to Generate Something to Wrestle with Bruce Prichard</strong> you’re a nerd who can do something about it, brother.
+            <span className="firstcharacter">H</span>ave you ever found yourself wanting more of the <a href="http://www.mlwradio.com/something-to-wrestle-with-bruce-prichard.html" target="_blank">Something to Wrestle with Bruce Prichard</a> podcast, but it’s not noon on a Friday and the hands on the clock keep spinning too slow? Have you ever heard <a href="https://twitter.com/HeyHeyItsConrad" target="_blank">Conrad Thompson</a> ask <a href="https://twitter.com/bruceprichard" target="_blank">Bruce</a> a question and thought “I know exactly which catch phrase he’s going to respond with”? 
+          </p>
+          <p>
+            If you answered yes to any of the above you're a huge nerd, but now with the power of <strong>Something to Generate Something to Wrestle with Bruce Prichard</strong> you’re a nerd who can do something about it, brother.
           </p>
 
           <h2>
@@ -83,6 +86,16 @@ class AboutScreen extends Component {
               </p>
             </li>
 
+            <li className="filter">
+              <img 
+                    alt="Filter"
+                    src={require(`../imgs/instructions/filter.gif`)} />
+
+              <p>
+                You can filter which audio clips appear by their tags. Click the <strong>filter by tag</strong> input and start typing. In this example we're in the category Bruce and filtering out any audio files that don't have the tag <strong>drugs</strong>.
+              </p>
+            </li>
+
           </ul>
 
           <h2>
@@ -105,6 +118,28 @@ class AboutScreen extends Component {
             STGSTW was created by <a href="http://twitter.com/graygunter" target="_blank">Gray Gunter</a> a web designer and developer in Columbia, SC who loves wrasslin and Something to Wrestle. You can see other professional projects Gray has worked on at <a href="http://graybearllc.com/work.html" target="_blank">Graybear LLC</a> and his personal projects at <a href="http://graygunter.com" target="_blank">Gray Gunter dot com</a>.
           </p>
 
+          <h2>
+            Chat me up about...
+          </h2>
+
+          <p>
+            STGSTW is a ReactJS application, powered by NodeJS and styled by SASS. Development began at the end of April 2017. The project is available publicly on Github.
+          </p>
+
+          <img 
+                alt="ReactJS"
+                className="react"
+                src={require(`../imgs/logos/reactjs.png`)} />
+
+          <img 
+                alt="NodeJS"
+                className="node"
+                src={require(`../imgs/logos/nodejs.png`)} />
+
+          <img 
+                alt="SASS"
+                className="sass"
+                src={require(`../imgs/logos/sass.svg`)} />
 
 
         </div>

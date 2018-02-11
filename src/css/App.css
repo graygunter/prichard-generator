@@ -129,7 +129,9 @@ body {
       body.about-screen .about-instructions li.audio-clip img {
         width: 40%; }
       body.about-screen .about-instructions li.playlist img {
-        width: 30%; }
+        width: 22%; }
+      body.about-screen .about-instructions li.filter img {
+        width: 42%; }
     body.about-screen .author-photo {
       float: right;
       margin-left: 5%;
