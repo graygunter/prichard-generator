@@ -153,6 +153,16 @@ body {
         text-align: center; }
         body.about-screen .author-photo p span {
           display: block; }
+    body.about-screen .logos {
+      display: flex;
+      justify-content: space-between; }
+      body.about-screen .logos img {
+        height: 100%;
+        width: 25%; }
+        body.about-screen .logos img.react {
+          margin-top: 6%; }
+        body.about-screen .logos img.node {
+          margin-top: 4%; }
   body button {
     border: none;
     color: #fff;

@@ -208,6 +208,32 @@ body {
 
     }
 
+    .logos {
+
+      display: flex;
+      justify-content: space-between;
+
+      img {
+
+        height: 100%;
+        width: 25%;
+
+        &.react {
+
+          margin-top: 6%;
+
+        }
+
+        &.node {
+
+          margin-top: 4%;
+
+        }
+
+      }
+
+    }
+
   }
 
   button {
