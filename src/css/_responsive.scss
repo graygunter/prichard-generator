@@ -1,0 +1,104 @@
+@media (max-width: 945px) {
+
+  .about-button, .back-button {
+      
+      position: absolute;
+      right: 1.5%;
+      top: 1.5%;
+
+  }
+
+  body {
+
+    .inner-container {
+
+      width: 710px;
+
+    }
+
+  }
+
+}
+
+@media (max-width: 767px) {
+
+  body {
+
+    .inner-container {
+
+      width: 90%;
+
+    }
+
+    h2 {
+
+      font-size: 2.5rem;
+      margin-bottom: 3%;
+
+    }
+
+    p {
+
+      font-size: 1.25rem;
+      line-height: 2rem;
+      margin-bottom: 5%;
+
+    }
+
+    &.about-screen {
+
+      .about-instructions {
+
+        li {
+
+          margin-bottom: 10%;
+
+          &.random-button, &.explore-button, &.playlist {
+
+            img {
+
+              width: 50%;
+
+            }
+
+          }
+
+        }
+
+      }
+
+    }
+
+  }
+
+}
+
+@media (max-width: 599px) {
+
+  body {
+
+    &.about-screen {
+
+      .about-instructions {
+
+        li {
+
+          &.audio-clip, &.filter {
+
+            img {
+
+              width: 100%;
+
+            }
+
+          }
+
+        }
+
+      }
+
+    }
+
+  }
+
+}
