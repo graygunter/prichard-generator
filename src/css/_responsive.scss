@@ -1,10 +1,80 @@
-@media (max-width: 945px) {
+@media (max-width: 1200px) {
 
-  .about-button, .back-button {
+  .playlist-and-sound-tile-explore {
+
+    .sound-tile-explore {
+
+      .explore-items {
+
+        .explore-item {
+
+          .explore-item-name-and-button {
+
+            font-size: 1.25rem;
+
+          }
+
+        }
+
+      }
+
+    }
+
+  }
+
+}
+
+@media (max-width: 1023px) {
+
+  .left-column {
+
+    width: 30%
+
+  }
+
+  .playlist-and-sound-tile-explore {
+
+    .sound-tile-explore {
+
+      .top-bar {
+
+        width: 70%;
+
+      }
+
+      .explore-items {
+
+        width: 70%;
+
+        .explore-item {
+
+          width: 50%;
+
+        }
+
+      }
+
+    }
+
+  }
+
+}
+
+@media (max-width: 946px) {
+
+  .about-button {
       
       position: absolute;
       right: 1.5%;
       top: 1.5%;
+
+  }
+
+  .back-button {
+    
+    position: relative;
+    right: auto;
+    top: auto;
 
   }
 
@@ -13,6 +83,49 @@
     .inner-container {
 
       width: 710px;
+
+    }
+
+  }
+
+  .playlist-and-sound-tile-explore {
+
+    .sound-tile-explore {
+
+      .top-bar {
+
+        .explore-info {
+
+          display: block;
+
+          .icon {
+
+            margin-right: 0;
+            width: 20%;
+
+          }
+
+          .category-and-clips {
+
+            display: flex;
+
+            h4 {
+
+              font-size: 1.4rem;
+
+            }
+
+          }
+
+          input {
+
+            width: 20%;
+
+          }
+
+        }
+
+      }
 
     }
 

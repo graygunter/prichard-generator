@@ -441,7 +441,7 @@ body {
 
 }
 
-.about-button, .back-button {
+.about-button {
 
   @extend %standard-button;
   background-color: $blue;
@@ -450,6 +450,23 @@ body {
   right: .75%;
   top: 3%;
   z-index: 4;
+
+  .inner-text {
+    
+    @extend %standard-button-text;
+
+  }
+
+}
+
+.back-button {
+
+  @extend %standard-button;
+  background-color: $blue;
+  height: 57px;
+  margin-left: 4%;
+  padding: 1% 5%;
+  width: 40%;
 
   .inner-text {
     
@@ -752,6 +769,7 @@ body {
       border-bottom: 1px solid #ccc;
       box-shadow: 1px 0px 20px rgba(0,0,0,0.4);
       box-sizing: border-box;
+      height: 120px;
       padding: 1.5% 1% .75%;
       position: fixed;
       right: 0;
@@ -763,27 +781,6 @@ body {
 
         display: flex;
 
-        .category-and-clips {
-
-          margin-right: 3%;
-
-          h4 {
-
-            font-size: 2rem;
-            margin-bottom: 4%;
-
-          }
-
-          span {
-
-            color: $red;
-            font-weight: 700;
-            text-transform: uppercase
-
-          }
-
-        }
-
         .icon {
 
           background-position: center;
@@ -791,27 +788,63 @@ body {
           background-size: contain;
           display: block;
           height: 100px;
+          margin-right: 2%;
           width: 10%;
 
         }
 
-        input {
-          
-          @include border-radius(10px);
-          -webkit-appearance: none;
-          border: 2px solid $blue;
-          -webkit-box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
-          box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
-          font-family: 'Oswald', sans-serif;
-          font-size: 1.25rem;
-          font-weight: 300;
-          height: 50%;
-          outline: none;
-          padding: 1% 2% 1% 1%;
+        .text-and-inputs {
 
-          &:focus {
+          display: flex;
+          width: 90%;
 
-            border-color: $green;
+          .category-and-clips {
+
+            margin-right: 3%;
+
+            h4 {
+
+              font-size: 2rem;
+              margin-bottom: 4%;
+
+            }
+
+            span {
+
+              color: $red;
+              font-weight: 700;
+              text-transform: uppercase
+
+            }
+
+          }
+
+          .input-and-button {
+
+            display: flex;
+
+            input {
+            
+              @include border-radius(10px);
+              -webkit-appearance: none;
+              border: 2px solid $blue;
+              -webkit-box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
+              box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
+              font-family: 'Oswald', sans-serif;
+              font-size: 1.25rem;
+              font-weight: 300;
+              height: 50%;
+              outline: none;
+              padding: 1% 2% 1% 3%;
+              width: 60%;
+
+              &:focus {
+
+                border-color: $green;
+
+              }
+
+            }
 
           }
 
@@ -825,7 +858,7 @@ body {
 
       box-sizing: border-box;
       height: 100%;
-      padding: 9.2% 0 0 0;
+      padding: 120px 0 0 0;
       position: absolute;
       right: 0;
       top: 0;
@@ -892,6 +925,11 @@ body {
           @extend %clearfix;
           font-size: 2rem;
           margin-bottom: 6%;
+
+          .explore-item-name {
+
+
+          }
 
         }
 

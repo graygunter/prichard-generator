@@ -131,30 +131,38 @@ class SoundTileExplore extends Component {
                   style={{backgroundImage: iconPath}}>    
             </div>
 
-            <div className="category-and-clips">
-              <h4>Category: <span>{this.props.exploreTitle}</span></h4>
-              <h4><span>{this.props.tileData.length}</span> {audioClipsString}</h4>
-            </div>
+            <div className="text-and-inputs">
 
-            <input  type="text"
-                    onBlur={this.onBlur.bind(this)}
-                    onChange={this.onChangeHandler.bind(this)}
-                    onFocus={this.onFocus.bind(this)}
-                    value={this.state.filterInput} />
+              <div className="category-and-clips">
+                <h4>Category: <span>{this.props.exploreTitle}</span></h4>
+                <h4><span>{this.props.tileData.length}</span> {audioClipsString}</h4>
+              </div>
+
+              <div className="input-and-button">
+
+                <input  type="text"
+                        onBlur={this.onBlur.bind(this)}
+                        onChange={this.onChangeHandler.bind(this)}
+                        onFocus={this.onFocus.bind(this)}
+                        value={this.state.filterInput} />
+
+                <button 
+                        className="back-button"
+                        onClick={() => this.props.handleBackClick()}>
+
+                        <div className="inner-text">
+                          <i className="fa fa-chevron-circle-left" aria-hidden="true"></i> back
+                        </div> 
+
+                </button>
+
+              </div>
+
+            </div>
 
           </div>
 
         </div>
-
-        <button 
-                className="back-button"
-                onClick={() => this.props.handleBackClick()}>
-
-                <div className="inner-text">
-                  <i className="fa fa-chevron-circle-left" aria-hidden="true"></i> back
-                </div> 
-
-        </button>
 
         <div className="explore-items">
           {this.generateSoundTileExploreItems()}
