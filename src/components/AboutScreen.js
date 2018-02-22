@@ -7,21 +7,35 @@ class AboutScreen extends Component {
     return (
       <div className="about-screen">
 
-        <button 
-                className="back-button"
-                onClick={() => this.props.handleBackClick()}>
+        <div className="top-bar">
 
-                <div className="inner-text">
-                  <i className="fa fa-chevron-circle-left" aria-hidden="true"></i> back
-                </div> 
+          <h1 className="title">
+            Something to Generate
+            Something to Wrestle with
+            Bruce Prichard
+          </h1>
 
-        </button>
+          <div className="inner-container">
+
+            <h2>
+                Well you know...
+            </h2>
+
+            <button 
+                    className="back-button"
+                    onClick={() => this.props.handleBackClick()}>
+
+                    <div className="inner-text">
+                      <i className="fa fa-chevron-circle-left" aria-hidden="true"></i> back
+                    </div> 
+
+            </button>
+
+          </div>
+
+        </div>
 
         <div className="inner-container">
-
-          <h2>
-              Well you know...
-          </h2>
 
           <p>
             <span className="firstcharacter">H</span>ave you ever found yourself wanting more of the <a href="http://www.mlwradio.com/something-to-wrestle-with-bruce-prichard.html" target="_blank">Something to Wrestle with Bruce Prichard</a> podcast, but it’s not noon on a Friday and the hands on the clock keep spinning too slow? Have you ever heard <a href="https://twitter.com/HeyHeyItsConrad" target="_blank">Conrad Thompson</a> ask <a href="https://twitter.com/bruceprichard" target="_blank">Bruce</a> a question and thought “I know exactly which catch phrase or impression he’s going to respond with”? 

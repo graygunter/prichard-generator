@@ -88,9 +88,41 @@ body {
   }
 
   &.about-screen {
-    background: url("../imgs/logo-light.jpg") no-repeat center fixed #fff;
+    background: url("../imgs/logo-light.jpg") no-repeat center 90% fixed #fff;
     background-size: 50%;
-    padding-top: 5%;
+    padding-top: 120px;
+
+    .top-bar {
+
+      .title {
+
+        height: 100%;
+        position: absolute;
+        top: 0;
+        width: 100px;
+
+      }
+
+      .inner-container {
+        
+        padding-bottom: 10px;
+
+        h2 {
+
+          display: inline;
+
+        }
+
+        .back-button {
+
+          float: right;
+          padding: 0.5% 1%;
+
+        }
+
+      }
+
+    }
 
     .about-instructions {
 
@@ -236,19 +268,18 @@ body {
 
   }
 
-  button {
-
-    border: none;
-    color: #fff;
-    cursor: pointer;
-
-    .fa {
-      pointer-events: none;
-    }
-
-    &:focus {
-      outline:0;
-    }
+  .top-bar {
+  
+    background-color: white;
+    border-bottom: 1px solid #ccc;
+    box-shadow: 1px 0px 20px rgba(0,0,0,0.4);
+    box-sizing: border-box;
+    padding: 1.5% 1% .75%;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 2;
 
   }
 
@@ -259,6 +290,15 @@ body {
     position: relative;
     width: 100%;
     max-width: 750px;
+
+  }
+
+  .title {
+
+    @include hide-text;
+    background-image: url("../imgs/logo.jpg");
+    background-position: center;
+    background-size: contain;
 
   }
 
@@ -297,6 +337,22 @@ body {
 
       text-decoration: none;
 
+    }
+
+  }
+
+  button {
+
+    border: none;
+    color: #fff;
+    cursor: pointer;
+
+    .fa {
+      pointer-events: none;
+    }
+
+    &:focus {
+      outline:0;
     }
 
   }
@@ -364,7 +420,7 @@ body {
     height: 6%;
     right: 9.5%;
     top: 1.9%;
-    width: 8%;
+    width: 8rem;
 
     &:after {
 
@@ -384,7 +440,7 @@ body {
     bottom: 9.25%;
     height: 10%;
     left: 1%;
-    width: 15%;
+    width: 15rem;
 
     &:after {
 
@@ -404,7 +460,7 @@ body {
     bottom: 29%;
     height: 10%;
     left: 34%;
-    width: 18%;
+    width: 18rem;
 
     &:after {
 
@@ -424,7 +480,7 @@ body {
     bottom: 10%;
     height: 6%;
     right: 2%;
-    width: 10%;
+    width: 9rem;
 
     &:after {
 
@@ -463,10 +519,6 @@ body {
 
   @extend %standard-button;
   background-color: $blue;
-  height: 57px;
-  margin-left: 4%;
-  padding: 1% 5%;
-  width: 40%;
 
   .inner-text {
     
@@ -527,10 +579,6 @@ body {
 
   .title {
 
-    @include hide-text;
-    background-image: url("../imgs/logo.jpg");
-    background-position: center;
-    background-size: contain;
     height: 35%;
     width: 100%;
 
@@ -764,18 +812,9 @@ body {
   .sound-tile-explore {
 
     .top-bar {
-    
-      background-color: white;
-      border-bottom: 1px solid #ccc;
-      box-shadow: 1px 0px 20px rgba(0,0,0,0.4);
-      box-sizing: border-box;
+
       height: 120px;
-      padding: 1.5% 1% .75%;
-      position: fixed;
-      right: 0;
       width: 80%;
-      top: 0;
-      z-index: 2;
 
       .explore-info {
 
@@ -787,7 +826,7 @@ body {
           background-repeat: no-repeat;
           background-size: contain;
           display: block;
-          height: 100px;
+          height: auto;
           margin-right: 2%;
           width: 10%;
 
@@ -830,10 +869,11 @@ body {
               border: 2px solid $blue;
               -webkit-box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
               box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
+              box-sizing: border-box;
               font-family: 'Oswald', sans-serif;
               font-size: 1.25rem;
               font-weight: 300;
-              height: 50%;
+              height: 59px;
               outline: none;
               padding: 1% 2% 1% 3%;
               width: 60%;
@@ -843,6 +883,15 @@ body {
                 border-color: $green;
 
               }
+
+            }
+
+            .back-button {
+
+              height: 57px;
+              margin-left: 4%;
+              padding: 1% 5%;
+              width: 40%;
 
             }
 
@@ -937,6 +986,7 @@ body {
 
           display: flex;
           font-size: 1rem;
+          overflow: hidden;
 
           .tag {
 
