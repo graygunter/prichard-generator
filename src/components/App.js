@@ -2,13 +2,13 @@ import React, { Component } from 'react';
 import Sound from 'react-sound';
 
 import audioData from '../json/audioData.json';
-import backgroundData from '../json/backgroundData.json';
+//import backgroundData from '../json/backgroundData.json';
 import instructionsData from '../json/instructionsData.json';
 
 import IntroScreen from './IntroScreen';
 import Instructions from './Instructions';
 import AboutScreen from './AboutScreen';
-import BackgroundHolder from './BackgroundHolder';
+//import BackgroundHolder from './BackgroundHolder';
 import SoundPalette from './SoundPalette';
 import Playlist from './Playlist';
 import SoundTileExplore from './SoundTileExplore';
@@ -339,10 +339,10 @@ class App extends Component {
                 </div> 
 
         </button>
-
+{/*
         <BackgroundHolder
                           backgroundData={backgroundData["backgrounds"]}/>
-
+*/}
         <Playlist
                     playPlaylist={this.playPlaylist}
                     resetPlaylist={this.resetPlaylist}
