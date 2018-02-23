@@ -72,6 +72,8 @@ class App extends Component {
 
       playlistArray: [],
 
+      playlistArrayPosition: 0,
+
       //soundPlaylist: ["mlw-production", "conrad-stw3", "conrad-bruceprichard1", "conrad-brucewhatsgoingon", "bruce-fatwhiteguy", "conrad-dontgethot", "bruce-imhot", "conrad-coolstory2", "bruce-stupidquestions", "conrad-fuckingchase", "conrad-stopreading", "bruce-fuckoffpolitely", "conrad-fuckingdone", "conrad-rollcredits2", "mlw-neverstops"],
 
       //soundPlaylist: ["savage-heybrother1", "savage-firstnamelastname2", "savage-getcrazy", "savage-ilikeit", "savage-yeahbrother"],
@@ -146,16 +148,17 @@ class App extends Component {
 
   playPlaylist() {
 
-    if(this.state.playlistArray.length !== 0) {
+    //console.log("### playPlaylist");
 
-      let tempplaylistArray = this.state.playlistArray;
+    if(this.state.playlistArrayPosition !== this.state.playlistArray.length) {
 
-      this.playSound(tempplaylistArray[0])
+      let tempPlayListItem = this.state.playlistArray[this.state.playlistArrayPosition];
+
+      //console.log("### " + tempPlayListItem);
+
+      this.playSound(tempPlayListItem)
       
-      tempplaylistArray.splice(0,1);
-
       this.setState({
-        playlistArray : tempplaylistArray,
         playlistPlayback : true
       });
 
@@ -193,19 +196,28 @@ class App extends Component {
 
   playPlaylistFinish() {
 
-    if(this.state.playlistArray.length !== 0) {
+    //console.log("### playPlaylistFinish");
 
-      this.setState({soundToPlay : undefined});
+    let newPlaylistPosition = this.state.playlistArrayPosition;
+    newPlaylistPosition++;
 
-      this.playPlaylist();
+    if(newPlaylistPosition === this.state.playlistArray.length) {
+
+      this.setState({
+        playlistPlayback : false,
+        playlistArrayPosition: 0,
+        soundToPlay : undefined
+      });
 
     }
     else {
 
       this.setState({
-        playlistPlayback : false,
+        playlistArrayPosition: newPlaylistPosition,
         soundToPlay : undefined
       });
+
+      this.playPlaylist();
 
     }
 
@@ -247,7 +259,7 @@ class App extends Component {
 
   removePlaylistTile(playlistTileToRemove) {
 
-    console.log(playlistTileToRemove);
+    //console.log(playlistTileToRemove);
 
     let tempPlaylistArray = this.state.playlistArray;
 
@@ -287,7 +299,7 @@ class App extends Component {
 
   showSoundTileExplore() {
 
-    console.log("showSoundTileExplore");
+    //console.log("showSoundTileExplore");
 
     return (
 
