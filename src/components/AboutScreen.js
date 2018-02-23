@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import TopBar from './TopBar';
 
 class AboutScreen extends Component {
 
@@ -7,33 +7,10 @@ class AboutScreen extends Component {
     return (
       <div className="about-screen">
 
-        <div className="top-bar">
-
-          <h1 className="title">
-            Something to Generate
-            Something to Wrestle with
-            Bruce Prichard
-          </h1>
-
-          <div className="inner-container">
-
-            <h2>
-                Well you know...
-            </h2>
-
-            <button 
-                    className="back-button"
-                    onClick={() => this.props.handleBackClick()}>
-
-                    <div className="inner-text">
-                      <i className="fa fa-chevron-circle-left" aria-hidden="true"></i> back
-                    </div> 
-
-            </button>
-
-          </div>
-
-        </div>
+        <TopBar
+                handleBackClick={this.props.handleBackClick}
+                isAboutPage={true}
+                isLandingPage={false} />
 
         <div className="inner-container">
 

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import SoundTileExploreItem from './SoundTileExploreItem';
+import TopBar from './TopBar';
 
 class SoundTileExplore extends Component {
 
@@ -122,47 +123,18 @@ class SoundTileExplore extends Component {
 
       <div className="sound-tile-explore">
 
-        <div className="top-bar">
-
-          <div className="explore-info">
-
-            <div 
-                  className="icon"
-                  style={{backgroundImage: iconPath}}>    
-            </div>
-
-            <div className="text-and-inputs">
-
-              <div className="category-and-clips">
-                <h4>Category: <span>{this.props.exploreTitle}</span></h4>
-                <h4><span>{this.props.tileData.length}</span> {audioClipsString}</h4>
-              </div>
-
-              <div className="input-and-button">
-
-                <input  type="text"
-                        onBlur={this.onBlur.bind(this)}
-                        onChange={this.onChangeHandler.bind(this)}
-                        onFocus={this.onFocus.bind(this)}
-                        value={this.state.filterInput} />
-
-                <button 
-                        className="back-button"
-                        onClick={() => this.props.handleBackClick()}>
-
-                        <div className="inner-text">
-                          <i className="fa fa-chevron-circle-left" aria-hidden="true"></i> back
-                        </div> 
-
-                </button>
-
-              </div>
-
-            </div>
-
-          </div>
-
-        </div>
+        <TopBar
+                audioClipsString={audioClipsString}
+                filterInput={this.state.filterInput}
+                handleBackClick={this.props.handleBackClick}
+                iconPath={iconPath}
+                isExplorePage={true}
+                isLandingPage={false}
+                onBlur={this.onBlur.bind(this)}
+                onChangeHandler={this.onChangeHandler.bind(this)}
+                onFocus={this.onFocus.bind(this)}
+                tileData={this.props.tileData}
+                value={this.state.filterInput} />
 
         <div className="explore-items">
           {this.generateSoundTileExploreItems()}

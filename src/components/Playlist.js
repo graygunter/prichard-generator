@@ -29,12 +29,6 @@ class Playlist extends Component {
     return (
       <div className="left-column">
 
-        <h1 className="title">
-        	Something to Generate
-        	Something to Wrestle with
-        	Bruce Prichard
-        </h1>
-
         <div className="playlist-tiles">
           <div className="playlist-title">
             playlist

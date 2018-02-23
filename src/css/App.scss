@@ -94,15 +94,6 @@ body {
 
     .top-bar {
 
-      .title {
-
-        height: 100%;
-        position: absolute;
-        top: 0;
-        width: 100px;
-
-      }
-
       .inner-container {
         
         padding-bottom: 10px;
@@ -110,13 +101,6 @@ body {
         h2 {
 
           display: inline;
-
-        }
-
-        .back-button {
-
-          float: right;
-          padding: 0.5% 1%;
 
         }
 
@@ -274,12 +258,32 @@ body {
     border-bottom: 1px solid #ccc;
     box-shadow: 1px 0px 20px rgba(0,0,0,0.4);
     box-sizing: border-box;
+    min-height: 120px;
     padding: 1.5% 1% .75%;
     position: fixed;
     right: 0;
     top: 0;
     width: 100%;
     z-index: 2;
+
+    .title {
+
+      height: 100%;
+      left: 6.5%;
+      position: absolute;
+      top: 0;
+      width: 100px;
+
+    }
+
+    button {
+
+      position: absolute;
+      padding: 0.5% 1%;
+      top: 29%;
+      right: 1%;
+
+    }
 
   }
 
@@ -437,7 +441,7 @@ body {
 
   .playlist-instructions {
 
-    bottom: 9.25%;
+    bottom: 29.25%;
     height: 10%;
     left: 1%;
     width: 15rem;
@@ -574,15 +578,8 @@ body {
   left: 0;
   padding: 0 0.5% 0;
   position: fixed;
-  top: 0;
+  top: 120px;
   width: 20%;
-
-  .title {
-
-    height: 35%;
-    width: 100%;
-
-  }
 
   .playlist-tiles {
     @include border-radius(2px);
@@ -590,7 +587,7 @@ body {
     -webkit-box-shadow:inset 1px 1px 4px 0px rgba(0,0,0,.4);
     box-shadow:inset 1px 1px 4px 0px rgba(0,0,0,.4);
     display: block;
-    height: 53%;
+    height: 72%;
     margin-bottom: 4%;
     overflow-x: hidden;
     overflow-y: scroll;
@@ -813,54 +810,50 @@ body {
 
     .top-bar {
 
-      height: 120px;
-      width: 80%;
-
       .explore-info {
 
-        display: flex;
-
-        .icon {
-
-          background-position: center;
-          background-repeat: no-repeat;
-          background-size: contain;
-          display: block;
-          height: auto;
-          margin-right: 2%;
-          width: 10%;
-
-        }
-
-        .text-and-inputs {
-
+        .inner-container {
+    
           display: flex;
-          width: 90%;
+          padding-bottom: 0;
 
-          .category-and-clips {
+          .icon {
 
-            margin-right: 3%;
-
-            h4 {
-
-              font-size: 2rem;
-              margin-bottom: 4%;
-
-            }
-
-            span {
-
-              color: $red;
-              font-weight: 700;
-              text-transform: uppercase
-
-            }
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: contain;
+            display: block;
+            height: auto;
+            margin-right: 2%;
+            width: 10%;
 
           }
 
-          .input-and-button {
+          .text-and-inputs {
 
             display: flex;
+            width: 90%;
+
+            .category-and-clips {
+
+              margin-right: 3%;
+
+              h4 {
+
+                font-size: 2rem;
+                margin-bottom: 4%;
+
+              }
+
+              span {
+
+                color: $red;
+                font-weight: 700;
+                text-transform: uppercase
+
+              }
+
+            }
 
             input {
             
@@ -883,15 +876,6 @@ body {
                 border-color: $green;
 
               }
-
-            }
-
-            .back-button {
-
-              height: 57px;
-              margin-left: 4%;
-              padding: 1% 5%;
-              width: 40%;
 
             }
 

@@ -9,9 +9,11 @@ import IntroScreen from './IntroScreen';
 import Instructions from './Instructions';
 import AboutScreen from './AboutScreen';
 //import BackgroundHolder from './BackgroundHolder';
-import SoundPalette from './SoundPalette';
 import Playlist from './Playlist';
+import SoundPalette from './SoundPalette';
 import SoundTileExplore from './SoundTileExplore';
+import TopBar from './TopBar';
+
 
 import '../css/App.css';
 import '../css/font-awesome.css';
@@ -307,9 +309,9 @@ class App extends Component {
 
           <Playlist
                       playPlaylist={this.playPlaylist}
-                      resetPlaylist={this.resetPlaylist}
+                      playlistArray={this.state.playlistArray}
                       removePlaylist={this.removePlaylist}
-                      playlistArray={this.state.playlistArray}/>
+                      resetPlaylist={this.resetPlaylist}/>
 
           <SoundTileExplore 
                             addToPlaylist={this.addToPlaylist}
@@ -330,15 +332,10 @@ class App extends Component {
 
       <div>
 
-        <button 
-                className="about-button"
-                onClick={this.handleAboutPress}>
+        <TopBar
+                handleAboutPress={this.handleAboutPress}
+                isLandingPage={true} />
 
-                <div className="inner-text">
-                  <i className="fa fa-question-circle" aria-hidden="true"></i> about
-                </div> 
-
-        </button>
 {/*
         <BackgroundHolder
                           backgroundData={backgroundData["backgrounds"]}/>
