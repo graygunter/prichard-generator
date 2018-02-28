@@ -30,7 +30,7 @@ class AboutScreen extends Component {
             <li className="random-button">
               <img 
                     alt="Random button"
-                    src={require(`../imgs/instructions/random_button.gif`)} />
+                    src={require(`../imgs/instructions/random_button.jpg`)} />
 
               <p>
                 Click the <strong>random button</strong> on any of the <strong>{this.props.numCategories} categories</strong> to hear a random audio clip from that category. {/* In this example we're about to play a random audio clip from the category <strong>Vince</strong>. But the fun doesn’t stop there...*/}
@@ -40,7 +40,7 @@ class AboutScreen extends Component {
             <li className="explore-button">
               <img 
                     alt="Explore button"
-                    src={require(`../imgs/instructions/explore_button.gif`)} />
+                    src={require(`../imgs/instructions/explore_button.jpg`)} />
 
               <p>
                 Click the <strong>explore button</strong> on a category to view every single audio clip associated with the category. {/* In this example we're about to explore the category <strong>Baby Tonight</strong> */}
@@ -60,7 +60,7 @@ class AboutScreen extends Component {
             <li className="audio-clip">
               <img 
                     alt="Audio clip"
-                    src={require(`../imgs/instructions/audio_clip.gif`)} />
+                    src={require(`../imgs/instructions/audio_clip.jpg`)} />
 
               <p>
                 Each <strong>audio clip</strong> is represented by a rectangle. The large text in the top left is the <strong>title</strong>. The blue <strong>play button</strong> plays the audio clip. The green <strong>add button</strong> will add that audio clip to the <strong>playlist</strong>. In the bottom left are <strong>tags</strong> associated with the audio clip separated by #. {/* In this example we’re looking at the audio clip <strong>rolltide10</strong> which is tagged “#roll tide”, “#on that” and “#indeed”.*/}
@@ -70,7 +70,7 @@ class AboutScreen extends Component {
             <li className="playlist">
               <img 
                     alt="Playlist"
-                    src={require(`../imgs/instructions/sound_queue.gif`)} />
+                    src={require(`../imgs/instructions/playlist.jpg`)} />
 
               <p>
                 The <strong>playlist</strong> holds all of the audio clips for the episode of Something to Wrestle you’re building. Pressing the <strong>play buttons</strong> will play the audio files in order from top to button. Pressing the <strong>reset button</strong> removes all audio clips from the playlist. You can remove individual audio clips from the queue by pressing the <strong>red X button</strong> beside each audio clip in the playlist.

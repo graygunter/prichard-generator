@@ -47,9 +47,9 @@ body {
       img {
 
         display: block;
-        height: 300px;
+        height: auto;
         margin: 0 auto 4%;
-        width: 300px;
+        width: 30%;
       
       }
 
@@ -91,22 +91,6 @@ body {
     background: url("../imgs/logo-light.jpg") no-repeat center 90% fixed #fff;
     background-size: 50%;
     padding-top: 120px;
-
-    .top-bar {
-
-      .inner-container {
-        
-        padding-bottom: 10px;
-
-        h2 {
-
-          display: inline;
-
-        }
-
-      }
-
-    }
 
     .about-instructions {
 
@@ -258,8 +242,9 @@ body {
     border-bottom: 1px solid #ccc;
     box-shadow: 1px 0px 20px rgba(0,0,0,0.4);
     box-sizing: border-box;
+    display: flex;
     min-height: 120px;
-    padding: 1.5% 1% .75%;
+    padding: .5% 1% .75%;
     position: fixed;
     right: 0;
     top: 0;
@@ -268,11 +253,8 @@ body {
 
     .title {
 
-      height: 100%;
-      left: 6.5%;
-      position: absolute;
-      top: 0;
-      width: 100px;
+      height: 106px;
+      width: 18.5%;
 
     }
 
@@ -391,12 +373,11 @@ body {
       border-left-color: transparent;
       border-right-color: transparent;
       border-top-color: transparent;
-
       border-bottom-style: solid;
       border-left-style: solid;
       border-right-style: solid;
       border-top-style: solid;
-
+      color: transparent;
       content:"";
       height: 0;
       position: absolute;
@@ -442,7 +423,7 @@ body {
 
   .playlist-instructions {
 
-    bottom: 29.25%;
+    bottom: 9.25%;
     height: 10%;
     left: 1%;
     width: 15rem;
@@ -462,10 +443,19 @@ body {
 
   .category-instructions {
 
-    bottom: 29%;
     height: 10%;
-    left: 34%;
+    left: 33rem;
+    top: 18rem;;
     width: 18rem;
+
+  }
+
+  .scroll-instructions {
+
+    bottom: 2.75%;
+    height: 6%;
+    right: 3.5%;
+    width: 9rem;
 
     &:after {
 
@@ -475,26 +465,6 @@ body {
       border-right-width: 13px;
       bottom: -29px;
       left: 10%;
-
-    }
-
-  }
-
-  .scroll-instructions {
-
-    bottom: 10%;
-    height: 6%;
-    right: 2%;
-    width: 9rem;
-
-    &:after {
-
-      border-bottom-width: 13px;
-      border-left-color: rgba(0,0,0,0.75); 
-      border-left-width: 26px;
-      border-top-width: 13px;
-      right: -29px;
-      top: 30%;
 
     }
 
@@ -694,13 +664,15 @@ body {
 .sound-palette {
 
   align-content: flex-start;
+  background-color: $blue;
   box-sizing: border-box;
   display: flex;
   flex-flow: row wrap;
   height: 100%;
   justify-content: space-around;
-  padding: 120px 0 0 0;
+  padding: 140px 0 0 0;
   position: absolute;
+  overflow-y: scroll;
   right: 0;
   top: 0;
   width: 80%;
@@ -712,14 +684,13 @@ body {
     box-sizing: border-box;
     border: 2px solid black;
     color: black;
-    display: inline-block;
     font-size: 1.25rem;
-    margin: auto;
-    padding: 0;
+    height: 230px;
+    margin: auto auto 20px;
     position: relative;
     text-align: center;
     transition: all .07s ease;
-    width: 25%;
+    width: 200px;
 
     .sound-tile-category {
 
@@ -771,10 +742,10 @@ body {
         @extend %standard-button;
         background: none;
         display: block;
-        height: 25px;
         margin: 0 auto;
+        padding: 7px 0;
         position: relative;
-        width: 90%;
+        width: 75%;
 
         .inner-text {
 
@@ -811,71 +782,68 @@ body {
     .top-bar {
 
       .explore-info {
-
-        .inner-container {
     
+        display: flex;
+        padding-bottom: 0;
+        width: 65%;
+
+        .icon {
+
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: contain;
+          display: block;
+          height: auto;
+          width: 12%;
+
+        }
+
+        .text-and-inputs {
+
           display: flex;
-          padding-bottom: 0;
+          width: 80%;
 
-          .icon {
+          .category-and-clips {
 
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: contain;
-            display: block;
-            height: auto;
-            margin-right: 2%;
-            width: 10%;
+            margin-right: 3%;
 
-          }
+            h4 {
 
-          .text-and-inputs {
-
-            display: flex;
-            width: 90%;
-
-            .category-and-clips {
-
-              margin-right: 3%;
-
-              h4 {
-
-                font-size: 2rem;
-                margin-bottom: 4%;
-
-              }
-
-              span {
-
-                color: $red;
-                font-weight: 700;
-                text-transform: uppercase
-
-              }
+              font-size: 1.7rem;
+              line-height: 2rem;
+              margin-bottom: 4%;
 
             }
 
-            input {
-            
-              @include border-radius(10px);
-              -webkit-appearance: none;
-              border: 2px solid $blue;
-              -webkit-box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
-              box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
-              box-sizing: border-box;
-              font-family: 'Oswald', sans-serif;
-              font-size: 1.25rem;
-              font-weight: 300;
-              height: 59px;
-              outline: none;
-              padding: 1% 2% 1% 3%;
-              width: 60%;
+            span {
 
-              &:focus {
+              color: $red;
+              font-weight: 700;
+              text-transform: uppercase
 
-                border-color: $green;
+            }
 
-              }
+          }
+
+          input {
+          
+            @include border-radius(10px);
+            -webkit-appearance: none;
+            border: 2px solid $blue;
+            -webkit-box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
+            box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
+            box-sizing: border-box;
+            font-family: 'Oswald', sans-serif;
+            font-size: 1.25rem;
+            font-weight: 300;
+            height: 59px;
+            outline: none;
+            padding: 1% 2% 1% 3%;
+            width: 25%;
+
+            &:focus {
+
+              border-color: $green;
 
             }
 
