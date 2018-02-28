@@ -24,7 +24,11 @@ class TopBar extends Component {
 
     return (
 
-            <h2>Well you know...</h2>
+      <div className="inner-container">
+
+        <h2>Well you know...</h2>
+
+      </div>
 
     );
 
@@ -54,23 +58,27 @@ class TopBar extends Component {
 
       <div className="explore-info">
 
-        <div 
-              className="icon"
-              style={{backgroundImage: this.props.iconPath}}>    
-        </div>
+        <div className="inner-container">
 
-        <div className="text-and-inputs">
-
-          <div className="category-and-clips">
-            <h4>Category: <span>{this.props.exploreTitle}</span></h4>
-            <h4><span>{this.props.tileData.length}</span> {this.props.audioClipsString}</h4>
+          <div 
+                className="icon"
+                style={{backgroundImage: this.props.iconPath}}>    
           </div>
 
-          <input  type="text"
-                  onBlur={this.props.onBlur}
-                  onChange={this.props.onChangeHandler}
-                  onFocus={this.props.onFocus}
-                  value={this.props.filterInput} />
+          <div className="text-and-inputs">
+
+            <div className="category-and-clips">
+              <h4>Category: <span>{this.props.exploreTitle}</span></h4>
+              <h4><span>{this.props.tileData.length}</span> {this.props.audioClipsString}</h4>
+            </div>
+
+            <input  type="text"
+                    onBlur={this.props.onBlur}
+                    onChange={this.props.onChangeHandler}
+                    onFocus={this.props.onFocus}
+                    value={this.props.filterInput} />
+
+          </div>
 
         </div>
 

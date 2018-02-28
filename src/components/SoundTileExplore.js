@@ -125,7 +125,6 @@ class SoundTileExplore extends Component {
 
         <TopBar
                 audioClipsString={audioClipsString}
-                exploreTitle={this.props.exploreTitle}
                 filterInput={this.state.filterInput}
                 handleBackClick={this.props.handleBackClick}
                 iconPath={iconPath}

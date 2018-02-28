@@ -24,15 +24,17 @@ class SoundPaletteTile extends Component {
     //console.log("$$$ " + iconPath);
 
     return (
+            <div className="icon-and-file">
 
-            <button 
-                    className="icon"
-                    onClick={() => this.props.handleSoundTileExplore(this.props.category)}
-                    title={"Explore " + category}
-                    style={{backgroundImage: iconPath}}>
+              <button 
+                      className="icon"
+                      onClick={() => this.props.handleSoundTileExplore(this.props.category)}
+                      title={"Explore " + category}
+                      style={{backgroundImage: iconPath}}>
 
-            </button>
+              </button>
 
+            </div>
     );
 
   }
@@ -49,32 +51,28 @@ class SoundPaletteTile extends Component {
           <div className="sound-tile-category">
             {this.props.category}
           </div>
-  
-          <div className="icon-and-buttons">
+        
+          {this.createIconAndFile()}
 
-            {this.createIconAndFile()}
-
-            <div className="sound-tile-buttons">
-              
-              <button 
-                      className="sound-tile-random"
-                      onClick={() => this.props.handleSoundTileRandom(this.props.category)}
-                      title={"Play Random " + category + " audio clip"}>
-                        <div className="inner-text">
-                          <i className="fa fa-play" aria-hidden="true"></i> random
-                        </div>
-              </button>
-              
-              <button 
-                      className="sound-tile-explore"
-                      onClick={() => this.props.handleSoundTileExplore(this.props.category)}
-                      title={"Explore " + category + "'s audio clips"}>
-                        <div className="inner-text">
-                          <i className="fa fa-search" aria-hidden="true"></i> explore
-                        </div>
-              </button>
-
-            </div>
+          <div className="sound-tile-buttons">
+            
+            <button 
+                    className="sound-tile-random"
+                    onClick={() => this.props.handleSoundTileRandom(this.props.category)}
+                    title={"Play Random " + category + " audio clip"}>
+                      <div className="inner-text">
+                        <i className="fa fa-play" aria-hidden="true"></i> random
+                      </div>
+            </button>
+            
+            <button 
+                    className="sound-tile-explore"
+                    onClick={() => this.props.handleSoundTileExplore(this.props.category)}
+                    title={"Explore " + category + "'s audio clips"}>
+                      <div className="inner-text">
+                        <i className="fa fa-search" aria-hidden="true"></i> explore
+                      </div>
+            </button>
 
           </div>
 
