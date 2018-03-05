@@ -125,15 +125,16 @@ class SoundTileExplore extends Component {
 
         <TopBar
                 audioClipsString={audioClipsString}
+                exploreTitle={this.props.exploreTitle}
                 filterInput={this.state.filterInput}
                 handleBackClick={this.props.handleBackClick}
                 iconPath={iconPath}
                 isExplorePage={true}
                 isLandingPage={false}
+                numberOfClips={this.props.tileData.length}
                 onBlur={this.onBlur.bind(this)}
                 onChangeHandler={this.onChangeHandler.bind(this)}
                 onFocus={this.onFocus.bind(this)}
-                tileData={this.props.tileData}
                 value={this.state.filterInput} />
 
         <div className="explore-items">

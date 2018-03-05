@@ -255,11 +255,15 @@ body {
   .top-bar {
   
     background-color: white;
+    background-image: url("../imgs/top_bar_bg.jpg");
+    background-position: center;
     border-bottom: 1px solid #ccc;
     box-shadow: 1px 0px 20px rgba(0,0,0,0.4);
     box-sizing: border-box;
+    display: flex;
+    height: auto;
     min-height: 120px;
-    padding: 1.5% 1% .75%;
+    padding: .5% 1% .75%;
     position: fixed;
     right: 0;
     top: 0;
@@ -268,20 +272,40 @@ body {
 
     .title {
 
-      height: 100%;
-      left: 6.5%;
-      position: absolute;
-      top: 0;
-      width: 100px;
+      height: 106px;
+      width: 18.5%;
+
+    }
+
+    h2 {
+
+      text-align: center;
+      width: 71.5%;
 
     }
 
     button {
-
-      position: absolute;
+      
+      @extend %standard-button;
+      background-color: $blue;
+      height: 2.5rem;
+      margin: auto;
       padding: 0.5% 1%;
-      top: 29%;
-      right: 1%;
+      width: 10%;
+
+      .inner-text {
+        
+        @extend %standard-button-text;
+
+      }
+
+      &.about-button {
+
+        position: absolute;
+        right: 10px;
+        top: 35%;
+
+      }
 
     }
 
@@ -300,7 +324,7 @@ body {
   .title {
 
     @include hide-text;
-    background-image: url("../imgs/logo.jpg");
+    background-image: url("../imgs/logo.png");
     background-position: center;
     background-size: contain;
 
@@ -482,52 +506,21 @@ body {
 
   .scroll-instructions {
 
-    bottom: 10%;
+    bottom: 3%;
     height: 6%;
-    right: 2%;
+    right: 10rem;
     width: 9rem;
 
     &:after {
 
-      border-bottom-width: 13px;
-      border-left-color: rgba(0,0,0,0.75); 
-      border-left-width: 26px;
-      border-top-width: 13px;
-      right: -29px;
-      top: 30%;
+      border-top-color: rgba(0,0,0,0.75);
+      border-top-width: 26px;
+      border-left-width: 13px;
+      border-right-width: 13px;
+      bottom: -29px;
+      left: 10%;
 
     }
-
-  }
-
-}
-
-.about-button {
-
-  @extend %standard-button;
-  background-color: $blue;
-  padding: 0.5% 1%;
-  position: fixed;
-  right: .75%;
-  top: 3%;
-  z-index: 4;
-
-  .inner-text {
-    
-    @extend %standard-button-text;
-
-  }
-
-}
-
-.back-button {
-
-  @extend %standard-button;
-  background-color: $blue;
-
-  .inner-text {
-    
-    @extend %standard-button-text;
 
   }
 
@@ -579,7 +572,7 @@ body {
   left: 0;
   padding: 0 0.5% 0;
   position: fixed;
-  top: 120px;
+  top: 125px;
   width: 20%;
 
   .playlist-tiles {
@@ -694,11 +687,13 @@ body {
 .sound-palette {
 
   align-content: flex-start;
+  background-color: $blue;
   box-sizing: border-box;
   display: flex;
   flex-flow: row wrap;
   height: 100%;
   justify-content: space-around;
+  overflow-y: scroll;
   padding: 120px 0 0 0;
   position: absolute;
   right: 0;
@@ -714,12 +709,12 @@ body {
     color: black;
     display: inline-block;
     font-size: 1.25rem;
-    margin: auto;
-    padding: 0;
+    margin: 10px;
+    padding-bottom: 10px;
     position: relative;
     text-align: center;
     transition: all .07s ease;
-    width: 25%;
+    width: 20%;
 
     .sound-tile-category {
 
@@ -811,71 +806,68 @@ body {
     .top-bar {
 
       .explore-info {
-
-        .inner-container {
     
+        display: flex;
+        padding-bottom: 0;
+        width: 73.5%;
+
+        .icon {
+
+          background-position: 50%;
+          background-repeat: no-repeat;
+          background-size: contain;
+          display: block;
+          height: auto;
+          width: 12%;
+
+        }
+
+        .text-and-inputs {
+
           display: flex;
-          padding-bottom: 0;
+          width: 80%;
 
-          .icon {
+          .category-and-clips {
 
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: contain;
-            display: block;
-            height: auto;
-            margin-right: 2%;
-            width: 10%;
+            margin-right: 3%;
 
-          }
+            h4 {
 
-          .text-and-inputs {
-
-            display: flex;
-            width: 90%;
-
-            .category-and-clips {
-
-              margin-right: 3%;
-
-              h4 {
-
-                font-size: 2rem;
-                margin-bottom: 4%;
-
-              }
-
-              span {
-
-                color: $red;
-                font-weight: 700;
-                text-transform: uppercase
-
-              }
+              font-size: 1.7rem;
+              line-height: 2rem;
+              margin-bottom: 4%;
 
             }
 
-            input {
-            
-              @include border-radius(10px);
-              -webkit-appearance: none;
-              border: 2px solid $blue;
-              -webkit-box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
-              box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
-              box-sizing: border-box;
-              font-family: 'Oswald', sans-serif;
-              font-size: 1.25rem;
-              font-weight: 300;
-              height: 59px;
-              outline: none;
-              padding: 1% 2% 1% 3%;
-              width: 60%;
+            span {
 
-              &:focus {
+              color: $red;
+              font-weight: 700;
+              text-transform: uppercase
 
-                border-color: $green;
+            }
 
-              }
+          }
+
+          input {
+          
+            @include border-radius(10px);
+            -webkit-appearance: none;
+            border: 2px solid $blue;
+            -webkit-box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
+            box-shadow: 0 0 4px 1px rgba(0,0,0,.25);
+            box-sizing: border-box;
+            font-family: 'Oswald', sans-serif;
+            font-size: 1.25rem;
+            font-weight: 300;
+            height: 59px;
+            outline: none;
+            padding: 1% 2% 1% 3%;
+            width: 25%;
+
+            &:focus {
+
+              border-color: $green;
 
             }
 
