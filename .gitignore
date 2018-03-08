@@ -1,4 +1,5 @@
 /build
+/node_modules
 /src/audio/.DS_Store
 /src/.DS_Store
 .DS_Store

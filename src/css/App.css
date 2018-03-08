@@ -622,7 +622,7 @@ body {
     body .sound-palette .sound-tile {
       width: 20%; }
   body .top-bar .title {
-    width: 32%; }
+    width: 28%; }
   body .top-bar h2, body .top-bar .explore-info {
     width: 58%; }
   body .playlist-and-sound-tile-explore .sound-tile-explore .explore-items {
@@ -647,9 +647,10 @@ body {
 @media (max-width: 946px) {
   body .inner-container {
     width: 710px; }
-
-  .playlist-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info {
-    width: 80%; } }
+  body .top-bar .button {
+    width: 15%; }
+  body .playlist-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info {
+    width: 53%; } }
 @media (max-width: 767px) {
   body .inner-container {
     width: 90%; }
