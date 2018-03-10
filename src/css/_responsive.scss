@@ -133,6 +133,26 @@
 
 }
 
+@media (max-height: 770px) {
+
+
+  .intro-screen {
+
+    .inner-container {
+
+      img {
+
+        width: 30%;
+
+      }
+
+    }
+
+  }
+
+}
+
+
 @media (max-width: 946px) {
 
   body {

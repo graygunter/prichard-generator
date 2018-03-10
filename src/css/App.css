@@ -93,9 +93,9 @@ body {
         margin-top: 6%; }
       body .intro-screen .inner-container img {
         display: block;
-        height: 300px;
+        height: auto;
         margin: 0 auto 4%;
-        width: 300px; }
+        width: 40%; }
       body .intro-screen .inner-container h3 span {
         color: #ff0033;
         font-size: 4rem;
@@ -643,6 +643,9 @@ body {
       
                   }
       */ } }
+@media (max-height: 770px) {
+  .intro-screen .inner-container img {
+    width: 30%; } }
 @media (max-width: 946px) {
   body .inner-container {
     width: 710px; }
