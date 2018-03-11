@@ -6,15 +6,27 @@ class TopBar extends Component {
 
     return (
 
-      <button 
-              className="about-button"
-              onClick={() => this.props.handleAboutPress()}>
+      <div className="buttons-container">
 
-              <div className="inner-text">
-                <i className="fa fa-question-circle" aria-hidden="true"></i> about
-              </div> 
+        <button 
+                className="about-button"
+                onClick={() => this.props.handleAboutPress()}>
 
-      </button>
+                <div className="inner-text">
+                  <i className="fa fa-question-circle" aria-hidden="true"></i> about
+                </div> 
+
+        </button>
+
+        <button
+                className="show-instructions"
+                onClick={() => this.props.handleInstructionsHide()}>
+                  <div className="inner-text">
+                    {this.props.instructionsHide ? "show instructions" : "hide instructions"}
+                  </div>
+        </button>
+
+      </div>
 
     );
 
@@ -34,15 +46,19 @@ class TopBar extends Component {
 
     return (
 
-      <button 
-              className="back-button"
-              onClick={() => this.props.handleBackClick()}>
+      <div className="buttons-container">
 
-              <div className="inner-text">
-                <i className="fa fa-chevron-circle-left" aria-hidden="true"></i> back
-              </div> 
+        <button 
+                className="back-button"
+                onClick={() => this.props.handleBackClick()}>
 
-      </button>
+                <div className="inner-text">
+                  <i className="fa fa-chevron-circle-left" aria-hidden="true"></i> back
+                </div> 
+
+        </button>
+
+      </div>
 
     );
 

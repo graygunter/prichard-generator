@@ -32,7 +32,7 @@ class App extends Component {
 
     this.handleIntroClose = this.handleIntroClose.bind(this);
 
-    this.handleInstructionHide = this.handleInstructionHide.bind(this);
+    this.handleInstructionsHide = this.handleInstructionsHide.bind(this);
 
     this.handleSoundTileExplore = this.handleSoundTileExplore.bind(this);
 
@@ -60,7 +60,7 @@ class App extends Component {
 
       initialLoadComplete: false,
 
-      instructionsToHide: [],
+      instructionsHide: false,
 
       showIntroScreen: true,
 
@@ -102,13 +102,12 @@ class App extends Component {
 
   }
 
-  handleInstructionHide(instructionToHide) {
+  handleInstructionsHide() {   
 
-    let tempinstructionsToHide = this.state.instructionsToHide;
-
-    tempinstructionsToHide.push(instructionToHide);    
-
-    this.setState({instructionsToHide : tempinstructionsToHide});
+    if(this.state.instructionsHide)
+      this.setState({instructionsHide : false});
+    else
+      this.setState({instructionsHide : true});
 
   }
 
@@ -299,6 +298,17 @@ class App extends Component {
 
   }
 
+  showInsructions() {
+
+    return (
+
+        <Instructions 
+                      instructionsData={instructionsData}/> 
+
+    );
+
+  }
+
   showSoundTileExplore() {
 
     //console.log("showSoundTileExplore");
@@ -334,6 +344,8 @@ class App extends Component {
 
         <TopBar
                 handleAboutPress={this.handleAboutPress}
+                handleInstructionsHide={this.handleInstructionsHide}
+                instructionsHide={this.state.instructionsHide}
                 isLandingPage={true} />
 
 {/*
@@ -351,10 +363,8 @@ class App extends Component {
                       handleSoundTileExplore={this.handleSoundTileExplore}
                       handleSoundTileRandom={this.handleSoundTileRandom}/>
         
-        <Instructions 
-                      handleInstructionHide={this.handleInstructionHide}
-                      instructionsData={instructionsData}
-                      instructionsToHide={this.state.instructionsToHide}/> 
+
+        {this.state.instructionsHide ? null : this.showInsructions() }
 
       </div>
 

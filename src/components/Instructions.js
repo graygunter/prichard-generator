@@ -10,17 +10,12 @@ class Instructions extends Component {
 
     for(let instruction in this.props.instructionsData) {
 
-      if(this.props.instructionsToHide.indexOf(instruction) === -1) {
+      let newInstruction = <InstructionsDetail
+                                                key={instruction + "instruction"}
+                                                instructionsTitle={instruction}
+                                                instructionsText={this.props.instructionsData[instruction][0]["text"]}/>
 
-        let newInstruction = <InstructionsDetail
-                                                  handleInstructionHide={this.props.handleInstructionHide}
-                                                  key={instruction + "instruction"}
-                                                  instructionsTitle={instruction}
-                                                  instructionsText={this.props.instructionsData[instruction][0]["text"]}/>
-
-        instructionsArray.push(newInstruction);
-
-      }
+      instructionsArray.push(newInstruction);
 
     }
 

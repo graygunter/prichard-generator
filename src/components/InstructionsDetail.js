@@ -10,11 +10,6 @@ class InstructionsDetail extends Component {
         <div className={
                 classNames("instructions-detail", this.props.instructionsTitle + "-instructions")}>
 
-            <button 
-              className="instructions-hide"
-              onClick={() => this.props.handleInstructionHide(this.props.instructionsTitle)}
-              title="Hide"></button>
-
             {this.props.instructionsText}
 
         </div>

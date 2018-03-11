@@ -90,7 +90,7 @@ body {
   &.about-screen {
     background: url("../imgs/logo-light.jpg") no-repeat center 90% fixed #fff;
     background-size: 50%;
-    padding-top: 120px;
+    padding-top: 150px;
 
     .top-bar {
 
@@ -276,10 +276,20 @@ body {
 
     }
 
-    h2 {
+    .buttons-container {
 
-      text-align: center;
-      width: 71.5%;
+      display: flex;
+      justify-content: flex-end;
+      position: absolute;
+      right: 10px;
+      top: 35%;
+      width: 30%;
+
+      button:nth-child(2) {
+
+        margin-left: 2%;
+
+      }
 
     }
 
@@ -288,21 +298,11 @@ body {
       @extend %standard-button;
       background-color: $blue;
       height: 2.5rem;
-      margin: auto;
-      padding: 0.5% 1%;
-      width: 10%;
+      padding: 0.5% 2%;
 
       .inner-text {
         
         @extend %standard-button-text;
-
-      }
-
-      &.about-button {
-
-        position: absolute;
-        right: 10px;
-        top: 35%;
 
       }
 
@@ -344,7 +344,7 @@ body {
   
     font-size: 4rem;
     font-weight: 700;
-    margin-bottom: 1%;
+    margin: 1% 0;
 
   }
 
@@ -408,59 +408,14 @@ body {
     position: absolute;
     z-index: 2;
 
-    &:after {
-
-      border-bottom-color: transparent;
-      border-left-color: transparent;
-      border-right-color: transparent;
-      border-top-color: transparent;
-
-      border-bottom-style: solid;
-      border-left-style: solid;
-      border-right-style: solid;
-      border-top-style: solid;
-
-      color: transparent;
-      content:"";
-      height: 0;
-      position: absolute;
-      width: 0;
-
-    }
-
-    .instructions-hide {
-
-      background: url("../imgs/instructions-hide.svg") no-repeat center center;
-      background-size: contain;
-      cursor: button;
-      display: block;
-      height: 30px;
-      left: -10px;
-      position: absolute;
-      top: -10px;
-      width: 30px;
-
-    }
-
   }
 
   .about-instructions {
 
     height: 6%;
-    right: 9.5%;
+    right: 18.5%;
     top: 1.9%;
     width: 8rem;
-
-    &:after {
-
-      border-bottom-width: 13px;
-      border-left-color: rgba(0,0,0,0.75);
-      border-left-width: 26px;
-      border-top-width: 13px;
-      right: -29px;
-      top: 30%;
-
-    }
 
   }
 
@@ -471,17 +426,6 @@ body {
     left: 1%;
     width: 15rem;
 
-    &:after {
-
-      border-top-color: rgba(0,0,0,0.75);
-      border-top-width: 26px;
-      border-left-width: 13px;
-      border-right-width: 13px;
-      bottom: -29px;
-      left: 10%;
-
-    }
-
   }
 
   .category-instructions {
@@ -491,17 +435,6 @@ body {
     left: 34%;
     width: 18rem;
 
-    &:after {
-
-      border-top-color: rgba(0,0,0,0.75);
-      border-top-width: 26px;
-      border-left-width: 13px;
-      border-right-width: 13px;
-      bottom: -29px;
-      left: 10%;
-
-    }
-
   }
 
   .scroll-instructions {
@@ -510,17 +443,6 @@ body {
     height: 6%;
     right: 10rem;
     width: 9rem;
-
-    &:after {
-
-      border-top-color: rgba(0,0,0,0.75);
-      border-top-width: 26px;
-      border-left-width: 13px;
-      border-right-width: 13px;
-      bottom: -29px;
-      left: 10%;
-
-    }
 
   }
 

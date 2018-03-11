@@ -110,7 +110,7 @@ body {
   body.about-screen {
     background: url("../imgs/logo-light.jpg") no-repeat center 90% fixed #fff;
     background-size: 50%;
-    padding-top: 120px; }
+    padding-top: 150px; }
     body.about-screen .top-bar .inner-container {
       padding-bottom: 10px; }
       body.about-screen .top-bar .inner-container h2 {
@@ -185,19 +185,19 @@ body {
     body .top-bar .title {
       height: 106px;
       width: 18.5%; }
-    body .top-bar h2 {
-      text-align: center;
-      width: 71.5%; }
+    body .top-bar .buttons-container {
+      display: flex;
+      justify-content: flex-end;
+      position: absolute;
+      right: 10px;
+      top: 35%;
+      width: 30%; }
+      body .top-bar .buttons-container button:nth-child(2) {
+        margin-left: 2%; }
     body .top-bar button {
       background-color: #0070c9;
       height: 2.5rem;
-      margin: auto;
-      padding: 0.5% 1%;
-      width: 10%; }
-      body .top-bar button.about-button {
-        position: absolute;
-        right: 10px;
-        top: 35%; }
+      padding: 0.5% 2%; }
   body .inner-container {
     margin: 0 auto;
     padding-bottom: 100px;
@@ -226,7 +226,7 @@ body {
   body h2 {
     font-size: 4rem;
     font-weight: 700;
-    margin-bottom: 1%; }
+    margin: 1% 0; }
   body p {
     font-size: 1.75rem;
     line-height: 2.5rem;
@@ -263,78 +263,26 @@ body {
     padding: 0.5% 1.5% 1.5%;
     position: absolute;
     z-index: 2; }
-    .instructions .instructions-detail:after {
-      border-bottom-color: transparent;
-      border-left-color: transparent;
-      border-right-color: transparent;
-      border-top-color: transparent;
-      border-bottom-style: solid;
-      border-left-style: solid;
-      border-right-style: solid;
-      border-top-style: solid;
-      color: transparent;
-      content: "";
-      height: 0;
-      position: absolute;
-      width: 0; }
-    .instructions .instructions-detail .instructions-hide {
-      background: url("../imgs/instructions-hide.svg") no-repeat center center;
-      background-size: contain;
-      cursor: button;
-      display: block;
-      height: 30px;
-      left: -10px;
-      position: absolute;
-      top: -10px;
-      width: 30px; }
   .instructions .about-instructions {
     height: 6%;
-    right: 9.5%;
+    right: 18.5%;
     top: 1.9%;
     width: 8rem; }
-    .instructions .about-instructions:after {
-      border-bottom-width: 13px;
-      border-left-color: rgba(0, 0, 0, 0.75);
-      border-left-width: 26px;
-      border-top-width: 13px;
-      right: -29px;
-      top: 30%; }
   .instructions .playlist-instructions {
     bottom: 29.25%;
     height: 10%;
     left: 1%;
     width: 15rem; }
-    .instructions .playlist-instructions:after {
-      border-top-color: rgba(0, 0, 0, 0.75);
-      border-top-width: 26px;
-      border-left-width: 13px;
-      border-right-width: 13px;
-      bottom: -29px;
-      left: 10%; }
   .instructions .category-instructions {
     bottom: 29%;
     height: 10%;
     left: 34%;
     width: 18rem; }
-    .instructions .category-instructions:after {
-      border-top-color: rgba(0, 0, 0, 0.75);
-      border-top-width: 26px;
-      border-left-width: 13px;
-      border-right-width: 13px;
-      bottom: -29px;
-      left: 10%; }
   .instructions .scroll-instructions {
     bottom: 3%;
     height: 6%;
     right: 10rem;
     width: 9rem; }
-    .instructions .scroll-instructions:after {
-      border-top-color: rgba(0, 0, 0, 0.75);
-      border-top-width: 26px;
-      border-left-width: 13px;
-      border-right-width: 13px;
-      bottom: -29px;
-      left: 10%; }
 
 .background-holder {
   height: 75%;
