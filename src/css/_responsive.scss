@@ -135,14 +135,17 @@
 
 @media (max-height: 770px) {
 
+  body {
 
-  .intro-screen {
+    .intro-screen {
 
-    .inner-container {
+      .inner-container {
 
-      img {
+        img {
 
-        width: 30%;
+          width: 30%;
+
+        }
 
       }
 
@@ -186,6 +189,24 @@
           }
 
         }
+
+      }
+
+    }
+
+  }
+
+}
+
+@media (max-width: 850px) {
+
+  body {
+
+    .top-bar {
+
+      .buttons-container {
+
+        width: auto;
 
       }
 
@@ -426,5 +447,35 @@
     }
 
   }
+
+}
+
+@media (max-width: 499px) {
+
+  body {
+
+    .top-bar {
+
+      .buttons-container {
+
+        display: block;
+        top: 15%;
+
+        button, button:nth-child(2){
+
+          margin-bottom: 5%;
+          margin-left: 0;
+          padding-left: 0;
+          padding-right: 0;
+          width: 100%;
+
+        }
+
+      }
+
+    }
+
+  }
+
 
 }

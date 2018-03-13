@@ -288,6 +288,7 @@ body {
       button:nth-child(2) {
 
         margin-left: 2%;
+        width: 12rem;
 
       }
 
@@ -299,6 +300,7 @@ body {
       background-color: $blue;
       height: 2.5rem;
       padding: 0.5% 2%;
+      width: 6rem;
 
       .inner-text {
         
@@ -747,6 +749,7 @@ body {
         .text-and-inputs {
 
           display: flex;
+          padding-top: 1.5%;
           width: 80%;
 
           .category-and-clips {

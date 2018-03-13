@@ -193,11 +193,13 @@ body {
       top: 35%;
       width: 30%; }
       body .top-bar .buttons-container button:nth-child(2) {
-        margin-left: 2%; }
+        margin-left: 2%;
+        width: 12rem; }
     body .top-bar button {
       background-color: #0070c9;
       height: 2.5rem;
-      padding: 0.5% 2%; }
+      padding: 0.5% 2%;
+      width: 6rem; }
   body .inner-container {
     margin: 0 auto;
     padding-bottom: 100px;
@@ -465,6 +467,7 @@ body {
     width: 12%; }
   .playlist-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info .text-and-inputs {
     display: flex;
+    padding-top: 1.5%;
     width: 80%; }
     .playlist-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info .text-and-inputs .category-and-clips {
       margin-right: 3%; }
@@ -593,7 +596,7 @@ body {
                   }
       */ } }
 @media (max-height: 770px) {
-  .intro-screen .inner-container img {
+  body .intro-screen .inner-container img {
     width: 30%; } }
 @media (max-width: 946px) {
   body .inner-container {
@@ -602,6 +605,9 @@ body {
     width: 15%; }
   body .playlist-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info {
     width: 53%; } }
+@media (max-width: 850px) {
+  body .top-bar .buttons-container {
+    width: auto; } }
 @media (max-width: 767px) {
   body .inner-container {
     width: 90%; }
@@ -648,6 +654,16 @@ body {
   body .playlist-and-sound-tile-explore .sound-tile-explore .explore-items {
     width: 55%; }
     body .playlist-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item {
+      width: 100%; } }
+@media (max-width: 499px) {
+  body .top-bar .buttons-container {
+    display: block;
+    top: 15%; }
+    body .top-bar .buttons-container button, body .top-bar .buttons-container button:nth-child(2) {
+      margin-bottom: 5%;
+      margin-left: 0;
+      padding-left: 0;
+      padding-right: 0;
       width: 100%; } }
 
 /*# sourceMappingURL=App.css.map */
