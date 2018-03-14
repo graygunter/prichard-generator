@@ -292,14 +292,14 @@ body {
     top: 1.9%;
     width: 8rem; }
   .instructions .playlist-instructions {
-    bottom: 29.25%;
+    bottom: 8.25%;
     height: 10%;
     left: 1%;
     width: 15rem; }
   .instructions .category-instructions {
     bottom: 29%;
     height: 10%;
-    left: 34%;
+    left: 22%;
     width: 18rem; }
   .instructions .scroll-instructions {
     bottom: 3%;
@@ -338,7 +338,7 @@ body {
   left: 0;
   padding: 0 0.5% 0;
   position: fixed;
-  top: 125px;
+  top: 120px;
   width: 20%; }
   .left-column .playlist-tiles {
     -webkit-border-radius: 2px;
@@ -360,7 +360,7 @@ body {
       box-shadow: inset 1px 1px 4px 0px rgba(0, 0, 0, 0.4);
       background-color: #0070c9;
       left: 0;
-      padding: 8px 0;
+      padding: 15px 0;
       position: absolute;
       width: 100%;
       top: 0;
