@@ -576,7 +576,9 @@ body {
 
 @media only screen and (max-device-width: 767px) and (orientation: landscape) {
   body .please-rotate {
-    display: block; } }
+    display: block; }
+  body .master-container, body .intro-screen {
+    display: none; } }
 @media (max-width: 1200px) {
   body .left-column .playlist-tiles {
     height: 65%; }

@@ -376,7 +376,7 @@ class App extends Component {
 
     return (
 
-      <div>
+      <div className="master-container">
         {this.state.soundTileToExplore ? this.showSoundTileExplore() : this.showGenerator()}
       </div>
 
@@ -399,7 +399,7 @@ class App extends Component {
             please rotate your device
 
           </div>
-          
+
         </div>
 
         {this.state.soundToPlay ? this.soundFile() : null}
