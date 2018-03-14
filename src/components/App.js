@@ -390,6 +390,18 @@ class App extends Component {
 
       <div>
 
+        <div className="please-rotate">
+
+          <img src={require(`../imgs/logo.png`)} />
+
+          <div className="inner-text">
+
+            please rotate your device
+
+          </div>
+          
+        </div>
+
         {this.state.soundToPlay ? this.soundFile() : null}
 
         {this.state.showAboutScreen ? this.showAboutScreen() : this.showInteractionScreen()}

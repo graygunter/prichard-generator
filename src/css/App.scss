@@ -9,6 +9,39 @@ body {
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
 
+  .please-rotate {
+
+    background-image: url("../imgs/top_bar_bg.jpg");
+    background-position: center;
+    box-sizing: border-box;
+    display: none;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+
+    .inner-text {
+
+      background-color: black;
+      color: white;
+      font-size: 3rem;
+      padding: 2% 0;
+      text-transform: uppercase;
+
+    }
+
+    img {
+
+      height: auto;
+      width: 60%;
+
+    }
+
+  }
+
   .intro-screen {
 
     background-color: rgba(0,0,0,.75);

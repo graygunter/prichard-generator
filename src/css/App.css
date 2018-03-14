@@ -68,6 +68,27 @@ body.about-screen .about-instructions li:after, .left-column .playlist-tiles .pl
 body {
   font-family: 'Oswald', sans-serif;
   font-weight: 300; }
+  body .please-rotate {
+    background-image: url("../imgs/top_bar_bg.jpg");
+    background-position: center;
+    box-sizing: border-box;
+    display: none;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    z-index: 10; }
+    body .please-rotate .inner-text {
+      background-color: black;
+      color: white;
+      font-size: 3rem;
+      padding: 2% 0;
+      text-transform: uppercase; }
+    body .please-rotate img {
+      height: auto;
+      width: 60%; }
   body .intro-screen {
     background-color: rgba(0, 0, 0, 0.75);
     color: #FFF;
@@ -553,6 +574,9 @@ body {
         margin-right: 5px;
         white-space: nowrap; }
 
+@media only screen and (max-device-width: 767px) and (orientation: landscape) {
+  body .please-rotate {
+    display: block; } }
 @media (max-width: 1200px) {
   body .left-column .playlist-tiles {
     height: 65%; }

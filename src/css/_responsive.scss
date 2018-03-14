@@ -1,3 +1,19 @@
+@media only screen 
+  and (max-device-width: 767px)
+  and (orientation: landscape) {
+
+    body{
+
+      .please-rotate {
+
+        display: block;
+
+      }
+
+    }
+
+}
+
 @media (max-width: 1200px) {
 
   body {
