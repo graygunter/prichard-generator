@@ -282,29 +282,24 @@ body {
     color: #fff;
     display: block;
     font-size: 2em;
-    line-height: 1.4em;
-    padding: 0.5% 1.5% 1.5%;
+    line-height: 1.2em;
+    padding: 1rem;
     position: absolute;
     z-index: 2; }
-  .instructions .about-instructions {
-    height: 6%;
-    right: 18.5%;
-    top: 1.9%;
-    width: 8rem; }
   .instructions .playlist-instructions {
-    bottom: 8.25%;
+    bottom: 10rem;
     height: 10%;
-    left: 1%;
+    left: .5rem;
     width: 15rem; }
   .instructions .category-instructions {
-    bottom: 29%;
+    bottom: 19rem;
     height: 10%;
-    left: 22%;
+    right: 4rem;
     width: 18rem; }
   .instructions .scroll-instructions {
-    bottom: 3%;
+    bottom: 3rem;
     height: 6%;
-    right: 10rem;
+    right: 1rem;
     width: 9rem; }
 
 .background-holder {
