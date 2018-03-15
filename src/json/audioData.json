@@ -3036,6 +3036,10 @@
       "tags": ["bruce", "have you ever", "watched the show"]
     }},
     {
+    "bruce-wearingathong": {
+      "tags": ["bruce", "im sure", "hes wearing", "a thong"]
+    }},
+    {
     "bruce-wearyourmaxipad": {
       "tags": ["bruce", "where do you", "wear your", "maxipad"]
     }},
@@ -3961,6 +3965,10 @@
     "conrad-cowboyhats": {
       "tags": ["conrad", "vince", "jr", "lawler"]
     }},  
+    {
+    "conrad-crankoneout": {
+      "tags": ["conrad", "crank one out", "youll feel better"]
+    }},
     {
     "conrad-crownjewel": {
       "tags": ["conrad", "crown jewel", "mlw"]
@@ -8372,6 +8380,14 @@
       "tags": ["savage", "meant to talk", "brother"]
     }},
     {
+    "savage-milliondollarman1": {
+      "tags": ["savage", "million dollar man"]
+    }},
+    {
+    "savage-milliondollarman2": {
+      "tags": ["savage", "million dollar man", "badcheck"]
+    }},
+    {
     "savage-myhair": {
       "tags": ["savage", "my hair", "looks nice"]
     }},
@@ -10990,6 +11006,10 @@
       "tags": ["hogan", "hell no"]
     }},
     {
+    "hogan-hulkamania": {
+      "tags": ["hogan", "hulkamania", "brother"]
+    }},
+    {
     "hogan-mustpose1": {
       "tags": ["hogan", "must pose"]
     }},
@@ -12119,13 +12139,32 @@
     }},
     {
     "beefcake-thefuckingbarber18": {
-      "tags": ["beefcake", "the fucking barber", "bruce"]
+      "tags": ["beefcake", "the fucking barber"]
     }},
     {
-    "beefcake-thongs": {
+    "beefcake-thefuckingbarber18": {
+      "tags": ["beefcake", "the fucking barber"]
+    }},
+    {
+    "beefcake-thefuckingbarber19": {
+      "tags": ["beefcake", "the fucking barber"]
+    }},
+    {
+    "beefcake-thefuckingbarber20": {
+      "tags": ["beefcake", "the fucking barber"]
+    }},
+    {
+    "beefcake-thefuckingbarber21": {
+      "tags": ["beefcake", "the fucking barber"]
+    }},
+    {
+    "beefcake-thongs1": {
       "tags": ["beefcake", "the fucking barber", "wore thongs"]
+    }},
+    {
+    "beefcake-thongs2": {
+      "tags": ["beefcake", "is brutus wearing", "a thong"]
     }}
-
   ],
   "rgt4law": [
     {
@@ -12212,11 +12251,15 @@
     }},
     {
     "rus-slammys": {
-      "tags": ["rus", "slammys r us"]
+      "tags": ["rus", "slammys"]
+    }},
+    {
+    "rus-shears": {
+      "tags": ["rus", "shears"]
     }},
     {
     "rus-smashglass": {
-      "tags": ["rus", "smash glass r us"]
+      "tags": ["rus", "smash glass"]
     }},
     {
     "rus-snakebites": {
