@@ -4114,8 +4114,12 @@
       "tags": ["conrad", "you", "dont get", "the money"]
     }},
     {
-    "conrad-dontknowshit": {
+    "conrad-dontknowshit1": {
       "tags": ["conrad", "you", "dont know", "shit"]
+    }},
+    {
+    "conrad-dontknowshit2": {
+      "tags": ["conrad", "dont know shit", "about wrestling"]
     }},
     {
     "conrad-dontputat1": {
@@ -8296,6 +8300,10 @@
       "tags": ["savage", "ease up", "brother"]
     }},
     {
+    "savage-elizabeth": {
+      "tags": ["savage", "elizabeth"]
+    }},
+    {
     "savage-eyeofmadness": {
       "tags": ["savage", "eye of madness", "oh yeah"]
     }},
@@ -8314,6 +8322,10 @@
     {
     "savage-forgetmyname": {
       "tags": ["savage", "forget my name", "look at my boots"]
+    }},
+    {
+    "savage-freakout": {
+      "tags": ["savage", "freak out"]
     }},
     {
     "savage-frontallobes": {
