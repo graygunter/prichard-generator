@@ -20,6 +20,21 @@
 
 }
 
+
+@media (orientation: portrait) {
+
+  .left-column {
+
+    .playlist-tiles {
+
+      height: 50%;
+
+    }
+
+  }
+
+}
+
 @media (max-width: 1200px) {
 
   body {
@@ -170,20 +185,6 @@
         }
 
       }
-
-    }
-
-  }
-
-}
-
-@media (max-height: 760px) {
-
-  .left-column {
-
-    .playlist-tiles {
-
-      height: 45%;
 
     }
 
