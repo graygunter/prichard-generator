@@ -480,7 +480,7 @@ body {
     background-size: contain;
     display: block;
     height: auto;
-    width: 12%; }
+    width: 20%; }
   .playlist-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info .text-and-inputs {
     display: flex;
     padding-top: 1.5%;
@@ -625,10 +625,10 @@ body {
 @media (max-width: 946px) {
   body .inner-container {
     width: 710px; }
-  body .top-bar .button {
-    width: 15%; }
   body .playlist-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info {
-    width: 53%; } }
+    width: 62%; }
+    body .playlist-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info .text-and-inputs input {
+      width: 35%; } }
 @media (max-width: 850px) {
   body .top-bar .buttons-container {
     width: auto; } }

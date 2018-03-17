@@ -202,16 +202,6 @@
 
     }
 
-    .top-bar {
-
-      .button {
-
-        width: 15%;
-
-      }
-
-    }
-
     .playlist-and-sound-tile-explore {
 
       .sound-tile-explore {
@@ -220,7 +210,17 @@
 
           .explore-info {
 
-            width: 53%;
+            width: 62%;
+
+            .text-and-inputs {
+
+              input {
+
+                width: 35%;
+
+              }
+
+            }
 
           }
 

@@ -78,7 +78,7 @@ class TopBar extends Component {
         <div className="text-and-inputs">
 
           <div className="category-and-clips">
-            <h4>Category: <span>{this.props.exploreTitle}</span></h4>
+            <h4><span>{this.props.exploreTitle}</span></h4>
             <h4><span>{this.props.numberOfClips}</span> {this.props.audioClipsString}</h4>
           </div>
 
