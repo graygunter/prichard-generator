@@ -623,7 +623,7 @@ body {
   body .intro-screen .inner-container img {
     width: 30%; }
   body .left-column .playlist-tiles {
-    height: 65%; } }
+    height: 60%; } }
 @media (max-width: 946px) {
   body .inner-container {
     width: 710px; }
