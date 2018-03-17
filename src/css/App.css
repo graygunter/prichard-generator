@@ -627,6 +627,8 @@ body {
     margin-top: 3%; }
   body .intro-screen .inner-container img {
     width: 30%; }
+  body .intro-screen .inner-container button {
+    padding: 2% 5%; }
   body .left-column .playlist-tiles {
     height: 58%; } }
 @media (max-width: 946px) {
