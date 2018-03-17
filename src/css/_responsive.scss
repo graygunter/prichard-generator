@@ -87,6 +87,16 @@
 
 }
 
+@media (max-width: 1100px) {
+
+  body.about-screen {
+
+    background-size: 56%;
+
+  }
+
+}
+
 @media (max-width: 1023px) {
 
   body {
@@ -178,6 +188,12 @@
 
       .inner-container {
 
+        h2 {
+
+          margin-top: 3%;
+
+        }
+
         img {
 
           width: 30%;
@@ -192,7 +208,7 @@
 
       .playlist-tiles {
 
-        height: 60%;
+        height: 58%;
 
       }
 
@@ -255,6 +271,12 @@
         width: auto;
 
       }
+
+    }
+
+    &.about-screen {
+
+      background-size: 70%;
 
     }
 
@@ -432,6 +454,8 @@
   body {
 
     &.about-screen {
+
+      background-size: 90%;
 
       .about-instructions {
 

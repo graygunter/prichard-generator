@@ -129,8 +129,8 @@ body {
           font-size: 3rem;
           line-height: 3rem; }
   body.about-screen {
-    background: url("../imgs/logo-light.jpg") no-repeat center 90% fixed #fff;
-    background-size: 50%;
+    background: url("../imgs/logo-light.jpg") no-repeat center fixed #fff;
+    background-size: 41%;
     padding-top: 150px; }
     body.about-screen .top-bar .inner-container {
       padding-bottom: 10px; }
@@ -586,6 +586,9 @@ body {
       width: 100%; }
   body .playlist-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item .explore-item-name-and-button {
     font-size: 1.25rem; } }
+@media (max-width: 1100px) {
+  body.about-screen {
+    background-size: 56%; } }
 @media (max-width: 1023px) {
   body .left-column {
     width: 30%; }
@@ -620,10 +623,12 @@ body {
                   }
       */ } }
 @media (max-height: 770px) {
+  body .intro-screen .inner-container h2 {
+    margin-top: 3%; }
   body .intro-screen .inner-container img {
     width: 30%; }
   body .left-column .playlist-tiles {
-    height: 60%; } }
+    height: 58%; } }
 @media (max-width: 946px) {
   body .inner-container {
     width: 710px; }
@@ -633,7 +638,9 @@ body {
       width: 35%; } }
 @media (max-width: 850px) {
   body .top-bar .buttons-container {
-    width: auto; } }
+    width: auto; }
+  body.about-screen {
+    background-size: 70%; } }
 @media (max-width: 767px) {
   body .inner-container {
     width: 90%; }
@@ -669,8 +676,10 @@ body {
         height: 39px;
         width: 70%; } }
 @media (max-width: 599px) {
-  body.about-screen .about-instructions li.audio-clip img, body.about-screen .about-instructions li.filter img {
-    width: 100%; }
+  body.about-screen {
+    background-size: 90%; }
+    body.about-screen .about-instructions li.audio-clip img, body.about-screen .about-instructions li.filter img {
+      width: 100%; }
   body .left-column {
     width: 45%; }
   body .sound-palette {
