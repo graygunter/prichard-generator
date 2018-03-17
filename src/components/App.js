@@ -392,7 +392,9 @@ class App extends Component {
 
         <div className="please-rotate">
 
-          <img src={require(`../imgs/logo.png`)} />
+          <img 
+                alt="Something to Generate Something to Wrestle with Bruce Prichard"
+                src={require(`../imgs/logo.png`)} />
 
           <div className="inner-text">
 

@@ -502,18 +502,65 @@
 
     .top-bar {
 
+      .title {
+
+        background-position: right center;
+        margin-right: 3%;
+        width: 38%;
+
+      }
+
       .buttons-container {
 
         display: block;
         top: 15%;
+        width: 53%;
 
-        button, button:nth-child(2){
-
+        button, button:nth-child(2) {
+          
           margin-bottom: 5%;
           margin-left: 0;
           padding-left: 0;
           padding-right: 0;
           width: 100%;
+
+        }
+
+      }
+
+    }
+
+    .playlist-and-sound-tile-explore {
+
+      .sound-tile-explore {
+
+        .top-bar {
+
+          .explore-info {
+
+            .icon {
+
+              display: none;
+
+            }
+
+          }
+
+          .buttons-container {
+
+            width: 5rem;
+
+            button, button:nth-child(2){
+
+              margin-bottom: 5%;
+              margin-left: 0;
+              padding-left: 0;
+              padding-right: 0;
+              width: 100%;
+
+            }
+
+          }
 
         }
 

@@ -36,7 +36,7 @@ class TopBar extends Component {
 
     return (
 
-      <h2>Well you know...</h2>
+      null
 
     );
 
