@@ -356,11 +356,15 @@
     }},
     {
     "bruce-bullshit1": {
-      "tags": ["bruce", "bullshit", "shit"]
+      "tags": ["bruce", "bullshit"]
     }},
     {
     "bruce-bullshit2": {
-      "tags": ["bruce", "bullshit", "shit"]
+      "tags": ["bruce", "bullshit"]
+    }},
+    {
+    "bruce-bullshit3": {
+      "tags": ["bruce", "bullshit"]
     }},
     {
     "bruce-bullshitanswer": {
@@ -2240,6 +2244,10 @@
       "tags": ["bruce", "without talking about", "private parts"]
     }},
     {
+    "bruce-privatetime": {
+      "tags": ["bruce", "type of person", "retreat", "private time"]
+    }},
+    {
     "bruce-professionalwomen": {
       "tags": ["bruce", "women professionals"]
     }},
@@ -2330,6 +2338,10 @@
     {
     "bruce-repoman": {
       "tags": ["bruce", "repo man", "superstar"]
+    }},
+    {
+    "bruce-reportthat": {
+      "tags": ["bruce", "why dont you", "report that"]
     }},
     {
     "bruce-respectballs": {
@@ -3730,6 +3742,14 @@
       "tags": ["conrad", "bruce prichard", "whisper"]
     }},
     {
+    "conrad-bruceprichard3": {
+      "tags": ["conrad", "bruce prichard"]
+    }},
+    {
+    "conrad-bruceprichard4": {
+      "tags": ["conrad", "bruce prichard"]
+    }},
+    {
     "conrad-brucepricharddotcom": {
       "tags": ["conrad", "bruce prichard", "dot com", "check it out"]
     }},
@@ -3884,6 +3904,10 @@
     {
     "conrad-chocolatetitties": {
       "tags": ["conrad", "hes cool with", "chocolate", "titties"]
+    }},
+    {
+    "conrad-chocolatetittiesfalse": {
+      "tags": ["conrad", "chocolate", "titties", "story", "false"]
     }},
     {
     "conrad-choiceofwords": {
@@ -6954,6 +6978,10 @@
       "tags": ["conrad", "wrestling business", "weird place"]
     }},
     {
+    "conrad-wrestlingfake": {
+      "tags": ["conrad", "all of", "wrestling", "fake"]
+    }},
+    {
     "conrad-wrestlingfan": {
       "tags": ["conrad", "wrestling fan"]
     }},
@@ -9372,6 +9400,10 @@
       "tags": ["dusty", "it was", "magic"]
     }},
     {
+    "dusty-makemovies": {
+      "tags": ["dusty", "make", "movies"]
+    }},
+    {
     "dusty-moremoney": {
       "tags": ["dusty", "big ideas", "more money"]
     }},
@@ -9913,6 +9945,10 @@
     "meltzer-meltzermark": {
       "tags": ["meltzer", "conrad", "dirt sheets"]
     }}, 
+    {
+    "meltzer-newsandnotes": {
+      "tags": ["meltzer", "wrestling observer", "news", "notes"]
+    }},
     {
     "meltzer-niceguy": {
       "tags": ["meltzer", "nice guy", "bruce"]
