@@ -1268,6 +1268,10 @@
       "tags": ["bruce", "horrible"]
     }},
     {
+    "bruce-horseshit": {
+      "tags": ["bruce", "not going to answer", "horseshit"]
+    }},
+    {
     "bruce-howardfinkel": {
       "tags": ["bruce", "howard finkel", "the fink"]
     }},
@@ -3922,6 +3926,10 @@
       "tags": ["conrad", "chat me up"]
     }},
     {
+    "conrad-chatmeup4": {
+      "tags": ["conrad", "chat me up", "bruce"]
+    }},
+    {
     "conrad-cheatonme": {
       "tags": ["conrad", "cheat"]
     }},
@@ -4040,6 +4048,10 @@
     {
     "conrad-coolstory2": {
       "tags": ["conrad", "cool story", "okay"]
+    }},
+    {
+    "conrad-coolstory3": {
+      "tags": ["conrad", "cool story", "bro"]
     }},
     {
     "conrad-coolwiththat": {
@@ -4930,6 +4942,10 @@
       "tags": ["conrad", "i dont know when well talk about"]
     }},
     {
+    "conrad-idontknowwhen9": {
+      "tags": ["conrad", "i dont know when well talk about"]
+    }},
+    {
     "conrad-idontunderstand": {
       "tags": ["conrad", "brother love", "mortgage guy", "podcast"]
     }},
@@ -4956,6 +4972,10 @@
     {
     "conrad-iloveyou2": {
       "tags": ["conrad", "i love you", "for that"]
+    }},
+    {
+    "conrad-iloveyou3": {
+      "tags": ["conrad", "i love you"]
     }},
     {
     "conrad-imabigfatguy": {
@@ -5514,6 +5534,14 @@
       "tags": ["conrad", "motherfucker", "yes"]
     }},
     {
+    "conrad-motherfuckshame": {
+      "tags": ["conrad", "motherfuckers", "ought to be", "ashamed"]
+    }},
+    {
+    "conrad-mothergoof": {
+      "tags": ["conrad", "mother", "fucking", "goof"]
+    }},
+    {
     "conrad-mountie1": {
       "tags": ["conrad", "mountie"]
     }},
@@ -5668,6 +5696,10 @@
     {
     "conrad-oldfucker": {
       "tags": ["conrad", "youre not now", "old fucker"]
+    }},
+    {
+    "conrad-oneandhalfmillion": {
+      "tags": ["conrad", "one and a half million", "motherfucker"]
     }},
     {
     "conrad-onedrink": {
@@ -6930,6 +6962,10 @@
       "tags": ["conrad", "booking", "shit"]
     }},
     {
+    "conrad-whobooked11": {
+      "tags": ["conrad", "booking", "shit"]
+    }},
+    {
     "conrad-whoseidea1": {
       "tags": ["conrad", "whose idea", "was this"]
     }},
@@ -7000,6 +7036,10 @@
     {
     "conrad-withyourbutt": {
       "tags": ["conrad", "didnt do anything", "with your butt"]
+    }},
+    {
+    "conrad-worstinsult": {
+      "tags": ["conrad", "worst insult", "ive ever heard"]
     }},
     {
     "conrad-worstmatch": {
@@ -7408,6 +7448,10 @@
       "tags": ["vince", "it was a", "fuck view"]
     }},
     {
+    "vince-fuckyoubruce": {
+      "tags": ["vince", "fuck you", "bruce"]
+    }},    
+    {
     "vince-funky": {
       "tags": ["vince", "hes so", "funky"]
     }},
@@ -7440,8 +7484,12 @@
       "tags": ["vince", "goddamn"]
     }},
     {
-    "vince-goddamnitbruce": {
-      "tags": ["vince", "goddamn", "fuck"]
+    "vince-goddamnitbruce1": {
+      "tags": ["vince", "goddamnit", "bruce"]
+    }},
+    {
+    "vince-goddamnitbruce2": {
+      "tags": ["vince", "goddamnit", "bruce"]
     }},
     {
     "vince-goddamnpal1": {
@@ -7666,6 +7714,10 @@
     {
     "vince-katievick": {
       "tags": ["vince", "katie vick", "poor taste", "ill show you"]
+    }},
+    {
+    "vince-killedgoldber": {
+      "tags": ["vince", "killed", "bill goldberg", "career"]
     }},
     {
     "vince-kitchensink": {
@@ -7984,7 +8036,11 @@
       "tags": ["vince", "sit in it"]
     }},
     {
-    "vince-smearedshit": {
+    "vince-smearedshit1": {
+      "tags": ["vince", "smeared shit", "all over", "the business"]
+    }},
+    {
+    "vince-smearedshit2": {
       "tags": ["vince", "smeared shit", "all over", "the business"]
     }},
     {
@@ -8170,6 +8226,10 @@
     {
     "vince-wrecker": {
       "tags": ["vince", "goddamn", "wrecker"]
+    }},
+    {
+    "vince-wtfwasthat": {
+      "tags": ["vince", "wtf", "was that"]
     }},
     {
     "vince-wtfbruce": {
@@ -8950,6 +9010,10 @@
       "tags": ["cornette", "goddamn"]
     }},
     {
+    "cornette-goldberg": {
+      "tags": ["cornette", "goatee", "no selling", "motherfucker"]
+    }},
+    {
     "cornette-goodgooglymoogly": {
       "tags": ["cornette", "goodgooglymoogly", "conrad"]
     }},
@@ -9614,6 +9678,10 @@
       "tags": ["jr", "cheese grater", "cage"]
     }},
     {
+    "jr-chickenshit": {
+      "tags": ["jr", "smell", "chicken shit"]
+    }},
+    {
     "jr-deeperthecrotch": {
       "tags": ["jr", "deeper the crotch", "deeper the slam"]
     }},
@@ -9664,6 +9732,10 @@
     {
     "jr-newyorkcity": {
       "tags": ["jr", "new york city"]
+    }},
+    {
+    "jr-playedfootball": {
+      "tags": ["jr", "played football", "real athelete"]
     }},
     {
     "jr-playsfootball": {
@@ -9918,7 +9990,15 @@
     {
     "funk-whore8": {
       "tags": ["funk", "whore"]
-    }}
+    }},
+    {
+    "funk-whore9": {
+      "tags": ["funk", "whore"]
+    }},
+    {
+    "funk-whore10": {
+      "tags": ["funk", "whore", "mother"]
+    }},    
   ],
   "meltzer": [
     {
@@ -10796,6 +10876,14 @@
     {
     "rumors-bruce8": {
       "tags": ["rumors", "bruce"] 
+    }},
+    {
+    "rumors-bruce9": {
+      "tags": ["rumors", "bruce", "yours is"] 
+    }},
+    {
+    "rumors-bruce10": {
+      "tags": ["rumors", "bruce", "personal contracts"] 
     }},
     {
     "rumors-clearup": {
