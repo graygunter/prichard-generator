@@ -118,7 +118,7 @@ class AboutScreen extends Component {
           </h2>
 
           <p>
-            STGSTW is a <a href="https://reactjs.org/" target="_blank">ReactJS</a> application, powered by <a href="https://nodejs.org/en/" target="_blank">NodeJS</a> and styled by <a href="https://sass-lang.com/" target="_blank">SASS</a>. Development began in May 2017. The project is available publicly on <a href="https://github.com/graygunter/prichard-generator" target="_blank">Github</a>.
+            STGSTW is a <a href="https://reactjs.org/" target="_blank">ReactJS</a> application, powered by <a href="https://nodejs.org/en/" target="_blank">NodeJS</a> and styled by <a href="https://sass-lang.com/" target="_blank">SASS</a>. Development began on May 1, 2017.
           </p>
 
           <div className="logos">
