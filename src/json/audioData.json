@@ -199,6 +199,10 @@
       "tags": ["bruce", "been there"]
     }},
     {
+    "bruce-behindtheirback": {
+      "tags": ["bruce", "every try", "tie their hand", "behind their back"]
+    }},
+    {
     "bruce-beingadick": {
       "tags": ["bruce", "being a dick", "playing with you"]
     }},
@@ -4998,6 +5002,10 @@
       "tags": ["conrad", "im a big fat guy"]
     }},
     {
+    "conrad-imagrownup": {
+      "tags": ["conrad", "no", "im a", "grown up"]
+    }},
+    {
     "conrad-imahillbillyboy": {
       "tags": ["conrad", "im a hillbilly", "boy"]
     }},
@@ -5753,9 +5761,10 @@
     "conrad-onlyinwrestling3": {
       "tags": ["conrad", "only in wrestling", "piss", "human being"]
     }},
+
     {
-    "conrad-overanalyze": {
-      "tags": ["conrad", "our turn", "over anlyze", "thats what we do"]
+    "conrad-outofchapstick": {
+      "tags": ["conrad", "pat patterson", "out of chapstick", "ass kiss"]
     }},
     {
     "conrad-overlikerover": {
@@ -7776,6 +7785,10 @@
       "tags": ["vince", "laughing"]
     }},
     {
+    "vince-legday": {
+      "tags": ["vince", "leg day", "i love"]
+    }},
+    {
     "vince-lesbiansex": {
       "tags": ["vince", "lesbian sex", "live on tv"]
     }},
@@ -8114,6 +8127,10 @@
     {
     "vince-talktome": {
       "tags": ["vince", "goddamnit", "talk to me"]
+    }},
+    {
+    "vince-tantitties": {
+      "tags": ["vince", "tan", "titties"]
     }},
     {
     "vince-teamsof5": {
@@ -8834,8 +8851,12 @@
   ],
   "cornette": [
     {
-    "cornette-5000dollars": {
+    "cornette-5000dollars1": {
       "tags": ["cornette", "5000 dollars", "double cheeseburgers", "kill you"]
+    }},
+    {
+    "cornette-5000dollars2": {
+      "tags": ["cornette", "5000 dollars", "is a", "lot of money"]
     }},
     {
     "cornette-babyfacesandheels1": {
@@ -9784,6 +9805,10 @@
     {
     "jr-sassafras": {
       "tags": ["jr", "sassafras"]
+    }},
+    {
+    "jr-slaparattlesnake": {
+      "tags": ["jr", "you dont", "slap a rattlesnake"]
     }},
     {
     "jr-slobberknocker": {
@@ -11942,6 +11967,10 @@
       "tags": ["patterson", "bret", "hair"]
     }},
     {
+    "patterson-copymachine": {
+      "tags": ["patterson", "toner", "copy machine"]
+    }},
+    {
     "patterson-laddermatch": {
       "tags": ["patterson", "ladder match", "hang the titles up"]
     }},
@@ -12095,6 +12124,14 @@
     }}
   ],
   "johnnyace": [
+    {
+    "johnnyace-alittledry": {
+      "tags": ["johnnyace", "a little dry", "vince", "pectoralsf"]
+    }},
+    {
+    "johnnyace-armslookgood": {
+      "tags": ["johnnyace", "arms look good", "out there"]
+    }},
     {
     "johnnyace-armslookgreat": {
       "tags": ["johnnyace", "first of all", "his arms look great"]
@@ -12696,6 +12733,10 @@
     {
     "rus-ribtape": {
       "tags": ["rus", "rib tape"]
+    }},
+    {
+    "rus-ropes": {
+      "tags": ["rus", "ropes"]
     }},
     {
     "rus-rotties": {
