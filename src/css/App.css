@@ -663,8 +663,10 @@ body {
         height: 39px;
         width: 70%; } }
 @media (max-width: 599px) {
-  body .intro-screen .inner-container img {
-    width: 63%; }
+  body .intro-screen {
+    font-size: 1.55rem; }
+    body .intro-screen .inner-container img {
+      width: 63%; }
   body.about-screen {
     background-size: 90%; }
     body.about-screen .about-instructions li.audio-clip img, body.about-screen .about-instructions li.filter img {
