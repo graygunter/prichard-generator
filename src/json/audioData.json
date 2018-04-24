@@ -187,6 +187,10 @@
       "tags": ["bruce", "because of", "dick"]
     }},
     {
+    "bruce-becausetheypaid": {
+      "tags": ["bruce", "because of", "they paid", "us money"]
+    }},
+    {
     "bruce-beeninacasket": {
       "tags": ["bruce", "for those of you", "been in a casket"]
     }},
@@ -1013,6 +1017,10 @@
     {
     "bruce-fuckyoufuckyou": {
       "tags": ["bruce", "fuck you fuck you", "it wasnt"]
+    }},
+    {
+    "bruce-fuckyourchapstick": {
+      "tags": ["bruce", "fuck your", "chapstick", "shit"]
     }},
     {
     "bruce-fullofmayonaise": {
@@ -2462,6 +2470,10 @@
     {
     "bruce-rubtwopeople": {
       "tags": ["bruce", "rub", "against each other", "backstage"]
+    }},
+    {
+    "bruce-ruribbingme": {
+      "tags": ["bruce", "are you", "ribbing", "me"]
     }},
     {
     "bruce-russoinvented": {
@@ -4622,8 +4634,12 @@
       "tags": ["conrad", "time to", "get to it"]
     }},
     {
-    "conrad-getyourchapstick": {
+    "conrad-getyourchapstick1": {
       "tags": ["conrad", "get your", "chapstick", "motherfucker"]
+    }},
+    {
+    "conrad-getyourchapstick2": {
+      "tags": ["conrad", "get your", "chapstick", "bruce"]
     }},
     {
     "conrad-getyourtickets": {
@@ -6287,6 +6303,10 @@
       "tags": ["conrad", "shane douglas", "superstar"]
     }},
     {
+    "conrad-sharkboy": {
+      "tags": ["conrad", "shark boy"]
+    }},
+    {
     "conrad-shawnmichaels": {
       "tags": ["conrad", "shawn michaels", "superstar"]
     }},
@@ -7191,6 +7211,10 @@
       "tags": ["conrad", "wrestling nerd", "goofy"]
     }},
     {
+    "conrad-wrestlingstory": {
+      "tags": ["conrad", "how about a", "wrestling story", "motherfucker"]
+    }},
+    {
     "conrad-wigglehere": {
       "tags": ["conrad", "im not going to let you", "wiggle here"]
     }},
@@ -7427,6 +7451,10 @@
     {
     "vince-congratulations": {
       "tags": ["vince", "congratulations", "goddamn", "pal"]
+    }},
+    {
+    "vince-crackaddict": {
+      "tags": ["vince", "crack", "addict"]
     }},
     {
     "vince-cutebastard": {
@@ -7771,6 +7799,10 @@
     {
     "vince-iloveit2": {
       "tags": ["vince", "goddamn", "i love it", "pal"]
+    }},
+    {
+    "vince-iloveit3": {
+      "tags": ["vince", "i love it"]
     }},
     {
     "vince-imaginefeces": {
@@ -11569,6 +11601,10 @@
       "tags": ["millertime", "a case and a half", "on ice"]
     }},
     {
+    "millertime-apromotion": {
+      "tags": ["millertime", "promotion", "miller lite", "obviously"]
+    }},
+    {
     "millertime-atmillerlite": {
       "tags": ["millertime", "@millerlite"]
     }},
@@ -11944,6 +11980,10 @@
     }},
     {
     "babytonight-babytonight20": {
+      "tags": ["babytonight", "alone with my baby tonight"]
+    }},
+    {
+    "babytonight-babytonight21": {
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
