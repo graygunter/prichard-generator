@@ -407,6 +407,10 @@
       "tags": ["bruce", "i dont know shit", "cars"]
     }},
     {
+    "bruce-carrywater": {
+      "tags": ["bruce", "i dont", "have to carry", "anybodys", "water"]
+    }},
+    {
     "bruce-casket": {
       "tags": ["bruce", "casket"]
     }},
@@ -707,7 +711,11 @@
       "tags": ["bruce", "steve", "doctor death", "williams"]
     }},
     {
-    "bruce-droptoptitty": {
+    "bruce-droptoptitty1": {
+      "tags": ["bruce", "droptop titty", "tippin", "time"]
+    }},
+    {
+    "bruce-droptoptitty2": {
       "tags": ["bruce", "droptop titty", "tippin", "time"]
     }},
     {
@@ -2532,6 +2540,10 @@
       "tags": ["bruce", "shit", "fucks up", "sometimes"]
     }},
     {
+    "bruce-shithappens": {
+      "tags": ["bruce", "shit", "happens"]
+    }},
+    {
     "bruce-shitheel": {
       "tags": ["bruce", "he was a", "shit heel"]
     }},
@@ -3514,6 +3526,10 @@
       "tags": ["conrad", "serious"]
     }},
     {
+    "conrad-argue": {
+      "tags": ["conrad", "argue", "top of the show"]
+    }},
+    {
     "conrad-arguegoat": {
       "tags": ["conrad", "argue", "goat horns"]
     }},
@@ -4034,6 +4050,10 @@
       "tags": ["conrad", "come back"]
     }},
     {
+    "conrad-comethefuckon": {
+      "tags": ["conrad", "come the", "fuck", "on"]
+    }},
+    {
     "conrad-comiccon": {
       "tags": ["conrad", "jerking off about", "comic cons"]
     }},
@@ -4294,6 +4314,10 @@
       "tags": ["conrad", "hashtag", "droptop titty", "tippin"]
     }},
     {
+    "conrad-droptoptitty3": {
+      "tags": ["conrad", "lets talk about", "droptop titty", "tippin"]
+    }},
+    {
     "conrad-drugmule": {
       "tags": ["conrad", "drug mule"]
     }},
@@ -4474,6 +4498,10 @@
       "tags": ["conrad", "fuck", "chase"]
     }},
     {
+    "conrad-fuckingcorpses": {
+      "tags": ["conrad", "fucking", "dead girlfriends", "corpses"]
+    }},
+    {
     "conrad-fuckingdone": {
       "tags": ["conrad", "fuck", "is that it", "done"]
     }},
@@ -4592,6 +4620,10 @@
     {
     "conrad-gettoit": {
       "tags": ["conrad", "time to", "get to it"]
+    }},
+    {
+    "conrad-getyourchapstick": {
+      "tags": ["conrad", "get your", "chapstick", "motherfucker"]
     }},
     {
     "conrad-getyourtickets": {
@@ -4798,6 +4830,10 @@
       "tags": ["conrad", "no", "triple h", "hhh", "was great"]
     }},
     {
+    "conrad-hhhwater": {
+      "tags": ["conrad", "dont have to carry", "hhh water", "just do"]
+    }},
+    {
     "conrad-highandmighty": {
       "tags": ["conrad", "high and mighty", "fuck"]
     }},
@@ -4880,6 +4916,10 @@
     {
     "conrad-howmuchcocaine": {
       "tags": ["conrad", "cocaine", "drugs"]
+    }},
+    {
+    "conrad-howmuchtitty": {
+      "tags": ["conrad", "how much", "too much", "drop top titty"]
     }},
     {
     "conrad-howold1": {
@@ -5084,6 +5124,10 @@
     {
     "conrad-jakeroberts": {
       "tags": ["conrad", "jake roberts", "the snake", "superstar"]
+    }},
+    {
+    "conrad-jamienoble": {
+      "tags": ["conrad", "jamie noble", "superstar"]
     }},
     {
     "conrad-jaylethal": {
@@ -5416,6 +5460,10 @@
     {
     "conrad-lovetoknow3": {
       "tags": ["conrad", "hashtag", "love to know"]
+    }},
+    {
+    "conrad-ludicrousconversation": {
+      "tags": ["conrad", "this is a", "ludicrous", "conversation"]
     }},
     {
     "conrad-lukegallows": {
@@ -6547,6 +6595,10 @@
       "tags": ["conrad", "take your pills", "bruce"]
     }},
     {
+    "conrad-takeyourpills3": {
+      "tags": ["conrad", "take your pills", "bruce"]
+    }},
+    {
     "conrad-takingcredit": {
       "tags": ["conrad", "credit", "shit"]
     }},
@@ -6779,8 +6831,12 @@
       "tags": ["conrad", "how did i", "trick you"]
     }},
     {
-    "conrad-tryintodoashow": {
+    "conrad-tryintodoashow1": {
       "tags": ["conrad", "tryin to do a show", "fucker"]
+    }},
+    {
+    "conrad-tryintodoashow2": {
+      "tags": ["conrad", "tryin to do a show", "be entertaining"]
     }},
     {
     "conrad-tshirt1": {
@@ -8007,6 +8063,10 @@
     {
     "vince-pumpthatass": {
       "tags": ["vince", "pump that ass", "goddamn"]
+    }},
+    {
+    "vince-puppiesout": {
+      "tags": ["vince", "get them", "puppies out", "bark"]
     }},
     {
     "vince-putitontv": {
@@ -10249,8 +10309,16 @@
   ],
   "pwtorch": [
     {
+    "pwtorch-asshole": {
+      "tags": ["pwtorch", "if somebody doesnt", "like somebody", "asshole"]
+    }},
+    {
     "pwtorch-bitchboy": {
       "tags": ["pwtorch", "greensboro", "bitchboy", "jackoff"]
+    }},
+    {
+    "pwtorch-directlyfrom": {
+      "tags": ["pwtorch", "this is", "directly from", "the torch"]
     }},
     {
     "pwtorch-fullofshit": {
@@ -11333,7 +11401,11 @@
       "tags": ["dootdootdoot", "he", "did it"]
     }},
     {
-    "dootdootdoot-imakemoney": {
+    "dootdootdoot-imakemoney1": {
+      "tags": ["dootdootdoot", "i make money", "for this company"]
+    }},
+    {
+    "dootdootdoot-imakemoney2": {
       "tags": ["dootdootdoot", "i make money", "for this company"]
     }},
     {

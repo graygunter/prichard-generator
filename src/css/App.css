@@ -606,22 +606,7 @@ body {
   body .playlist-and-sound-tile-explore .sound-tile-explore .explore-items {
     width: 70%; }
     body .playlist-and-sound-tile-explore .sound-tile-explore .explore-items .explore-item {
-      width: 50%;
-      /*
-                  &:nth-child(odd), &:nth-child(even) {
-      
-                    background-color: white;
-                    border: 1px solid rgba(0,0,0,.3);
-      
-                  }
-      
-                  &:nth-child(3n) {
-      
-                    background-color: $blue-light;
-                    border: 1px solid $blue;
-      
-                  }
-      */ } }
+      width: 50%; } }
 @media (max-height: 770px) {
   body .intro-screen .inner-container h2 {
     margin-top: 3%; }
@@ -678,6 +663,8 @@ body {
         height: 39px;
         width: 70%; } }
 @media (max-width: 599px) {
+  body .intro-screen .inner-container img {
+    width: 63%; }
   body.about-screen {
     background-size: 90%; }
     body.about-screen .about-instructions li.audio-clip img, body.about-screen .about-instructions li.filter img {
@@ -707,6 +694,8 @@ body {
       padding-left: 0;
       padding-right: 0;
       width: 100%; }
+  body .intro-screen .inner-container h3 span {
+    font-size: inherit; }
   body .playlist-and-sound-tile-explore .sound-tile-explore .top-bar .explore-info .icon {
     display: none; }
   body .playlist-and-sound-tile-explore .sound-tile-explore .top-bar .buttons-container {

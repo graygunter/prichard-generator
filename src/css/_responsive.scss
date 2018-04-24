@@ -153,21 +153,7 @@
           .explore-item {
 
             width: 50%;
-/*
-            &:nth-child(odd), &:nth-child(even) {
 
-              background-color: white;
-              border: 1px solid rgba(0,0,0,.3);
-
-            }
-
-            &:nth-child(3n) {
-
-              background-color: $blue-light;
-              border: 1px solid $blue;
-
-            }
-*/
           }
 
         }
@@ -459,6 +445,20 @@
 
   body {
 
+    .intro-screen {
+
+      .inner-container {
+
+        img {
+
+          width: 63%;
+
+        }
+
+      }
+
+    }
+
     &.about-screen {
 
       background-size: 90%;
@@ -553,6 +553,24 @@
           padding-left: 0;
           padding-right: 0;
           width: 100%;
+
+        }
+
+      }
+
+    }
+
+    .intro-screen {
+
+      .inner-container {
+
+        h3 {
+
+          span {
+
+            font-size: inherit;
+
+          }
 
         }
 
