@@ -1236,15 +1236,19 @@
     }},
     {
     "bruce-heshorrible": {
-      "tags": ["bruce", "dont mean to be mean", "horrible"]
+      "tags": ["bruce", "hes", "dont mean to be mean", "horrible"]
     }},
     {
     "bruce-hesfuckedup": {
-      "tags": ["bruce", "fucked up", "looking for a shotgun"]
+      "tags": ["bruce", "hes", "fucked up", "looking for a shotgun"]
+    }},
+    {
+    "bruce-hesnaked": {
+      "tags": ["bruce", "hes", "naked"]
     }},
     {
     "bruce-hesondrugs": {
-      "tags": ["bruce", "drugs"]
+      "tags": ["bruce", "hes on", "drugs"]
     }},
     {
     "bruce-hewho": {
@@ -9357,6 +9361,10 @@
     {
     "cornette-seethismatch": {
       "tags": ["cornette", "wait til you", "see this match"]
+    }},
+    {
+    "cornette-shootingstarpress": {
+      "tags": ["cornette", "shooting star press", "brock lesnar"]
     }},
     {
     "cornette-shootmotherfucker": {
