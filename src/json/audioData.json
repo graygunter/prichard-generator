@@ -13475,5 +13475,11 @@
     "harley-takeoutdusty": {
       "tags": ["harley", "100000 sandwiches", "take out", "dusty rhodes"]
     }}
+  ],
+  "flair": [
+    {
+    "flair-nmls": {
+      "tags": ["flair", "nmls", "6584", "equal housing lender", "whooo"]
+    }}
   ]
 }
