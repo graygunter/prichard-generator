@@ -13461,5 +13461,19 @@
     "bearer-totheright": {
       "tags": ["bearer", "oh yes", "to the right"]
     }}
+  ],
+  "harley": [
+    {
+    "harley-finishkid": {
+      "tags": ["harley", "whats your", "finish", "kid"]
+    }},
+    {
+    "harley-illmove": {
+      "tags": ["harley", "ill move"]
+    }},
+    {
+    "harley-takeoutdusty": {
+      "tags": ["harley", "100000 sandwiches", "take out", "dusty rhodes"]
+    }}
   ]
 }
