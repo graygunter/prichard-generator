@@ -1127,6 +1127,10 @@
       "tags": ["bruce", "she just", "got naked"]
     }},
     {
+    "bruce-gowithwtf": {
+      "tags": ["bruce", "im gonna", "go with", "what the fuck"]
+    }},
+    {
     "bruce-gout": {
       "tags": ["bruce", "all i remember was", "i had", "gout"]
     }},
@@ -2268,6 +2272,10 @@
       "tags": ["bruce", "i gravitated to", "pill poppers", "alcoholics"]
     }},
     {
+    "bruce-pimpin": {
+      "tags": ["bruce", "pimpin", "aint easy", "dog"]
+    }},
+    {
     "bruce-pissed": {
       "tags": ["bruce", "pissed pissed", "wanting to fight", "pissed"]
     }}, 
@@ -2880,6 +2888,10 @@
       "tags": ["bruce", "tummy", "tender"]
     }},
     {
+    "bruce-terrible": {
+      "tags": ["bruce", "it was", "terrible"]
+    }},
+    {
     "bruce-terryboomboomgordon": {
       "tags": ["bruce", "terry boom boom gordon"]
     }},
@@ -3100,7 +3112,11 @@
       "tags": ["bruce", "ummm"]
     }},
     {
-    "bruce-universalfart": {
+    "bruce-universalfart1": {
+      "tags": ["bruce", "universal", "fart", "in church"]
+    }},
+    {
+    "bruce-universalfart2": {
       "tags": ["bruce", "universal", "fart", "in church"]
     }},
     {
@@ -3922,6 +3938,10 @@
       "tags": ["conrad", "whats going on", "man", "how are you"]
     }},
     {
+    "conrad-brucewtf": {
+      "tags": ["conrad", "bruce", "what the", "fuck"]
+    }},
+    {
     "conrad-brutal": {
       "tags": ["conrad", "brutal", "fucking"]
     }},
@@ -4006,6 +4026,10 @@
       "tags": ["conrad", "canadian flag", "wipe his ass", "sex"]
     }},
     {
+    "conrad-cannotwait": {
+      "tags": ["conrad", "i cannot wait", "about to", "talk about"]
+    }},
+    {
     "conrad-canthelpmyself": {
       "tags": ["conrad", "people get mad", "but", "cant help myself"]
     }},
@@ -4039,7 +4063,7 @@
     }},
     {
     "conrad-chatmeup3": {
-      "tags": ["conrad", "chat me up"]
+      "tags": ["conrad", "chat me up", "here"]
     }},
     {
     "conrad-chatmeup4": {
@@ -4606,6 +4630,10 @@
       "tags": ["conrad", "fuck", "is that it", "done"]
     }},
     {
+    "conrad-fuckingmoney": {
+      "tags": ["conrad", "i want my", "fucking money"]
+    }},
+    {
     "conrad-fuckingmouth": {
       "tags": ["conrad", "over your", "fucking mouth"]
     }},
@@ -4836,6 +4864,10 @@
     {
     "conrad-grabyourballs": {
       "tags": ["conrad", "did he", "grab your balls"]
+    }},
+    {
+    "conrad-grr": {
+      "tags": ["conrad", "the greatest royal rumble"]
     }},
     {
     "conrad-greatestmatch": {
@@ -5504,6 +5536,10 @@
     {
     "conrad-legionofdoom": {
       "tags": ["conrad", "legion of doom", "hawk", "animal"]
+    }},
+    {
+    "conrad-letemrip": {
+      "tags": ["conrad", "let em rip", "tater chip"]
     }},
     {
     "conrad-letitrip": {
@@ -6202,6 +6238,10 @@
       "tags": ["conrad", "set the record straight"]
     }},
     {
+    "conrad-redrooster": {
+      "tags": ["conrad", "red rooster", "superstar"]
+    }},
+    {
     "conrad-renedupree": {
       "tags": ["conrad", "rene dupree", "superstar"]
     }},
@@ -6736,7 +6776,7 @@
     {
     "conrad-switchinggears": {
       "tags": ["conrad", "switching gears", "on me"]
-    }},
+    }},  
     {
     "conrad-takamichinoku": {
       "tags": ["conrad", "taka michinoku", "superstar"]
@@ -6793,6 +6833,10 @@
     "conrad-tangledup": {
       "tags": ["conrad", "tangled up", "fucking", "bruce"]
     }},
+    {
+    "conrad-tapingapodcast": {
+      "tags": ["conrad", "fucking stop", "we are", "taping a podcast"]
+    }},  
     {
     "conrad-tastelesscomedy": {
       "tags": ["conrad", "trashy", "classless", "tasteless", "comedy"]
@@ -6950,6 +6994,10 @@
       "tags": ["conrad", "tito santana", "superstar"]
     }},
     {
+    "conrad-titusoneil": {
+      "tags": ["conrad", "titus oneil", "superstar", "worldwide"]
+    }},
+    {
     "conrad-tmnt1": {
       "tags": ["conrad", "teenage mutant ninja turtles", "singing"]
     }},
@@ -7028,6 +7076,10 @@
     {
     "conrad-twatplist": {
       "tags": ["conrad", "twat", "plist"]
+    }},
+    {
+    "conrad-twotimepodcast": {
+      "tags": ["conrad", "two time", "podcast of the year"]
     }},
     {
     "conrad-ultimatewarrior": {
@@ -7966,6 +8018,10 @@
     {
     "vince-imaginefeces": {
       "tags": ["vince", "imagine feces", "floating around"]
+    }},
+    {
+    "vince-imprison": {
+      "tags": ["vince", "what if we", "put him", "in prison"]
     }},
     {
     "vince-inthemecca": {
@@ -9202,6 +9258,10 @@
       "tags": ["cornette", "chainsaw charlie", "terrys idea", "love it"]
     }},
     {
+    "cornette-cheeseburgersinbed": {
+      "tags": ["cornette", "cheeseburgers", "double cheese"]
+    }},
+    {
     "cornette-cheesesteak": {
       "tags": ["cornette", "cheesesteak", "double cheese"]
     }},
@@ -9738,6 +9798,10 @@
     {
     "dusty-bloodandguts": {
       "tags": ["dusty", "blood and guts", "everywhere"]
+    }},
+    {
+    "dusty-broadcasttv": {
+      "tags": ["dusty", "broadcast tv", "stardust", "if you will"]
     }},
     {
     "dusty-bullropematches": {
@@ -10398,6 +10462,10 @@
       "tags": ["meltzer", "dont hate", "bruce"]
     }},
     {
+    "meltzer-expert": {
+      "tags": ["meltzer", "being the", "expert"]
+    }},
+    {
     "meltzer-forgetmeltzer": {
       "tags": ["meltzer", "conrad", "forget", "forget dave meltzer"]
     }},
@@ -10886,6 +10954,18 @@
     {
     "andre-bloodymary": {
       "tags": ["andre", "bloody mary"]
+    }},
+    {
+    "andre-boss1": {
+      "tags": ["andre", "boss", "hurr"]
+    }},
+    {
+    "andre-boss2": {
+      "tags": ["andre", "i am", "boss"]
+    }},
+    {
+    "andre-boss3": {
+      "tags": ["andre", "boss", "hurr"]
     }},
     {
     "andre-brotherlove1": {
@@ -11402,6 +11482,10 @@
       "tags": ["rumors", "conrad", "lets talk about"]
     }},
     {
+    "rumors-nonsense": {
+      "tags": ["rumors", "nonsense", "bullshit"]
+    }},
+    {
     "rumors-outthere1": {
       "tags": ["rumors", "conrad", "out there"]
     }},
@@ -11784,6 +11868,14 @@
     {
     "hogan-savewithbruce": {
       "tags": ["hogan", "save wtih bruce", "dot com", "debt"]
+    }},
+    {
+    "hogan-superfriends1": {
+      "tags": ["hogan", "hulk hogan", "and his", "superfriends", "conrad"]
+    }},
+    {
+    "hogan-superfriends2": {
+      "tags": ["hogan", "hulk hogan", "and his", "superfriends", "bruce"]
     }},
     {
     "hogan-tellyousomething": {
@@ -12422,6 +12514,10 @@
       "tags": ["patterson", "nobody pays attention"]
     }},
     {
+    "patterson-prison": {
+      "tags": ["patterson", "prison", "new york city"]
+    }},
+    {
     "patterson-rio": {
       "tags": ["patterson", "rio"]
     }},
@@ -12988,6 +13084,10 @@
     {
     "rus-caskets": {
       "tags": ["rus", "caskets"]
+    }},
+    {
+    "rus-cemeteries": {
+      "tags": ["rus", "cemeteries"]
     }},
     {
     "rus-confetti": {
