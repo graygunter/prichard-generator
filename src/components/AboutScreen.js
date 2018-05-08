@@ -22,7 +22,7 @@ class AboutScreen extends Component {
             <span className="firstcharacter">H</span>ave you ever found yourself wanting more of the <a href="http://www.mlwradio.com/something-to-wrestle-with-bruce-prichard.html" target="_blank">Something to Wrestle with Bruce Prichard</a> podcast, but it’s not noon on a Friday and the hands on the clock keep spinning too slow? Have you ever heard <a href="https://twitter.com/HeyHeyItsConrad" target="_blank">Conrad Thompson</a> ask <a href="https://twitter.com/bruceprichard" target="_blank">Bruce</a> a question and thought “I know exactly which catch phrase or impression he’s going to respond with”? 
           </p>
           <p>
-            If you answered 'yes' to any of the above you're a huge mark, but now with the power of <strong>Something to Generate Something to Wrestle with Bruce Prichard</strong> you’re a mark who can do something about it, brother.
+            If you answered yes to any of the above you're a huge mark, but now with the power of <strong>Something to Generate Something to Wrestle with Bruce Prichard</strong> you’re a mark who can do something about it, brother.
           </p>
 
           <h2>
@@ -47,7 +47,7 @@ class AboutScreen extends Component {
                     src={require(`../imgs/instructions/explore_button.gif`)} />
 
               <p>
-                Click the <strong>explore button</strong> on a category to view every single audio clip associated with the category. {/* In this example we're about to explore the category <strong>Baby Tonight</strong> */}
+                Click the <strong>explore button</strong> on a category to view every single audio clip associated with that category. {/* In this example we're about to explore the category <strong>Baby Tonight</strong> */}
               </p>
             </li>
 
@@ -57,7 +57,7 @@ class AboutScreen extends Component {
                     src={require(`../imgs/instructions/explore_screen.gif`)} />
 
               <p>
-                Clicking the <strong>explore button</strong> brings up the <strong>explore screen</strong> a listing of every audio clip in a category. Scroll to the bottom of the page to see them all. {/* In this example we're scrolling through the category <strong>Conrad</strong>*/}.
+            Clicking the <strong>explore button</strong> brings up the <strong>explore screen</strong>: a listing of every audio clip in a category. Scroll to the bottom of the page to see them all. {/* In this example we're scrolling through the category <strong>Conrad</strong>*/}.
               </p>
             </li>
 
@@ -67,7 +67,7 @@ class AboutScreen extends Component {
                     src={require(`../imgs/instructions/audio_clip.gif`)} />
 
               <p>
-                Each <strong>audio clip</strong> is represented by a rectangle. The large text in the top left is the <strong>title</strong>. The blue <strong>play button</strong> plays the audio clip. The green <strong>add button</strong> will add that audio clip to the <strong>playlist</strong>. In the bottom left are <strong>tags</strong> associated with the audio clip separated by #. {/* In this example we’re looking at the audio clip <strong>rolltide10</strong> which is tagged “#roll tide”, “#on that” and “#indeed”.*/}
+                Each <strong>audio clip</strong> is represented by a rectangle. The large text in the top left is the <strong>title</strong>. The blue <strong>play button</strong> plays the audio clip. The green <strong>add button</strong> will add that audio clip to the <strong>playlist</strong>. In the bottom left are <strong>tags</strong> associated with the audio clip separated by a "#". {/* In this example we’re looking at the audio clip <strong>rolltide10</strong> which is tagged “#roll tide”, “#on that” and “#indeed”.*/}
               </p>
             </li>
 
@@ -77,7 +77,7 @@ class AboutScreen extends Component {
                     src={require(`../imgs/instructions/sound_queue.gif`)} />
 
               <p>
-                The <strong>playlist</strong> holds all of the audio clips for the episode of Something to Wrestle you’re building. Pressing the <strong>play buttons</strong> will play the audio files in order from top to button. Pressing the <strong>reset button</strong> removes all audio clips from the playlist. You can remove individual audio clips from the queue by pressing the <strong>red X button</strong> beside each audio clip in the playlist.
+                The <strong>playlist</strong> holds all of the audio clips for the episode of Something to Wrestle you’re building. Pressing the <strong>play button</strong> will play the audio files in order from top to bottom. Pressing the <strong>reset button</strong> removes all audio clips from the playlist. You can remove individual audio clips from the queue by pressing the <strong>red X button</strong> beside each audio clip in the playlist.
               </p>
             </li>
 
@@ -110,7 +110,7 @@ class AboutScreen extends Component {
           </div>
 
           <p>
-            STGSTW was created by <a href="http://twitter.com/graygunter" target="_blank">Gray Gunter</a> a web designer and developer in Columbia, SC who loves wrasslin and Something to Wrestle. You can see other professional projects Gray has worked on at <a href="http://graybearllc.com/work.html" target="_blank">Graybear LLC</a> and his personal projects at <a href="http://graygunter.com" target="_blank">Gray Gunter dot com</a>.
+            STGSTW was created by <a href="http://twitter.com/graygunter" target="_blank">Gray Gunter</a>, a web designer and developer in Columbia, South Carolina, who loves wrasslin and Something to Wrestle. You can see other professional projects Gray has worked on at <a href="http://graybearllc.com/work.html" target="_blank">Graybear LLC</a> and view his personal projects at <a href="http://graygunter.com" target="_blank">Gray Gunter dot com</a>.
           </p>
 
           <h2>
