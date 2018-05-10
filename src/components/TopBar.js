@@ -129,7 +129,7 @@ class TopBar extends Component {
         </h1>
 
 
-        {this.props.isExplorePage ? this.showExploreInfo() : this.showEmailSignup()}
+        {this.props.isExplorePage ? this.showExploreInfo() : null}
 
         {this.props.isLandingPage ? this.showAboutButton() : this.showBackButton()}
 
