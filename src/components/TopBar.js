@@ -2,6 +2,36 @@ import React, { Component } from 'react';
 
 class TopBar extends Component {
 
+  showEmailSignup() {
+
+    return (
+
+      <div id="mc_embed_signup">
+        <form action="https://stgstw.us18.list-manage.com/subscribe/post?u=95259661da78d19ab121ef327&amp;id=25d6ca627c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
+            <div id="mc_embed_signup_scroll">
+              Stay updated on the world of Something To Wrestle
+              <div className="mc-field-group">
+                <label htmlFor="mce-EMAIL"></label>
+                <input type="email" value="" name="EMAIL" className="required email" id="mce-EMAIL" />
+              </div>
+              <div id="mce-responses" className="clear">
+                <div className="response" id="mce-error-response" style={{display: 'none'}}></div>
+                <div className="response" id="mce-success-response" style={{display: 'none'}}></div>
+              </div>
+                <div style={{position: 'absolute', left: -5000}} aria-hidden="true">
+                  <input type="text" name="b_95259661da78d19ab121ef327_25d6ca627c" tabIndex="-1" value="" />
+                </div>
+                <div className="clear">
+                  <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" className="button" />
+                </div>
+            </div>
+        </form>
+      </div>
+
+    );
+
+  }
+
   showAboutButton() {
 
     return (
@@ -27,16 +57,6 @@ class TopBar extends Component {
         </button>
 
       </div>
-
-    );
-
-  }
-
-  showAboutTitle() {
-
-    return (
-
-      null
 
     );
 
@@ -109,9 +129,7 @@ class TopBar extends Component {
         </h1>
 
 
-        {this.props.isExplorePage ? this.showExploreInfo() : null}
-
-        {this.props.isAboutPage ? this.showAboutTitle() : null}
+        {this.props.isExplorePage ? this.showExploreInfo() : this.showEmailSignup()}
 
         {this.props.isLandingPage ? this.showAboutButton() : this.showBackButton()}
 
