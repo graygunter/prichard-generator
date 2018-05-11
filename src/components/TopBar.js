@@ -9,21 +9,8 @@ class TopBar extends Component {
       <div id="mc_embed_signup">
         <form action="https://stgstw.us18.list-manage.com/subscribe/post?u=95259661da78d19ab121ef327&amp;id=25d6ca627c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
             <div id="mc_embed_signup_scroll">
-              Stay updated on the world of Something To Wrestle
-              <div className="mc-field-group">
-                <label htmlFor="mce-EMAIL"></label>
-                <input type="email" value="" name="EMAIL" className="required email" id="mce-EMAIL" />
-              </div>
-              <div id="mce-responses" className="clear">
-                <div className="response" id="mce-error-response" style={{display: 'none'}}></div>
-                <div className="response" id="mce-success-response" style={{display: 'none'}}></div>
-              </div>
-                <div style={{position: 'absolute', left: -5000}} aria-hidden="true">
-                  <input type="text" name="b_95259661da78d19ab121ef327_25d6ca627c" tabIndex="-1" value="" />
-                </div>
-                <div className="clear">
-                  <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" className="button" />
-                </div>
+              <h3><span>NEW:</span> The Something To Wrestle newsletter!</h3>
+              <input type="submit" value="Subscribe Today" name="subscribe" id="mc-embedded-subscribe" className="button" />
             </div>
         </form>
       </div>
@@ -120,18 +107,23 @@ class TopBar extends Component {
 
     return (
 
-      <div className="top-bar">
+      <div className="top-bar-and-signup">
 
-        <h1 className="title">
-          Something to Generate
-          Something to Wrestle with
-          Bruce Prichard
-        </h1>
+        {this.showEmailSignup()}
 
+        <div className="top-bar">
 
-        {this.props.isExplorePage ? this.showExploreInfo() : null}
+          <h1 className="title">
+            Something to Generate
+            Something to Wrestle with
+            Bruce Prichard
+          </h1>
 
-        {this.props.isLandingPage ? this.showAboutButton() : this.showBackButton()}
+          {this.props.isExplorePage ? this.showExploreInfo() : null}
+
+          {this.props.isLandingPage ? this.showAboutButton() : this.showBackButton()}
+
+        </div>
 
       </div>
     

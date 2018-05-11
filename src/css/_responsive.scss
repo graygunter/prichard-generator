@@ -43,7 +43,7 @@
 
       .playlist-tiles {
 
-        height: 65%;
+        height: 59%;
 
       }
 
@@ -91,7 +91,7 @@
 
   body.about-screen {
 
-    background-size: 56%;
+    background-size: 43%;
 
   }
 
@@ -103,7 +103,13 @@
 
     .left-column {
 
-      width: 30%
+      width: 30%;
+
+      .playlist-tiles {
+          
+        height: 57%;
+
+      }
 
     }
 
@@ -126,17 +132,21 @@
 
     }
 
-    .top-bar {
+    .top-bar-and-signup {
 
-      .title {
+      .top-bar {
 
-        width: 28%;
+        .title {
 
-      }
+          width: 28%;
 
-      h2, .explore-info {
+        }
 
-        width: 58%;
+        h2, .explore-info {
+
+          width: 58%;
+
+        }
 
       }
 
@@ -224,17 +234,21 @@
 
       .sound-tile-explore {
 
-        .top-bar {
+        .top-bar-and-signup {
 
-          .explore-info {
+          .top-bar {
 
-            width: 62%;
+            .explore-info {
 
-            .text-and-inputs {
+              width: 62%;
 
-              input {
+              .text-and-inputs {
 
-                width: 35%;
+                input {
+
+                  width: 35%;
+
+                }
 
               }
 
@@ -256,11 +270,15 @@
 
   body {
 
-    .top-bar {
+    .top-bar-and-signup {
 
-      .buttons-container {
+      .top-bar {
 
-        width: auto;
+        .buttons-container {
+
+          width: auto;
+
+        }
 
       }
 
@@ -268,7 +286,7 @@
 
     &.about-screen {
 
-      background-size: 70%;
+      background-size: 60%;
 
     }
 
@@ -335,6 +353,25 @@
 
     }
 
+    .left-column {
+
+      .playlist-tiles {
+
+        .playlist-tile {
+
+          .text {
+
+            font-size: 1rem;
+            width: 40%;
+
+          }
+
+        }
+
+      }
+
+    }
+
     .playlist-and-sound-tile-explore {
 
       .left-column {
@@ -349,14 +386,17 @@
 
       .sound-tile-explore {
 
+        .top-bar-and-signup {
 
-        .top-bar {
+          .top-bar {
 
-          .explore-info {
+            .explore-info {
 
-            .icon {
+              .icon {
 
-              background-position: top center;
+                background-position: top center;
+
+              }
 
             }
 
@@ -386,11 +426,15 @@
 
   body {
 
-    .top-bar {
+    .top-bar-and-signup {
 
-      button {
+      .top-bar {
 
-        top: 5%;
+        button {
+
+          top: 5%;
+
+        }
 
       }
 
@@ -400,30 +444,34 @@
 
       .sound-tile-explore {
 
-        .top-bar {
+        .top-bar-and-signup {
 
-          .explore-info {
+          .top-bar {
 
-            width: 60%;
+            .explore-info {
 
-            .text-and-inputs {
+              width: 60%;
 
-              display: block;
+              .text-and-inputs {
 
-              .category-and-clips {
+                display: block;
 
-                h4 {
+                .category-and-clips {
 
-                  margin-bottom: 1%;
+                  h4 {
+
+                    margin-bottom: 1%;
+
+                  }
 
                 }
 
-              }
+                input {
 
-              input {
+                  height: 39px;
+                  width: 70%;
 
-                height: 39px;
-                width: 70%;
+                }
 
               }
 
@@ -532,29 +580,53 @@
 
   body {
 
-    .top-bar {
+    .top-bar-and-signup {
 
-      .title {
+      #mc_embed_signup {
 
-        background-position: right center;
-        margin-right: 3%;
-        width: 38%;
+        #mc_embed_signup_scroll {
+
+          h3 {
+
+            margin-right: 10px;
+
+            span {
+
+              display: none;
+
+            }
+
+          }
+
+        }
 
       }
 
-      .buttons-container {
+      .top-bar {
 
-        display: block;
-        top: 15%;
-        width: 53%;
+        .title {
 
-        button, button:nth-child(2) {
-          
-          margin-bottom: 5%;
-          margin-left: 0;
-          padding-left: 0;
-          padding-right: 0;
-          width: 100%;
+          background-position: right center;
+          margin-right: 3%;
+          width: 38%;
+
+        }
+
+        .buttons-container {
+
+          display: block;
+          top: 15%;
+          width: 53%;
+
+          button, button:nth-child(2) {
+            
+            margin-bottom: 5%;
+            margin-left: 0;
+            padding-left: 0;
+            padding-right: 0;
+            width: 100%;
+
+          }
 
         }
 
@@ -584,29 +656,33 @@
 
       .sound-tile-explore {
 
-        .top-bar {
+        .top-bar-and-signup {
 
-          .explore-info {
+          .top-bar {
 
-            .icon {
+            .explore-info {
 
-              display: none;
+              .icon {
+
+                display: none;
+
+              }
 
             }
 
-          }
+            .buttons-container {
 
-          .buttons-container {
+              width: 5rem;
 
-            width: 5rem;
+              button, button:nth-child(2){
 
-            button, button:nth-child(2){
+                margin-bottom: 5%;
+                margin-left: 0;
+                padding-left: 0;
+                padding-right: 0;
+                width: 100%;
 
-              margin-bottom: 5%;
-              margin-left: 0;
-              padding-left: 0;
-              padding-right: 0;
-              width: 100%;
+              }
 
             }
 
