@@ -68,6 +68,8 @@ body.about-screen .about-instructions li:after, .left-column .playlist-tiles .pl
 body {
   font-family: 'Oswald', sans-serif;
   font-weight: 300; }
+  body input {
+    -webkit-appearance: none; }
   body .please-rotate {
     background-image: url("../imgs/top_bar_bg.jpg");
     background-position: center;

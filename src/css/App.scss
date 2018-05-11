@@ -9,6 +9,10 @@ body {
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
 
+  input {
+    -webkit-appearance: none;
+  }
+
   .please-rotate {
 
     background-image: url("../imgs/top_bar_bg.jpg");
