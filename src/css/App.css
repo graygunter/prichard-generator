@@ -700,6 +700,8 @@ body {
     background-size: 90%; }
     body.about-screen .about-instructions li.audio-clip img, body.about-screen .about-instructions li.filter img {
       width: 100%; }
+  body .top-bar-and-signup .top-bar .title {
+    width: 43%; }
   body .left-column {
     width: 45%; }
   body .sound-palette {
@@ -718,7 +720,7 @@ body {
   body .top-bar-and-signup .top-bar .title {
     background-position: right center;
     margin-right: 3%;
-    width: 38%; }
+    width: 33%; }
   body .top-bar-and-signup .top-bar .buttons-container {
     display: block;
     top: 15%;
