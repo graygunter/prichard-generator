@@ -10,7 +10,7 @@ class TopBar extends Component {
         <form action="https://stgstw.us18.list-manage.com/subscribe/post?u=95259661da78d19ab121ef327&amp;id=25d6ca627c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" className="validate" target="_blank" noValidate>
             <div id="mc_embed_signup_scroll">
               <h3><span>NEW:</span> The Something To Wrestle newsletter!</h3>
-              <input type="submit" value="Subscribe Today" name="subscribe" id="mc-embedded-subscribe" className="button" />
+              <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" className="button" />
             </div>
         </form>
       </div>
