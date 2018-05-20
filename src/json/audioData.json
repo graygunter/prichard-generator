@@ -1099,6 +1099,10 @@
       "tags": ["bruce", "gobbledy gooker"]
     }},
     {
+    "bruce-goodlooking": {
+      "tags": ["bruce", "im", "damn", "good looking"]
+    }},
+    {
     "bruce-goodmotherfucker": {
       "tags": ["bruce", "good motherfucker"]
     }},
@@ -3340,8 +3344,16 @@
       "tags": ["bruce", "who would you call", "conrad"]
     }},
     {
+    "bruce-wikipedia": {
+      "tags": ["bruce", "wikipedia", "dont look at"]
+    }},
+    {
     "bruce-willienelson": {
       "tags": ["bruce", "drugs", "willie nelson", "weed"]
+    }},
+    {
+    "bruce-wishedgun": {
+      "tags": ["bruce", "i wished", "i had", "a gun"]
     }},
     {
     "bruce-witchcraft": {
@@ -8144,6 +8156,10 @@
       "tags": ["vince", "movement", "television"]
     }},
     {
+    "vince-msg": {
+      "tags": ["vince", "madison", "square", "garden"]
+    }},
+    {
     "vince-muaythai": {
       "tags": ["vince", "wth", "muay thai", "kickboxing"]
     }},
@@ -10446,8 +10462,16 @@
       "tags": ["meltzer", "is a", "broken", "record"]
     }},
     {
-    "meltzer-conman": {
+    "meltzer-complainbitch": {
+      "tags": ["meltzer", "bruce", "complain", "bitch", "moan"]
+    }},
+    {
+    "meltzer-conman1": {
       "tags": ["meltzer", "conrad", "con man"]
+    }},
+    {
+    "meltzer-conman2": {
+      "tags": ["meltzer", "conrad", "con man", "big deal"]
     }},
     {
     "meltzer-doesntknow": {
@@ -10972,6 +10996,14 @@
       "tags": ["andre", "brother love", "i dont like"]
     }},
     {
+    "andre-brotherlove3": {
+      "tags": ["andre", "brother love", "i dont like"]
+    }},
+    {
+    "andre-brotherlove4": {
+      "tags": ["andre", "brother love", "i no like"]
+    }},
+    {
     "andre-drinkbottles": {
       "tags": ["andre", "drink bottles"]
     }},
@@ -11462,6 +11494,10 @@
       "tags": ["rumors", "bruce", "ive heard"]
     }},
     {
+    "rumors-king": {
+      "tags": ["rumors", "bruce", "king", "falsehoods"]
+    }},
+    {
     "rumors-ladis": {
       "tags": ["rumors", "ladies", "professional wrestling business"]
     }},
@@ -11596,6 +11632,10 @@
     {
     "piper-nothingthatllkillyou": {
       "tags": ["piper", "nothing thatll kill you", "cheers"]
+    }},
+    {
+    "piper-rowdyroddy": {
+      "tags": ["piper", "rowdy roddy piper", "folks"]
     }},
     {
     "piper-santa": {
@@ -12072,8 +12112,28 @@
       "tags": ["love", "be healed"]
     }},
     {
+    "love-brotherlove": {
+      "tags": ["love", "brother love", "superstar"]
+    }},
+    {
+    "love-hallelujah": {
+      "tags": ["love", "hallelujah"]
+    }},
+    {
     "love-healing": {
       "tags": ["love", "healing if you will"]
+    }},
+    {
+    "love-iloveyou1": {
+      "tags": ["love", "i love you"]
+    }},
+    {
+    "love-iloveyou2": {
+      "tags": ["love", "i love you"]
+    }},
+    {
+    "love-iloveyou3": {
+      "tags": ["love", "i love you"]
     }},
     {
     "love-itsamiracle1": {
@@ -12082,6 +12142,18 @@
     {
     "love-itsamiracle2": {
       "tags": ["love", "its a miracle"]
+    }},
+    {
+    "love-message": {
+      "tags": ["love", "im here", "with a", "message"]
+    }},
+    {
+    "love-repent": {
+      "tags": ["love", "repent", "hell"]
+    }},
+    {
+    "love-sinners": {
+      "tags": ["love", "brothers", "sinners"]
     }},
     {
     "love-thyhead": {
@@ -12388,6 +12460,10 @@
     {
     "patterson-brethair": {
       "tags": ["patterson", "bret", "hair"]
+    }},
+    {
+    "patterson-brotherlove": {
+      "tags": ["patterson", "brother love", "i love it"]
     }},
     {
     "patterson-copymachine": {
@@ -13096,6 +13172,10 @@
     {
     "rus-fellatio": {
       "tags": ["rus", "fellatio"]
+    }},
+    {
+    "rus-glasses": {
+      "tags": ["rus", "glasses"]
     }},
     {
     "rus-goldchains": {
