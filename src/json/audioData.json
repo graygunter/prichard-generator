@@ -1404,6 +1404,10 @@
       "tags": ["bruce", "you know what", "i fucked up"]
     }},
     {
+    "bruce-igotfired": {
+      "tags": ["bruce", "i got fired", "for being", "an asshole"]
+    }},
+    {
     "bruce-ihaveneverseen": {
       "tags": ["bruce", "shit"]
     }},
@@ -2212,6 +2216,10 @@
       "tags": ["bruce", "paid", "asswhoopin"]
     }},
     {
+    "bruce-painpills": {
+      "tags": ["bruce", "chewing", "pain pills", "sweet tarts"]
+    }},
+    {
     "bruce-pantiesfordesert": {
       "tags": ["bruce", "panties", "for desert"]
     }},
@@ -2290,6 +2298,10 @@
     {
     "bruce-poopbucket": {
       "tags": ["bruce", "poop", "bucket"]
+    }},
+    {
+    "bruce-porkrinds": {
+      "tags": ["bruce", "pork rinds", "hot dogs"]
     }},
     {
     "bruce-porn": {
@@ -6170,6 +6182,14 @@
       "tags": ["conrad", "puff", "that chiva"]
     }},
     {
+    "conrad-pulledagun1": {
+      "tags": ["conrad", "you pulled", "a gun", "writers"]
+    }},
+    {
+    "conrad-pulledagun2": {
+      "tags": ["conrad", "you pulled", "a gun", "motherfuckers"]
+    }},
+    {
     "conrad-pullingteeth": {
       "tags": ["conrad", "pulling teeth", "fuck"]
     }},
@@ -7510,6 +7530,10 @@
       "tags": ["conrad", "zack ryder", "tshirt cutting", "skills"]
     }},
     {
+    "conrad-zeus": {
+      "tags": ["conrad", "lets talk about", "zeus"]
+    }},
+    {
     "conrad-zubaz1": {
       "tags": ["conrad", "zubaz", "big deal"]
     }},
@@ -7614,6 +7638,10 @@
     {
     "vince-cantbeathulk": {
       "tags": ["vince", "cant", "beat", "hulk"]
+    }},
+    {
+    "vince-cantsayhello": {
+      "tags": ["vince", "goddamnit", "bruce", "cant say hello"]
     }},
     {
     "vince-carmeltitties": {
@@ -8798,6 +8826,10 @@
       "tags": ["jerry", "thank you", "mr mcmahon"]
     }},
     {
+    "jerry-thatvoice": {
+      "tags": ["jerry", "that voice", "you do"]
+    }},
+    {
     "jerry-thisisjerry": {
       "tags": ["jerry", "this is jerry"]
     }},
@@ -9856,6 +9888,10 @@
       "tags": ["dusty", "dont talk", "about this"]
     }},
     {
+    "dusty-doourthing": {
+      "tags": ["dusty", "do our thing", "whatever comes out"]
+    }},
+    {
     "dusty-dosomething": {
       "tags": ["dusty", "do something", "with ya"]
     }},
@@ -10008,7 +10044,11 @@
       "tags": ["dusty", "polkadots"]
     }},
     {
-    "dusty-pumpkinhead": {
+    "dusty-pumpkinhead1": {
+      "tags": ["dusty", "pumpkinhead"]
+    }},
+    {
+    "dusty-pumpkinhead2": {
       "tags": ["dusty", "pumpkinhead"]
     }},
     {
@@ -10039,6 +10079,10 @@
     "dusty-stardust": {
       "tags": ["dusty", "stardust", "fucked up like a monkey"]
     }},
+    {
+    "dusty-stealingmyshit": {
+      "tags": ["dusty", "stop", "stealing my", "shit"]
+    }},    
     {
     "dusty-thankyou": {
       "tags": ["dusty", "thank you", "baby", "darlin"]
@@ -11600,6 +11644,10 @@
     {
     "piper-couplebeers": {
       "tags": ["piper", "i just need a", "couple beers"]
+    }},
+    {
+    "piper-diaper": {
+      "tags": ["piper", "im wearing a dress", "youre wearing a diaper"]
     }},
     {
     "piper-gotinmind": {
