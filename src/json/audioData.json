@@ -255,7 +255,11 @@
       "tags": ["bruce", "blame"]
     }},
     {
-    "bruce-blackbelthof": {
+    "bruce-blackbelthof1": {
+      "tags": ["bruce", "three time", "black belt", "hall of fame"]
+    }},
+    {
+    "bruce-blackbelthof2": {
       "tags": ["bruce", "three time", "black belt", "hall of fame"]
     }},
     {
@@ -2120,6 +2124,10 @@
       "tags": ["bruce", "not just once", "three times"]
     }},
     {
+    "bruce-notricflair": {
+      "tags": ["bruce", "im not", "ric flair"]
+    }},
+    {
     "bruce-notsam": {
       "tags": ["bruce", "sam roberts", "the best interview", "in podcasts"]
     }},
@@ -3900,6 +3908,10 @@
     {
     "conrad-brotherlove": {
       "tags": ["conrad", "brother love", "superstar"]
+    }},
+    {
+    "conrad-brotherlovemortgage": {
+      "tags": ["conrad", "brother love", "the mortgage guy"]
     }},
     {
     "conrad-brotherlovedank": {
@@ -8826,6 +8838,10 @@
       "tags": ["jerry", "thank you", "mr mcmahon"]
     }},
     {
+    "jerry-thatssofunny": {
+      "tags": ["jerry", "thats so funny"]
+    }},
+    {
     "jerry-thatvoice": {
       "tags": ["jerry", "that voice", "you do"]
     }},
@@ -8928,6 +8944,10 @@
     {
     "jerry-youknow16": {
       "tags": ["jerry", "you know"]
+    }},
+    {
+    "jerry-yourefunny": {
+      "tags": ["jerry", "youre funny"]
     }}
   ],
   "savage": [
@@ -12184,6 +12204,10 @@
       "tags": ["love", "i love you"]
     }},
     {
+    "love-iloveyou4": {
+      "tags": ["love", "i love you"]
+    }},
+    {
     "love-itsamiracle1": {
       "tags": ["love", "its a miracle"]
     }},
@@ -12990,6 +13014,10 @@
       "tags": ["rooster", "crow", "bruce"]
     }},
     {
+    "rooster-crow6": {
+      "tags": ["rooster", "crow", "bruce"]
+    }},
+    {
     "rooster-redfnrooster": {
       "tags": ["rooster", "red", "fucking", "rooster"]
     }},
@@ -13605,5 +13633,51 @@
     "flair-nmls": {
       "tags": ["flair", "nmls", "6584", "equal housing lender", "whooo"]
     }}
-  ]
+  ],
+  "stgstw": [
+    {
+    "stgstw-dotcom1": {
+      "tags": ["stgstw", "stgstw dot", "com"]
+    }},
+    {
+    "stgstw-dotcom2": {
+      "tags": ["stgstw", "stgstw dot", "com"]
+    }},
+    {
+    "stgstw-fuckingkidding": {
+      "tags": ["stgstw", "are you", "fucking", "kidding me"]
+    }},
+    {
+    "stgstw-graygunter1": {
+      "tags": ["stgstw", "gray", "gunter"]
+    }},
+    {
+    "stgstw-graygunter2": {
+      "tags": ["stgstw", "gray", "gunter"]
+    }},
+    {
+    "stgstw-graygunter3": {
+      "tags": ["stgstw", "gray", "gunter"]
+    }},
+    {
+    "stgstw-icantbelieve": {
+      "tags": ["stgstw", "i cant", "believe", "youve done this"]
+    }},
+    {
+    "stgstw-incredible": {
+      "tags": ["stgstw", "incredible", "piece of work"]
+    }},
+    {
+    "stgstw-oneguy": {
+      "tags": ["stgstw", "one guy", "archive", "fucking all of it"]
+    }},
+    {
+    "stgstw-stgstw": {
+      "tags": ["stgstw", "something to generate", "stw"]
+    }},
+    {
+    "stgstw-superfan": {
+      "tags": ["stgstw", "the official", "stw", "superfan"]
+    }}
+  ]  
 }
