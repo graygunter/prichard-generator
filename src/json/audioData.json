@@ -195,6 +195,10 @@
       "tags": ["bruce", "because of", "they paid", "us money"]
     }},
     {
+    "bruce-beefin": {
+      "tags": ["bruce", "beefin", "sweaty", "stinky"]
+    }},
+    {
     "bruce-beeninacasket": {
       "tags": ["bruce", "for those of you", "been in a casket"]
     }},
@@ -7510,6 +7514,14 @@
       "tags": ["conrad", "wtf", "do i know", "mortgage guy"]
     }},
     {
+    "conrad-wtfisthis": {
+      "tags": ["conrad", "wtf", "is this"]
+    }},
+    {
+    "conrad-wtfstopsaying": {
+      "tags": ["conrad", "wtf", "wrong with you", "stop saying"]
+    }},
+    {
     "conrad-wtftalkingabout": {
       "tags": ["conrad", "wtf", "talking about"]
     }},
@@ -13622,6 +13634,10 @@
       "tags": ["ernieladd", "he fired my ass", "genius"]
     }},
     {
+    "ernieladd-kingkongbundy": {
+      "tags": ["ernieladd", "king kong bundy", "stealing money"]
+    }},
+    {
     "ernieladd-thebigcat1": {
       "tags": ["ernieladd", "the big cat"]
     }},
@@ -13776,11 +13792,19 @@
   ],
   "stgstw": [
     {
+    "stgstw-crazycreation": {
+      "tags": ["stgstw", "crazy creation", "gray gunter"]
+    }},
+    {
     "stgstw-dotcom1": {
       "tags": ["stgstw", "stgstw dot", "com"]
     }},
     {
     "stgstw-dotcom2": {
+      "tags": ["stgstw", "stgstw dot", "com"]
+    }},
+    {
+    "stgstw-dotcom3": {
       "tags": ["stgstw", "stgstw dot", "com"]
     }},
     {
@@ -13818,6 +13842,14 @@
     {
     "stgstw-superfan": {
       "tags": ["stgstw", "the official", "stw", "superfan"]
-    }}
+    }},
+    {
+    "stgstw-thewebsite": {
+      "tags": ["stgstw", "the website"]
+    }},
+    {
+    "stgstw-wth": {
+      "tags": ["stgstw", "what in", "the", "hell"]
+    }}  
   ]  
 }
