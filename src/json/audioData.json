@@ -11,6 +11,10 @@
   ],  
   "bruce": [
     {
+    "bruce-123go": {
+      "tags": ["bruce", "1 2 3", "go"]
+    }},      
+    {
     "bruce-3heartattacks": {
       "tags": ["bruce", "ive had", "3 heartattacks"]
     }},    
@@ -509,6 +513,10 @@
     {
     "bruce-cockstrong": {
       "tags": ["bruce", "cock", "strong", "sob"]
+    }},
+    {
+    "bruce-conradlicking": {
+      "tags": ["bruce", "conrad", "licking", "himself"]
     }},
     {
     "bruce-conspiracytheories": {
@@ -1021,6 +1029,10 @@
     {
     "bruce-fuckyou3": {
       "tags": ["bruce", "fuck you"]
+    }},
+    {
+    "bruce-fuckyou4": {
+      "tags": ["bruce", "fuck you", "yeah well"]
     }},
     {
     "bruce-fuckyouconrad": {
@@ -1750,6 +1762,10 @@
     {
     "bruce-lawlershit": {
       "tags": ["jerry lawler", "shit", "himself"]
+    }},
+    {
+    "bruce-lickingyouself": {
+      "tags": ["bruce", "licking", "yourself"]
     }},
     {
     "bruce-lifeflashing": {
@@ -2996,7 +3012,11 @@
       "tags": ["bruce", "ooohhh", "theres something", "there"]
     }},
     {
-    "bruce-thereyougo": {
+    "bruce-thereyougo1": {
+      "tags": ["bruce", "there you go"]
+    }},
+    {
+    "bruce-thereyougo2": {
       "tags": ["bruce", "there you go"]
     }},
     {
@@ -3754,6 +3774,10 @@
       "tags": ["conrad", "bashing furniture", "baseball bat"]
     }},
     {
+    "conrad-bautistadick": {
+      "tags": ["conrad", "how big is", "bautista", "dick"]
+    }},
+    {
     "conrad-beatenbyawoman": {
       "tags": ["conrad", "ive been", "beaten up", "by a woman"]
     }},
@@ -3812,6 +3836,10 @@
     {
     "conrad-bischoffsucks": {
       "tags": ["conrad", "bischoff sucks", "airbrushed", "tshirt"]
+    }},
+    {
+    "conrad-bitchslap": {
+      "tags": ["conrad", "bitch slap", "this episode"]
     }},
     {
     "conrad-blackbeltjackoff": {
@@ -5022,6 +5050,10 @@
       "tags": ["conrad", "what do you think about that", "hindsight"]
     }},
     {
+    "conrad-hitmeup": {
+      "tags": ["conrad", "hit", "me", "up"]
+    }},
+    {
     "conrad-hoes": {
       "tags": ["conrad", "too much time", "hoes"]
     }},
@@ -5196,6 +5228,10 @@
     {
     "conrad-ifyouonlyknew2": {
       "tags": ["conrad", "if you only knew"]
+    }},
+    {
+    "conrad-igotcash": {
+      "tags": ["conrad", "i got cash", "n whatnot"]
     }},
     {
     "conrad-illegalfuck": {
@@ -5847,6 +5883,10 @@
     {
     "conrad-nakedbabyoil": {
       "tags": ["conrad", "naked", "baby oil"]
+    }},
+    {
+    "conrad-nakedscreaming": {
+      "tags": ["conrad", "naked", "screaming", "drugged out"]
     }},
     {
     "conrad-natureboy": {
@@ -6604,6 +6644,10 @@
     {
     "conrad-showsshort": {
       "tags": ["conrad", "short", "a damn lie"]
+    }},
+    {
+    "conrad-showsucks": {
+      "tags": ["conrad", "this", "show", "sucks"]
     }},
     {
     "conrad-sidetracked": {
@@ -7590,6 +7634,10 @@
     {
     "vince-attitude5": {
       "tags": ["vince", "attitude"]
+    }},
+    {
+    "vince-babyfaces": {
+      "tags": ["vince", "babyfaces", "goddamn"]
     }},
     {
     "vince-beefcake": {
@@ -8956,6 +9004,10 @@
       "tags": ["savage", "at the same time", "dig it", "yeah"]
     }},
     {
+    "savage-benumber1": {
+      "tags": ["savage", "comin for ya", "be number 1"]
+    }},
+    {
     "savage-bikini": {
       "tags": ["savage", "bikini", "itsy witsy", "teenie weenie"]
     }},
@@ -8998,6 +9050,10 @@
     {
     "savage-easeup": {
       "tags": ["savage", "ease up", "brother"]
+    }},
+    {
+    "savage-easyonthehair": {
+      "tags": ["savage", "easy on", "the hair", "brother"]
     }},
     {
     "savage-elizabeth": {
@@ -9090,6 +9146,10 @@
     {
     "savage-machohat4": {
       "tags": ["savage", "macho hat"]
+    }},
+    {
+    "savage-machoman": {
+      "tags": ["savage", "macho man", "randy savage", "uh huh"]
     }},
     {
     "savage-meanttotalk": {
@@ -9190,6 +9250,10 @@
     {
     "savage-thinking": {
       "tags": ["savage", "thinking", "thinking", "thinking", "uh huh"]
+    }},
+    {
+    "savage-topofthemountain": {
+      "tags": ["savage", "back at", "top of", "the mountain"]
     }},
     {
     "savage-uhhuh": {
@@ -10594,6 +10658,10 @@
       "tags": ["meltzer", "newsflash", "incorrect"]
     }},
     {
+    "meltzer-inotherwords": {
+      "tags": ["meltzer", "in other words", "fuck", "dave"]
+    }},
+    {
     "meltzer-isntright": {
       "tags": ["meltzer", "conrad"]
     }},
@@ -11670,6 +11738,10 @@
       "tags": ["piper", "im wearing a dress", "youre wearing a diaper"]
     }},
     {
+    "piper-dropsob": {
+      "tags": ["piper", "drop the", "sob"]
+    }},
+    {
     "piper-gotinmind": {
       "tags": ["piper", "what you", "got in mind"]
     }}, 
@@ -11680,6 +11752,14 @@
     {
     "piper-hedoesntlikethat": {
       "tags": ["piper", "he doesnt like that", "at all"]
+    }},
+    {
+    "piper-hereiam": {
+      "tags": ["piper", "here i am", "mean gene"]
+    }},
+    {
+    "piper-imhotrod": {
+      "tags": ["piper", "im hot rod", "dont do jobs"]
     }},
     {
     "piper-iwasthinking": {
@@ -11702,12 +11782,20 @@
       "tags": ["piper", "nothing thatll kill you", "cheers"]
     }},
     {
+    "piper-paythepiper": {
+      "tags": ["piper", "time for you", "pay the piper"]
+    }},
+    {
     "piper-rowdyroddy": {
       "tags": ["piper", "rowdy roddy piper", "folks"]
     }},
     {
     "piper-santa": {
       "tags": ["piper", "santa"]
+    }},
+    {
+    "piper-shouldidoit": {
+      "tags": ["piper", "here i go", "should i do it"]
     }},
     {
     "piper-showme": {
@@ -11902,6 +11990,10 @@
   ],
   "hogan": [
     {
+    "hogan-adomeisadome": {
+      "tags": ["hogan", "a dome", "is a dome", "brother"]
+    }},
+    {
     "hogan-andhoganposed": {
       "tags": ["hogan", "and hogan posed"]
     }},
@@ -11942,6 +12034,10 @@
       "tags": ["hogan", "hulkamania", "brother"]
     }},
     {
+    "hogan-lookinoutforyou": {
+      "tags": ["hogan", "lookin out", "for you", "brother"]
+    }},
+    {
     "hogan-mustpose1": {
       "tags": ["hogan", "must pose"]
     }},
@@ -11952,6 +12048,10 @@
     {
     "hogan-mustpose3": {
       "tags": ["hogan", "must pose", "conrad"]
+    }},
+    {
+    "hogan-mustpose4": {
+      "tags": ["hogan", "must pose"]
     }},
     {
     "hogan-nothulkhogan": {
@@ -11968,6 +12068,10 @@
     {
     "hogan-realamerican2": {
       "tags": ["hogan", "real american", "bruce", "singing"]
+    }},
+    {
+    "hogan-rumbleonyou": {
+      "tags": ["hogan", "whatcha gonna do", "rumble", "on you"]
     }},
     {
     "hogan-savewithbruce": {
@@ -12000,6 +12104,10 @@
     {
     "hogan-whatsthatsmell": {
       "tags": ["hogan", "whats that smell"]
+    }},
+    {
+    "hogan-yaknowsomething": {
+      "tags": ["hogan", "ya know", "something", "brother"]
     }}
   ],
   "millertime": [
@@ -12820,6 +12928,10 @@
       "tags": ["johnnyace", "everyones talking about", "him"]
     }},
     {
+    "johnnyace-fairtoflair": {
+      "tags": ["johnnyace", "not", "fair to", "flair"]
+    }},
+    {
     "johnnyace-gimmieacall": {
       "tags": ["johnnyace", "gimmie", "a call"]
     }},
@@ -13078,12 +13190,20 @@
     {
     "bulldog-wasntthere4": {
       "tags": ["bulldog", "wasnt there", "it was owen"]
+    }},
+    {
+    "bulldog-wasntthere5": {
+      "tags": ["bulldog", "wasnt there"]
     }}
   ],
   "beefcake": [
     {
     "beefcake-adecade": {
       "tags": ["beefcake", "a decade", "of brutus", "on ppv"]
+    }},
+    {
+    "beefcake-beefcakebarber": {
+      "tags": ["beefcake", "brutus", "beefcake barber", "bruce"]
     }},
     {
     "beefcake-clipforher": {
@@ -13566,6 +13686,10 @@
       "tags": ["bearer", "oh yes", "bottom line"]
     }},
     {
+    "bearer-busynight": {
+      "tags": ["bearer", "busy", "night"]
+    }},
+    {
     "bearer-dointhenasty": {
       "tags": ["bearer", "oh yes", "doin the nasty", "your mama"]
     }},
@@ -13606,6 +13730,10 @@
       "tags": ["bearer", "oh yes"]
     }},
     {
+    "bearer-ohyes4": {
+      "tags": ["bearer", "oh yes"]
+    }},
+    {
     "bearer-stinky": {
       "tags": ["bearer", "stinky"]
     }},
@@ -13632,6 +13760,18 @@
     {
     "flair-nmls": {
       "tags": ["flair", "nmls", "6584", "equal housing lender", "whooo"]
+    }},
+    {
+    "flair-whoo1": {
+      "tags": ["flair", "whooo"]
+    }},
+    {
+    "flair-whoo2": {
+      "tags": ["flair", "whooo"]
+    }},
+    {
+    "flair-whoo3": {
+      "tags": ["flair", "whooo"]
     }}
   ],
   "stgstw": [
