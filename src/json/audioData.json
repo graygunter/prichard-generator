@@ -543,8 +543,12 @@
       "tags": ["bruce", "most", "convoluted", "bullshit", "ever"]
     }},
     {
-    "bruce-cooters": {
+    "bruce-cooters1": {
       "tags": ["bruce", "cooters", "club", "south houston"]
+    }},
+    {
+    "bruce-cooters2": {
+      "tags": ["bruce", "cooters", "local", "night club"]
     }},
     {
     "bruce-cornettedoingme": {
@@ -2872,6 +2876,10 @@
       "tags": ["bruce", "stinkers"]
     }},
     {
+    "bruce-stirringshit": {
+      "tags": ["bruce", "stirring shit", "to stir", "shit"]
+    }},
+    {
     "bruce-stizupidfizuck": {
       "tags": ["bruce", "stizupid fizuck", "carney"]
     }},
@@ -3686,6 +3694,10 @@
       "tags": ["conrad", "al snow", "superstar"]
     }},
     {
+    "conrad-alundrablayze": {
+      "tags": ["conrad", "alundra blayze", "madusa", "superstar"]
+    }},
+    {
     "conrad-alwaysfascinated": {
       "tags": ["conrad", "one of the things", "always fascinated"]
     }},
@@ -3860,6 +3872,10 @@
     {
     "conrad-bautistadick": {
       "tags": ["conrad", "how big is", "bautista", "dick"]
+    }},
+    {
+    "conrad-bearpenis": {
+      "tags": ["conrad", "insinuating", "bear", "penis"]
     }},
     {
     "conrad-beatenbyawoman": {
@@ -4110,6 +4126,10 @@
       "tags": ["conrad", "bullet for tom", "put one in bruce"]
     }},
     {
+    "conrad-bullnakano": {
+      "tags": ["conrad", "bull nakano", "superstar"]
+    }},
+    {
     "conrad-bullshitanswer": {
       "tags": ["conrad", "bullshit", "answer"]
     }},
@@ -4253,6 +4273,10 @@
     "conrad-christopherdaniels": {
       "tags": ["conrad", "chris daniels", "superstar"]
     }},
+    {
+    "conrad-chyna": {
+      "tags": ["conrad", "chyna", "superstar"]
+    }},    
     {
     "conrad-clownnose": {
       "tags": ["conrad", "clown nose", "wearing"]
@@ -5062,6 +5086,10 @@
       "tags": ["conrad", "haku", "superstar"]
     }},
     {
+    "conrad-hakushi": {
+      "tags": ["conrad", "hakushi", "superstar"]
+    }},
+    {
     "conrad-handsup": {
       "tags": ["conrad", "get your", "fucking", "hands up"]
     }},
@@ -5831,7 +5859,11 @@
     }},
     {
     "conrad-madheadgame": {
-      "tags": ["conrad", "madheadgame"]
+      "tags": ["conrad", "mad", "head", "game"]
+    }},
+    {
+    "conrad-maeyoung": {
+      "tags": ["conrad", "mae young", "superstar"]
     }},
     {
     "conrad-makemebegforit": {
@@ -5850,8 +5882,12 @@
       "tags": ["conrad", "magic"]
     }},
     {
-    "conrad-mantaur": {
+    "conrad-mantaur1": {
       "tags": ["conrad", "give me", "something on", "mantaur"]
+    }},
+    {
+    "conrad-mantaur2": {
+      "tags": ["conrad", "mantaur", "superstar"]
     }},
     {
     "conrad-marcmerowithsable": {
@@ -5959,6 +5995,10 @@
     {
     "conrad-moneytalk2": {
       "tags": ["conrad", "money talk"]
+    }},
+    {
+    "conrad-mordecaimatch": {
+      "tags": ["conrad", "whats your favorite", "mordecai", "match"]
     }},
     {
     "conrad-morebruce": {
@@ -6081,6 +6121,10 @@
       "tags": ["conrad", "so far", "not given shit", "this episode"]
     }},
     {
+    "conrad-notkindergarten": {
+      "tags": ["conrad", "this isnt", "fucking", "kindergarten"]
+    }},
+    {
     "conrad-notliketheother": {
       "tags": ["conrad", "which one of these", "not like the other"]
     }},
@@ -6163,6 +6207,10 @@
     {
     "conrad-onedrink": {
       "tags": ["conrad", "ive seen you have", "one drink"]
+    }},
+    {
+    "conrad-oneeyeddeer": {
+      "tags": ["conrad", "deer head", "one eye", "jokes"]
     }},
     {
     "conrad-oneofthosedeals1": {
@@ -6687,6 +6735,10 @@
     }},
     {
     "conrad-sexualchocolate": {
+      "tags": ["conrad", "sexual", "chocolate"]
+    }},
+    {
+    "conrad-sexualwellness": {
       "tags": ["conrad", "sexual", "chocolate"]
     }},
     {
@@ -7774,6 +7826,10 @@
       "tags": ["conrad", "what was your", "feedback like"]
     }},
     {
+    "conrad-yourreaction": {
+      "tags": ["conrad", "your", "reaction"]
+    }},
+    {
     "conrad-yourthoughts": {
       "tags": ["conrad", "your thoughts"]
     }},
@@ -8376,7 +8432,7 @@
       "tags": ["vince", "katie vick", "poor taste", "ill show you"]
     }},
     {
-    "vince-killedgoldber": {
+    "vince-killedgoldberg": {
       "tags": ["vince", "killed", "bill goldberg", "career"]
     }},
     {
@@ -8976,6 +9032,10 @@
     {
     "jerry-coffee": {
       "tags": ["jerry", "coffee", "conrad"]
+    }},
+    {
+    "jerry-forhims": {
+      "tags": ["jerry", "for hims", "dot", "com"]
     }},
     {
     "jerry-grapes1": {
@@ -10122,6 +10182,10 @@
       "tags": ["cornette", "never be", "part of this world", "motherfucker"]
     }},
     {
+    "cornette-wrestling": {
+      "tags": ["cornette", "because", "wrestling", "way you liked it"]
+    }},
+    {
     "cornette-wtfhisname": {
       "tags": ["cornette", "wtf", "is his name"]
     }},
@@ -10828,6 +10892,10 @@
     {
     "meltzer-brokenrecord": {
       "tags": ["meltzer", "is a", "broken", "record"]
+    }},
+    {
+    "meltzer-bswritten": {
+      "tags": ["meltzer", "bullshit", "written", "here"]
     }},
     {
     "meltzer-complainbitch": {
@@ -12552,6 +12620,10 @@
       "tags": ["love", "hallelujah"]
     }},
     {
+    "love-hateme": {
+      "tags": ["love", "i love", "those that", "hate me"]
+    }},
+    {
     "love-healing": {
       "tags": ["love", "healing if you will"]
     }},
@@ -13324,8 +13396,12 @@
       "tags": ["johnnyace", "vinces arms", "oily"]
     }},
     {
-    "johnnyace-vincesarms": {
+    "johnnyace-vincesarms1": {
       "tags": ["johnnyace", "vinces arms"]
+    }},
+    {
+    "johnnyace-vincesarms2": {
+      "tags": ["johnnyace", "vinces arms", "looked great"]
     }},
     {
     "johnnyace-whichone": {
