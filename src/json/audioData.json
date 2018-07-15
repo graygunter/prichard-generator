@@ -787,6 +787,10 @@
       "tags": ["bruce", "dozen shot glasses", "clear liquid"]
     }},
     {
+    "bruce-drawmoney": {
+      "tags": ["bruce", "you wanted to", "draw", "money"]
+    }},
+    {
     "bruce-drdeath": {
       "tags": ["bruce", "steve", "doctor death", "williams"]
     }},
@@ -1920,6 +1924,10 @@
       "tags": ["bruce", "everybody", "loves poo"]
     }},
     {
+    "bruce-lovewrestling": {
+      "tags": ["bruce", "we all", "love", "wrestling"]
+    }},
+    {
     "bruce-lowclass": {
       "tags": ["bruce", "low class"]
     }},
@@ -2422,10 +2430,6 @@
     {
     "bruce-pissed": {
       "tags": ["bruce", "pissed pissed", "wanting to fight", "pissed"]
-    }}, 
-    {
-    "bruce-putsomeclotheson": {
-      "tags": ["bruce", "bruce please", "put some clothes on"]
     }},
     {
     "bruce-plinko": {
@@ -2462,6 +2466,10 @@
     {
     "bruce-poutyshoes": {
       "tags": ["bruce", "pouty shoes", "on"]
+    }},
+    {
+    "bruce-ppvbuys": {
+      "tags": ["bruce", "you wanted", "ppv", "buys"]
     }},
     {
     "bruce-prettysure": {
@@ -2514,6 +2522,10 @@
     {
     "bruce-pullyourshirtup": {
       "tags": ["bruce", "pull your shirt up"]
+    }},
+    {
+    "bruce-putsomeclotheson": {
+      "tags": ["bruce", "bruce please", "put some clothes on"]
     }},
     {
     "bruce-putupwet": {
@@ -2734,6 +2746,10 @@
     {
     "bruce-seniormoment": {
       "tags": ["bruce", "senior moment", "forgot the question"]
+    }},
+    {
+    "bruce-shakingpenises": {
+      "tags": ["bruce", "group of men", "shaking", "penises"]
     }},
     {
     "bruce-shavethehead": {
@@ -4322,6 +4338,10 @@
       "tags": ["conrad", "chat me up", "a little", "bit"]
     }},
     {
+    "conrad-chatmeup6": {
+      "tags": ["conrad", "chat me up", "bruce"]
+    }},
+    {
     "conrad-cheatonme": {
       "tags": ["conrad", "cheat"]
     }},
@@ -5080,6 +5100,10 @@
     {
     "conrad-golddustgoosing": {
       "tags": ["conrad", "gold dust", "goosing", "his opponents"]
+    }},
+    {
+    "conrad-goodjimmyhart": {
+      "tags": ["conrad", "good name of", "jimmy hart"]
     }},
     {
     "conrad-goodmenthong": {
@@ -10905,7 +10929,7 @@
     }},
     {
     "funk-bastardchase": {
-      "tags": ["funk", "make that" "big bastard", "chase you"]
+      "tags": ["funk", "make that", "big bastard", "chase you"]
     }},
     {
     "funk-beervending": {
