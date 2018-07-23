@@ -611,6 +611,10 @@
       "tags": ["bruce", "crotch", "inspect"]
     }},
     {
+    "bruce-damngoodmatch": {
+      "tags": ["bruce", "damn", "good", "match", "beat the shit"]
+    }},
+    {
     "bruce-darkshit": {
       "tags": ["bruce", "dark", "shit", "negative"]
     }},
@@ -1408,8 +1412,12 @@
       "tags": ["bruce", "dont want to talk about", "hogans junk"]
     }},
     {
-    "bruce-horrible": {
+    "bruce-horrible1": {
       "tags": ["bruce", "horrible"]
+    }},
+    {
+    "bruce-horrible2": {
+      "tags": ["bruce", "absolutely", "horrible"]
     }},
     {
     "bruce-horseshit": {
@@ -3236,6 +3244,10 @@
       "tags": ["bruce", "come up with", "this shit", "conrad"]
     }},
     {
+    "bruce-thisshowsucked": {
+      "tags": ["bruce", "this", "show", "sucked"]
+    }},
+    {
     "bruce-threeminutesin": {
       "tags": ["bruce", "three minutes in", "fuck you conrad"]
     }},
@@ -3486,6 +3498,10 @@
     {
     "bruce-wenttothebar": {
       "tags": ["bruce", "we all", "went to the bar"]
+    }},
+    {
+    "bruce-werefucked": {
+      "tags": ["bruce", "were", "fucked"]
     }},
     {
     "bruce-whatami": {
@@ -5284,6 +5300,10 @@
     {
     "conrad-handsup": {
       "tags": ["conrad", "get your", "fucking", "hands up"]
+    }},
+    {
+    "conrad-hangup": {
+      "tags": ["conrad", "i was about to", "hang up", "fuck"]
     }},
     {
     "conrad-hardboyz": {
@@ -7118,6 +7138,10 @@
       "tags": ["conrad", "sigh", "exasperation"]
     }},
     {
+    "conrad-sigh5": {
+      "tags": ["conrad", "sigh", "exasperation"]
+    }},
+    {
     "conrad-sillynonsense": {
       "tags": ["conrad", "silly", "nonsense"]
     }},
@@ -7592,6 +7616,10 @@
     {
     "conrad-topicofconversation": {
       "tags": ["conrad", "how much", "topic of conversation"]
+    }},
+    {
+    "conrad-torriewilson": {
+      "tags": ["conrad", "torie wilson", "superstar"]
     }},
     {
     "conrad-touchaboob": {
@@ -10981,30 +11009,37 @@
   "warrior": [
     {
     "warrior-dextrucity1": {
+      "date": "2017-05-10",
       "tags": ["warriror", "dextrucity"]
     }},
     {
     "warrior-dextrucity2": {
+      "date": "2017-11-19",
       "tags": ["warriror", "dextrucity", "subject of"]
     }},
     {
     "warrior-dextrucity3": {
+      "date": "2017-11-19",
       "tags": ["warriror", "dextrucity", "u is for butthole"]
     }},
     {
     "warrior-fired": {
+      "date": "2017-11-20",
       "tags": ["warriror", "fired", "from the", "wwf"]
     }},
     {
     "warrior-hesultimatewarrior": {
+      "date": "2017-10-29",
       "tags": ["warriror", "hes", "ultimate warrior"]
     }},
     {
     "warrior-ultimatewarrioris": {
+      "date": "2017-10-29",
       "tags": ["warriror", "ultimate warrior", "is"]
     }},
     {
     "warrior-warrioruniversity": {
+      "date": "2017-11-19",
       "tags": ["warrior", "favorite class", "warrior university", "conrad"]
     }}
   ],
@@ -11244,6 +11279,10 @@
     {
     "meltzer-expert": {
       "tags": ["meltzer", "being the", "expert"]
+    }},
+    {
+    "meltzer-firstofall": {
+      "tags": ["meltzer", "first of all", "fuck"]
     }},
     {
     "meltzer-forgetmeltzer": {
@@ -12304,6 +12343,10 @@
     {
     "rumors-theresbeenlots": {
       "tags": ["rumors", "conrad", "theres been lots"]
+    }},
+    {
+    "rumors-theyveheard": {
+      "tags": ["rumors", "bruce", "theyve heard"]
     }},
     {
     "rumors-whatsreal": {
@@ -13686,6 +13729,10 @@
     {
     "johnnyace-oneleggedwrestler": {
       "tags": ["johnnyace", "i got the", "one legged wrestler"]
+    }},
+    {
+    "johnnyace-pantsdown": {
+      "tags": ["johnnyace", "pull your", "pants down", "skin on skin"]
     }},
     {
     "johnnyace-realamerican1": {
