@@ -2,10 +2,12 @@
   "mlw": [
     {
     "mlw-neverstops": {
+      "date": "2017-07-31",
       "tags": ["mlw", "never stops", "outro"]
     }},
     {
     "mlw-production": {
+      "date": "2017-07-25",
       "tags": ["mlw", "production", "intro"]
     }}
   ],  
@@ -11045,43 +11047,53 @@
   ],
   "ecw": [
     {
-    "ecw-bingo": {
-      "tags": ["ecw", "bingo"]
-    }},
-    {
     "ecw-b14": {
+      "date": "2017-08-01",
       "tags": ["ecw", "b-14"]
     }},
     {
     "ecw-b19": {
-      "tags": ["ecw", "b-14"]
+      "date": "2018-01-27",
+      "tags": ["ecw", "b-19"]
+    }},
+    {
+    "ecw-bingo": {
+      "date": "2017-07-31",
+      "tags": ["ecw", "bingo"]
     }},
     {
     "ecw-g718": {
+      "date": "2017-08-02",
       "tags": ["ecw", "g-718"]
     }},
     {
     "ecw-i17": {
+      "date": "2017-08-01",
       "tags": ["ecw", "i-17"]
     }},
     {
     "ecw-i62": {
+      "date": "2017-08-01",
       "tags": ["ecw", "i-62"]
     }},
     {
     "ecw-n32": {
+      "date": "2017-07-31",
       "tags": ["ecw", "n-32"]
     }},
     {
     "ecw-n42": {
+      "date": "2017-01-27",
       "tags": ["ecw", "n-42"]
     }},
     {
     "ecw-n422": {
+      "date": "2018-04-26",
       "tags": ["ecw", "n-42"]
     }},
     {
     "ecw-o3": {
+      "date": "2017-07-31",
       "tags": ["ecw", "o-3"]
     }}
   ],
@@ -11436,38 +11448,47 @@
   "pwtorch": [
     {
     "pwtorch-asshole": {
+      "date": "2018-04-24",
       "tags": ["pwtorch", "if somebody doesnt", "like somebody", "asshole"]
     }},
     {
     "pwtorch-bitchboy": {
+      "date": "2017-08-04",
       "tags": ["pwtorch", "greensboro", "bitchboy", "jackoff"]
     }},
     {
     "pwtorch-directlyfrom": {
+      "date": "2018-04-23",
       "tags": ["pwtorch", "this is", "directly from", "the torch"]
     }},
     {
     "pwtorch-fuckwadekeller": {
+      "date": "2017-04-25",
       "tags": ["pwtorch", "fuck", "wade keller"]
     }},
     {
     "pwtorch-fullofshit": {
+      "date": "2017-09-12",
       "tags": ["pwtorch", "probably full of shit", "not to my knowledge"]
     }},
     {
     "pwtorch-greensborojackoff1": {
+      "date": "2017-08-04",
       "tags": ["pwtorch", "greensboro", "jackoff"]
     }},
     {
     "pwtorch-greensborojackoff2": {
+      "date": "2017-08-13",
       "tags": ["pwtorch", "greensboro", "jackoff"]
     }},
     {
     "pwtorch-greensborojackoff3": {
+      "date": "2017-09-13",
       "tags": ["pwtorch", "greensboro", "jackoff", "not involved"]
     }},
     {
     "pwtorch-greensborojackoff4": {
+      "date": "2017-11-26",
       "tags": ["pwtorch", "greensboro", "jackoff", "nobody likes"]
     }}
   ],
@@ -11764,158 +11785,197 @@
   "andre": [
     {
     "andre-14vodkasodas": {
+      "date": "2017-09-12",
       "tags": ["andre", "14 vodka sodas"]
     }},
     {
     "andre-15jackandcoke": {
+      "date": "2017-09-12",
       "tags": ["andre", "15 jack and coke"]
     }},
     {
     "andre-24beers": {
+      "date": "2017-09-12",
       "tags": ["andre", "24 beers"]
     }},
     {
     "andre-bambam": {
+      "date": "2017-09-29",
       "tags": ["andre", "come here", "bam bam", "fuck you"]
     }},
     {
     "andre-bloodymary": {
+      "date": "2017-08-02",
       "tags": ["andre", "bloody mary"]
     }},
     {
     "andre-boss1": {
+      "date": "2018-05-06",
       "tags": ["andre", "boss", "hurr"]
     }},
     {
     "andre-boss2": {
+      "date": "2018-05-06",
       "tags": ["andre", "i am", "boss"]
     }},
     {
     "andre-boss3": {
+      "date": "2018-05-06",
       "tags": ["andre", "boss", "hurr"]
     }},
     {
     "andre-brotherlove1": {
+      "date": "2017-11-03",
       "tags": ["andre", "brother love"]
     }},
     {
     "andre-brotherlove2": {
+      "date": "2017-11-03",
       "tags": ["andre", "brother love", "i dont like"]
     }},
     {
     "andre-brotherlove3": {
+      "date": "2018-05-20",
       "tags": ["andre", "brother love", "i dont like"]
     }},
     {
     "andre-brotherlove4": {
+      "date": "2018-05-20",
       "tags": ["andre", "brother love", "i no like"]
     }},
     {
     "andre-drinkbottles": {
+      "date": "2018-01-30",
       "tags": ["andre", "drink bottles"]
     }},
     {
-    "andre-goodforhim": {
-      "tags": ["andre", "fuck him"]
-    }},
-    {
     "andre-fuckhim1": {
+      "date": "2017-11-29",
       "tags": ["andre", "good for him"]
     }},
     {
     "andre-fuckhim2": {
+      "date": "2018-01-01",
       "tags": ["andre", "fuck him"]
     }},
     {
     "andre-fuckyou": {
+      "date": "2017-11-29",
       "tags": ["andre", "fuck you"]
     }},
     {
+    "andre-goodforhim": {
+      "date": "2017-10-01",
+      "tags": ["andre", "fuck him"]
+    }},
+    {
     "andre-hrm1": {
+      "date": "2017-09-12",
       "tags": ["andre", "hrm"]
     }},
     {
     "andre-hrm2": {
+      "date": "2017-10-01",
       "tags": ["andre", "hrm"]
     }},
     {
     "andre-hrm3": {
+      "date": "2017-10-01",
       "tags": ["andre", "hrm"]
     }},
     {
     "andre-hrm4": {
+      "date": "2017-11-02",
       "tags": ["andre", "hrm"]
     }},
     {
     "andre-hrmurm": {
+      "date": "2017-08-02",
       "tags": ["andre", "hr", "murm"]
     }},
     {
     "andre-icomegetyou": {
+      "date": "2017-12-26",
       "tags": ["andre", "i come", "get you"]
     }},
     {
     "andre-idontlikeyou": {
+      "date": "2017-09-29",
       "tags": ["andre", "i dont like you", "go away"]
     }},
     {
     "andre-igosleepnow": {
+      "date": "2017-09-12",
       "tags": ["andre", "i go sleep now"]
     }},
     {
     "andre-imagiant": {
+      "date": "2017-10-01",
       "tags": ["andre", "im a giant"]
     }},
     {
     "andre-iwantwine": {
+      "date": "2017-09-12",
       "tags": ["andre", "i want wine"]
     }},
     {
     "andre-laughing1": {
+      "date": "2017-12-29",
       "tags": ["andre", "laughing", "rur hur", "hur hur"]
     }},
     {
     "andre-laughing2": {
+      "date": "2018-02-05",
       "tags": ["andre", "laughing", "rur hur", "hur hur"]
     }},
     {
     "andre-newspaper": {
+      "date": "2018-01-26",
       "tags": ["andre", "newspaper"]
     }},
     {
     "andre-nosehairclip": {
+      "date": "2017-12-26",
       "tags": ["andre", "i need", "nose hair clip"]
     }},
     {
     "andre-noslam": {
+      "date": "2017-11-13",
       "tags": ["andre", "no slam"]
     }},
     {
     "andre-nowork": {
+      "date": "2017-11-02",
       "tags": ["andre", "no work", "boss"]
     }},
     {
     "andre-poopoo": {
+      "date": "2017-11-06",
       "tags": ["andre", "i must", "poo poo"]
     }},
     {
     "andre-screwdriver": {
+      "date": "2017-08-02",
       "tags": ["andre", "screwdriver"]
     }},
     {
     "andre-shit": {
+      "date": "2017-08-02",
       "tags": ["andre", "shit"]
     }},
     {
     "andre-takeashit": {
+      "date": "2017-12-29",
       "tags": ["andre", "have to", "take a", "shit"]
     }},
     {
     "andre-urm": {
+      "date": "2017-08-02",
       "tags": ["andre", "urm"]
     }},
     {
     "andre-whatsthis": {
+      "date": "2017-08-02",
       "tags": ["andre", "what this"]
     }}
   ],
@@ -12982,6 +13042,7 @@
   "brisco": [
     {
     "brisco-hooked": {
+      "date": "2017-05-10",
       "tags": ["brisco", "hooker"]
     }}
   ],
@@ -13054,280 +13115,353 @@
   "russo": [
     {
     "russo-bro1": {
+      "date": "2017-08-09",
       "tags": ["russo", "bro"]
     }},
     {
     "russo-bro2": {
+      "date": "2017-08-09",
       "tags": ["russo", "bro"]
     }},
     {
     "russo-bro3": {
+      "date": "2017-08-09",
       "tags": ["russo", "yo", "bro"]
     }},
     {
     "russo-bro4": {
+      "date": "2017-08-09",
       "tags": ["russo", "yo", "bro"]
     }},
     {
     "russo-bro5": {
+      "date": "2017-08-09",
       "tags": ["russo", "what", "bro"]
     }},
     {
     "russo-bro6": {
+      "date": "2017-11-08",
       "tags": ["russo", "bro"]
     }},
     {
     "russo-bury": {
+      "date": "2017-12-11",
       "tags": ["russo", "bury"]
     }},
     {
     "russo-hatetweets": {
-      "tags": ["russo", "send your", "hate tweets"]
+      "date": "2017-12-11",
+      "tags": ["russo", "conrad", "send your", "hate tweets"]
     }},
     {
     "russo-idear": {
+      "date": "2018-01-18",
       "tags": ["russo", "i got an", "idear"]
     }},
     {
     "russo-ilike": {
+      "date": "2017-08-04",
       "tags": ["russo", "i like vince russo"]
     }},
     {
     "russo-itsawork": {
+      "date": "2017-11-08",
       "tags": ["russo", "its a work", "bro"]
     }},
     {
     "russo-loveit": {
+      "date": "2018-07-15",
       "tags": ["russo", "theyre gonna", "love it", "bro"]
     }},
     {
     "russo-myhead1": {
+      "date": "2017-11-07",
       "tags": ["russo", "my head", "stuff comin from"]
     }},
     {
     "russo-myhead2": {
+      "date": "2017-11-07",
       "tags": ["russo", "my head"]
     }},
     {
     "russo-notrusso": {
+      "date": "2018-02-13",
       "tags": ["russo", "not russo", "bruce prichard"]
     }},
     {
     "russo-onthecard": {
+      "date": "2017-12-01",
       "tags": ["russo", "gotta have him", "on the card", "bro"]
     }},
     {
-    "russo-pen": {
-      "tags": ["russo", "praise vince russo", "two weeks in a row"]
+    "russo-penisesout": {
+      "date": "2018-04-28",
+      "tags": ["russo", "penis", "out", "pee on"]
     }},
     {
     "russo-praise": {
+      "date": "2017-12-12",
       "tags": ["russo", "praise vince russo", "two weeks in a row"]
     }},
     {
     "russo-russoera": {
+      "date": "2017-12-01",
       "tags": ["russo", "russo era"]
     }},
     {
     "russo-russoline": {
+      "date": "2017-12-05",
       "tags": ["russo", "that is a", "vince russo", "line"]
     }},
     {
     "russo-suchagreatwriter": {
+      "date": "2017-11-26",
       "tags": ["russo", "im such a", "great writer", "bro"]
     }},
     {
     "russo-swerve1": {
+      "date": "2017-11-07",
       "tags": ["russo", "swerve", "conrad"]
     }},
     {
     "russo-theyllbeastar": {
+      "date": "2017-11-26",
       "tags": ["russo", "whatever i write", "theyll be a star"]
     }},
     {
     "russo-twowords": {
+      "date": "2017-12-01",
       "tags": ["russo", "two words", "bro"]
+    }},
+    {
+    "russo-wrestleaustin": {
+      "date": "2018-04-20",
+      "tags": ["russo", "what if", "wrestle", "austin", "bro"]
     }}
   ],
   "gobbledy": [
     {
     "gobbledy-gobbledygooker1": {
+      "date": "2017-08-06",
       "tags": ["gobbledygooker", "gobbledy gooker"]
     }},
     {
     "gobbledy-gobbledygooker2": {
+      "date": "2017-08-06",
       "tags": ["gobbledygooker", "gobbledy gooker"]
     }},
     {
     "gobbledy-gobbledygooker3": {
+      "date": "2017-08-06",
       "tags": ["gobbledygooker", "gobbledy gooker"]
     }},
     {
     "gobbledy-gobbledygooker4": {
+      "date": "2017-08-06",
       "tags": ["gobbledygooker", "gobbledy gooker"]
     }},
     {
     "gobbledy-gobbledygooker5": {
+      "date": "2017-09-29",
       "tags": ["gobbledygooker", "gobbledy gooker"]
     }}
   ],
   "babytonight": [
     {
     "babytonight-babytonight1": {
+      "date": "2017-08-04",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight2": {
+      "date": "2017-08-06",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight3": {
+      "date": "2017-08-14",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight4": {
+      "date": "2017-08-15",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight5": {
+      "date": "2017-08-19",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight6": {
+      "date": "2017-09-05",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight7": {
+      "date": "2017-09-10",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight8": {
+      "date": "2017-09-21",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight9": {
+      "date": "2017-09-25",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight10": {
+      "date": "2017-10-02",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight11": {
+      "date": "2017-10-06",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight12": {
+      "date": "2017-10-10",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight13": {
+      "date": "2017-11-01",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight14": {
+      "date": "2017-11-06",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight15": {
+      "date": "2017-11-20",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight16": {
+      "date": "2017-11-21",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight17": {
+      "date": "2017-12-01",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight18": {
+      "date": "2017-12-12",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight19": {
+      "date": "2017-12-21",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight20": {
+      "date": "2018-04-19",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight21": {
+      "date": "2018-04-24",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-babytonight22": {
+      "date": "2018-04-28",
       "tags": ["babytonight", "alone with my baby tonight"]
     }},
     {
     "babytonight-hecouldntwait": {
+      "date": "2018-04-02",
       "tags": ["babytonight", "he couldnt wait", "to be alone"]
     }},
     {
     "babytonight-icantwait": {
+      "date": "2017-10-06",
       "tags": ["babytonight", "i cant wait", "to nigh hite"]
     }},
     {
     "babytonight-sheri": {
+      "date": "2017-09-06",
       "tags": ["babytonight", "sheri"]
     }},
     {
     "babytonight-spendmydays1": {
+      "date": "2017-08-13",
       "tags": ["babytonight", "spend my days"]
     }},
     {
     "babytonight-spendmydays2": {
+      "date": "2017-09-07",
       "tags": ["babytonight", "spend my days"]
     }},
     {
     "babytonight-workinhard": {
+      "date": "2017-09-07",
       "tags": ["babytonight", "workin hard", "on the go"]
     }},
     {
     "babytonight-wrestlerockrumble": {
+      "date": "2017-08-15",
       "tags": ["babytonight", "wrestle rock rumble"]
     }}
   ],
   "tna": [
     {
     "tna-actionfigure": {
+      "date": "2017-08-10",
       "tags": ["tna", "dixie carter", "action figure"]
     }},
     {
     "tna-bobryder": {
+      "date": "2017-08-09",
       "tags": ["tna", "bob ryder", "sex"]
     }},
     {
     "tna-dixiecarter": {
+      "date": "2017-08-09",
       "tags": ["tna", "dixie carter", "lots", "conrad"]
     }},
     {
     "tna-dixiedoll1": {
+      "date": "2017-08-10",
       "tags": ["tna", "dixie doll", "dixie carter"]
     }},
     {
     "tna-dixiedoll2": {
+      "date": "2017-08-12",
       "tags": ["tna", "dixie doll", "dixie carter"]
     }},
     {
     "tna-ec3": {
+      "date": "2017-08-09",
       "tags": ["tna", "ec3", "theme"]
     }},
     {
     "tna-sixsidedring": {
+      "date": "2017-08-09",
       "tags": ["tna", "six sided ring"]
     }},
     {
     "tna-stories": {
+      "date": "2017-08-10",
       "tags": ["tna", "stories", "dixie carter"]
     }},
     {
     "tna-tna": {
+      "date": "2017-08-09",
       "tags": ["tna", "bruce"]
     }},
     {
     "tna-wheresdixie": {
+      "date": "2017-08-12",
       "tags": ["tna", "wheres dixie", "hashtag"]
     }}
   ],
@@ -13806,66 +13940,87 @@
   "rooster": [
     {
     "rooster-cockadoodledoo1": {
+      "date": "2017-08-13",
       "tags": ["rooster", "cockadoodledoo man", "conrad"]
     }},
     {
     "rooster-cockadoodledoo2": {
+      "date": "2017-08-02",
       "tags": ["rooster", "cockadoodledoo man", "bruce"]
     }},
     {
     "rooster-cockadoodledoo3": {
+      "date": "2017-08-15",
       "tags": ["rooster", "cockadoodledoo man", "conrad"]
     }},
     {
     "rooster-cockadoodledoo4": {
+      "date": "2017-08-24",
       "tags": ["rooster", "cockadoodledoo man", "conrad"]
     }},
     {
     "rooster-cockadoodledoo5": {
+      "date": "2017-09-06",
+      "tags": ["rooster", "cockadoodledoo man", "conrad"]
+    }},
+    {
+    "rooster-cockadoodledoo6": {
+      "date": "2018-06-19",
       "tags": ["rooster", "cockadoodledoo man", "conrad"]
     }},
     {
     "rooster-cockadoodledootime": {
+      "date": "2017-10-01",
       "tags": ["rooster", "cockadoodledoo time", "conrad"]
     }},
     {
     "rooster-crow1": {
+      "date": "2017-09-11",
       "tags": ["rooster", "crow", "bruce"]
     }},
     {
     "rooster-crow2": {
+      "date": "2017-09-17",
       "tags": ["rooster", "crow", "bruce"]
     }},
     {
     "rooster-crow3": {
+      "date": "2017-10-01",
       "tags": ["rooster", "crow", "bruce"]
     }},
     {
     "rooster-crow4": {
+      "date": "2017-11-29",
       "tags": ["rooster", "crow", "bruce"]
     }},
     {
     "rooster-crow5": {
+      "date": "2017-10-01",
       "tags": ["rooster", "crow", "bruce"]
     }},
     {
     "rooster-crow6": {
+      "date": "2018-05-21",
       "tags": ["rooster", "crow", "bruce"]
     }},
     {
     "rooster-redfnrooster": {
+      "date": "2017-11-29",
       "tags": ["rooster", "red", "fucking", "rooster"]
     }},
     {
     "rooster-terrytaylor": {
+      "date": "2017-09-11",
       "tags": ["rooster", "terry taylor", "conrad"]
     }},
     {
     "rooster-whattime1": {
+      "date": "2017-10-08",
       "tags": ["rooster", "did you ask", "what time"]
     }},
     {
     "rooster-whattime2": {
+      "date": "2017-10-01",
       "tags": ["rooster", "what time", "conrad"]
     }}
   ],
@@ -14100,10 +14255,12 @@
   "rgt4law": [
     {
     "rgt4law-mesothelioma": {
+      "date": "2017-09-01",
       "tags": ["mesothelioma", "rgt law"]
     }},
     {
     "rgt4law-billions": {
+      "date": "2017-09-01",
       "tags": ["mesothelioma", "rgt law", "billions"]
     }}
   ],
@@ -14416,132 +14573,178 @@
   "fink": [
     {
     "fink-dogeatdog": {
+      "date": "2017-11-26",
       "tags": ["fink", "this may be", "dog eat dog", "world"]
     }},
     {
     "fink-longfacelillian": {
+      "date": "2017-11-26",
       "tags": ["fink", "why the", "long face", "lillian"]
     }},
     {
     "fink-royalrumble": {
+      "date": "2018-02-04",
       "tags": ["fink", "royal rumble"]
     }},
     {
     "fink-thepuppies": {
+      "date": "2017-11-26",
       "tags": ["fink", "you have", "the puppies"]
     }},
     {
     "fink-therules": {
+      "date": "2018-02-04",
       "tags": ["fink", "the rules"]
     }},
     {
     "fink-theweiner1": {
+      "date": "2017-11-26",
       "tags": ["fink", "i have", "the weiner"]
     }},
     {
     "fink-theweiner2": {
+      "date": "2017-11-26",
       "tags": ["fink", "i have", "the weiner"]
     }}
   ],
   "bearer": [
     {
     "bearer-anythingwrong": {
+      "date": "2018-02-11",
       "tags": ["bearer", "who me", "didnt do", "anything wrong"]
     }},
     {
     "bearer-bottomline": {
+      "date": "2017-11-09",
       "tags": ["bearer", "oh yes", "bottom line"]
     }},
     {
+    "bearer-burninhell1": {
+      "date": "2018-04-28",
+      "tags": ["bearer", "burn", "in", "hell"]
+    }},
+    {
+    "bearer-burninhell2": {
+      "date": "2018-04-28",
+      "tags": ["bearer", "burn", "in", "hell"]
+    }},
+    {
     "bearer-busynight": {
+      "date": "2018-05-28",
       "tags": ["bearer", "busy", "night"]
     }},
     {
     "bearer-dointhenasty": {
+      "date": "2017-12-08",
       "tags": ["bearer", "oh yes", "doin the nasty", "your mama"]
     }},
     {
     "bearer-doinyourmom": {
+      "date": "2018-04-19",
       "tags": ["bearer", "undertaker", "doin", "your mama"]
     }},
     {
     "bearer-fondlingme": {
+      "date": "2018-01-12",
       "tags": ["bearer", "oh my", "fondling me"]
     }},
     {
     "bearer-gross": {
+      "date": "2017-11-13",
       "tags": ["bearer", "oh", "gross"]
     }},
     {
     "bearer-kaneismine": {
+      "date": "2017-12-08",
       "tags": ["bearer", "kane", "is mine"]
     }},
     {
     "bearer-lower": {
+      "date": "2018-01-12",
       "tags": ["bearer", "oh", "lower", "wrong roll"]
     }},
     {
     "bearer-murderer": {
+      "date": "2018-02-14",
       "tags": ["bearer", "youre a", "murderer"]
     }},
     {
     "bearer-ohyes1": {
+      "date": "2017-08-24",
       "tags": ["bearer", "oh yes"]
     }},
     {
     "bearer-ohyes2": {
+      "date": "2017-11-09",
       "tags": ["bearer", "oh yes"]
     }},
     {
     "bearer-ohyes3": {
+      "date": "2018-02-13",
       "tags": ["bearer", "oh yes"]
     }},
     {
     "bearer-ohyes4": {
+      "date": "2018-05-28",
       "tags": ["bearer", "oh yes"]
     }},
     {
     "bearer-ohyes5": {
+      "date": "2018-07-14",
       "tags": ["bearer", "oh yes"]
     }},
     {
     "bearer-stinky": {
+      "date": "2017-11-13",
       "tags": ["bearer", "stinky"]
     }},
     {
     "bearer-totheright": {
+      "date": "2018-01-12",
       "tags": ["bearer", "oh yes", "to the right"]
+    }},
+    {
+    "bearer-wellitsover": {
+      "date": "2018-05-06",
+      "tags": ["bearer", "well", "its", "over"]
     }}
   ],
   "harley": [
     {
     "harley-finishkid": {
+      "date": "2018-03-15",
       "tags": ["harley", "whats your", "finish", "kid"]
     }},
     {
     "harley-illmove": {
+      "date": "2018-03-15",
       "tags": ["harley", "ill move"]
     }},
     {
     "harley-takeoutdusty": {
+      "date": "2018-04-16",
       "tags": ["harley", "100000 sandwiches", "take out", "dusty rhodes"]
     }}
   ],
   "flair": [
     {
     "flair-nmls": {
+      "date": "2018-04-17",
       "tags": ["flair", "nmls", "6584", "equal housing lender", "whooo"]
     }},
     {
     "flair-whoo1": {
+      "date": "2018-05-28",
       "tags": ["flair", "whooo"]
     }},
     {
     "flair-whoo2": {
+      "date": "2018-05-28",
       "tags": ["flair", "whooo"]
     }},
     {
     "flair-whoo3": {
+      "date": "2018-05-28",
       "tags": ["flair", "whooo"]
     }}
   ],
