@@ -8550,10 +8550,6 @@
       "tags": ["vince", "good call", "cornette"]
     }},
     {
-    "vince-goodforhim": {
-      "tags": ["vince", "good for him"]
-    }},
-    {
     "vince-goodforus": {
       "tags": ["vince", "good for us", "goddamn"]
     }},
@@ -10845,166 +10841,217 @@
   "jr": [
     {
     "jr-allintheknuckle": {
+      "date": "2017-11-15",
       "tags": ["jr", "its all in", "the knuckle"]
     }},
     {
     "jr-bbqsauce": {
+      "date": "2017-12-20",
       "tags": ["jr", "bbq", "sauce", "will enhance"]
     }},
     {
     "jr-bigandbad": {
+      "date": "2018-01-08",
       "tags": ["jr", "big and bad", "ill tell you one thing"]
     }},
     {
     "jr-bosswants": {
+      "date": "2017-09-06",
       "tags": ["jr", "boss wants", "to talk to you"]
     }},
     {
     "jr-canttravel": {
+      "date": "2017-10-09",
       "tags": ["jr", "cant travel", "like this"]
     }},
     {
     "jr-cheesegrater": {
+      "date": "2017-10-11",
       "tags": ["jr", "cheese grater", "cage"]
     }},
     {
     "jr-chickenshit": {
+      "date": "2018-04-10",
       "tags": ["jr", "smell", "chicken shit"]
     }},
     {
     "jr-deeperthecrotch": {
+      "date": "2017-11-15",
       "tags": ["jr", "deeper the crotch", "deeper the slam"]
     }},
     {
     "jr-dontknowbbq": {
+      "date": "2017-12-20",
       "tags": ["jr", "they dont know", "bbq"]
     }},
     {
     "jr-drdeath": {
+      "date": "2017-05-10",
       "tags": ["jr", "dr death"]
     }},
     {
     "jr-goddamn": {
+      "date": "2017-08-22",
       "tags": ["jr", "god damn"]
     }},
     {
     "jr-goldust": {
+      "date": "2018-04-19",
       "tags": ["jr", "goldust", "superstar"]
     }},
     {
     "jr-grabthecrotch": {
+      "date": "2017-11-15",
       "tags": ["jr", "grab the crotch", "snatch it"]
     }},
     {
     "jr-hadtopee": {
+      "date": "2017-10-03",
       "tags": ["jr", "goddamn", "had to pee"]
     }},
     {
     "jr-heyboy": {
+      "date": "2017-09-06",
       "tags": ["jr", "hey boy"]
     }},
     {
     "jr-hhh": {
+      "date": "2017-11-12",
       "tags": ["jr", "hunter", "hurst", "helmsley"]
     }},
     {
     "jr-hurr": {
+      "date": "2017-08-22",
       "tags": ["jr", "hurr"]
     }},
     {
     "jr-igotahouse": {
+      "date": "2018-04-19",
       "tags": ["jr", "goddamn", "i got", "house"]
     }},
     {
     "jr-igotkids": {
+      "date": "2017-10-09",
       "tags": ["jr", "i got kids", "id like to see them", "again"]
     }},
     {
     "jr-jimcornette": {
+      "date": "2018-02-03",
       "tags": ["jr", "jim cornette", "stain", "underwear"]
     }},
     {
+    "jr-looklikeaman": {
+      "date": "2018-02-28",
+      "tags": ["jr", "look", "like a man", "bill watts"]
+    }},
+    {
     "jr-newhold": {
+      "date": "2017-08-09",
       "tags": ["jr", "learn a new hold"]
     }},
     {
     "jr-newyorkcity": {
+      "date": "2017-12-20",
       "tags": ["jr", "new york city"]
     }},
     {
     "jr-playedfootball": {
+      "date": "2018-04-10",
       "tags": ["jr", "played football", "real athelete"]
     }},
     {
     "jr-playsfootball": {
+      "date": "2017-12-10",
       "tags": ["jr", "plays football", "gotta love him", "goddamn"]
     }},
     {
     "jr-sassafras": {
+      "date": "2017-11-14",
       "tags": ["jr", "sassafras"]
     }},
     {
     "jr-slaparattlesnake": {
+      "date": "2018-04-20",
       "tags": ["jr", "you dont", "slap a rattlesnake"]
     }},
     {
     "jr-slobberknocker": {
+      "date": "2017-08-22",
       "tags": ["jr", "slobber knocker"]
     }},
     {
     "jr-sophomoric": {
+      "date": "2018-04-19",
       "tags": ["jr", "sophomoric"]
     }},
     {
     "jr-steelcage": {
+      "date": "2017-10-11",
       "tags": ["jr", "steel cage", "solid"]
     }},
     {
     "jr-stonecold1": {
+      "date": "2017-08-22",
       "tags": ["jr", "stone cold"]
     }},
     {
     "jr-stonecold2": {
+      "date": "2017-08-22",
       "tags": ["jr", "stone cold"]
     }},
     {
     "jr-surprise": {
+      "date": "2017-10-22",
       "tags": ["jr", "we dont like", "surprise"]
     }},
     {
+    "jr-talkedtostoneclod": {
+      "date": "2017-11-07",
+      "tags": ["jr", "talked to", "stone cold"]
+    }},
+    {
     "jr-utilityplayers": {
+      "date": "2018-01-11",
       "tags": ["jr", "theyre", "utilityplayers"]
     }},
     {
     "jr-wearblack": {
+      "date": "2017-10-03",
       "tags": ["jr", "why you", "wear black"]
     }},
     {
     "jr-well": {
+      "date": "2017-08-22",
       "tags": ["jr", "well"]
     }},
     {
     "jr-wellboss": {
+      "date": "2017-11-07",
       "tags": ["jr", "well", "boss"]
     }},
     {
     "jr-wildthing": {
+      "date": "2017-11-20",
       "tags": ["jr", "wild thing", "hes referring to"]
     }},
     {
     "jr-wouldntknowarib": {
+      "date": "2017-12-20",
       "tags": ["jr", "wouldnt know", "a rib", "a pretzel"]
     }},
     {
     "jr-wrestlemaniadickpic": {
+      "date": "2017-10-22",
       "tags": ["jr", "wrestlemania", "dick pic"]
     }},
     {
     "jr-yougottago": {
+      "date": "2017-10-03",
       "tags": ["jr", "you gotta go"]
     }},
     {
     "jr-yourpast": {
+      "date": "2017-10-22",
       "tags": ["jr", "your past", "dont give a fuck"]
     }}
   ],
@@ -12424,38 +12471,52 @@
   "gimmicks": [
     {
     "gimmicks-bruce1": {
+      "date": "2017-07-25",
       "tags": ["gimmicks", "bruce"]
     }},
     {
     "gimmicks-bruce2": {
+      "date": "2017-07-27",
       "tags": ["gimmicks", "bruce"]
     }},
     {
     "gimmicks-bruce3": {
+      "date": "2017-07-31",
       "tags": ["gimmicks", "bruce"]
     }},
     {
     "gimmicks-conrad1": {
+      "date": "2017-07-27",
       "tags": ["gimmicks", "conrad"]
     }},
     {
     "gimmicks-conrad2": {
+      "date": "2017-08-15",
       "tags": ["gimmicks", "conrad"]
     }},
     {
     "gimmicks-conrad3": {
+      "date": "2017-08-24",
+      "tags": ["gimmicks", "conrad"]
+    }},
+    {
+    "gimmicks-conrad4": {
+      "date": "2018-04-11",
       "tags": ["gimmicks", "conrad"]
     }},
     {
     "gimmicks-match": {
+      "date": "2018-02-12",
       "tags": ["gimmicks", "match", "right out of"]
     }},
     {
     "gimmicks-rightoutof": {
+      "date": "2017-08-22",
       "tags": ["gimmicks", "right out of", "bruce"]
     }},
     {
     "gimmicks-tee": {
+      "date": "2017-07-25",
       "tags": ["gimmicks", "tee", "prowrestling tees"]
     }}
   ],
@@ -13049,66 +13110,87 @@
   "love": [
     {
     "love-accentuate": {
+      "date": "2017-10-15",
       "tags": ["love", "accentuate", "certain words"]
     }},
     {
     "love-behealed": {
+      "date": "2017-08-02",
       "tags": ["love", "be healed"]
     }},
     {
     "love-brotherlove": {
+      "date": "2017-05-20",
       "tags": ["love", "brother love", "superstar"]
     }},
     {
     "love-hallelujah": {
+      "date": "2017-05-20",
       "tags": ["love", "hallelujah"]
     }},
     {
     "love-hateme": {
+      "date": "2017-06-22",
       "tags": ["love", "i love", "those that", "hate me"]
     }},
     {
     "love-healing": {
+      "date": "2017-08-02",
       "tags": ["love", "healing if you will"]
     }},
     {
     "love-iloveyou1": {
+      "date": "2017-05-20",
       "tags": ["love", "i love you"]
     }},
     {
     "love-iloveyou2": {
+      "date": "2017-05-20",
       "tags": ["love", "i love you"]
     }},
     {
     "love-iloveyou3": {
+      "date": "2017-05-20",
       "tags": ["love", "i love you"]
     }},
     {
     "love-iloveyou4": {
+      "date": "2017-05-21",
       "tags": ["love", "i love you"]
     }},
     {
     "love-itsamiracle1": {
+      "date": "2017-08-02",
       "tags": ["love", "its a miracle"]
     }},
     {
     "love-itsamiracle2": {
+      "date": "2017-09-13",
+      "tags": ["love", "its a miracle"]
+    }},
+    {
+    "love-itsamiracle3": {
+      "date": "2017-12-01",
       "tags": ["love", "its a miracle"]
     }},
     {
     "love-message": {
+      "date": "2017-05-20",
       "tags": ["love", "im here", "with a", "message"]
     }},
     {
     "love-repent": {
+      "date": "2017-05-20",
       "tags": ["love", "repent", "hell"]
     }},
     {
     "love-sinners": {
+      "date": "2017-05-20",
       "tags": ["love", "brothers", "sinners"]
     }},
     {
     "love-thyhead": {
+      "date": "2017-08-13",
       "tags": ["love", "thy head"]
     }}
   ],
@@ -14027,70 +14109,87 @@
   "bulldog": [
     {
     "bulldog-bizarre": {
+      "date": "2017-08-15",
       "tags": ["bulldog", "bizarre"]
     }},
     {
     "bulldog-doctoredpicture": {
+      "date": "2017-10-03",
       "tags": ["bulldog", "he doctored the picture"]
     }},
     {
     "bulldog-dropdowntackle": {
+      "date": "2017-05-31",
       "tags": ["bulldog", "dropdown", "tackle", "what"]
     }},
     {
     "bulldog-fuck": {
+      "date": "2017-05-31",
       "tags": ["bulldog", "fuck"]
     }},
     {
     "bulldog-fuckedbret": {
+      "date": "2017-08-15",
       "tags": ["bulldog", "fuck", "bret hart"]
     }},
     {
     "bulldog-fuckedhim": {
+      "date": "2017-08-15",
       "tags": ["bulldog", "fuck"]
     }},
     {
     "bulldog-fuckthis": {
+      "date": "2017-10-22",
       "tags": ["bulldog", "fuck this"]
     }},
     {
     "bulldog-gonnaquit": {
+      "date": "2017-10-22",
       "tags": ["bulldog", "im gonna quit"]
     }},
     {
     "bulldog-helpme": {
+      "date": "2018-05-31",
       "tags": ["bulldog", "help me"]
     }},
     {
     "bulldog-itsowen": {
+      "date": "2017-10-03",
       "tags": ["bulldog", "its owen"]
     }},
     {
     "bulldog-trapped": {
+      "date": "2018-05-31",
       "tags": ["bulldog", "trapped", "in the backseat"]
     }},
     {
     "bulldog-wasntthere1": {
+      "date": "2017-08-15",
       "tags": ["bulldog", "wasnt there", "it was owen"]
     }},
     {
     "bulldog-wasntthere2": {
+      "date": "2017-08-17",
       "tags": ["bulldog", "wasnt there"]
     }},
     {
     "bulldog-wasntthere3": {
+      "date": "2017-10-03",
       "tags": ["bulldog", "wasnt there"]
     }},
     {
     "bulldog-wasntthere4": {
+      "date": "2017-10-03",
       "tags": ["bulldog", "wasnt there", "it was owen"]
     }},
     {
     "bulldog-wasntthere5": {
+      "date": "2018-05-28",
       "tags": ["bulldog", "wasnt there"]
     }},
     {
     "bulldog-wasntthere6": {
+      "date": "2017-06-03",
       "tags": ["bulldog", "wasnt there"]
     }}
   ],
@@ -14417,156 +14516,199 @@
   "stu": [
     {
     "stu-appreciate": {
+      "date": "2017-11-12",
       "tags": ["stu", "appreciate"]
     }},
     {
     "stu-bigbastard": {
+      "date": "2017-12-17",
       "tags": ["stu", "looser limbs", "big", "bastard"]
     }},
     {
     "stu-dosomething": {
+      "date": "2017-10-02",
       "tags": ["stu", "do something"]
     }},
     {
     "stu-eh": {
+      "date": "2017-10-03",
       "tags": ["stu", "eh"]
     }},
     {
-    "stu-fucking pervert": {
+    "stu-fuckingpervert": {
+      "date": "2017-10-03",
       "tags": ["stu", "fucking pervert"]
     }},
     {
     "stu-goddamnowen": {
+      "date": "2017-10-02",
       "tags": ["stu", "goddamn", "owen"]
     }},
     {
     "stu-goddamnvince": {
+      "date": "2017-12-14",
       "tags": ["stu", "goddamn", "vince", "hed be good here"]
     }},
     {
+    "stu-goodforhim": {
+      "date": "2017-11-12",
+      "tags": ["stu", "good for him"]
+    }},
+    {
     "stu-hecanhelpyou": {
+      "date": "2017-11-12",
       "tags": ["stu", "he can", "help you"]
     }},
     {
     "stu-helpyouout": {
+      "date": "2017-12-14",
       "tags": ["stu", "hell help you out", "hes alright"]
     }},
     {
     "stu-hesagoodkid": {
+      "date": "2017-11-12",
       "tags": ["stu", "hes a", "good", "kid"]
     }},
     {
     "stu-incomprehensible1": {
-      "tags": ["stu", "incomprehensible"]
-    }},
-    {
-    "stu-incomprehensible2": {
+      "date": "2017-11-12",
       "tags": ["stu", "incomprehensible"]
     }},
     {
     "stu-inplaceofbret": {
+      "date": "2017-12-14",
       "tags": ["stu", "put him in", "in place", "of bret"]
     }},
     {
     "stu-ivouchforhim": {
+      "date": "2017-11-12",
       "tags": ["stu", "i vouch", "for him"]
     }},
     {
     "stu-pervert": {
+      "date": "2018-05-31",
       "tags": ["stu", "are you some", "kind of", "pervert"]
     }},
     {
     "stu-reg": {
+      "date": "2017-10-02",
       "tags": ["stu", "reg"]
     }},
     {
     "stu-rhino1": {
+      "date": "2017-11-12",
       "tags": ["stu", "rhino", "looking good", "jim the anvil"]
     }},
     {
     "stu-rhino2": {
+      "date": "2017-12-14",
       "tags": ["stu", "rhino", "big bastard"]
     }},
     {
     "stu-rhino3": {
+      "date": "2018-02-04",
       "tags": ["stu", "rhino", "big bastard"]
     }},
     {
     "stu-rhino4": {
+      "date": "2018-04-08",
       "tags": ["stu", "rhino", "big bastard", "motherfucker"]
     }},
     {
+    "stu-stinkybastard": {
+      "date": "2018-02-28",
+      "tags": ["stu", "stinky", "bastard"]
+    }},
+    {
     "stu-tomydaughter": {
+      "date": "2017-10-03",
       "tags": ["stu", "to my daughter"]
     }},
     {
     "stu-trymethen": {
+      "date": "2017-10-02",
       "tags": ["stu", "try me then"]
     }}
   ],
   "ernieladd": [
     {
     "ernieladd-bigfatwhite": {
+      "date": "2017-12-06",
       "tags": ["ernieladd", "if you werent", "big", "fat", "white"]
     }},
     {
     "ernieladd-bundystealing": {
+      "date": "2017-12-06",
       "tags": ["ernieladd", "king kong bundy", "stealing"]
     }},
     {
     "ernieladd-drizzlingshits": {
+      "date": "2017-12-06",
       "tags": ["ernieladd", "youre the", "drizzling shits"]
     }},
     {
     "ernieladd-drugstalkingtoyou": {
+      "date": "2017-12-26",
       "tags": ["ernieladd", "the drugs", "talking to you", "prichard"]
     }},
     {
     "ernieladd-getonthephone": {
+      "date": "2017-12-12",
       "tags": ["ernieladd", "get on the phone", "call somebody"]
     }},
     {
     "ernieladd-getout": {
+      "date": "2017-12-06",
       "tags": ["ernieladd", "get out", "of the business"]
     }},
     {
     "ernieladd-hefiredmyass1": {
+      "date": "2017-09-17",
       "tags": ["ernieladd", "he fired my ass", "genius"]
     }},
     {
     "ernieladd-hefiredmyass2": {
+      "date": "2017-09-17",
       "tags": ["ernieladd", "he fired my ass"]
     }},
     {
     "ernieladd-hefiredmyass3": {
+      "date": "2017-11-09",
       "tags": ["ernieladd", "he fired my ass", "genius"]
     }},
     {
     "ernieladd-kingkongbundy": {
+      "date": "2018-05-28",
       "tags": ["ernieladd", "king kong bundy", "stealing money"]
     }},
     {
     "ernieladd-thebigcat1": {
+      "date": "2017-09-17",
       "tags": ["ernieladd", "the big cat"]
     }},
     {
     "ernieladd-thebigcat2": {
+      "date": "2017-11-19",
       "tags": ["ernieladd", "the big cat"]
     }},
     {
     "ernieladd-theyrereal1": {
+      "date": "2017-11-03",
       "tags": ["ernieladd", "theyre real"]
     }},
     {
     "ernieladd-theyrereal2": {
+      "date": "2017-11-03",
       "tags": ["ernieladd", "theyre real", "volkoff", "the sheik"]
     }},
     {
     "ernieladd-vinniemac1": {
+      "date": "2017-11-19",
       "tags": ["ernieladd", "vinne mac"]
     }},
     {
     "ernieladd-vinniemac2": {
+      "date": "2017-11-19",
       "tags": ["ernieladd", "vinne mac", "didnt actually call him that"]
     }}
   ],
