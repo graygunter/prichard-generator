@@ -11147,142 +11147,187 @@
   "funk": [
     {
     "funk-2poundsoflead": {
+      "date": "2018-01-15",
       "tags": ["funk", "2 pounds", "of lead", "in a boot"]
     }},
     {
     "funk-6vodkaoj": {
+      "date": "2017-12-13",
       "tags": ["funk", "six", "vodka", "orange juice", "for the trip"]
     }},
     {
     "funk-barmaybeclosed": {
+      "date": "2017-12-13",
       "tags": ["funk", "bastards", "bar may be closed"]
     }},
     {
     "funk-bastardchase": {
+      "date": "2018-07-15",
       "tags": ["funk", "make that", "big bastard", "chase you"]
     }},
     {
-    "funk-beervending": {
+    "funk-beermachine": {
+      "date": "2017-08-08",
       "tags": ["funk", "beer", "vending machines"]
     }},
     {
     "funk-brethart": {
+      "date": "2017-08-14",
       "tags": ["funk", "bret hart"]
     }},
     {
     "funk-chainsawcharlie": {
+      "date": "2017-08-14",
       "tags": ["funk", "chainsaw charlie"]
     }},
     {
     "funk-chevydealer": {
+      "date": "2017-09-20",
       "tags": ["funk", "chevy dealer", "amarillo texas"]
     }},
     {
     "funk-didjr": {
+      "date": "2017-08-14",
       "tags": ["funk", "did junior", "send you"]
     }},
     {
+    "funk-dontletthemcut": {
+      "date": "2017-09-20",
+      "tags": ["funk", "dont", "let them", "cut on you"]
+    }},
+    {
     "funk-dontlookback": {
+      "date": "2017-08-22",
       "tags": ["funk", "dont look back"]
     }},
     {
     "funk-fuckingweights": {
+      "date": "2017-09-20",
       "tags": ["funk", "how much are those", "fucking weights"]
     }},
     {
     "funk-functionnormally": {
+      "date": "2017-09-20",
       "tags": ["funk", "function normally"]
     }},
     {
     "funk-goahead": {
+      "date": "2017-09-20",
       "tags": ["funk", "go ahead", "function normally", "conrad"]
     }},
     {
     "funk-hardcorecountry": {
+      "date": "2018-04-19",
       "tags": ["funk", "hardcore", "country", "by god"]
     }},
     {
+    "funk-hellofagimmick": {
+      "date": "2018-02-03",
+      "tags": ["funk", "hell", "of a", "gimmick"]
+    }},
+    {
     "funk-hematoma": {
+      "date": "2017-12-13",
       "tags": ["funk", "nasty", "hematoma"]
     }},
     {
     "funk-horsesick1": {
+      "date": "2017-08-13",
       "tags": ["funk", "horse", "sick"]
     }},
     {
     "funk-morebeer": {
+      "date": "2017-08-08",
       "tags": ["funk", "beer", "more"]
     }},
     {
     "funk-neverlost": {
+      "date": "2018-03-17",
       "tags": ["funk", "never lost", "championship", "harley race"]
     }},
     {
     "funk-pullthebusover": {
+      "date": "2017-08-08",
       "tags": ["funk", "bruce", "prichard", "beer"]
     }},
     {
     "funk-prichard1": {
+      "date": "2017-08-08",
       "tags": ["funk", "bruce", "prichard"]
     }},
     {
     "funk-prichard2": {
+      "date": "2017-08-14",
       "tags": ["funk", "bruce", "prichard"]
     }},
     {
     "funk-sorrybastard": {
+      "date": "2017-08-19",
       "tags": ["funk", "bastard", "sorry"]
     }},
     {
     "funk-tapeitup": {
+      "date": "2017-12-13",
       "tags": ["funk", "goddamn doc", "tape it up"]
     }},
     {
     "funk-tuckyourjunk": {
+      "date": "2017-09-20",
       "tags": ["funk", "tuck your junk", "dennis"]
     }},
     {
     "funk-whore1": {
+      "date": "2017-08-06",
       "tags": ["funk", "whore"]
     }},
     {
     "funk-whore2": {
+      "date": "2017-08-14",
       "tags": ["funk", "whore", "mother"]
     }},
     {
     "funk-whore3": {
+      "date": "2017-08-15",
       "tags": ["funk", "whore"]
     }},
     {
     "funk-whore4": {
+      "date": "2017-08-19",
       "tags": ["funk", "whore"]
     }},
     {
     "funk-whore5": {
+      "date": "2017-10-04",
       "tags": ["funk", "whore"]
     }},
     {
     "funk-whore6": {
+      "date": "2017-11-15",
       "tags": ["funk", "whore", "mother"]
     }},
     {
     "funk-whore7": {
+      "date": "2017-12-14",
       "tags": ["funk", "whore"]
     }},
     {
     "funk-whore8": {
+      "date": "2017-12-29",
       "tags": ["funk", "whore"]
     }},
     {
     "funk-whore9": {
+      "date": "2017-12-29",
       "tags": ["funk", "whore"]
     }},
     {
     "funk-whore10": {
+      "date": "2018-04-10",
       "tags": ["funk", "whore", "mother"]
     }},
     {
     "funk-whore11": {
+      "date": "2018-04-19",
       "tags": ["funk", "whore", "mother"]
     }}
   ],
@@ -11542,290 +11587,372 @@
   "heyman": [
     {
     "heyman-1morevolley": {
+      "date": "2017-11-16",
       "tags": ["heyman", "1 more volley", "sir"]
     }},
     {
     "heyman-3punches": {
+      "date": "2017-11-16",
       "tags": ["heyman", "3 punches", "i want 1"]
     }},
     {
     "heyman-10seconds": {
+      "date": "2017-09-29",
       "tags": ["heyman", "10 seconds", "dont have a problem"]
     }},
     {
     "heyman-abort": {
+      "date": "2017-08-01",
       "tags": ["heyman", "abort"]
     }},
     {
     "heyman-advocate": {
+      "date": "2017-09-29",
       "tags": ["heyman", "advocate", "finally defeat him"]
     }},
     {
     "heyman-advocatesir": {
+      "date": "2017-10-01",
       "tags": ["heyman", "there is", "advocate sir"]
     }},
     {
     "heyman-airdrywhore": {
+      "date": "2017-10-09",
       "tags": ["heyman", "air dry", "whore"]
     }},
     {
     "heyman-anacondavice": {
+      "date": "2017-10-27",
       "tags": ["heyman", "anaconda vice", "sir"]
     }},
     {
     "heyman-anothervolley1": {
+      "date": "2017-09-06",
       "tags": ["heyman", "allow me", "another volley"]
     }},
     {
     "heyman-anothervolley2": {
+      "date": "2017-10-29",
       "tags": ["heyman", "allow me", "another volley"]
     }},
     {
     "heyman-anothervolley3": {
+      "date": "2017-10-06",
       "tags": ["heyman", "allow me", "another volley"]
     }},
     {
     "heyman-asswhipped": {
+      "date": "2017-11-15",
       "tags": ["heyman", "his ass whipped", "by a paul heyman", "shoe"]
     }},
     {
     "heyman-bockwinkel": {
+      "date": "2017-08-01",
       "tags": ["heyman", "bockwinkel"]
     }},
     {
     "heyman-bowonhiscareer": {
+      "date": "2017-11-08",
       "tags": ["heyman", "put a bown on", "his career", "bury him"]
     }},
     {
     "heyman-brocklesnar": {
+      "date": "2017-11-07",
       "tags": ["heyman", "brock lesnar", "superstar"]
     }},
     {
     "heyman-brotherlove": {
+      "date": "2017-11-16",
       "tags": ["heyman", "brother love", "disgusting"]
     }},
     {
     "heyman-chikfila": {
+      "date": "2017-11-16",
       "tags": ["heyman", "chik fil a", "lets go get"]
     }},
     {
     "heyman-cmpunk": {
+      "date": "2017-11-10",
       "tags": ["heyman", "cm punk", "superstar"]
     }},
     {
+    "heyman-continue": {
+      "date": "2017-09-29",
+      "tags": ["heyman", "you may", "continue"]
+    }},
+    {
     "heyman-deadbrand": {
+      "date": "2017-11-15",
       "tags": ["heyman", "its a", "dead brand"]
     }},
     {
     "heyman-deliverdefeat": {
+      "date": "2017-09-29",
       "tags": ["heyman", "deliver a defeat", "to him"]
     }},
     {
     "heyman-destroyhim": {
+      "date": "2017-09-29",
       "tags": ["heyman", "he will", "destory him"]
     }},
     {
     "heyman-donot": {
+      "date": "2017-10-09",
       "tags": ["heyman", "do not", "come into my room"]
     }},
     {
     "heyman-donotattempt": {
+      "date": "2017-10-09",
       "tags": ["heyman", "do not attempt", "sheets", "vaccum"]
     }},
     {
-    "heyman-extremeaudience": {
-      "tags": ["heyman", "extreme", "what the", "audience wants"]
-    }},
-    {
     "heyman-dreamersbestdays": {
+      "date": "2017-11-15",
       "tags": ["heyman", "tommy dreamers", "best days", "behind"]
     }},
     {
+    "heyman-extremeaudience": {
+      "date": "2018-01-11",
+      "tags": ["heyman", "extreme", "what the", "audience wants"]
+    }},
+    {
     "heyman-fatjewishpercocet": {
+      "date": "2017-10-22",
       "tags": ["heyman", "fat", "jewish", "i like percocet"]
     }},
     {
     "heyman-fiveseconds": {
+      "date": "2017-09-29",
       "tags": ["heyman", "down in", "five seconds"]
     }},
     {
     "heyman-gettogether": {
+      "date": "2017-11-15",
       "tags": ["heyman", "perhaps", "we should", "get together"]
     }},
     {
     "heyman-handlingcreative": {
+      "date": "2017-11-16",
       "tags": ["heyman", "i am", "handling creative"]
     }},
     {
     "heyman-heartpunch": {
+      "date": "2017-09-29",
       "tags": ["heyman", "with a", "heart punch"]
     }},
     {
     "heyman-helptheselads": {
+      "date": "2017-09-06",
       "tags": ["heyman", "help these lads"]
     }},
     {
     "heyman-iappologize": {
+      "date": "2017-09-06",
       "tags": ["heyman", "i appologize", "sir"]
     }},
     {
     "heyman-idonotappreicate": {
+      "date": "2018-01-11",
       "tags": ["heyman", "i do not appreicate", "this type of", "humor"]
     }},
     {
     "heyman-ifimay": {
+      "date": "2017-09-29",
       "tags": ["heyman", "if i may"]
     }},
     {
     "heyman-ihadnoidea": {
+      "date": "2017-09-06",
       "tags": ["heyman", "i had no idea", "something like that"]
     }},
     {
     "heyman-iknewnothing": {
+      "date": "2017-09-06",
       "tags": ["heyman", "i knew nothing"]
     }},
     {
     "heyman-incharge": {
+      "date": "2017-11-15",
       "tags": ["heyman", "i am", "in charge here", "sir"]
     }},
     {
     "heyman-itwasnotme": {
+      "date": "2017-11-16",
       "tags": ["heyman", "it was", "not me", "sir"]
     }},
     {
     "heyman-itwaspaulheyman": {
+      "date": "2018-01-11",
       "tags": ["heyman", "it was", "paulheyman"]
     }},
     {
     "heyman-kungpao": {
+      "date": "2017-11-16",
       "tags": ["heyman", "kung pao", "chicken", "extra pao"]
     }},
     {
     "heyman-lancestorm": {
+      "date": "2017-09-29",
       "tags": ["heyman", "lance storm"]
     }},
     {
     "heyman-liketodothat": {
+      "date": "2017-11-15",
       "tags": ["heyman", "really", "like to do", "that"]
     }},
     {
     "heyman-maniaofwrestling": {
+      "date": "2017-09-29",
       "tags": ["heyman", "event", "mania of wrestling"]
     }},
     {
     "heyman-meanmark": {
+      "date": "2017-09-29",
       "tags": ["heyman", "mean mark"]
     }},
     {
     "heyman-mypeople": {
+      "date": "2017-10-22",
       "tags": ["heyman", "you have to speak to", "my people"]
     }},
     {
     "heyman-needecw": {
+      "date": "2017-11-15",
       "tags": ["heyman", "you need", "ecw"]
     }},
     {
     "heyman-negative4stars": {
+      "date": "2017-10-27",
       "tags": ["heyman", "negative 4 stars"]
     }},
     {
     "heyman-nevergetover": {
+      "date": "2017-11-15",
       "tags": ["heyman", "he will", "never get over", "on the big stage"]
     }},
     {
-    "heyman-notanathelete": {
-      "tags": ["heyman", "not an athelete"]
-    }},
-    {
     "heyman-notamanager": {
+      "date": "2017-10-01",
       "tags": ["heyman", "not a manager"]
     }},
     {
+    "heyman-notanathelete": {
+      "date": "2017-11-16",
+      "tags": ["heyman", "not an athelete"]
+    }},
+    {
     "heyman-notawrestler1": {
+      "date": "2017-11-16",
       "tags": ["heyman", "not a wrestler", "do my duty"]
     }},
     {
     "heyman-notawrestler2": {
+      "date": "2017-11-16",
       "tags": ["heyman", "not a wrestler", "conrad"]
     }},
     {
     "heyman-otherfinish": {
+      "date": "2017-10-11",
       "tags": ["heyman", "other finish", "would you expect"]
     }},
     {
     "heyman-paulheymansir1": {
+      "date": "2017-09-29",
       "tags": ["heyman", "paul heyman", "sir"]
     }},
     {
     "heyman-paulheymansir2": {
+      "date": "2017-10-11",
       "tags": ["heyman", "paul heyman", "sir"]
     }},
     {
     "heyman-paulheymansir3": {
+      "date": "2017-10-11",
       "tags": ["heyman", "paul heyman", "sir"]
     }},
     {
     "heyman-performmybest": {
+      "date": "2017-11-16",
       "tags": ["heyman", "perform my", "very best"]
     }},
     {
     "heyman-petesenercia": {
+      "date": "2017-11-15",
       "tags": ["heyman", "pete senercia", "kick ass", "tazz"]
     }},
     {
     "heyman-robvandam1": {
+      "date": "2017-11-10",
       "tags": ["heyman", "rob van dam", "rvd", "superstar"]
     }},
     {
     "heyman-robvandam2": {
+      "date": "2018-01-23",
       "tags": ["heyman", "rob van dam", "it should be", "raw is rvd"]
     }},
     {
     "heyman-sabucanonlydo": {
+      "date": "2017-11-15",
       "tags": ["heyman", "sabu can only do", "so much"]
     }},
     {
     "heyman-safeword": {
+      "date": "2017-08-01",
       "tags": ["heyman", "safe word"]
     }},
     {
     "heyman-sandmanalcoholic": {
+      "date": "2017-11-15",
       "tags": ["heyman", "the sandman", "is an", "alcoholic"]
     }},
     {
     "heyman-shocked": {
+      "date": "2017-10-11",
       "tags": ["heyman", "shocked", "the match", "went as long"]
     }},
     {
     "heyman-showyouhowtowork": {
+      "date": "2017-11-15",
       "tags": ["heyman", "i will", "show you", "how to work"]
     }},
     {
     "heyman-somemustdie": {
+      "date": "2018-04-26",
       "tags": ["heyman", "some must die", "so others", "may live"]
     }},
     {
     "heyman-thehelp": {
+      "date": "2017-10-09",
       "tags": ["heyman", "cannot trust", "the help", "hotel"]
     }},
     {
     "heyman-tryingtopresent": {
+      "date": "2018-01-11",
       "tags": ["heyman", "trying to present", "realistic", "product"]
     }},
     {
     "heyman-wearahat": {
+      "date": "2017-10-22",
       "tags": ["heyman", "i wear a hat", "plug my brand"]
     }},
     {
     "heyman-whatareyoudoing": {
+      "date": "2017-10-11",
       "tags": ["heyman", "what exactly", "are you doing"]
     }},
     {
+    "heyman-youareagenius": {
+      "date": "2017-11-16",
+      "tags": ["heyman", "you", "sir", "are a genius"]
+    }},
+    {
     "heyman-youmeancash": {
+      "date": "2018-04-25",
       "tags": ["heyman", "you mean", "cash", "benjamins"]
     }},
     {
     "heyman-yourhead": {
+      "date": "2017-11-16",
       "tags": ["heyman", "your head", "not my head"]
     }}
   ],
@@ -12029,70 +12156,87 @@
   "milmascaras": [
     {
     "milmascaras-noyab1": {
+      "date": "2017-08-14",
       "tags": ["milmascaras", "no yab"]
     }},
     {
     "milmascaras-noyab2": {
+      "date": "2017-08-14",
       "tags": ["milmascaras", "no yab"]
     }},
     {
     "milmascaras-noyab3": {
+      "date": "2017-08-14",
       "tags": ["milmascaras", "no yab"]
     }},
     {
     "milmascaras-noyab4": {
+      "date": "2017-08-14",
       "tags": ["milmascaras", "no yab"]
     }},
     {
     "milmascaras-noyab5": {
+      "date": "2017-08-14",
       "tags": ["milmascaras", "no yab"]
     }},
     {
     "milmascaras-noyab6": {
+      "date": "2017-08-14",
       "tags": ["milmascaras", "no yab"]
     }},
     {
     "milmascaras-noyab7": {
+      "date": "2017-08-14",
       "tags": ["milmascaras", "no yab", "conrad"]
     }},
     {
     "milmascaras-noyab8": {
+      "date": "2017-08-15",
       "tags": ["milmascaras", "no yab"]
     }},
     {
     "milmascaras-noyab9": {
+      "date": "2017-08-15",
       "tags": ["milmascaras", "no yab", "conrad"]
     }},
     {
     "milmascaras-noyab10": {
+      "date": "2017-08-22",
       "tags": ["milmascaras", "no yab", "conrad"]
     }},
     {
     "milmascaras-noyab11": {
+      "date": "2017-08-22",
       "tags": ["milmascaras", "no yab"]
     }},
     {
     "milmascaras-noyab12": {
+      "date": "2017-08-22",
       "tags": ["milmascaras", "no yab"]
     }},
     {
     "milmascaras-noyab13": {
+      "date": "2017-09-17",
       "tags": ["milmascaras", "no yab"]
     }},
     {
     "milmascaras-noyab14": {
+      "date": "2017-09-17",
       "tags": ["milmascaras", "no yab"]
     }},
     {
     "milmascaras-noyab15": {
+      "date": "2017-11-28",
       "tags": ["milmascaras", "no yab"]
     }},
     {
     "milmascaras-noyab16": {
+      "date": "2017-11-28",
       "tags": ["milmascaras", "no yab"]
     }},
     {
     "milmascaras-noyab17": {
+      "date": "2018-01-11",
       "tags": ["milmascaras", "no yab"]
     }}
   ],
@@ -12795,30 +12939,37 @@
   "hogan": [
     {
     "hogan-adomeisadome": {
+      "date": "2018-05-28",
       "tags": ["hogan", "a dome", "is a dome", "brother"]
     }},
     {
     "hogan-andhoganposed": {
+      "date": "2017-09-27",
       "tags": ["hogan", "and hogan posed"]
     }},
     {
     "hogan-brother1": {
+      "date": "2017-11-06",
       "tags": ["hogan", "brother"]
     }},
     {
     "hogan-brother2": {
+      "date": "2017-11-08",
       "tags": ["hogan", "brother"]
     }},
     {
     "hogan-brother3": {
+      "date": "2017-11-24",
       "tags": ["hogan", "brother", "conrad"]
     }},
     {
     "hogan-doesntwork1": {
+      "date": "2017-08-04",
       "tags": ["hogan", "doesnt work", "brother"]
     }},
     {
     "hogan-doesntwork2": {
+      "date": "2017-11-06",
       "tags": ["hogan", "doesnt work", "brother"]
     }},
     {
@@ -12827,276 +12978,349 @@
     }},
     {
     "hogan-doesntwork4": {
+      "date": "2018-04-07",
       "tags": ["hogan", "doesnt work", "brother"]
     }},
     {
     "hogan-doingitbrother": {
+      "date": "2018-07-16",
       "tags": ["hogan", "youre", "doing it", "brother"]
     }},    
     {
     "hogan-dollarshaveclub": {
+      "date": "2017-11-06",
       "tags": ["hogan", "dollar shave club", "brother"]
     }},
     {
     "hogan-dookie": {
+      "date": "2017-11-13",
       "tags": ["hogan", "dookie"]
     }},
     {
     "hogan-hellno": {
+      "date": "2018-02-04",
       "tags": ["hogan", "hell no"]
     }},
     {
     "hogan-hulkamania": {
+      "date": "2018-03-15",
       "tags": ["hogan", "hulkamania", "brother"]
     }},
     {
     "hogan-letmetellyou": {
+      "date": "2018-06-19",
       "tags": ["hogan", "let me", "tell you", "something", "brother"]
     }},
     {
     "hogan-lookinoutforyou": {
+      "date": "2018-05-28",
       "tags": ["hogan", "lookin out", "for you", "brother"]
     }},
     {
     "hogan-mustpose1": {
+      "date": "2017-08-06",
       "tags": ["hogan", "must pose"]
     }},
     {
     "hogan-mustpose2": {
+      "date": "2017-11-01",
       "tags": ["hogan", "must pose", "conrad"]
     }},
     {
     "hogan-mustpose3": {
+      "date": "2017-11-06",
       "tags": ["hogan", "must pose", "conrad"]
     }},
     {
     "hogan-mustpose4": {
+      "date": "2018-05-28",
       "tags": ["hogan", "must pose"]
     }},
     {
     "hogan-nothulkhogan": {
+      "date": "2017-09-18",
       "tags": ["hogan", "not hulk hogan", "brother"]
     }},
     {
     "hogan-notmissing": {
+      "date": "2017-09-18",
       "tags": ["hogan", "not missing wrestlemania", "brother"]
     }},
     {
     "hogan-realamerican1": {
+      "date": "2017-11-03",
       "tags": ["hogan", "real american", "bruce", "singing"]
     }},
     {
     "hogan-realamerican2": {
+      "date": "2017-11-03",
       "tags": ["hogan", "real american", "bruce", "singing"]
     }},
     {
     "hogan-rumbleonyou": {
+      "date": "2018-05-28",
       "tags": ["hogan", "whatcha gonna do", "rumble", "on you"]
     }},
     {
     "hogan-savewithbruce": {
+      "date": "2017-11-03",
       "tags": ["hogan", "save wtih bruce", "dot com", "debt"]
     }},
     {
     "hogan-superfriends1": {
+      "date": "2017-05-06",
       "tags": ["hogan", "hulk hogan", "and his", "superfriends", "conrad"]
     }},
     {
     "hogan-superfriends2": {
+      "date": "2017-05-06",
       "tags": ["hogan", "hulk hogan", "and his", "superfriends", "bruce"]
     }},
     {
     "hogan-tellyousomething": {
+      "date": "2017-11-02",
       "tags": ["hogan", "let me", "tell you something", "brother"]
     }},
     {
     "hogan-thepowerlies": {
+      "date": "2017-11-03",
       "tags": ["hogan", "this is where", "the power lies"]
     }},
     {
     "hogan-trainprayersvitamins": {
+      "date": "2017-11-03",
       "tags": ["hogan", "train", "prayers", "vitamins"]
     }},
     {
     "hogan-whatchagonnado": {
+      "date": "2018-01-11",
       "tags": ["hogan", "whatcha gonna do", "brother"]
     }},
     {
     "hogan-whatsthatsmell": {
+      "date": "2017-11-13",
       "tags": ["hogan", "whats that smell"]
     }},
     {
     "hogan-yaknowsomething": {
+      "date": "2018-05-28",
       "tags": ["hogan", "ya know", "something", "brother"]
     }}
   ],
   "millertime": [
     {
     "millertime-acaseandahalf": {
+      "date": "2017-09-25",
       "tags": ["millertime", "a case and a half", "on ice"]
     }},
     {
     "millertime-apromotion": {
+      "date": "2018-04-24",
       "tags": ["millertime", "promotion", "miller lite", "obviously"]
     }},
     {
     "millertime-atmillerlite": {
+      "date": "2017-09-21",
       "tags": ["millertime", "@millerlite"]
     }},
     {
     "millertime-chikoo1": {
+      "date": "2017-08-14",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo2": {
+      "date": "2017-08-13",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo3": {
+      "date": "2017-09-18",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo4": {
+      "date": "2017-09-21",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo5": {
+      "date": "2017-09-21",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo6": {
+      "date": "2017-09-21",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo7": {
+      "date": "2017-09-21",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo8": {
+      "date": "2017-09-22",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo9": {
+      "date": "2017-09-25",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo10": {
+      "date": "2017-10-02",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo11": {
+      "date": "2017-10-08",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo12": {
+      "date": "2017-10-09",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo13": {
+      "date": "2017-10-09",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo14": {
+      "date": "2017-10-16",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo15": {
+      "date": "2017-11-07",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo16": {
+      "date": "2017-11-08",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo17": {
+      "date": "2017-12-14",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo18": {
+      "date": "2018-01-21",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo19": {
+      "date": "2018-04-07",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo20": {
+      "date": "2018-07-15",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-chikoo21": {
+      "date": "2018-07-18",
       "tags": ["millertime", "chikoo"]
     }},
     {
     "millertime-drinkers": {
+      "date": "2017-11-09",
       "tags": ["millertime", "top poppin", "miller lite", "drinkers"]
     }},
     {
     "millertime-drownedsorrows": {
+      "date": "2018-10-11",
       "tags": ["millertime", "drowned", "your sorrows", "conrad"]
     }},
     {
     "millertime-exactlywhatidid": {
+      "date": "2018-09-26",
       "tags": ["millertime", "thats exactly", "what i did"]
     }},
     {
     "millertime-hashtag1": {
+      "date": "2018-09-21",
       "tags": ["millertime", "hashtag", "miller lite time", "conrad"]
     }},
     {
     "millertime-hashtag2": {
+      "date": "2018-09-21",
       "tags": ["millertime", "hashtag", "miller time", "conrad"]
     }},
     {
     "millertime-hashtag3": {
+      "date": "2018-09-21",
       "tags": ["millertime", "hashtag", "miller time", "conrad"]
     }},
     {
     "millertime-hashtag4": {
+      "date": "2018-09-24",
+      "tags": ["millertime", "hashtag", "miller time", "conrad"]
+    }},
+    {
+    "millertime-hashtag5": {
+      "date": "2018-10-02",
       "tags": ["millertime", "hashtag", "miller time", "conrad"]
     }},
     {
     "millertime-icecold1": {
+      "date": "2018-09-21",
       "tags": ["millertime", "ice cold", "conrad"]
     }},
     {
     "millertime-icecold2": {
+      "date": "2018-09-21",
       "tags": ["millertime", "ice cold", "bruce"]
     }},
     {
     "millertime-jingle": {
+      "date": "2018-10-11",
       "tags": ["millertime", "jingle", "bruce", "singing"]
     }},
     {
     "millertime-millerlite1": {
+      "date": "2018-08-14",
       "tags": ["millertime", "miller lite", "bruce"]
     }},
     {
     "millertime-millerlite2": {
+      "date": "2018-11-03",
       "tags": ["millertime", "miller lite", "bruce"]
     }},
     {
     "millertime-millertime1": {
+      "date": "2017-09-26",
       "tags": ["millertime", "miller time", "conrad"]
     }},
     {
     "millertime-millertime2": {
+      "date": "2017-09-26",
       "tags": ["millertime", "miller time", "bruce"]
     }},
     {
     "millertime-millertime3": {
+      "date": "2017-10-08",
       "tags": ["millertime", "miller time", "oh yeah", "conrad"]
     }},
     {
     "millertime-millertime4": {
+      "date": "2017-10-09",
       "tags": ["millertime", "miller time", "conrad"]
     }},
     {
     "millertime-sprayed": {
+      "date": "2017-10-03",
       "tags": ["millertime", "sprayed", "all over you"]
     }},
     {
     "millertime-thankgod": {
+      "date": "2017-09-21",
       "tags": ["millertime", "miller lite", "thank god"]
     }}
   ],
@@ -13549,115 +13773,133 @@
   ],
   "patterson": [
     {
-    "patterson-16stitch": {
-      "tags": ["patterson", "he had to get", "16 stitch"]
-    }},
-    {
     "patterson-2ladders": {
+      "date": "2017-11-21",
       "tags": ["patterson", "2 ladders", "instead of 1"]
     }},
     {
+    "patterson-16stitch": {
+      "date": "2017-10-30",
+      "tags": ["patterson", "he had to get", "16 stitch"]
+    }},
+    {
     "patterson-banana": {
+      "date": "2017-11-22",
       "tags": ["patterson", "banana", "beautiful"]
     }},
     {
     "patterson-battleroyal": {
+      "date": "2017-11-02",
       "tags": ["patterson", "battle royal", "in reverse"]
     }},
     {
-    "patterson-brainbusters": {
-      "tags": ["patterson", "brain busters", "rockers"]
-    }},
-    {
-    "patterson-brethair": {
-      "tags": ["patterson", "bret", "hair"]
-    }},
-    {
-    "patterson-brotherlove": {
-      "tags": ["patterson", "brother love", "i love it"]
-    }},
-    {
-    "patterson-copymachine": {
-      "tags": ["patterson", "toner", "copy machine"]
-    }},
-    {
-    "patterson-laddermatch": {
-      "tags": ["patterson", "ladder match", "hang the titles up"]
-    }},
-    {
-    "patterson-loveyouboth": {
-      "tags": ["patterson", "beautiful", "love you both", "so much"]
-    }},
-    {
     "patterson-blimpfat": {
+      "date": "2017-09-26",
       "tags": ["patterson", "blimp", "too fat", "fuck you"]
     }},
     {
     "patterson-boobs": {
+      "date": "2017-11-01",
       "tags": ["patterson", "boobs"]
     }},
     {
+    "patterson-brainbustersrockers": {
+      "date": "2018-01-31",
+      "tags": ["patterson", "brain busters", "rockers"]
+    }},
+    {
+    "patterson-brethair": {
+      "date": "2017-12-17",
+      "tags": ["patterson", "bret", "hair"]
+    }},
+    {
+    "patterson-brotherlove": {
+      "date": "2018-05-20",
+      "tags": ["patterson", "brother love", "i love it"]
+    }},
+    {
     "patterson-bruise": {
+      "date": "2017-11-15",
       "tags": ["patterson", "bruise", "suck it up"]
     }},
     {
+    "patterson-copymachine": {
+      "date": "2018-04-20",
+      "tags": ["patterson", "toner", "copy machine"]
+    }},
+    {
     "patterson-dontgiveafuck": {
+      "date": "2017-08-19",
       "tags": ["patterson", "dont give", "fuck"]
     }},
     {
     "patterson-douchebag": {
+      "date": "2017-12-01",
       "tags": ["patterson", "douche bag"]
     }},
     {
     "patterson-floatabove": {
+      "date": "2017-09-05",
       "tags": ["patterson", "float above"]
     }},
     {
     "patterson-fuckhim": {
+      "date": "2017-12-01",
       "tags": ["patterson", "fuck him"]
     }},
     {
     "patterson-fuckyouboth": {
+      "date": "2017-08-19",
       "tags": ["patterson", "fuck you both"]
     }},
     {
     "patterson-fuckyouundertaker": {
+      "date": "2017-12-08",
       "tags": ["patterson", "fuck you", "undertaker"]
     }},
     {
     "patterson-gaga": {
+      "date": "2017-08-15",
       "tags": ["patterson", "give them", "gaga"]
     }},
     {
     "patterson-gibberish1": {
+      "date": "2017-08-15",
       "tags": ["patterson", "gibberish", "fuck it"]
     }},
     {
     "patterson-gibberish2": {
+      "date": "2017-11-15",
       "tags": ["patterson", "gibberish"]
     }},
     {
     "patterson-girlsgonewild": {
+      "date": "2017-11-01",
       "tags": ["patterson", "girls gone wild", "boys gone wild"]
     }},
     {
     "patterson-gobanana": {
+      "date": "2017-08-25",
       "tags": ["patterson", "go banana"]
     }},
     {
     "patterson-gohome": {
+      "date": "2017-11-12",
       "tags": ["patterson", "go out", "go home", "fuck it"]
     }},
     {
     "patterson-haireverywhere": {
+      "date": "2017-12-17",
       "tags": ["patterson", "pulling", "hair", "everywhere"]
     }},
     {
     "patterson-heavenlybodies": {
+      "date": "2017-10-08",
       "tags": ["patterson", "heavenly bodies"]
     }},
     {
     "patterson-hebuyseverything": {
+      "date": "2017-08-22",
       "tags": ["patterson", "he buys everything"]
     }},
     {
@@ -13666,74 +13908,102 @@
     }},
     {
     "patterson-ilovehim": {
+      "date": "2017-09-06",
       "tags": ["patterson", "i love him"]
     }},
     {
     "patterson-inthemiddle": {
+      "date": "2017-11-02",
       "tags": ["patterson", "in the middle", "fuck you", "get out"]
     }},
     {
     "patterson-jesus": {
+      "date": "2017-11-01",
       "tags": ["patterson", "jesus"]
     }},
     {
+    "patterson-laddermatch": {
+      "date": "2018-03-17",
+      "tags": ["patterson", "ladder match", "hang the titles up"]
+    }},
+    {
+    "patterson-loveyouboth": {
+      "date": "2017-12-14",
+      "tags": ["patterson", "beautiful", "love you both", "so much"]
+    }},
+    {
     "patterson-mud": {
+      "date": "2017-11-14",
       "tags": ["patterson", "mud", "douche bag"]
     }},
     {
     "patterson-neverfollowthat": {
+      "date": "2017-11-12",
       "tags": ["patterson", "youll", "never follow that", "barn burner"]
     }},
     {
     "patterson-nobodybelieve": {
+      "date": "2017-08-13",
       "tags": ["patterson", "oh my god", "nobody believe it"]
     }},
     {
     "patterson-nobodycares": {
+      "date": "2017-08-15",
       "tags": ["patterson", "nobody cares"]
     }},
     {
     "patterson-paysattention": {
+      "date": "2017-09-18",
       "tags": ["patterson", "nobody pays attention"]
     }},
     {
     "patterson-prison": {
+      "date": "2018-05-06",
       "tags": ["patterson", "prison", "new york city"]
     }},
     {
     "patterson-rio": {
+      "date": "2017-11-16",
       "tags": ["patterson", "rio"]
     }},
     {
     "patterson-shawnmichael": {
+      "date": "2017-09-06",
       "tags": ["patterson", "shawn michael"]
     }},
     {
     "patterson-stichesstonecold": {
+      "date": "2017-10-30",
       "tags": ["patterson", "stiches", "stone cold"]
     }},
     {
     "patterson-stupid": {
+      "date": "2017-08-15",
       "tags": ["patterson", "fuck", "stupid"]
     }},
     {
     "patterson-theshits": {
+      "date": "2017-09-09",
       "tags": ["patterson", "the shits"]
     }},
     {
     "patterson-thongs": {
+      "date": "2010-01-08",
       "tags": ["patterson", "thongs", "shower shoes"]
     }},
     {
     "patterson-underwears": {
+      "date": "2017-09-24",
       "tags": ["patterson", "underwears"]
     }},
     {
     "patterson-whoopiecushion": {
+      "date": "2017-12-09",
       "tags": ["patterson", "whoopie cushion"]
     }},
     {
     "patterson-whowantstosee": {
+      "date": "2017-11-01",
       "tags": ["patterson", "who the fuck", "wants to see"]
     }}
   ],
