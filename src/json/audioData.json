@@ -5604,10 +5604,6 @@
       "tags": ["conrad", "illegal", "as fuck"]
     }},
     {
-    "conrad-illtellvince": {
-      "tags": ["conrad", "ill tell vince"]
-    }},
-    {
     "conrad-iloveyouwrestling1": {
       "tags": ["conrad", "i love", "wrestling"]
     }},
@@ -11334,206 +11330,262 @@
     "meltzer": [
     {
     "meltzer-agree1": {
+      "date": "2017-08-16",
       "tags": ["meltzer", "bruce", "agree"]
     }},
     {
     "meltzer-agree2": {
+      "date": "2017-12-01",
       "tags": ["meltzer", "bruce", "agree"]
     }},
     {
     "meltzer-agree3": {
+      "date": "2017-12-09",
       "tags": ["meltzer", "bruce", "agree"]
     }},
     {
     "meltzer-agree4": {
+      "date": "2018-03-27",
       "tags": ["meltzer", "bruce", "agree"]
     }},
     {
     "meltzer-believeitornot": {
+      "date": "2017-11-20",
       "tags": ["meltzer", "believe it or not", "agree", "bruce"]
     }},
     {
     "meltzer-brokenrecord": {
+      "date": "2017-11-16",
       "tags": ["meltzer", "is a", "broken", "record"]
     }},
     {
     "meltzer-bswritten": {
+      "date": "2018-06-23",
       "tags": ["meltzer", "bullshit", "written", "here"]
     }},
     {
     "meltzer-complainbitch": {
+      "date": "2018-05-20",
       "tags": ["meltzer", "bruce", "complain", "bitch", "moan"]
     }},
     {
     "meltzer-conman1": {
+      "date": "2017-06-25",
       "tags": ["meltzer", "conrad", "con man"]
     }},
     {
     "meltzer-conman2": {
+      "date": "2018-05-20",
       "tags": ["meltzer", "conrad", "con man", "big deal"]
     }},
     {
     "meltzer-doesntknow": {
+      "date": "2017-08-01",
       "tags": ["meltzer", "doesnt know", "as usual"]
     }},
     {
     "meltzer-donthate": {
+      "date": "2017-08-17",
       "tags": ["meltzer", "dont hate", "bruce"]
     }},
     {
     "meltzer-expert": {
+      "date": "2018-05-06",
       "tags": ["meltzer", "being the", "expert"]
     }},
     {
     "meltzer-firstofall": {
+      "date": "2018-06-23",
       "tags": ["meltzer", "first of all", "fuck"]
     }},
     {
     "meltzer-forgetmeltzer": {
+      "date": "2018-04-25",
       "tags": ["meltzer", "conrad", "forget", "forget dave meltzer"]
     }},
     {
     "meltzer-fuckmeltzer1": {
+      "date": "2017-08-01",
       "tags": ["meltzer", "bruce", "fuck", "fuck dave meltzer"]
     }},
     {
     "meltzer-fuckmeltzer2": {
+      "date": "2017-10-01",
       "tags": ["meltzer", "bruce", "fuck", "fuck dave meltzer"]
     }},
     {
     "meltzer-fuckmeltzer3": {
+      "date": "2017-10-11",
       "tags": ["meltzer", "bruce", "fuck", "fuck dave meltzer"]
     }},
     {
     "meltzer-fuckmeltzer4": {
+      "date": "2018-04-28",
       "tags": ["meltzer", "bruce", "firstofall", "fuck", "fuck dave meltzer"]
     }},
     {
     "meltzer-goldusthardon": {
+      "date": "2018-01-17",
       "tags": ["meltzer", "conrad", "hard on for", "goldust"]
     }},
     {
     "meltzer-halfassed": {
+      "date": "2017-12-09",
       "tags": ["meltzer", "half assed", "reporting"]
     }},
     {
     "meltzer-hate": {
+      "date": "2017-08-24",
       "tags": ["meltzer", "conrad", "hate", "fuck"]
     }},
     {
+    "meltzer-hatesboobs": {
+      "date": "2018-02-28",
+      "tags": ["meltzer", "bruce", "dave", "hates", "boobs"]
+    }},
+    {
     "meltzer-hugged": {
+      "date": "2017-10-02",
       "tags": ["meltzer", "hugged", "bruce"]
     }},
     {
     "meltzer-idonthate": {
+      "date": "2017-10-17",
       "tags": ["meltzer", "i dont hate", "i told him"]
     }},
     {
     "meltzer-incorrect": {
+      "date": "2017-08-15",
       "tags": ["meltzer", "newsflash", "incorrect"]
     }},
     {
     "meltzer-inotherwords": {
+      "date": "2018-05-28",
       "tags": ["meltzer", "in other words", "fuck", "dave"]
     }},
     {
     "meltzer-isntright": {
+      "date": "2017-07-25",
       "tags": ["meltzer", "conrad"]
     }},
     {
     "meltzer-jackingoff": {
+      "date": "2018-02-23",
       "tags": ["meltzer", "jacking off", "there it is"]
     }},
     {
     "meltzer-largeboobs": {
+      "date": "2018-07-14",
       "tags": ["meltzer", "something against", "beautiful women", "large boobs"]
     }},
     {
     "meltzer-letspretend": {
+      "date": "2017-09-25",
       "tags": ["meltzer", "lets pretend", "youre dave meltzer"]
     }},
     {
     "meltzer-madethatup": {
+      "date": "2017-09-05",
       "tags": ["meltzer", "conrad", "made that up"]
     }},
     {
     "meltzer-meltzermark": {
+      "date": "2017-07-25",
       "tags": ["meltzer", "conrad", "dirt sheets"]
     }}, 
     {
     "meltzer-newsandnotes": {
+      "date": "2018-04-07",
       "tags": ["meltzer", "wrestling observer", "news", "notes"]
     }},
     {
     "meltzer-niceguy": {
+      "date": "2017-08-17",
       "tags": ["meltzer", "nice guy", "bruce"]
     }},
     {
     "meltzer-nostrameltzer1": {
+      "date": "2017-10-02",
       "tags": ["meltzer", "nostrameltzer", "fucking"]
     }},
     {
     "meltzer-nostrameltzer2": {
+      "date": "2017-10-08",
       "tags": ["meltzer", "nostrameltzer", "fucking"]
     }},
     {
     "meltzer-notdone": {
+      "date": "2017-07-25",
       "tags": ["meltzer", "conrad"]
     }},
     {
     "meltzer-numbers": {
+      "date": "2018-02-13",
       "tags": ["meltzer", "numbers", "incorrect", "as usual"]
     }},
     {
     "meltzer-paperslide": {
+      "date": "2017-08-15",
       "tags": ["meltzer", "slid paper", "fuck"]
     }},
     {
     "meltzer-posedpicture": {
+      "date": "2017-10-02",
       "tags": ["meltzer", "posed picture", "conrad"]
     }},
     {
     "meltzer-quarterstar": {
+      "date": "2017-10-16",
       "tags": ["meltzer", "meltzer gave it", "quarter star"]
     }},
     {
     "meltzer-reportsasfact": {
+      "date": "2017-12-02",
       "tags": ["meltzer", "sort of stuff", "reports as fact"]
     }},
     {
-    "meltzer-rhymes": {
+    "meltzer-rhymeswith": {
+      "date": "2017-08-01",
       "tags": ["meltzer", "rhymes with"]
     }},
     {
     "meltzer-shit": {
+      "date": "2017-08-17",
       "tags": ["meltzer", "shit", "clear up", "bruce"]
     }},
     {
     "meltzer-shitseriously": {
+      "date": "2018-01-18",
       "tags": ["meltzer", "maybe", "took this shit", "too seriously"]
     }},
     {
     "meltzer-sixstars": {
+      "date": "2017-10-01",
       "tags": ["meltzer", "six stars", "tokyo dome", "fucking"]
     }},
     {
     "meltzer-starsystem": {
+      "date": "2017-12-13",
       "tags": ["meltzer", "star system", "japan"]
     }},
     {
     "meltzer-whymeltzerdoes": {
+      "date": "2017-10-03",
       "tags": ["meltzer", "i have no idea", "why meltzer does"]
     }},
     {
     "meltzer-wouldrate": {
+      "date": "2017-12-14",
       "tags": ["meltzer", "would rate", "do you want to guess"]
     }},
     {
     "meltzer-wrong": {
+      "date": "2017-08-08",
       "tags": ["meltzer", "conrad", "wrong"]
     }},
     {
     "meltzer-yourass": {
+      "date": "2017-08-02",
       "tags": ["meltzer", "straighten", "ass"]
     }}
   ],
@@ -12243,372 +12295,474 @@
   "ribs": [
     {
     "ribs-admit": {
+      "date": "2017-08-24",
       "tags": ["ribs", "admit", "conrad"]
     }},
     {
     "ribs-areyou": {
+      "date": "2017-10-01",
       "tags": ["ribs", "are you", "fucking", "bruce"]
     }},
     {
     "ribs-brucenot1": {
+      "date": "2017-07-25",
       "tags": ["ribs", "bruce", "not"]
     }},
     {
     "ribs-brucenot2": {
+      "date": "2017-08-08",
       "tags": ["ribs", "bruce", "not"]
     }},
     {
     "ribs-brucenot3": {
+      "date": "2017-09-11",
       "tags": ["ribs", "bruce", "not"]
     }},
     {
     "ribs-brucenot4": {
+      "date": "2017-09-11",
       "tags": ["ribs", "bruce", "not"]
     }},
     {
     "ribs-brucenot5": {
+      "date": "2017-09-25",
       "tags": ["ribs", "bruce", "not"]
     }},
     {
     "ribs-clarencemason": {
+      "date": "2017-08-08",
       "tags": ["ribs", "clarence mason"]
     }}, 
     {
     "ribs-conrad1": {
+      "date": "2017-05-10",
       "tags": ["ribs", "conrad"]
     }},
     {
     "ribs-conrad2": {
+      "date": "2017-08-01",
       "tags": ["ribs", "conrad"]
     }},
     {
     "ribs-conrad3": {
+      "date": "2017-08-02",
       "tags": ["ribs", "conrad"]
     }},
     {
     "ribs-conrad4": {
+      "date": "2017-08-06",
       "tags": ["ribs", "conrad"]
     }},
     {
     "ribs-conrad5": {
+      "date": "2017-08-07",
       "tags": ["ribs", "conrad"]
     }},
     {
     "ribs-conrad6": {
+      "date": "2017-08-08",
       "tags": ["ribs", "conrad"]
     }},
     {
     "ribs-conrad7": {
+      "date": "2017-08-12",
       "tags": ["ribs", "conrad", "not"]
     }},
     {
     "ribs-conrad8": {
+      "date": "2017-08-12",
       "tags": ["ribs", "conrad", "not"]
     }},
     {
     "ribs-conrad9": {
+      "date": "2017-08-16",
       "tags": ["ribs", "conrad", "fuck"]
     }},
     {
     "ribs-conrad10": {
+      "date": "2017-09-11",
       "tags": ["ribs", "conrad"]
     }},
     {
     "ribs-conrad11": {
+      "date": "2017-09-11",
       "tags": ["ribs", "conrad", "not"]
     }},
     {
     "ribs-conrad12": {
+      "date": "2017-10-05",
       "tags": ["ribs", "conrad", "was that"]
     }},
     {
     "ribs-conrad13": {
+      "date": "2017-12-10",
       "tags": ["ribs", "conrad", "not"]
     }},
     {
     "ribs-control": {
+      "date": "2017-08-22",
       "tags": ["ribs", "control", "conrad"]
     }},
     {
     "ribs-everything": {
+      "date": "2017-08-04",
       "tags": ["ribs", "everythings a rib"]
     }},
     {
     "ribs-iswhatarib": {
+      "date": "2017-08-14",
       "tags": ["ribs", "bruc", "is what a rib"]
     }},
     {
     "ribs-itsaspot": {
+      "date": "2017-08-08",
       "tags": ["ribs", "conrad", "itsaspot"]
     }},
     {
     "ribs-notarib": {
+      "date": "2017-08-22",
       "tags": ["ribs", "conrad", "not a rib"]
     }},
     {
     "ribs-ribamania": {
+      "date": "2017-08-22",
       "tags": ["ribs", "ribamania"]
     }},
     {
     "ribs-ribbingme": {
+      "date": "2017-09-28",
       "tags": ["ribs", "are you", "ribbing me", "conrad"]
     }},
     {
     "ribs-ribsrule": {
+      "date": "2017-08-24",
       "tags": ["ribs", "ribamania"]
     }},
     {
     "ribs-speakingof": {
+      "date": "2017-08-04",
       "tags": ["ribs", "speaking of"]
     }},
     {
     "ribs-steroidtrial": {
+      "date": "2017-07-25",
       "tags": ["ribs", "conrad", "steroids"]
     }},
     {
     "ribs-stillrule1": {
+      "date": "2017-08-22",
       "tags": ["ribs", "still rule", "conrad"]
     }},
     {
     "ribs-stillrule2": {
+      "date": "2017-08-24",
       "tags": ["ribs", "still rule", "bruce"]
     }},
     {
     "ribs-thatwasarib": {
+      "date": "2017-07-29",
       "tags": ["ribs", "bruce"]
     }},
     {
     "ribs-turd": {
+      "date": "2017-08-07",
       "tags": ["ribs", "conrad", "turd"]
     }},
     {
     "ribs-whyeverything": {
+      "date": "2017-09-11",
       "tags": ["ribs", "bruce", "why is everything"]
     }}
   ],
   "rumors": [
     {  
     "rumors-allover": {
+      "date": "2017-08-13",
       "tags": ["rumors", "bruce", "all over"] 
     }},
     {  
     "rumors-alotof": {
+      "date": "2017-12-01",
       "tags": ["rumors", "bruce", "a lot of"] 
     }},
     {  
     "rumors-asyoudsay": {
+      "date": "2017-08-05",
       "tags": ["rumors", "bruce", "as youd say"] 
     }},
     {  
     "rumors-bruce1": {
+      "date": "2017-05-10",
       "tags": ["rumors", "bruce"] 
     }},
     {
     "rumors-bruce2": {
+      "date": "2017-05-10",
       "tags": ["rumors", "bruce", "bullshit", "shit"] 
     }},
     {
     "rumors-bruce3": {
+      "date": "2017-05-10",
       "tags": ["rumors", "bruce", "bullshit", "shit"] 
     }},
     {
     "rumors-bruce4": {
+      "date": "2017-07-31",
       "tags": ["rumors", "bruce"] 
     }},
     {
     "rumors-bruce5": {
+      "date": "2017-08-01",
       "tags": ["rumors", "bruce"] 
     }},
     {
     "rumors-bruce6": {
+      "date": "2017-08-06",
       "tags": ["rumors", "bruce"] 
     }},
     {
     "rumors-bruce7": {
+      "date": "2017-09-19",
       "tags": ["rumors", "bruce", "bullshit", "shit"] 
     }},
     {
     "rumors-bruce8": {
+      "date": "2017-10-18",
       "tags": ["rumors", "bruce"] 
     }},
     {
     "rumors-bruce9": {
+      "date": "2017-04-17",
       "tags": ["rumors", "bruce", "yours is"] 
     }},
     {
     "rumors-bruce10": {
+      "date": "2017-04-17",
       "tags": ["rumors", "bruce", "personal contracts"] 
     }},
     {
     "rumors-clearup": {
+      "date": "2017-11-30",
       "tags": ["rumors", "clear up", "wouldnt you say", "conrad"]
     }},
     {
     "rumors-conrad1": {
+      "date": "2017-05-10",
       "tags": ["rumors", "conrad"]
     }},
     {
     "rumors-conrad2": {
+      "date": "2017-05-10",
       "tags": ["rumors", "conrad"]
     }},
     {
     "rumors-conrad3": {
+      "date": "2017-05-10",
       "tags": ["rumors", "conrad"]
     }},
     {
     "rumors-conrad4": {
+      "date": "2017-05-10",
       "tags": ["rumors", "conrad"]
     }},
     {
     "rumors-conrad5": {
+      "date": "2017-05-10",
       "tags": ["rumors", "conrad"]
     }},
     {
     "rumors-conrad6": {
+      "date": "2017-05-10",
       "tags": ["rumors", "conrad"]
     }},
     {
     "rumors-conrad7": {
+      "date": "2017-07-27",
       "tags": ["rumors", "conrad"]
     }},
     {
     "rumors-conrad8": {
+      "date": "2017-07-31",
       "tags": ["rumors", "conrad"]
     }},
     {
     "rumors-conrad9": {
+      "date": "2017-07-31",
       "tags": ["rumors", "conrad"]
     }},
     {
     "rumors-conrad10": {
+      "date": "2017-07-31",
       "tags": ["rumors", "conrad"]
     }},
     {
     "rumors-conrad11": {
+      "date": "2017-08-08",
       "tags": ["rumors", "conrad"]
     }},
     {
     "rumors-conrad12": {
+      "date": "2017-10-01",
       "tags": ["rumors", "conrad"]
     }},
     {
     "rumors-conrad13": {
+      "date": "2017-10-22",
       "tags": ["rumors", "conrad"]
     }},
     {
     "rumors-conrad14": {
+      "date": "2017-10-27",
       "tags": ["rumors", "conrad"]
     }},
     {
     "rumors-conrad15": {
+      "date": "2017-11-15",
       "tags": ["rumors", "conrad"]
     }},
     {
     "rumors-conspiracytheories": {
+      "date": "2017-08-22",
       "tags": ["rumors", "bruce", "conspiracy theories"]
     }},
     {
     "rumors-conspiracytheorists": {
+      "date": "2017-11-02",
       "tags": ["rumors", "bruce", "conspiracy theorists"]
     }},
     {
     "rumors-department": {
+      "date": "2017-11-01",
       "tags": ["rumors", "a lot of people", "department", "bruce"]
     }},
     {
     "rumors-dirtsheet": {
+      "date": "2017-12-20",
       "tags": ["rumors", "dirt sheet"]
     }},
     {
     "rumors-dontdeal1": {
+      "date": "2017-08-04",
       "tags": ["rumors", "bruce"]
     }},
     {
     "rumors-dontdeal2": {
+      "date": "2017-11-30",
       "tags": ["rumors", "bruce"]
     }},
     {
     "rumors-everything": {
+      "date": "2017-11-30",
       "tags": ["rumors", "everything im about to say", "heresay", "bullshit"]
     }},
     {
+    "rumors-heresay": {
+      "date": "2017-12-14",
+      "tags": ["rumors", "bruce", "heresay"]
+    }},
+    {
     "rumors-hoseshit": {
+      "date": "2017-10-27",
       "tags": ["rumors", "bruce", "fucking", "horse shit"]
     }},
     {
     "rumors-idontdo": {
+      "date": "2017-11-14",
       "tags": ["rumors", "i dont do", "bruce"]
     }},
     {
     "rumors-incorrectly": {
+      "date": "2017-08-02",
       "tags": ["rumors", "conrad", "incorrectly"]
     }},
     {
     "rumors-isthat": {
+      "date": "2017-11-20",
       "tags": ["rumors", "conrad", "is that"]
     }},
     {
     "rumors-iveheard": {
+      "date": "2017-08-09",
       "tags": ["rumors", "bruce", "ive heard"]
     }},
     {
     "rumors-king": {
+      "date": "2018-05-20",
       "tags": ["rumors", "bruce", "king", "falsehoods"]
     }},
     {
-    "rumors-ladis": {
+    "rumors-ladies": {
+      "date": "2018-01-12",
       "tags": ["rumors", "ladies", "professional wrestling business"]
     }},
     {
     "rumors-letsaddress": {
+      "date": "2017-09-28",
       "tags": ["rumors", "lets address", "shall we"]
     }},
     {
     "rumors-letsgetdeep": {
+      "date": "2017-11-14",
       "tags": ["rumors", "lets get deep", "conrad"]
     }},
     {
     "rumors-letstalkabout": {
+      "date": "2017-09-10",
       "tags": ["rumors", "conrad", "lets talk about"]
     }},
     {
     "rumors-nonsense": {
+      "date": "2018-05-06",
       "tags": ["rumors", "nonsense", "bullshit"]
     }},
     {
     "rumors-outthere1": {
+      "date": "2017-09-18",
       "tags": ["rumors", "conrad", "out there"]
     }},
     {
     "rumors-outthere2": {
+      "date": "2017-11-10",
       "tags": ["rumors", "conrad", "out there"]
     }},
     {
     "rumors-penis": {
+      "date": "2017-08-01",
       "tags": ["rumors", "conrad", "penis"]
     }},
     {
+    "rumors-runwild": {
+      "date": "2018-01-21",
+      "tags": ["rumors", "bruce", "could", "run wild"]
+    }},
+    {
     "rumors-thatswhat": {
+      "date": "2018-01-21",
       "tags": ["rumors", "that what", "bruce"]
     }},
     {
     "rumors-theresbeenlots": {
+      "date": "2017-09-07",
       "tags": ["rumors", "conrad", "theres been lots"]
     }},
     {
     "rumors-theyveheard": {
+      "date": "2018-07-23",
       "tags": ["rumors", "bruce", "theyve heard"]
     }},
     {
     "rumors-whatsreal": {
+      "date": "2017-11-28",
       "tags": ["rumors", "conrad", "whats real"]
     }},
     {
     "rumors-whatsrumors": {
+      "date": "2017-08-20",
       "tags": ["rumors", "conrad", "what happened"]
     }},
     {
     "rumors-youknow": {
+      "date": "2018-06-19",
       "tags": ["rumors", "conrad", "you know"]
     }}
   ],
@@ -12667,272 +12821,339 @@
   "piper": [
     {
     "piper-aboutyourgimmick": {
+      "date": "2017-09-24",
       "tags": ["piper", "tell me", "about your gimmick"]
     }},
     {
     "piper-aboutyourself": {
+      "date": "2017-09-24",
       "tags": ["piper", "tell me", "about yourself"]
     }},
     {
     "piper-controlofhotrod": {
+      "date": "2017-09-25",
       "tags": ["bruce", "control of hot rod", "oh i get it"]
     }},
     {
     "piper-couplebeers": {
+      "date": "2017-09-26",
       "tags": ["piper", "i just need a", "couple beers"]
     }},
     {
     "piper-diaper": {
+      "date": "2018-05-21",
       "tags": ["piper", "im wearing a dress", "youre wearing a diaper"]
     }},
     {
     "piper-dropsob": {
+      "date": "2018-05-28",
       "tags": ["piper", "drop the", "sob"]
     }},
     {
     "piper-gotinmind": {
+      "date": "2017-09-24",
       "tags": ["piper", "what you", "got in mind"]
     }}, 
     {
     "piper-havesomefun": {
+      "date": "2017-09-24",
       "tags": ["piper", "have some fun", "see what happens"]
     }},
     {
     "piper-hedoesntlikethat": {
+      "date": "2017-09-24",
       "tags": ["piper", "he doesnt like that", "at all"]
     }},
     {
     "piper-hereiam": {
+      "date": "2018-05-28",
       "tags": ["piper", "here i am", "mean gene"]
     }},
     {
     "piper-imhotrod": {
+      "date": "2018-05-28",
       "tags": ["piper", "im hot rod", "dont do jobs"]
     }},
     {
-    "piper-iwasthinking": {
-      "tags": ["piper", "i was thinking", "maybe"]
-    }},
-    {
     "piper-itsakilt": {
+      "date": "2017-09-22",
       "tags": ["piper", "its a kilt", "there son"]
     }},
     {
     "piper-iveheard": {
+      "date": "2017-09-24",
       "tags": ["piper", "they tell me", "ive heard"]
     }},
     {
+    "piper-iwasthinking": {
+      "date": "2017-09-25",
+      "tags": ["piper", "i was thinking", "maybe"]
+    }},
+    {
     "piper-nicetomeetyou": {
+      "date": "2017-09-24",
       "tags": ["piper", "nice to meet you", "there son"]
     }},
     {
     "piper-nothingthatllkillyou": {
+      "date": "2017-09-25",
       "tags": ["piper", "nothing thatll kill you", "cheers"]
     }},
     {
     "piper-paythepiper": {
+      "date": "2018-05-28",
       "tags": ["piper", "time for you", "pay the piper"]
     }},
     {
     "piper-rowdyroddy": {
+      "date": "2018-05-20",
       "tags": ["piper", "rowdy roddy piper", "folks"]
     }},
     {
     "piper-santa": {
+      "date": "2017-08-02",
       "tags": ["piper", "santa"]
     }},
     {
     "piper-shouldidoit": {
+      "date": "2018-05-28",
       "tags": ["piper", "here i go", "should i do it"]
     }},
     {
     "piper-showme": {
+      "date": "2017-09-24",
       "tags": ["piper", "show me", "what you do"]
     }},
     {
     "piper-talkinprivacy": {
+      "date": "2017-09-25",
       "tags": ["piper", "talk in privacy"]
     }},
     {
     "piper-thatsnice": {
+      "date": "2017-09-24",
       "tags": ["piper", "thats nice"]
     }},
     {
     "piper-thatwasgreat": {
+      "date": "2017-09-24",
       "tags": ["piper", "that was great", "there son"]
     }},
     {
     "piper-tooktheliberty": {
+      "date": "2017-09-24",
       "tags": ["piper", "took the liberty", "ordered a few drinks"]
     }},
     {
     "piper-wanttodo": {
+      "date": "2017-09-24",
       "tags": ["piper", "what do you", "want to do"]
     }},
     {
     "piper-yaknow": {
+      "date": "2017-08-19",
       "tags": ["piper", "ya know", "son"]
     }},
     {
     "piper-yourerealfunny": {
+      "date": "2017-09-22",
       "tags": ["piper", "youre real funny"]
     }}
   ],
   "dootdootdoot": [
     {
     "dootdootdoot-8ladders": {
+      "date": "2017-11-22",
       "tags": ["dootdootdoot", "8 ladders", "75 feet tall"]
     }},
     {
     "dootdootdoot-alittleharsh": {
+      "date": "2017-10-08",
       "tags": ["dootdootdoot", "goddamn", "a little harsh"]
     }},
     {
     "dootdootdoot-badstreet1": {
+      "date": "2017-11-12",
       "tags": ["dootdootdoot", "bad street", "atlanta", "ga"]
     }},
     {
     "dootdootdoot-badstreet2": {
+      "date": "2018-04-02",
       "tags": ["dootdootdoot", "bad street", "atlanta", "ga"]
     }},
     {
     "dootdootdoot-cool1": {
+      "date": "2017-08-04",
       "tags": ["dootdootdoot", "cool"]
     }},
     {
     "dootdootdoot-cool2": {
+      "date": "2017-08-04",
       "tags": ["dootdootdoot", "cool"]
     }},
     {
     "dootdootdoot-dootdootdoot1": {
+      "date": "2017-08-04",
       "tags": ["dootdootdoot", "doot", "doot", "doot"]
     }},
     {
     "dootdootdoot-dootdootdoot2": {
+      "date": "2017-08-05",
       "tags": ["dootdootdoot", "doot", "doot", "doot"]
     }},
     {
     "dootdootdoot-dootdootdoot3": {
+      "date": "2017-08-05",
       "tags": ["dootdootdoot", "doot", "doot", "doot"]
     }},
     {
     "dootdootdoot-dootdootdoot4": {
+      "date": "2017-08-05",
       "tags": ["dootdootdoot", "doot", "doot", "doot"]
     }},
     {
     "dootdootdoot-dootdootdoot5": {
+      "date": "2017-08-09",
       "tags": ["dootdootdoot", "doot", "doot", "doot"]
     }},
     {
     "dootdootdoot-dootdootdoot6": {
+      "date": "2017-08-22",
       "tags": ["dootdootdoot", "doot", "doot", "doot"]
     }},
     {
     "dootdootdoot-dootdootdoot7": {
+      "date": "2017-11-01",
       "tags": ["dootdootdoot", "doot", "doot", "doot"]
     }},
     {
     "dootdootdoot-dootdootdoot8": {
+      "date": "2017-11-13",
       "tags": ["dootdootdoot", "doot", "doot", "doot"]
     }},
     {
     "dootdootdoot-dootdootdoot9": {
+      "date": "2017-11-13",
       "tags": ["dootdootdoot", "doot", "doot", "doot"]
     }},
     {
     "dootdootdoot-dootdootdoot10": {
+      "date": "2017-11-15",
       "tags": ["dootdootdoot", "doot", "doot", "doot"]
     }},
     {
     "dootdootdoot-dootdootdoot11": {
+      "date": "2017-11-19",
       "tags": ["dootdootdoot", "doot", "doot", "doot"]
     }},
     {
     "dootdootdoot-dootdootdoot12": {
+      "date": "2018-02-11",
       "tags": ["dootdootdoot", "doot", "doot", "doot", "conrad"]
     }},
     {
     "dootdootdoot-extra": {
+      "date": "2017-08-13",
       "tags": ["dootdootdoot", "extra"]
     }},
     {
     "dootdootdoot-gotanideal": {
+      "date": "2018-01-09",
       "tags": ["dootdootdoot", "i got", "an ideal"]
     }},
     {
-    "dootdootdoot-hedidntdoit": {
-      "tags": ["dootdootdoot", "he didnt", "do it"]
-    }},
-    {
     "dootdootdoot-hedidit": {
+      "date": "2017-11-16",
       "tags": ["dootdootdoot", "he", "did it"]
     }},
     {
+    "dootdootdoot-hedidntdoit": {
+      "date": "2017-11-16",
+      "tags": ["dootdootdoot", "he didnt", "do it"]
+    }},
+    {
     "dootdootdoot-imakemoney1": {
+      "date": "2017-11-15",
       "tags": ["dootdootdoot", "i make money", "for this company"]
     }},
     {
     "dootdootdoot-imakemoney2": {
+      "date": "2018-04-20",
       "tags": ["dootdootdoot", "i make money", "for this company"]
     }},
     {
     "dootdootdoot-jackets1": {
+      "date": "2017-08-04",
       "tags": ["dootdootdoot", "jackets"]
     }},
     {
     "dootdootdoot-jackets2": {
+      "date": "2017-08-04",
       "tags": ["dootdootdoot", "jackets"]
     }},
     {
     "dootdootdoot-jeffhardy": {
+      "date": "2017-11-22",
       "tags": ["dootdootdoot", "jeff hardy", "big ass bump"]
     }},
     {
     "dootdootdoot-justfortherecord": {
+      "date": "2018-01-08",
       "tags": ["dootdootdoot", "just for the record", "doot doot doot"]
     }},
     {
     "dootdootdoot-knaves": {
+      "date": "2017-08-04",
       "tags": ["dootdootdoot", "knaves"]
     }},
     {
     "dootdootdoot-michaelpshayes": {
+      "date": "2017-08-04",
       "tags": ["dootdootdoot", "michael p.s. hayes", "knaves"]
     }},
     {
     "dootdootdoot-plumber": {
+      "date": "2017-11-19",
       "tags": ["dootdootdoot", "plumber"]
     }},
     {
     "dootdootdoot-sexyboy1": {
+      "date": "2018-01-27",
       "tags": ["dootdootdoot", "sexy boy", "singing"]
     }},
     {
     "dootdootdoot-sexyboy2": {
+      "date": "2018-01-27",
       "tags": ["dootdootdoot", "sexy boy", "singing"]
     }},
     {
     "dootdootdoot-sexyboy3": {
+      "date": "2018-01-27",
       "tags": ["dootdootdoot", "sexy boy", "singing"]
     }},
     {
     "dootdootdoot-speakingof": {
+      "date": "2017-08-07",
       "tags": ["dootdootdoot", "conrad", "speaking of"]
     }},
     {
     "dootdootdoot-twogirls": {
+      "date": "2017-11-01",
       "tags": ["dootdootdoot", "i like watchin", "two girls"]
     }},
     {
-    "dootdootdoot-wemakemoney": {
-      "tags": ["dootdootdoot", "we make money"]
-    }},
-    {
     "dootdootdoot-utensils": {
+      "date": "2017-08-04",
       "tags": ["dootdootdoot", "knives", "forks", "spoons"]
     }},
     {
+    "dootdootdoot-wemakemoney": {
+      "date": "2017-09-07",
+      "tags": ["dootdootdoot", "we make money"]
+    }},
+    {
     "dootdootdoot-youreweird": {
+      "date": "2018-04-25",
       "tags": ["dootdootdoot", "youre", "weird"]
     }}
   ],
@@ -14010,284 +14231,369 @@
   "johnnyace": [
     {
     "johnnyace-alittledry": {
+      "date": "2018-04-20",
       "tags": ["johnnyace", "a little dry", "vince", "pectoralsf"]
     }},
     {
     "johnnyace-armslookgood": {
+      "date": "2018-04-20",
       "tags": ["johnnyace", "arms look good", "out there"]
     }},
     {
     "johnnyace-armslookgreat": {
+      "date": "2017-10-27",
       "tags": ["johnnyace", "first of all", "his arms look great"]
     }},
     {
     "johnnyace-assman1": {
+      "date": "2017-12-14",
       "tags": ["johnnyace", "assman", "singing"]
     }},
     {
     "johnnyace-assman2": {
+      "date": "2017-12-14",
       "tags": ["johnnyace", "assman", "singing"]
     }},
     {
     "johnnyace-assman3": {
+      "date": "2017-12-14",
       "tags": ["johnnyace", "assman", "singing"]
     }},
     {
     "johnnyace-assman4": {
+      "date": "2017-12-14",
       "tags": ["johnnyace", "assman", "singing"]
     }},
     {
     "johnnyace-assman5": {
+      "date": "2017-12-14",
       "tags": ["johnnyace", "assman", "singing"]
     }},
     {
     "johnnyace-assman6": {
+      "date": "2017-12-14",
       "tags": ["johnnyace", "assman", "singing"]
     }},
     {
     "johnnyace-assman7": {
+      "date": "2017-12-14",
       "tags": ["johnnyace", "assman", "singing"]
     }},
     {
     "johnnyace-believethat": {
+      "date": "2017-09-26",
       "tags": ["johnnyace", "you think", "people will", "believe that"]
     }},
     {
-    "johnnyace-businessman": {
-      "tags": ["johnnyace", "business man", "wrestling business"]
-    }},
-    {
     "johnnyace-cmpunk": {
+      "date": "2017-11-10",
       "tags": ["johnnyace", "cm punk", "superstar"]
     }},
     {
     "johnnyace-cometomyoffice": {
+      "date": "2017-11-09",
       "tags": ["johnnyace", "come to my", "office"]
     }},
     {
     "johnnyace-contract": {
+      "date": "2017-11-09",
       "tags": ["johnnyace", "ive got", "a contract"]
     }},
     {
     "johnnyace-cowabunga1": {
+      "date": "2017-10-27",
       "tags": ["johnnyace", "cowabunga"]
     }},
     {
     "johnnyace-cowabunga2": {
+      "date": "2017-10-27",
       "tags": ["johnnyace", "cowabunga"]
     }},
     {
     "johnnyace-cultofpersonality1": {
+      "date": "2017-11-10",
       "tags": ["johnnyace", "cult of personality", "singing"]
     }},
     {
     "johnnyace-cultofpersonality2": {
+      "date": "2017-11-10",
       "tags": ["johnnyace", "cult of personality", "singing"]
     }},
     {
     "johnnyace-cultofpersonality3": {
+      "date": "2017-11-10",
       "tags": ["johnnyace", "cult of personality", "singing"]
     }},
     {
     "johnnyace-cultofpersonality4": {
+      "date": "2017-11-10",
       "tags": ["johnnyace", "cult of personality", "singing"]
     }},
     {
     "johnnyace-cultofpersonality5": {
+      "date": "2017-11-10",
       "tags": ["johnnyace", "cult of personality", "singing"]
     }},
     {
     "johnnyace-cultofpersonality6": {
+      "date": "2017-11-10",
       "tags": ["johnnyace", "cult of personality", "singing"]
     }},
     {
     "johnnyace-cultofpersonality7": {
+      "date": "2017-11-10",
       "tags": ["johnnyace", "cult of personality", "singing"]
     }},
     {
     "johnnyace-cultofpersonality8": {
+      "date": "2017-11-10",
       "tags": ["johnnyace", "cult of personality", "singing"]
     }},
     {
     "johnnyace-cultofpersonality9": {
+      "date": "2017-11-10",
       "tags": ["johnnyace", "cult of personality", "singing"]
     }},
     {
     "johnnyace-cultofpersonality10": {
+      "date": "2017-11-10",
       "tags": ["johnnyace", "cult of personality", "singing"]
     }},
     {
     "johnnyace-demolitiontheme": {
+      "date": "2017-11-14",
       "tags": ["johnnyace", "demolition theme", "singing"]
     }},
     {
     "johnnyace-doink": {
+      "date": "2017-12-09",
       "tags": ["johnnyace", "doink", "crafty clown"]
     }},
     {
     "johnnyace-everyonestalkingabout": {
+      "date": "2017-11-10",
       "tags": ["johnnyace", "everyones talking about", "him"]
     }},
     {
     "johnnyace-fairtoflair": {
+      "date": "2018-05-28",
       "tags": ["johnnyace", "not", "fair to", "flair"]
     }},
     {
     "johnnyace-gimmieacall": {
+      "date": "2017-11-09",
       "tags": ["johnnyace", "gimmie", "a call"]
     }},
     {
     "johnnyace-gohome": {
+      "date": "2017-09-26",
       "tags": ["johnnyace", "go home"]
     }},
     {
     "johnnyace-goodjob": {
+      "date": "2017-11-09",
       "tags": ["johnnyace", "good job"]
     }},
     {
     "johnnyace-gotanyextrie": {
+      "date": "2017-10-27",
       "tags": ["johnnyace", "got any extrie", "drugs"]
     }},
     {
     "johnnyace-handsome": {
+      "date": "2017-11-19",
       "tags": ["johnnyace", "good god", "you look", "handsome"]
     }},
     {
-    "johnnyace-hesalotolder": {
-      "tags": ["johnnyace", "hes a lot older", "than you said"]
-    }},
-    {
     "johnnyace-hesahottie": {
+      "date": "2017-11-15",
       "tags": ["johnnyace", "hes a hottie", "glistens"]
     }},
     {
+    "johnnyace-hesalotolder": {
+      "date": "2017-09-26",
+      "tags": ["johnnyace", "hes a lot older", "than you said"]
+    }},
+    {
     "johnnyace-hesreallygood": {
+      "date": "2017-09-26",
       "tags": ["johnnyace", "hes really good"]
     }},
     {
     "johnnyace-hewalksaround": {
+      "date": "2017-09-26",
       "tags": ["johnnyace", "he walks around", "like you and me"]
     }},
     {
     "johnnyace-heyboss": {
+      "date": "2017-11-19",
       "tags": ["johnnyace", "hey boss"]
     }},
     {
     "johnnyace-heyguys": {
+      "date": "2017-08-14",
       "tags": ["johnnyace", "hey guys"]
     }},
     {
     "johnnyace-howseverything": {
+      "date": "2017-08-14",
       "tags": ["johnnyace", "hows", "everything"]
     }},
     {
     "johnnyace-idontknow": {
+      "date": "2017-11-10",
       "tags": ["johnnyace", "i dont know"]
     }},
     {
     "johnnyace-ihop": {
+      "date": "2017-10-03",
       "tags": ["johnnyace", "used to work at", "ihop"]
     }},
     {
+    "johnnyace-illtellvince": {
+      "date": "2017-10-22",
+      "tags": ["conrad", "ill tell vince"]
+    }},
+    {
     "johnnyace-injapan": {
+      "date": "2017-10-30",
       "tags": ["johnnyace", "mine was", "in japan"]
     }},
     {
     "johnnyace-johnnyace": {
+      "date": "2017-09-26",
       "tags": ["johnnyace", "johnny ace"]
     }},
     {
     "johnnyace-massivearms": {
+      "date": "2017-11-19",
       "tags": ["johnnyace", "your arms", "look", "massive"]
     }},
     {
+    "johnnyace-nakedpictures": {
+      "date": "2017-10-22",
+      "tags": ["johnnyace", "got any", "naked", "pictures"]
+    }},
+    {
     "johnnyace-needtotalk": {
+      "date": "2017-11-09",
       "tags": ["johnnyace", "hey", "need to talk", "right now"]
     }},
     {
     "johnnyace-ohmygod": {
+      "date": "2017-09-26",
       "tags": ["johnnyace", "oh my god"]
     }},
     {
     "johnnyace-oily": {
+      "date": "2017-11-19",
       "tags": ["johnnyace", "sure do look", "oily", "tonight"]
     }},
     {
+    "johnnyace-okay": {
+      "date": "2018-02-28",
+      "tags": ["johnnyace", "okay"]
+    }},
+    {
+    "johnnyace-oneleggedguys": {
+      "date": "2018-02-28",
+      "tags": ["johnnyace", "i got the", "one legged wrestler"]
+    }},
+    {
     "johnnyace-oneleggedwrestler": {
+      "date": "2017-09-26",
       "tags": ["johnnyace", "i got the", "one legged wrestler"]
     }},
     {
     "johnnyace-pantsdown": {
+      "date": "2018-07-23",
       "tags": ["johnnyace", "pull your", "pants down", "skin on skin"]
     }},
     {
     "johnnyace-realamerican1": {
+      "date": "2018-02-07",
       "tags": ["johnnyace", "real american", "singing"]
     }},
     {
     "johnnyace-realamerican2": {
+      "date": "2018-02-07",
       "tags": ["johnnyace", "real american", "vince", "oil", "singing"]
     }},
     {
     "johnnyace-sexyboy": {
+      "date": "2017-11-20",
       "tags": ["johnnyace", "sexy boy", "shawn michaels", "singing"]
     }},
     {
     "johnnyace-skateboards": {
+      "date": "2017-09-26",
       "tags": ["johnnyace", "came down on", "skateboards"]
     }},
     {
     "johnnyace-slipthetonguein": {
+      "date": "2018-01-24",
       "tags": ["johnnyace", "slip the tongue in", "turn your head"]
     }},
     {
     "johnnyace-smokingdoob": {
+      "date": "2017-10-27",
       "tags": ["johnnyace", "smoking a doob", "drugs"]
     }},
     {
     "johnnyace-takeitback": {
+      "date": "2017-10-27",
       "tags": ["johnnyace", "take it back conrad"]
     }},
     {
     "johnnyace-thatonevein": {
+      "date": "2017-09-26",
       "tags": ["johnnyace", "that one vein", "my vein pop out"]
     }},
     {
     "johnnyace-tnashow": {
+      "date": "2017-09-26",
       "tags": ["johnnyace", "you cant go", "tna show"]
     }},
     {
     "johnnyace-uh1": {
+      "date": "2017-09-26",
       "tags": ["johnnyace", "uh"]
     }},
     {
     "johnnyace-uh2": {
+      "date": "2017-11-10",
       "tags": ["johnnyace", "uh"]
     }},
     {
     "johnnyace-undertaker": {
+      "date": "2017-08-14",
       "tags": ["johnnyace", "undertaker"]
     }},
     {
+    "johnnyace-unicorn": {
+      "date": "2017-11-15",
+      "tags": ["johnnyace", "kinda like", "unicorn"]
+    }},
+    {
     "johnnyace-vinceoily": {
+      "date": "2018-02-04",
       "tags": ["johnnyace", "vinces arms", "oily"]
     }},
     {
     "johnnyace-vincesarms1": {
+      "date": "2017-09-26",
       "tags": ["johnnyace", "vinces arms"]
     }},
     {
     "johnnyace-vincesarms2": {
+      "date": "2018-06-23",
       "tags": ["johnnyace", "vinces arms", "looked great"]
     }},
     {
     "johnnyace-whichone": {
+      "date": "2017-09-26",
       "tags": ["johnnyace", "which one", "conrad"]
-    }},
-    {
-    "johnnyace-unicorn": {
-      "tags": ["johnnyace", "like a", "unicorn"]
-    }}  
+    }}
   ],
   "rooster": [
     {
