@@ -11,141 +11,185 @@
       "tags": ["mlw", "production", "intro"]
     }}
   ],  
-  "bruce": [
-    {
-    "bruce-123go": {
-      "tags": ["bruce", "1 2 3", "go"]
-    }},      
+  "bruce": [    
     {
     "bruce-3heartattacks": {
+      "date": "2017-11-19",
       "tags": ["bruce", "ive had", "3 heartattacks"]
     }},    
     {
     "bruce-4and3quartersstars": {
+      "date": "2017-10-29",
       "tags": ["bruce", "4 and 3 quarters", "stars"]
     }},
     {
     "bruce-4foot2": {
+      "date": "2018-01-11",
       "tags": ["bruce", "4 foot 2", "10 foot dick", "joe c"]
     }},
     {
     "bruce-5or6guys": {
+      "date": "2017-10-08",
       "tags": ["bruce", "5 or 6 guys", "in a hotel room"]
     }},
     {
     "bruce-5star6star": {
+      "date": "2017-11-21",
       "tags": ["bruce", "5 star", "6 star", "tokyo dome"]
     }},
     {
     "bruce-14thbeer": {
+      "date": "2017-08-19",
       "tags": ["bruce", "fourteenth beer"]
     }},
     {
     "bruce-18stars": {
+      "date": "2017-12-14",
       "tags": ["bruce", "18 stars"]
     }},
     {
     "bruce-44years": {
+      "date": "2017-11-14",
       "tags": ["bruce", "ive been", "doing this crap", "44 years"]
     }},
     {
     "bruce-100percent": {
+      "date": "2017-08-08",
       "tags": ["bruce", "hundred percent", "true"]
     }},
     {
+    "bruce-123go": {
+      "date": "2018-05-28",
+      "tags": ["bruce", "1 2 3", "go"]
+    }},  
+    {
     "bruce-10000stars": {
+      "date": "2017-12-08",
       "tags": ["bruce", "ten thousand", "stars"]
     }},
     {
     "bruce-abouttime": {
+      "date": "2018-02-23",
       "tags": ["bruce", "about time"]
     }},
     {
     "bruce-absurdwwf": {
+      "date": "2017-12-05",
       "tags": ["bruce", "absurd", "even for", "wwf"]
     }},
     {
     "bruce-acidheroincrunk": {
+      "date": "2018-01-27",
       "tags": ["bruce", "acid", "heroin", "crunk"]
     }},
     {
     "bruce-acousticguitar": {
+      "date": "2017-12-09",
       "tags": ["bruce", "everybody has", "acoustic guitar"]
     }},
     {
     "bruce-again": {
+      "date": "2017-07-31",
       "tags": ["bruce", "again"]
     }},
     {
     "bruce-aggression": {
+      "date": "2018-02-03",
       "tags": ["bruce", "aggression", "violence"]
     }},
     {
+    "bruce-allyoucaneat": {
+      "date": "2017-11-28",
+      "tags": ["bruce", "all you can eat", "biotch"]
+    }},
+    {
     "bruce-alotofblood": {
+      "date": "2017-12-08",
       "tags": ["bruce", "it was", "a lot of", "blood"]
     }},
     {
     "bruce-americanbadass": {
+      "date": "2017-11-26",
       "tags": ["bruce", "american badass", "singing"]
     }},
     {
     "bruce-amitheasshole": {
+      "date": "2017-07-25",
       "tags": ["bruce", "asshole"]
     }},
     {
     "bruce-analsex": {
+      "date": "2017-10-27",
       "tags": ["bruce", "anal sex", "with me"]
     }},
     {
     "bruce-andthenpee": {
+      "date": "2017-09-19",
       "tags": ["bruce", "and then pee"]
     }}, 
     {
     "bruce-andykindler": {
+      "date": "2017-08-02",
       "tags": ["bruce", "andy kindler"]
     }},
     {
     "bruce-anticlimactic": {
+      "date": "2017-11-14",
       "tags": ["bruce", "anticlimactic", "anticli-mattic"]
     }},
     {
     "bruce-anytimeyouretheboss": {
+      "date": "2017-12-01",
       "tags": ["bruce", "anytime youre the boss", "haters", "naysayers"]
     }},
     {
     "bruce-apologize": {
+      "date": "2017-07-30",
       "tags": ["bruce", "apologize"]
     }},
     {
     "bruce-arewedone": {
+      "date": "2017-10-29",
       "tags": ["bruce", "are we done", "then"]
     }},
     {
     "bruce-areyouserious": {
+      "date": "2017-09-29",
       "tags": ["bruce", "are you serious", "with that question"]
     }},
     {
     "bruce-arnanderson": {
+      "date": "2018-01-05",
       "tags": ["bruce", "arn anderson", "superstar"]
     }},
     {
     "bruce-askingaquestion": {
+      "date": "2017-12-25",
       "tags": ["bruce", "im just", "asking a question"]
     }},
     {
+    "bruce-asscream": {
+      "date": "2018-01-21",
+      "tags": ["bruce", "doesnt everyone like", "ass", "cream"]
+    }},
+    {
     "bruce-asshangingout": {
+      "date": "2017-10-12",
       "tags": ["bruce", "ass hanging out", "and everything"]
     }},
     {
     "bruce-asshole": {
+      "date": "2017-08-01",
       "tags": ["bruce", "he was an", "asshole"]
     }},
     {
     "bruce-assholedumbass": {
+      "date": "2017-08-19",
       "tags": ["bruce", "asshole", "dumbass"]
     }},
     {
     "bruce-assholehorn": {
+      "date": "2018-02-14",
       "tags": ["bruce", "asshole", "has", "horn", "in it"]
     }},
     {
@@ -154,1055 +198,1363 @@
     }},
     {
     "bruce-asuka": {
+      "date": "2017-12-23",
       "tags": ["bruce", "asuka", "superstar"]
     }},
     {
+    "bruce-austin316": {
+      "date": "2017-12-08",
+      "tags": ["bruce", "austin 316", "all", "day", "long"]
+    }},
+    {
     "bruce-autopsy": {
+      "date": "2017-07-27",
       "tags": ["bruce", "autopsy", "cocaine", "drugs"]
     }},
     {
     "bruce-bambambigelow": {
+      "date": "2017-12-26",
       "tags": ["bruce", "bam bam bigelow", "superstar"]
     }},
     {
     "bruce-basedinfact": {
+      "date": "2017-08-13",
       "tags": ["bruce", "beat", "santa"]
     }},
     {
     "bruce-bathroomhumor": {
+      "date": "2017-12-09",
       "tags": ["bruce", "he likes", "bathroom humor"]
     }},
     {
     "bruce-beatsanta": {
+      "date": "2017-08-02",
       "tags": ["bruce", "beat", "santa"]
     }},
     {
     "bruce-beattheshit1": {
+      "date": "2017-08-01",
       "tags": ["bruce", "beat", "shit"]
     }},
     {
     "bruce-beattheshit2": {
+      "date": "2018-01-23",
       "tags": ["bruce", "beat", "shit"]
     }},
     {
     "bruce-beautifulday": {
+      "date": "2017-08-12",
       "tags": ["bruce", "beautiful day", "neighborhood"]
     }},
     {
     "bruce-becauseofdick": {
+      "date": "2017-11-02",
       "tags": ["bruce", "because of", "dick"]
     }},
     {
     "bruce-becausetheypaid": {
+      "date": "2018-04-24",
       "tags": ["bruce", "because of", "they paid", "us money"]
     }},
     {
     "bruce-bedead": {
+      "date": "2018-07-15",
       "tags": ["bruce", "he could", "very well", "be dead"]
     }},
     {
     "bruce-beefin": {
+      "date": "2018-05-28",
       "tags": ["bruce", "beefin", "sweaty", "stinky"]
     }},
     {
     "bruce-beeninacasket": {
+      "date": "2017-09-29",
       "tags": ["bruce", "for those of you", "been in a casket"]
     }},
     {
     "bruce-beenthere1": {
+      "date": "2017-07-27",
       "tags": ["bruce", "been there"]
     }},
     {
     "bruce-beenthere2": {
+      "date": "2017-08-08",
       "tags": ["bruce", "been there"]
     }},
     {
-    "bruce-behindtheirback": {
-      "tags": ["bruce", "every try", "tie their hand", "behind their back"]
-    }},
-    {
     "bruce-beingadick": {
+      "date": "2017-09-11",
       "tags": ["bruce", "being a dick", "playing with you"]
     }},
     {
     "bruce-bellrang1": {
+      "date": "2017-08-01",
       "tags": ["bruce", "bell had to ring", "bell rang"]
     }},
     {
     "bruce-bellrang2": {
+      "date": "2017-08-01",
       "tags": ["bruce", "bell had to ring", "bell rang"]
     }},
     {
     "bruce-bellrang3": {
+      "date": "2017-08-19",
       "tags": ["bruce", "bell had to ring", "eventually"]
     }},
     {
     "bruce-bellrang4": {
+      "date": "2017-09-06",
       "tags": ["bruce", "bell had to ring", "eventually"]
     }},
     {
     "bruce-beltmagic": {
+      "date": "2017-07-30",
       "tags": ["bruce", "belt", "magic"]
     }},
     {
     "bruce-beltprop": {
+      "date": "2017-07-30",
       "tags": ["bruce", "belt", "prop"]
     }},
     {
     "bruce-besexy": {
+      "date": "2017-09-10",
       "tags": ["bruce", "be sexy"]
     }},
     {
     "bruce-bholetear": {
+      "date": "2018-07-15",
       "tags": ["bruce", "that looks like", "tear", "butt hole"]
     }},
     {
     "bruce-bigass": {
+      "date": "2017-10-12",
       "tags": ["bruce", "big", "ass", "brought him to the dance"]
     }},
     {
     "bruce-bigbastard": {
+      "date": "2017-08-06",
       "tags": ["bruce", "big", "bastard"]
     }},
     {
     "bruce-bikiniunderwears": {
+      "date": "2017-09-24",
       "tags": ["bruce", "bikini underwears", "red"]
     }},
     {
-    "bruce-blameme": {
-      "tags": ["bruce", "blame"]
-    }},
-    {
     "bruce-blackbelthof1": {
+      "date": "2017-11-02",
       "tags": ["bruce", "three time", "black belt", "hall of fame"]
     }},
     {
     "bruce-blackbelthof2": {
+      "date": "2018-05-21",
       "tags": ["bruce", "three time", "black belt", "hall of fame"]
     }},
     {
     "bruce-blackbelthof3": {
+      "date": "2018-07-15",
       "tags": ["bruce", "three time", "black belt", "hall of fame"]
     }},
     {
     "bruce-blamebriangewirtz": {
+      "date": "2018-01-07",
       "tags": ["bruce", "blame", "brian gewirtz"]
     }},
     {
+    "bruce-blameme": {
+      "date": "2017-07-25",
+      "tags": ["bruce", "blame"]
+    }},
+    {
     "bruce-blimpsank": {
+      "date": "2017-09-26",
       "tags": ["bruce", "blimp sank", "to the ground"]
     }},
     {
     "bruce-blockoutmemory": {
+      "date": "2017-12-01",
       "tags": ["bruce", "one of those", "memories", "block out"]
     }},
     {
     "bruce-bobbylashley": {
+      "date": "2018-04-26",
       "tags": ["bruce", "bobby lashley", "superstar"]
     }},
     {
     "bruce-bong": {
+      "date": "2017-10-27",
       "tags": ["bruce", "bong", "water pipe", "drugs"]
     }},
     {
-    "bruce-boxofgimmicks": {
-      "tags": ["bruce", "go to", "box of gimmicks", "dot com"]
-    }},
-    {
     "bruce-bonusshow": {
+      "date": "2017-10-11",
       "tags": ["bruce", "bonus show"]
     }},
     {
-    "bruce-boobs": {
-      "tags": ["bruce", "boobs"]
-    }},
-    {
     "bruce-boobooface1": {
+      "date": "2017-11-20",
       "tags": ["bruce", "boo boo face", "i think it was"]
     }},
     {
     "bruce-boobooface2": {
+      "date": "2018-05-31",
       "tags": ["bruce", "boo boo face", "he was"]
     }},
     {
-    "bruce-fuckbookert": {
-      "tags": ["bruce", "we fucked", "booker t", "horribly"]
+    "bruce-boobs": {
+      "date": "2017-08-04",
+      "tags": ["bruce", "boobs"]
     }},
     {
     "bruce-bookingcommittee": {
+      "date": "2017-10-30",
       "tags": ["bruce", "it was", "booking committee"]
     }},
     {
     "bruce-books": {
+      "date": "2017-10-08",
       "tags": ["bruce", "who has time", "to read", "books"]
     }},
     {
     "bruce-bottleswine": {
+      "date": "2017-08-14",
       "tags": ["bruce", "bottles of wine", "how many"]
     }},
     {
+    "bruce-boxofgimmicks": {
+      "date": "2017-11-15",
+      "tags": ["bruce", "go to", "box of gimmicks", "dot com"]
+    }},
+    {
     "bruce-braywyatt": {
+      "date": "2017-11-09",
       "tags": ["bruce", "bray wyatt", "superstar"]
     }},
     {
     "bruce-brethart": {
+      "date": "2017-11-21",
       "tags": ["bruce", "bret hart", "superstar"]
     }},
     {
     "bruce-briangewirtz1": {
+      "date": "2017-11-16",
       "tags": ["bruce", "brian gewirtz", "its"]
     }},
     {
     "bruce-briangewirtz2": {
+      "date": "2017-11-16",
       "tags": ["bruce", "brian gewirtz", "its"]
     }},
     {
     "bruce-briangewirtz3": {
+      "date": "2017-11-16",
       "tags": ["bruce", "brian gewirtz", "its"]
     }},
     {
     "bruce-briangewirtz4": {
+      "date": "2017-11-16",
       "tags": ["bruce", "brian gewirtz", "its"]
     }},
     {
     "bruce-briscoass": {
+      "date": "2017-08-01",
       "tags": ["bruce", "bruce", "kick ass"]
     }},
     {
-    "bruce-britchesdown": {
-      "tags": ["bruce", "we got caught", "britches down"]
-    }},
-    {
     "bruce-briscofuckwith": {
+      "date": "2017-05-10",
       "tags": ["bruce", "brisco", "fuck"]
     }},
     {
     "bruce-briscohooker": {
+      "date": "2017-05-10",
       "tags": ["bruce", "brisco", "hooker"]
     }},
     {
+    "bruce-britchesdown": {
+      "date": "2017-10-16",
+      "tags": ["bruce", "we got caught", "britches down"]
+    }},
+    {
     "bruce-brockcock": {
+      "date": "2018-04-25",
       "tags": ["bruce", "brock lesnar", "cock strong"]
     }},
     {
-    "bruce-brucemas1": {
-      "tags": ["bruce", "brucemas", "singing"]
+    "bruce-brocklesnar": {
+      "date": "2017-11-26",
+      "tags": ["bruce", "brock lesnar", "superstar"]
     }},
     {
     "bruce-brucedeuce": {
+      "date": "2018-01-21",
       "tags": ["bruce", "its the", "morning deuce", "with bruce"]
     }},
     {
+    "bruce-brucemas1": {
+      "date": "2018-01-08",
+      "tags": ["bruce", "brucemas", "singing"]
+    }},
+    {
     "bruce-bruceprichard1": {
+      "date": "2017-08-06",
       "tags": ["bruce", "bruce prichard"]
     }},
     {
     "bruce-bruceprichard2": {
+      "date": "2018-01-03",
       "tags": ["bruce", "bruce prichard", "me"]
     }},
     {
     "bruce-bsk": {
+      "date": "2018-02-11",
       "tags": ["bruce", "bone street crew", "bsk"]
     }},
     {
     "bruce-bullshit1": {
+      "date": "2017-05-10",
       "tags": ["bruce", "bullshit"]
     }},
     {
     "bruce-bullshit2": {
+      "date": "2017-07-25",
       "tags": ["bruce", "bullshit"]
     }},
     {
     "bruce-bullshit3": {
+      "date": "2018-04-03",
       "tags": ["bruce", "bullshit"]
     }},
     {
     "bruce-bullshit4": {
+      "date": "2018-04-08",
       "tags": ["bruce", "bullshit", "100 percent", "unadulterated"]
     }},
     {
     "bruce-bullshitanswer": {
+      "date": "2017-11-14",
       "tags": ["bruce", "not give a", "bullshit", "answer"]
     }},
     {
     "bruce-bullshitonbullshit": {
+      "date": "2017-08-20",
       "tags": ["bruce", "bullshit", "on bullshit"]
     }},
     {
     "bruce-burnout": {
+      "date": "2018-01-08",
       "tags": ["bruce", "better to", "burn out", "fade away"]
     }},
     {
     "bruce-businessforthemselves": {
+      "date": "2017-09-28",
       "tags": ["bruce", "going into", "business for themselves"]
     }},
     {
     "bruce-buttholes": {
+      "date": "2017-11-15",
       "tags": ["bruce", "i didnt see", "any", "buttholes"]
     }},
     {
     "bruce-buttplug": {
+      "date": "2018-01-21",
       "tags": ["bruce", "butt plug"]
     }},
     {
     "bruce-cameindrag": {
+      "date": "2018-01-25",
       "tags": ["bruce", "what if i", "came", "in drag"]
     }},
     {
-    "bruce-cars": {
-      "tags": ["bruce", "i dont know shit", "cars"]
-    }},
-    {
     "bruce-carrywater": {
+      "date": "2018-04-23",
       "tags": ["bruce", "i dont", "have to carry", "anybodys", "water"]
     }},
     {
+    "bruce-cars": {
+      "date": "2017-11-02",
+      "tags": ["bruce", "i dont know shit", "cars"]
+    }},
+    {
     "bruce-casket": {
+      "date": "2017-05-10",
       "tags": ["bruce", "casket"]
     }},
     {
     "bruce-cheapheat": {
+      "date": "2018-01-14",
       "tags": ["bruce", "cheap heat", "that was"]
     }},
     {
     "bruce-chizart": {
+      "date": "2017-08-05",
       "tags": ["bruce", "chizart", "carnie"]
     }},
     {
     "bruce-chocolatetitties": {
+      "date": "2017-11-15",
       "tags": ["bruce", "everyones cool with", "chocolate", "titties"]
     }},
     {
+    "bruce-chriscandido": {
+      "date": "2017-10-08",
+      "tags": ["bruce", "chris candido", "superstar"]
+    }},
+    {
     "bruce-chrishero": {
+      "date": "2017-11-30",
       "tags": ["bruce", "chris hero", "oh no"]
     }},
     {
     "bruce-christian": {
+      "date": "2017-11-10",
       "tags": ["bruce", "christian", "superstar"]
     }},
     {
     "bruce-clearsubstance": {
+      "date": "2017-09-25",
       "tags": ["bruce", "clear substance", "lungs on fire"]
     }},
     {
     "bruce-clintinhershey1": {
+      "date": "2017-08-01",
       "tags": ["bruce", "clint", "hershey"]
     }},
     {
     "bruce-clintinhershey2": {
+      "date": "2017-11-12",
       "tags": ["bruce", "clint", "hershey", "thumbs down"]
     }},
     {
     "bruce-clintinhershey3": {
+      "date": "2017-11-12",
       "tags": ["bruce", "clint", "hershey", "don't like wwf"]
     }},
     {
     "bruce-clintinhershey4": {
+      "date": "2017-12-01",
       "tags": ["bruce", "clint", "but this clint is from poughkeepsie"]
     }},
     {
     "bruce-clusterf": {
+      "date": "2018-06-21",
       "tags": ["bruce", "sort of became", "cluster", "fuck"]
     }},
     {
     "bruce-cocaine1": {
+      "date": "2017-10-03",
       "tags": ["bruce", "cocaine", "drugs"]
     }},
     {
     "bruce-cocaine2": {
+      "date": "2017-11-16",
       "tags": ["bruce", "cocaine", "drugs", "hallucinogen"]
     }},
     {
     "bruce-cocaine3": {
+      "date": "2017-11-16",
       "tags": ["bruce", "cocaine", "drugs", "helluva"]
     }},
     {
     "bruce-cocainediscussion": {
+      "date": "2018-01-02",
       "tags": ["bruce", "cocaine", "main thing discussed", "drugs"]
     }},
     {
     "bruce-cocaineinyoursystem": {
+      "date": "2018-01-02",
       "tags": ["bruce", "how long", "cocaine", "stay in your system"]
     }},
     {
-    "bruce-codyrhodes": {
-      "tags": ["bruce", "codyrhodes", "superstar"]
-    }},
-    {
-    "bruce-coltcabana": {
-      "tags": ["bruce", "colt cabana", "podcaster", "wrestler"]
-    }},
-    {
-    "bruce-comiccon": {
-      "tags": ["bruce", "i like", "comic cons"]
-    }},
-    {
     "bruce-cocksman": {
+      "date": "2017-11-29",
       "tags": ["bruce", "cocksman"]
     }},
     {
     "bruce-cockstrong": {
+      "date": "2017-12-20",
       "tags": ["bruce", "cock", "strong", "sob"]
     }},
     {
+    "bruce-codyrhodes": {
+      "date": "2018-01-30",
+      "tags": ["bruce", "codyrhodes", "superstar"]
+    }},
+    {
+    "bruce-coltcabana": {
+      "date": "2017-11-09",
+      "tags": ["bruce", "colt cabana", "podcaster", "wrestler"]
+    }},
+    {
+    "bruce-comiccon": {
+      "date": "2017-11-12",
+      "tags": ["bruce", "i like", "comic cons"]
+    }},
+    {
     "bruce-conradlicking": {
+      "date": "2018-05-25",
       "tags": ["bruce", "conrad", "licking", "himself"]
     }},
     {
+    "bruce-conspiracytbullshit": {
+      "date": "2018-06-21",
+      "tags": ["bruce", "conspiracy", "bullshit"]
+    }},
+    {
     "bruce-conspiracytheories": {
+      "date": "2017-11-10",
       "tags": ["bruce", "conspiracy theories", "are just that", "theories"]
     }},
     {
     "bruce-convoluted": {
+      "date": "2018-01-07",
       "tags": ["bruce", "convoluted", "can you say"]
     }},
     {
     "bruce-convolutedbullshit": {
+      "date": "2018-01-12",
       "tags": ["bruce", "most", "convoluted", "bullshit", "ever"]
     }},
     {
     "bruce-cooters1": {
+      "date": "2017-10-03",
       "tags": ["bruce", "cooters", "club", "south houston"]
     }},
     {
     "bruce-cooters2": {
+      "date": "2018-06-22",
       "tags": ["bruce", "cooters", "local", "night club"]
     }},
     {
     "bruce-cornettedoingme": {
+      "date": "2017-09-29",
       "tags": ["bruce", "jim cornette", "doing me"]
     }},
     {
     "bruce-cornettepromo": {
+      "date": "2018-02-03",
       "tags": ["bruce", "jim cornette", "best promo", "in the business"]
     }},
     {
     "bruce-cornettesasshole": {
+      "date": "2017-10-08",
       "tags": ["bruce", "jim cornette", "asshole", "puckered"]
     }},
     {
     "bruce-cornettethingout": {
+      "date": "2017-12-11",
       "tags": ["bruce", "cornette", "pulled his", "thing out"]
     }},
     {
     "bruce-correct": {
+      "date": "2017-08-05",
       "tags": ["bruce", "correct"]
     }},
     {
     "bruce-countryboy": {
+      "date": "2017-09-27",
       "tags": ["bruce", "country boy", "singing"]
     }},
     {
     "bruce-cowboytieup1": {
+      "date": "2017-08-01",
       "tags": ["bruce", "cowboy", "tie up"]
     }},
     {
     "bruce-cowboytieup2": {
+      "date": "2017-08-01",
       "tags": ["bruce", "cowboy", "tie up"]
     }},
     {
     "bruce-crazymf": {
+      "date": "2018-07-15",
       "tags": ["bruce", "more than anything else", "crazy", "motherfucker"]
     }},
     {
     "bruce-creatingdogshit": {
+      "date": "2018-06-03",
       "tags": ["bruce", "creating", "dog", "shit"]
     }},
     {
     "bruce-crotchinspection": {
+      "date": "2018-02-14",
       "tags": ["bruce", "crotch", "inspect"]
     }},
     {
     "bruce-damngoodmatch": {
+      "date": "2018-07-23",
       "tags": ["bruce", "damn", "good", "match", "beat the shit"]
     }},
     {
+    "bruce-dansoder": {
+      "date": "2017-10-15",
+      "tags": ["bruce", "dan soder"]
+    }},
+    {
     "bruce-darkshit": {
+      "date": "2018-02-14",
       "tags": ["bruce", "dark", "shit", "negative"]
     }},
     {
     "bruce-deadman": {
+      "date": "2018-08-01",
       "tags": ["bruce", "deadman", "taker"]
     }},
     {
     "bruce-definitelyafuck": {
+      "date": "2018-08-07",
       "tags": ["bruce", "definitely", "fuck"]
     }},
     {
     "bruce-demolitiontheme1": {
+      "date": "2018-11-13",
       "tags": ["bruce", "demolition", "ash", "smasher", "singing"]
     }},
     {
     "bruce-demolitiontheme2": {
+      "date": "2018-11-13",
       "tags": ["bruce", "demolition", "axe", "smasher", "singing"]
     }},
     {
     "bruce-demons": {
+      "date": "2018-12-09",
       "tags": ["bruce", "demons", "demonic demons", "ugly head"]
     }},
     {
     "bruce-dick2go1": {
+      "date": "2018-07-15",
       "tags": ["bruce", "dick togo", "superstar"]
     }},
     {
     "bruce-dick2go2": {
+      "date": "2018-07-15",
       "tags": ["bruce", "dick togo", "superstar"]
     }},
     {
     "bruce-dickfriend": {
+      "date": "2018-02-11",
       "tags": ["bruce", "dick", "was a", "friend"]
     }},
     {
     "bruce-dicksensitive": {
+      "date": "2017-11-28",
       "tags": ["bruce", "dick", "extra sensitive", "to that"]
     }},
     {
     "bruce-dickshitter": {
+      "date": "2017-11-21",
       "tags": ["bruce", "dick", "bust out of", "the shitter"]
     }},
     {
     "bruce-dicksintheirhands": {
+      "date": "2017-11-12",
       "tags": ["bruce", "two guys", "dicks in their hands"]
     }},
     {
     "bruce-dicksuccumbed": {
+      "date": "2018-01-31",
       "tags": ["bruce", "dick", "succumbed"]
     }},
     {
-    "bruce-dickwaseverywhere": {
+    "bruce-dickwaseverywhere1": {
+      "date": "2017-11-02",
+      "tags": ["bruce", "dick", "was", "everywhere"]
+    }},
+    {
+    "bruce-dickwaseverywhere2": {
+      "date": "2017-11-13",
       "tags": ["bruce", "dick", "was", "everywhere"]
     }},
     {
     "bruce-dickwell": {
+      "date": "2018-02-11",
       "tags": ["bruce", "dick", "i knew", "well"]
     }},
     {
     "bruce-didalltheshots": {
+      "date": "2017-09-25",
       "tags": ["bruce", "did all the shots", "with him"]
     }},
     {
     "bruce-didntbeat": {
+      "date": "2017-07-25",
       "tags": ["bruce", "beat", "sheet"]
     }},
     {
     "bruce-didntdosteroids": {
+      "date": "2018-05-28",
       "tags": ["bruce", "i didnt", "do", "steroids"]
     }},
     {
     "bruce-differenttime": {
+      "date": "2017-09-11",
       "tags": ["bruce", "different time", "different place"]
     }},
     {
     "bruce-dingdingding": {
+      "date": "2017-11-03",
       "tags": ["bruce", "ding", "ding", "ding"]
     }},
     {
     "bruce-dirtsheets": {
+      "date": "2017-05-10",
       "tags": ["bruce", "dirt sheets", "keller", "meltzer"]
     }},
     {
     "bruce-dirtyattheend": {
+      "date": "2017-08-04",
       "tags": ["bruce", "dirty"]
     }},
     {
     "bruce-dirtysanchez": {
+      "date": "2017-11-09",
       "tags": ["bruce", "dirty sanchez"]
     }},
     {
     "bruce-disaster": {
+      "date": "2017-11-24",
       "tags": ["bruce", "disaster", "nicest thing", "i could say about it"]
     }},
     {
     "bruce-dixie": {
+      "date": "2017-09-10",
       "tags": ["bruce", "my name is", "dixie"]
     }},
     {
     "bruce-doa": {
+      "date": "2017-11-22",
       "tags": ["bruce", "dead on arrival"]
     }},
     {
     "bruce-dogshittasty": {
+      "date": "2018-06-03",
       "tags": ["bruce", "dog shit", "tasty"]
     }},
     {
     "bruce-doingdrugs": {
+      "date": "2017-12-14",
       "tags": ["bruce", "im not advocating", "doing drugs"]
     }},
     {
     "bruce-doingeverydrug": {
+      "date": "2017-12-13",
       "tags": ["bruce", "doing every drug", "you could get your hands on"]
     }},
     {
     "bruce-dominatrixish": {
+      "date": "2017-11-13",
       "tags": ["bruce", "a little bit", "dominatrix", "ish"]
     }},
     {
     "bruce-dongconversation": {
+      "date": "2018-07-17",
       "tags": ["bruce", "work in", "dong", "conversation"]
     }},
     {
     "bruce-dontcare": {
+      "date": "2017-07-25",
       "tags": ["bruce", "i dont care"]
     }},
     {
     "bruce-dontcheckguyspants": {
+      "date": "2017-09-28",
       "tags": ["bruce", "dont check", "guys pants", "gorilla"]
     }},
     {
     "bruce-dontdoshots": {
+      "date": "2017-11-08",
       "tags": ["bruce", "i dont", "do", "shots"]
     }},
     {
     "bruce-dontfight": {
+      "date": "2018-05-28",
       "tags": ["bruce", "i dont", "fuck with anybody", "fight"]
     }},
     {
     "bruce-dontgethot": {
+      "date": "2017-10-08",
       "tags": ["bruce", "dont get hot"]
     }},
     {
     "bruce-dontgiveafuck": {
+      "date": "2017-09-19",
       "tags": ["bruce", "dont give a fuck"]
     }},
     {
     "bruce-dontgrabtesticles": {
+      "date": "2017-12-06",
       "tags": ["bruce", "you dont grab their testicles", "inside crotch"]
     }},
     {
     "bruce-donthaveaclue": {
+      "date": "2017-08-05",
       "tags": ["bruce", "dont a clue"]
     }},
     {
     "bruce-dontremember": {
+      "date": "2017-08-05",
       "tags": ["bruce", "dont", "remember"]
     }},
     {
     "bruce-dontunderstand": {
+      "date": "2017-09-06",
       "tags": ["bruce", "dont understand", "question", "conrad"]
     }},
     {
     "bruce-doomandgloom": {
+      "date": "2017-09-28",
       "tags": ["bruce", "doom and gloom", "failure"]
     }},
     {
     "bruce-dopebeer": {
+      "date": "2017-10-06",
       "tags": ["bruce", "smoke dope", "drink beer", "a lot"]
     }},
     {
     "bruce-doyou": {
+      "date": "2017-09-24",
       "tags": ["bruce", "do you", "kinda"]
     }},
     {
     "bruce-doyoulikewrestling": {
+      "date": "2017-11-15",
       "tags": ["bruce", "do you", "like wrestling"]
     }},
     {
     "bruce-dozenshotglasses": {
+      "date": "2017-09-25",
       "tags": ["bruce", "dozen shot glasses", "clear liquid"]
     }},
     {
     "bruce-drawmoney": {
+      "date": "2018-07-15",
       "tags": ["bruce", "you wanted to", "draw", "money"]
     }},
     {
     "bruce-drdeath": {
+      "date": "2017-10-03",
       "tags": ["bruce", "steve", "doctor death", "williams"]
     }},
     {
+    "bruce-drizzlingshits": {
+      "date": "2017-08-14",
+      "tags": ["bruce", "drizzling shits", "that day"]
+    }},
+    {
     "bruce-droptoptitty1": {
+      "date": "2018-03-17",
       "tags": ["bruce", "droptop titty", "tippin", "time"]
     }},
     {
     "bruce-droptoptitty2": {
+      "date": "2018-04-24",
       "tags": ["bruce", "droptop titty", "tippin", "time"]
     }},
     {
     "bruce-droptoptitty3": {
+      "date": "2018-04-25",
       "tags": ["bruce", "droptop titty", "tippin", "time"]
     }},
     {
     "bruce-dropyourpants1": {
+      "date": "2017-09-19",
       "tags": ["bruce", "drop your pants", "to your knees"]
     }},
     {
     "bruce-dropyourpants2": {
+      "date": "2017-09-19",
       "tags": ["bruce", "drop your pants", "and pee"]
     }},
     {
-    "bruce-drizzlingshits": {
-      "tags": ["bruce", "drizzling shits", "that day"]
-    }},
-    {
     "bruce-drugreferences": {
+      "date": "2017-11-07",
       "tags": ["bruce", "drug references", "a lot"]
     }},
     {
     "bruce-drugsbooze": {
+      "date": "2017-09-26",
       "tags": ["bruce", "drugs", "booze", "a lot"]
     }},
     {
     "bruce-drugstuff": {
+      "date": "2017-07-27",
       "tags": ["bruce", "drugs"]
     }},
     {
     "bruce-drugtest": {
+      "date": "2017-09-19",
       "tags": ["bruce", "drug test", "never failed"]
     }},
     {
     "bruce-drunkhigh": {
+      "date": "2017-12-13",
       "tags": ["bruce", "drunk", "high", "everything"]
     }},
     {
     "bruce-dumbershit": {
+      "date": "2018-06-20",
       "tags": ["bruce", "well get to", "dumber", "shit"]
     }},
     {
     "bruce-dynamiteass": {
+      "date": "2017-08-09",
       "tags": ["bruce", "dynamite", "ass"]
     }},
     {
     "bruce-easytiger1": {
+      "date": "2017-08-05",
       "tags": ["bruce", "easy tiger"]
     }},
     {
     "bruce-easytiger2": {
+      "date": "2017-08-09",
       "tags": ["bruce", "easy tiger"]
     }},
     {
     "bruce-easytiger3": {
+      "date": "2017-11-08",
       "tags": ["bruce", "easy tiger"]
     }},
     {
     "bruce-easytiger4": {
+      "date": "2017-11-22",
       "tags": ["bruce", "easy tiger"]
     }},
     {
     "bruce-easytiger5": {
+      "date": "2018-01-27",
       "tags": ["bruce", "easy tiger"]
     }},
     {
     "bruce-edge": {
+      "date": "2017-11-10",
       "tags": ["bruce", "edge", "superstar"]
     }},
     {
     "bruce-embarassing": {
+      "date": "2017-09-26",
       "tags": ["bruce", "embarassing", "as fuck all"]
     }},
     {
-    "bruce-ephedrine": {
-      "tags": ["bruce", "handfull of", "ephedrine"]
-    }},
-    {
     "bruce-entertainment": {
+      "date": "2017-07-31",
       "tags": ["bruce", "entertainment purposes"]
     }},
     {
+    "bruce-ephedrine": {
+      "date": "2017-11-02",
+      "tags": ["bruce", "handfull of", "ephedrine"]
+    }},
+    {
     "bruce-ericbischoff": {
+      "date": "2017-11-02",
       "tags": ["bruce", "spend the rest of my life", "eric bischoff"]
     }},
     {
     "bruce-etchedinyourmind": {
+      "date": "2017-10-27",
       "tags": ["bruce", "etched in your mind", "certain things"]
     }},
     {
     "bruce-everynight": {
+      "date": "2017-10-06",
       "tags": ["bruce", "every night", "fucking", "btw"]
     }},
     {
     "bruce-exposeass": {
+      "date": "2017-10-12",
       "tags": ["bruce", "expose", "your ass"]
     }},
     {
     "bruce-eyebrowsup": {
+      "date": "2017-10-11",
       "tags": ["bruce", "eye brows up", "different meaning"]
     }},
     {
     "bruce-factschanged": {
+      "date": "2017-09-10",
       "tags": ["bruce", "i didnt lie", "facts changed"]
     }},
     {
     "bruce-fairshare": {
+      "date": "2017-09-18",
       "tags": ["bruce", "fair share", "drugs", "drinking"]
     }},
     {
     "bruce-false1": {
+      "date": "2017-08-01",
       "tags": ["bruce", "false"]
     }},
     {
     "bruce-false2": {
+      "date": "2017-08-08",
       "tags": ["bruce", "false", "fuck"]
     }},
     {
     "bruce-fancycomputer": {
+      "date": "2017-12-20",
       "tags": ["bruce", "this whole new", "fancy computer", "thing"]
     }},
     {
+    "bruce-fanofgimmicks": {
+      "date": "2018-01-14",
+      "tags": ["bruce", "i guess im", "fan of", "gimmicks"]
+    }},
+    {
     "bruce-farrahfawcett": {
+      "date": "2017-10-11",
       "tags": ["bruce", "farrah fawcett", "stole my look"]
     }},
     {
     "bruce-fartinchurch1": {
+      "date": "2017-11-22",
       "tags": ["bruce", "what you would call", "a fart", "in church"]
     }},
     {
     "bruce-fartinchurch2": {
+      "date": "2017-11-26",
       "tags": ["bruce", "and it was", "a fart", "in church"]
     }},
     {
     "bruce-fartinchurch3": {
+      "date": "2017-12-13",
       "tags": ["bruce", "in my opinion", "a fart", "in church"]
     }},
     {
     "bruce-fartinchurch4": {
+      "date": "2017-12-26",
       "tags": ["bruce", "that folks", "a fart", "in church"]
     }},
     {
     "bruce-fatsamoan": {
+      "date": "2017-08-04",
       "tags": ["bruce", "fat", "samoan"]
     }},
     {
     "bruce-fatwhiteguy": {
+      "date": "2017-08-04",
       "tags": ["bruce", "fat", "white guy"]
     }},
     {
     "bruce-fighttonight": {
+      "date": "2017-07-31",
       "tags": ["bruce", "fight", "tonight"]
     }},
     {
     "bruce-figurativelyliterally": {
+      "date": "2017-12-20",
       "tags": ["bruce", "figuratively", "and", "literally"]
     }},
     {
     "bruce-financialdeal": {
+      "date": "2017-11-14",
       "tags": ["bruce", "just a", "financial deal"]
     }},
     {
     "bruce-finnbalor": {
+      "date": "2017-12-13",
       "tags": ["bruce", "finn balor", "superstar"]
     }},
     {
     "bruce-fired": {
+      "date": "2017-10-11",
       "tags": ["bruce", "fired", "unceremoniously"]
     }},
     {
     "bruce-firstwords": {
+      "date": "2017-09-01",
       "tags": ["bruce", "first words", "motherfucker"]
     }},
     {
     "bruce-fistfucker1": {
+      "date": "2017-08-05",
       "tags": ["bruce", "fist", "fuck"]
     }},
     {
     "bruce-fistfucker2": {
+      "date": "2017-11-06",
       "tags": ["bruce", "fist", "fuck"]
     }},
     {
     "bruce-flewinforit": {
+      "date": "2017-10-08",
       "tags": ["bruce", "i flew", "in for it"]
     }},
     {
     "bruce-flexkavana": {
+      "date": "2017-12-10",
       "tags": ["bruce", "flex kavana"]
     }},
     {
     "bruce-fmdj": {
+      "date": "2017-11-12",
       "tags": ["bruce", "fm", "dj"]
     }},
     {
     "bruce-followthat": {
+      "date": "2017-12-20",
       "tags": ["bruce", "follow", "that", "bitch"]
     }},
     {
     "bruce-forgiveforget": {
+      "date": "2017-12-14",
       "tags": ["bruce", "forgive", "forget", "move on"]
     }},    
     {
     "bruce-freestyling": {
+      "date": "2017-08-14",
       "tags": ["bruce", "freestyling", "here"]
     }},
     {
-    "bruce-fuckkiss": {
-      "tags": ["bruce", "fuck anyone", "who likes", "kiss"]
-    }},
-    {
-    "bruce-fuckjerryjarrett": {
-      "tags": ["bruce", "fuck", "jerry jarrett"]
+    "bruce-fuckbookert": {
+      "date": "2018-07-22",
+      "tags": ["bruce", "we fucked", "booker t", "horribly"]
     }},
     {
     "bruce-fuckedup1": {
+      "date": "2017-09-19",
       "tags": ["bruce", "i was", "fucked up"]
     }},
     {
     "bruce-fuckedup2": {
+      "date": "2018-04-28",
       "tags": ["bruce", "thats just", "fucked up"]
     }},
     {
     "bruce-fuckem": {
+      "date": "2017-08-20",
       "tags": ["bruce", "fuck em"]
     }},
     {
     "bruce-fuckingawful": {
+      "date": "2017-10-15",
       "tags": ["bruce", "it was", "fucking awful"]
     }},
     {
     "bruce-fuckinggenius": {
+      "date": "2017-09-26",
       "tags": ["bruce", "im a", "fucking genius"]
     }},
     {
     "bruce-fuckinggoof": {
+      "date": "2017-08-24",
       "tags": ["bruce", "fuck", "goof", "hate to say"]
     }},
     {
+    "bruce-fuckinghorrible": {
+      "date": "2018-04-11",
+      "tags": ["bruce", "this was", "fucking", "horrible"]
+    }},
+    {
     "bruce-fuckingstipulation": {
+      "date": "2018-07-15",
       "tags": ["bruce", "nobody cares", "fucking", "stipulation"]
     }},
     {
     "bruce-fuckingstupid": {
+      "date": "2017-10-22",
       "tags": ["bruce", "absolutely", "fucking stupid"]
     }},
     {
     "bruce-fuckingwork": {
+      "date": "2017-09-13",
       "tags": ["bruce", "this is a fucking work"]
     }},
     {
     "bruce-fuckingwrestlingmatch": {
+      "date": "2017-10-18",
       "tags": ["bruce", "watching", "fucking wrestling match"]
     }},
     {
     "bruce-fuckit1": {
+      "date": "2017-08-02",
       "tags": ["bruce", "fuck", "yeah"]
     }},
     {
     "bruce-fuckit2": {
+      "date": "2017-10-11",
       "tags": ["bruce", "fuck", "part of me"]
     }},
     {
+    "bruce-fuckjerryjarrett": {
+      "date": "2017-10-29",
+      "tags": ["bruce", "fuck", "jerry jarrett"]
+    }},
+    {
+    "bruce-fuckkiss": {
+      "date": "2017-11-14",
+      "tags": ["bruce", "fuck anyone", "who likes", "kiss"]
+    }},
+    {
+    "bruce-fuckno": {
+      "date": "2018-02-28",
+      "tags": ["bruce", "fuck", "no"]
+    }},
+    {
     "bruce-fuckoffpolitely": {
+      "date": "2017-08-13",
       "tags": ["bruce", "fuck", "politely"]
     }},
     {
     "bruce-fucksomebody": {
+      "date": "2017-11-10",
       "tags": ["bruce", "a lot of other factors", "fuck somebody"]
     }},
     {
     "bruce-fuckup": {
+      "date": "2017-09-25",
       "tags": ["bruce", "i fuck up", "all the time"]
     }},
     {
     "bruce-fuckwad": {
+      "date": "2017-10-16",
       "tags": ["bruce", "fuck", "wad"]
     }},
     {
     "bruce-fuckwitchtit": {
+      "date": "2017-08-19",
       "tags": ["bruce", "fuck", "witch tit"]
     }},
     {
     "bruce-fuckyeah": {
+      "date": "2017-09-17",
       "tags": ["bruce", "fuck yeah"]
     }},
     {
     "bruce-fuckyou1": {
+      "date": "2017-10-08",
       "tags": ["bruce", "i will say this", "fuck you"]
     }},
     {
     "bruce-fuckyou2": {
+      "date": "2017-11-24",
       "tags": ["bruce", "so", "fuck you"]
     }},
     {
     "bruce-fuckyou3": {
+      "date": "2017-12-10",
       "tags": ["bruce", "fuck you"]
     }},
     {
     "bruce-fuckyou4": {
+      "date": "2018-05-28",
       "tags": ["bruce", "fuck you", "yeah well"]
     }},
     {
     "bruce-fuckyouconrad": {
+      "date": "2017-09-10",
       "tags": ["bruce", "fuck you", "conrad"]
     }},
     {
     "bruce-fuckyoufest": {
+      "date": "2017-10-09",
       "tags": ["bruce", "fuck you", "fest"]
     }},
     {
     "bruce-fuckyoufuckyou": {
+      "date": "2017-12-01",
       "tags": ["bruce", "fuck you fuck you", "it wasnt"]
     }},
     {
     "bruce-fuckyourchapstick": {
+      "date": "2018-04-24",
       "tags": ["bruce", "fuck your", "chapstick", "shit"]
     }},
     {
     "bruce-fullofmayonaise": {
+      "date": "2017-11-29",
       "tags": ["bruce", "full of", "mayonaise"]
     }},
     {
     "bruce-funlittletwat": {
+      "date": "2018-06-20",
       "tags": ["bruce", "fun", "little", "twat"]
     }},
     {
     "bruce-fword1": {
+      "date": "2017-12-09",
       "tags": ["bruce", "the f word", "i hate"]
     }},
     {
     "bruce-fword2": {
+      "date": "2017-12-09",
       "tags": ["bruce", "the f word"]
     }},
     {
     "bruce-gargledjack": {
+      "date": "2017-08-14",
       "tags": ["bruce", "gargled", "jack daniels", "alochol"]
     }},
     {
     "bruce-garyhart": {
+      "date": "2017-10-08",
       "tags": ["bruce", "gary hart"]
     }},
     {
     "bruce-gasp": {
+      "date": "2017-08-02",
       "tags": ["bruce", "gasp"]
     }},
     {
     "bruce-gaveashit": {
+      "date": "2018-07-22",
       "tags": ["bruce", "body", "gave", "shit"]
     }},
     {
     "bruce-getoverit": {
+      "date": "2017-09-26",
       "tags": ["bruce", "so", "get over it"]
     }},
     {
     "bruce-getthefout": {
+      "date": "2017-10-11",
       "tags": ["bruce", "get the f", "out"]
     }},
     {
     "bruce-ghb1": {
+      "date": "2017-09-01",
       "tags": ["bruce", "ghb", "drugs"]
     }},
     {
     "bruce-ghb2": {
+      "date": "2018-01-05",
       "tags": ["bruce", "ghb", "i was told", "drugs"]
     }},
     {
     "bruce-giantgonzalezmatch": {
+      "date": "2017-11-29",
       "tags": ["bruce", "favorite", "giant gonzalez", "match"]
     }},
     {
     "bruce-gimmicksongimmicks": {
+      "date": "2018-01-18",
       "tags": ["bruce", "gimmicks", "on", "gimmicks"]
     }},
     {
     "bruce-givemethebelt": {
+      "date": "2017-12-09",
       "tags": ["bruce", "i got an idea", "give me", "the belt"]
     }},
     {
     "bruce-gobbledygooker1": {
+      "date": "2017-08-06",
       "tags": ["bruce", "gobbledy gooker"]
     }},
     {
     "bruce-gobbledygooker2": {
+      "date": "2017-08-06",
       "tags": ["bruce", "gobbledy gooker"]
     }},
     {
     "bruce-gobbledygooker3": {
+      "date": "2017-08-06",
       "tags": ["bruce", "gobbledy gooker"]
+    }},
+    {
+    "bruce-goldberg": {
+      "date": "2018-02-28",
+      "tags": ["bruce", "goldberg", "superstar"]
     }},
     {
     "bruce-goodlooking": {
@@ -4866,10 +5218,6 @@
     {
     "conrad-familyshow": {
       "tags": ["conrad", "family", "show"]
-    }},
-    {
-    "conrad-fanofgimmicks": {
-      "tags": ["conrad", "i guess im", "fan of", "gimmicks"]
     }},
     {
     "conrad-fascinated": {
